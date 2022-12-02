@@ -11,12 +11,15 @@ sections:
       background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
+        - title: Vision
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
+        - title: Mission
           description: Important highlight B is equally important
           url: https://gmail.com
+        - title: Values
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: Vision
       description: A school of excellence that nurtures world-ready Bicultural
