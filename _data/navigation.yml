@@ -1,6 +1,14 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Our Heritage
+    collection: our-heritage
+  - title: Our People
+    collection: our-people
+  - title: Our Partners
+    collection: our-partners
+  - title: Our Experience
+    collection: our-experience
+  - title: Our Curriculum
+    collection: our-curriculum
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+    collection: contact-us
