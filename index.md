@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Title
+title: Nan Hua High School
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/schoollogo.png
 permalink: /
 notification: ""
 sections:
@@ -41,4 +41,5 @@ sections:
       image: /images/valuebanner.jpg
       alt: Image alt text
 ---
+
 
