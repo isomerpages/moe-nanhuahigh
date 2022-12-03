@@ -35,11 +35,10 @@ sections:
       alt: Image alt text
   - infopic:
       title: Values
-      description: 忠 Loyalty 尽心爱国的气节 孝 Filial Piety 侍奉父母的德行 仁 Humanity 推己及人的胸襟 爱 Love
-        发自内心的关怀 礼 Courtesy谦诚恭敬的态度 义Righteousness 公正无私的行为 廉 Integrity 清白光明的操守 耻
-        Sense of Shame 维护尊严的自律
+      description: "忠 Loyalty   孝 Filial Piety   仁 Humanity   爱 Love   礼
+        Courtesy  义Righteousness   廉 Integrity   耻 Sense of Shame "
       image: /images/valuebanner.jpg
       alt: Image alt text
+      url: /our-heritage/vision-mission-values/
+      button: our values
 ---
-
-
