@@ -2,4 +2,5 @@ collections:
   our-heritage:
     output: true
     order:
+      - History.md
       - Centennial Celebrations.md
