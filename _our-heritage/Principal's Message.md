@@ -8,7 +8,7 @@ description: ""
   
 ![KZ1_7145.jpg](/images/KZ1_7145.jpg)
 
-Mrs Tan Jong Lek, Principal
+#### Mrs Tan Jong Lek, Principal
 
   
 
