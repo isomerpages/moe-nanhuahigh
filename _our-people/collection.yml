@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - Executive and Administrative Staff.md
       - Form Teachers.md
