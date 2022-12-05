@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Values Education Portal/Cyber Wellness.md
       - Values Education Portal/Positive Education.md
       - Values Education Portal/Values.md
       - Values Education Portal/Values Education Portal.md
