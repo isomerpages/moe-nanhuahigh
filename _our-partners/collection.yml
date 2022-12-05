@@ -2,4 +2,5 @@ collections:
   our-partners:
     output: true
     order:
+      - Values Education Portal/Values Education Portal.md
       - Values Education Portal/.keep
