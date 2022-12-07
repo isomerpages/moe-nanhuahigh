@@ -145,20 +145,4 @@ To reach out to more graduated Nanhuarians, the Alumni Association have set up a
 
 为了联系更多毕业后的南华人，并招募更多毕业生加入校友会，除了继续通过社交平台联系校友之外， 校友会更设立了Telegram 平台，加强和毕业生的联系。寄望来年，我们能有更多的机会与母校合作，让更多校友能够在聚谊阁聚首。  
 
-  
-
-  
-
-*   [Our Heritage](https://nanhuahigh.moe.edu.sg/our-heritage)
-*   [Our People](https://nanhuahigh.moe.edu.sg/our-people)
-*   [Our Partners](https://nanhuahigh.moe.edu.sg/our-partners)
-
-*   [School Advisory Committee](https://nanhuahigh.moe.edu.sg/our-partners/school-advisory-committee)
-*   [Parent Support Group](https://nanhuahigh.moe.edu.sg/our-partners/parent-support-group)
-*   [Alumni](https://nanhuahigh.moe.edu.sg/our-partners/alumni)
-*   [Schoolbag](https://nanhuahigh.moe.edu.sg/our-partners/schoolbag)
-*   [Values Education Portal](https://nanhuahigh.moe.edu.sg/our-partners/values-education-portal)
-
-*   [Our Experience](https://nanhuahigh.moe.edu.sg/our-experience)
-*   [Our Curriculum](https://nanhuahigh.moe.edu.sg/our-curriculum)
-*   [Contact Us](https://nanhuahigh.moe.edu.sg/contact-us)
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rFp5NxXsS8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
