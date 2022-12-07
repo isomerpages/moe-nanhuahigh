@@ -2,4 +2,5 @@ collections:
   our-experience:
     output: true
     order:
+      - Centre of Excellence Chinese Language and Culture.md
       - Sustainable Environment Education.md
