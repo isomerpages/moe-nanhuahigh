@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Schoolbag.md
       - Values Education Portal/.keep
       - Values Education Portal/Values Education Portal.md
       - Values Education Portal/Values.md
