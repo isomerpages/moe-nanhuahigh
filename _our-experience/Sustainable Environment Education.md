@@ -7,7 +7,7 @@ description: ""
   
 During Eco-Serve Week, students were engaged in Eco-Craft upcycling booths and Eco-Race during their recess and lunch breaks. The Parent Support Group also gave out Grow Your Own Green kits, and our own hydroponics was harvested for staff. Go Green Day also encouraged all to take public transport or walk to school.  
 
-<table style="margin-top: auto; margin-right: 0px !important; margin-bottom: auto; margin-left: auto; outline: 0px; padding: 0px; box-sizing: border-box; border-collapse: collapse; clear: both; border: none; width: 700px; height: auto !important; color: rgb(0, 0, 0); font-family: Raleway, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" class="ive_eobj_center iveo_table ives_tab_simple"><tbody style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><tr style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><td style="margin: 0px; outline: 0px; padding: 4px; box-sizing: border-box; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; box-sizing: border-box; float: left; max-width: 100%; height: 320px; width: 320px;" class="ive_eobj_left" alt="PSG helping out on Happy Green Fingers Day.JPG" width="100%" src="https://nanhuahigh.moe.edu.sg/qql/slot/u528/Experience/Sustainable%20Environment%20Education/PSG%20helping%20out%20on%20Happy%20Green%20Fingers%20Day.JPG"><br style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"></td><td style="margin: 0px; outline: 0px; padding: 4px; box-sizing: border-box; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; box-sizing: border-box; float: left; max-width: 100%; height: auto !important;" class="ive_eobj_left" alt="Growing our own hydroponics.jpg" width="100%" src="/images/hydroponics.jpg"><br style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><td style="margin: 0px; outline: 0px; padding: 4px; box-sizing: border-box; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;">PSG helping out on Happy Green Fingers Day</td><td style="margin: 0px; outline: 0px; padding: 4px; box-sizing: border-box; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;">Growing our own hydroponics&nbsp;</td></tr></tbody></table>
+<table style="margin-top: auto; margin-right: 0px !important; margin-bottom: auto; margin-left: auto; outline: 0px; padding: 0px; box-sizing: border-box; border-collapse: collapse; clear: both; border: none; width: 700px; height: auto !important; color: rgb(0, 0, 0); font-family: Raleway, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" class="ive_eobj_center iveo_table ives_tab_simple"><tbody style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><tr style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><td style="margin: 0px; outline: 0px; padding: 4px; box-sizing: border-box; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; box-sizing: border-box; float: left; max-width: 100%; height: 320px; width: 320px;" class="ive_eobj_left" alt="PSG helping out on Happy Green Fingers Day.JPG" width="100%" src="/images/happygreenfingersday.jpg"><br style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"></td><td style="margin: 0px; outline: 0px; padding: 4px; box-sizing: border-box; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; box-sizing: border-box; float: left; max-width: 100%; height: auto !important;" class="ive_eobj_left" alt="Growing our own hydroponics.jpg" width="100%" src="/images/hydroponics.jpg"><br style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><td style="margin: 0px; outline: 0px; padding: 4px; box-sizing: border-box; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;">PSG helping out on Happy Green Fingers Day</td><td style="margin: 0px; outline: 0px; padding: 4px; box-sizing: border-box; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;">Growing our own hydroponics&nbsp;</td></tr></tbody></table>
 
   
 Secondary 1 students planted vegetables at home and distributed them to needy elderly. Wildlife Buddies is an elective module for Secondary 3 students in collaboration with the Singapore Zoo. Students learnt about biodiversity, effects of climate change on wildlife conservation and game design to raise awareness on conservation.  
@@ -30,7 +30,7 @@ In collaboration with River Safari, students learn about the following in the mo
 
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;engaging peers and initiation of school environmental campaigns to showcase biodiversity and raise public awareness on conservation
 
-![A trip to River Safari.jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Experience/Events%202020/Sustainable%20Environment%20Education/2021/A%20trip%20to%20River%20Safari.jpg)
+![A trip to River Safari.jpg](/images/riversafari.jpg)
 
 <p style="text-align: center"><strong>A trip to River Safari</strong></p>
 
@@ -38,11 +38,11 @@ In collaboration with River Safari, students learn about the following in the mo
 
 Kingston Ho, 307
 
-Tree Planting 2020
+**Tree Planting 2020**
 
 Every year, the school leaders would plant a tree in the school, in collaboration with NParks, to support the initiative of planting more trees in the country to reduce carbon footprint.
 
-![Our School Leaders planting a tree in the school.JPG]( )
+![Our School Leaders planting a tree in the school.JPG](/images/plantatree.jpg)
 
 <p style="text-align: center"><strong>Our School Leaders Planting a Tree in School</strong></p>
 
@@ -64,7 +64,7 @@ To support Zero Waste Challenge, our Secondary One students collected used paper
 
   
 
-![Upcycling materials to make Eco Lanterns.JPG](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Experience/Events%202020/Sustainable%20Environment%20Education/2021/Upcycling%20materials%20to%20make%20Eco%20Lanterns.JPG)
+![Upcycling materials to make Eco Lanterns.JPG](/images/ecolanterns.jpg)
 
 <p style="text-align: center"><strong>Upcycling materials to make Eco Lanterns</strong></p>
 
@@ -72,7 +72,7 @@ Sustainable Living
 
 Vegetables were planted, grown and harvested by students and teachers for all to enjoy, reducing carbon-footprint and enhancing sustainable living efforts.&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;
 
-![Exploring and discovering during CnME.JPG](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Experience/Events%202020/Sustainable%20Environment%20Education/2021/Exploring%20and%20discovering%20during%20CnME.JPG)
+![Exploring and discovering during CnME.JPG](/images/CnME.jpg)
 
 Exploring and discovering during CnME
 
@@ -80,6 +80,6 @@ Exploring and discovering during CnME
 
 In addition, the school was awarded the International Green Flag Award in January this year for its contributions to environment conservation. It is a two-year award which would be valid from 2020 to 2021. It was presented by the Worldwide Fund for Nature (WWF) to our school principal in recognition of the school’s effort in environment conservation.
 
-![Nan Hua is a proud recipient of the International Green Flag Award.JPG](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Experience/Events%202020/Sustainable%20Environment%20Education/2021/Nan%20Hua%20is%20a%20proud%20recipient%20of%20the%20International%20Green%20Flag%20Award.JPG)
+![Nan Hua is a proud recipient of the International Green Flag Award.JPG](/images/internationalgreenflagaward.jpg)
 
 <p style="text-align: center"><strong>Nan Hua is a proud recipient of the International Green Flag Award</strong></p>
