@@ -92,11 +92,11 @@ With enthusiastic supports from our various stakeholders and partners, the Centr
 
 分组合作教学结合了科技，让课堂更灵活有效。
 
-![2　分组合作学习　班级再大也有效.JPG](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Niche/Centre%20of%20Excellence/2017/2%E3%80%80%E5%88%86%E7%BB%84%E5%90%88%E4%BD%9C%E5%AD%A6%E4%B9%A0%E3%80%80%E7%8F%AD%E7%BA%A7%E5%86%8D%E5%A4%A7%E4%B9%9F%E6%9C%89%E6%95%88.JPG)  
+![2　分组合作学习　班级再大也有效.JPG](/images/coechinese5)  
 
  分组合作学习，班级再大也有效。
 
-![4　观课后议课，专业经验的交流与互习.JPG](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Niche/Centre%20of%20Excellence/2017/4%E3%80%80%E8%A7%82%E8%AF%BE%E5%90%8E%E8%AE%AE%E8%AF%BE%EF%BC%8C%E4%B8%93%E4%B8%9A%E7%BB%8F%E9%AA%8C%E7%9A%84%E4%BA%A4%E6%B5%81%E4%B8%8E%E4%BA%92%E4%B9%A0.JPG)  
+![4　观课后议课，专业经验的交流与互习.JPG](/images/coechinese6.jpg)  
 
 观课后议课，专业经验的交流与互习。
 
@@ -108,11 +108,13 @@ With enthusiastic supports from our various stakeholders and partners, the Centr
 
 参与此次分享会的老师们无不为台湾老师的工作热忱及坚持不懈的精神所感动，更为本地教师积极实践、大胆创新的勇气所佩服。在交流中合作，在合作中学习，在学习中不断提升，众人拾柴火焰高，积极的交流会大大促进华文教育的进步！
 
-![1 曹美惠主任细心讲解分享.JPG](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Niche/Centre%20of%20Excellence/2017/1%20%E6%9B%B9%E7%BE%8E%E6%83%A0%E4%B8%BB%E4%BB%BB%E7%BB%86%E5%BF%83%E8%AE%B2%E8%A7%A3%E5%88%86%E4%BA%AB.JPG)曹美惠主任细心讲解分享。
+![1 曹美惠主任细心讲解分享.JPG](/images/coechinese7)曹美惠主任细心讲解分享。
 
   
 
-![2 赖静慧老师与参与者互动频繁.JPG](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Niche/Centre%20of%20Excellence/2017/2%20%E8%B5%96%E9%9D%99%E6%85%A7%E8%80%81%E5%B8%88%E4%B8%8E%E5%8F%82%E4%B8%8E%E8%80%85%E4%BA%92%E5%8A%A8%E9%A2%91%E7%B9%81.JPG)赖静慧老师与参与者互动频繁 。 
+![2 赖静慧老师与参与者互动频繁.JPG](/images/coechinese8.jpg)
+
+赖静慧老师与参与者互动频繁 。 
 
   
 
@@ -123,7 +125,7 @@ With enthusiastic supports from our various stakeholders and partners, the Centr
     南华中学引领的西区华文与中华文化卓越中心今年3月至7月间，和来自西区中小学的28位华文老师以共习会的方式学习了两本口碑卓著的好书：《混合式学习-用颠覆式创新推动教育革命》、《扶放有度 实施优质教学》。共习会老师们将学习成果带回课堂实践，并将实践成果和共习伙伴分享，大家都获益不浅。
 
   
-![.JPG](https://nanhuahigh-moe-edu-sg-admin.cwp.sg/qql/slot/u528/Our%20Curriculum%202021/Mother%20Tongue/%E5%85%B1%E4%B9%A0%E4%BC%9A/[1].JPG)  
+![.JPG](/images/coechinese9.jpg)  
 
     南华中学王珊珊老师分享成语教学
 
@@ -131,7 +133,7 @@ With enthusiastic supports from our various stakeholders and partners, the Centr
 
   
 
-![   .PNG](https://nanhuahigh-moe-edu-sg-admin.cwp.sg/qql/slot/u528/Our%20Curriculum%202021/Mother%20Tongue/%E5%85%B1%E4%B9%A0%E4%BC%9A/%20%20%20.PNG)  
+![   .PNG](/images/coechinese10.png)  
 
     名师学堂 王政忠老师在演讲
 
