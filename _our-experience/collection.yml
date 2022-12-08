@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - Programmes/CnME Programme.md
       - Programmes/sKy Leaders Programme.md
       - Programmes/Programmes.md
       - Programmes/.keep
