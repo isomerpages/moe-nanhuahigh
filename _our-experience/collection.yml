@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - World – Nan Hua.md
       - Performing Arts.md
       - SAP Flagship.md
       - Centre of Excellence Chinese Language and Culture.md
