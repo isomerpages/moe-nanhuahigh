@@ -2,5 +2,6 @@ collections:
   our-experience:
     output: true
     order:
+      - SAP Flagship.md
       - Centre of Excellence Chinese Language and Culture.md
       - Sustainable Environment Education.md
