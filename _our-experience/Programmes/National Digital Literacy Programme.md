@@ -4,3 +4,109 @@ permalink: /our-experience/programmes/national-digital-literacy-programme/
 description: ""
 third_nav_title: Programmes
 ---
+### Introduction
+
+In March 2020, MOE launched the National Digital Literacy Programme (“NDLP”) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (“PDLP”) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (“PLD”) by end-2021. This webpage provides important information about how you can purchase the PLD for your child/ward as well as about the accompanying applications that the school may be rolling out as part of the NDLP.
+
+### Personal Learning Device
+
+
+The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (“SLS”) – as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world. The school has made arrangements for you to purchase the PLD from AsiaPac Distribution Pte. Ltd. (Vendor) for your child’s/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:
+
+<table style="margin-top: auto; margin-right: 0px !important; margin-bottom: auto; margin-left: auto; outline: 0px; padding: 0px; box-sizing: border-box; border-collapse: collapse; clear: both; border: 0px !important; table-layout: fixed; width: 700px; height: auto !important;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><tr style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; box-sizing: border-box; vertical-align: top; width: 60px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 16px; box-sizing: border-box;"><li style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><span style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;" id="docs-internal-guid-520cb1e1-7fff-7bf1-f088-5ec890d72147">10.2-inch iPad (2021) 64Gb Wifi – Space Grey, with 3-year warranty and 3-year insurance</span></li><li style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><span style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Apple Pencil (1st Gen), with 3-year warranty</span></li><li style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><span style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Logitech Rugged Combo 3 – protective keyboard case, with 3-year warranty</span></li></ul></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; box-sizing: border-box; vertical-align: top; width: 60px;"><img style="margin: 0px 0px 0px 10px; outline: 0px; padding: 0px; box-sizing: border-box; float: right; max-width: 100%; height: 207px; width: 311px;" class="ive_eobj_right" alt="2E2A4042_web.jpg" width="100%" src="/images/2E2A4042web.jpg"></td></tr></tbody></table>
+
+Students who wish to use their existing iPads must ensure that it meets the compatibility list found here:
+
+[NH\_Compatible\_iPad\_List\_25\_Jan\_22.pdf](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Experience/Programmes/NDLP/2022/NH_Compatible_iPad_List_25_Jan_22.pdf)
+
+## Important Contacts/Helplines
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-aaqb{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-8s0f{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-r9z4{background-color:#F2F9FF;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">To access/find out more about...</span></th>
+    <th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">Contact/Helpline</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Edusave Balance</span></td>
+    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">6260 0777 (24 hr automated hotline)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Financial assistance available for PLD</span></td>
+    <td class="tg-2w19">Mdm May Yeo, Admin Manager<br>Mdm Mary Lau, Corporate Support Officer<br>67788303</td>
+  </tr>
+  <tr>
+    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF"> Asiapac Technical Helpdesk</span></td>
+    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">6270 8281</span><br><a href="mailto:pdlpapple@asiapac.com.sg">pdlpapple@asiapac.com.sg</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF"> Asiapac Website</span><br><span style="color:#222;background-color:#F2F9FF">(For buying of accessories)</span></td>
+    <td class="tg-r9z4"><a href="https://www.asiapac.com.sg/pld/apple">https://www.asiapac.com.sg/pld/apple</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF"> DMA (Mobile Guardian) Enquiries</span></td>
+    <td class="tg-r9z4"><a href="mailto:dma@nhhs.edu.sg">dma@nhhs.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Other Enquiries </span></td>
+    <td class="tg-r9z4"><a href="mailto:nhhs@moe.edu.sg">nhhs@moe.edu.sg</a></td>
+  </tr>
+</tbody>
+</table>
+
+### Additional Resources for Parents
+
+ 
+<table style="margin-top: auto; margin-right: 0px !important; margin-bottom: auto; margin-left: auto; outline: 0px; padding: 0px; box-sizing: border-box; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 1088.5px; height: auto !important;" class="iveo_table ives_tab_simple3 ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><tr style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: center; border: 1px solid rgb(170, 170, 170); width: 499px;"><b style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;">Resource</b></td><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: center; border: 1px solid rgb(170, 170, 170); width: 589px;"><b style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;">Link</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: center; border: 1px solid rgb(170, 170, 170);">PDLP Briefing Slides<br style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;">(26 Jan 22)</td><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: center; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px 4px 0px 18px; box-sizing: border-box; cursor: pointer; background-repeat: no-repeat; background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;);" href="https://nanhuahigh.moe.edu.sg/qql/slot/u528/Experience/Programmes/NDLP/2022/Parents_PDLP_Briefing_2022_Parent_Copy.pdf" class="refobj">Parents_PDLP_Briefing_2022_Parent_Copy.pdf</a><br style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: center; border: 1px solid rgb(170, 170, 170);">&nbsp;DMA Infographic&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: center; border: 1px solid rgb(170, 170, 170);">&nbsp;<a style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box; cursor: pointer;" target="_blank" href="https://nanhuahigh-moe-edu-sg-admin.cwp.sg/qql/slot/u528/Experience/Programmes/NDLP/DMA%20Infographic.png">DMA Infographic.png</a>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box; line-height: initial; text-align: left;">Parent Handbooks (I) and (II) on Learning with a Personal Learning Device</div></td><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: center; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px 4px 0px 18px; box-sizing: border-box; cursor: pointer; background-repeat: no-repeat; background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;);" href="https://nanhuahigh.moe.edu.sg/qql/slot/u528/Experience/Programmes/NDLP/2022/Parent_Handbook_I_on_Learning_with_a_PLD_8_Dec_21.pdf" class="refobj">Parent_Handbook_I_on_Learning_with_a_PLD_8_Dec_21.pdf</a><br style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><br style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><a style="margin: 0px; outline: 0px; padding: 0px 4px 0px 18px; box-sizing: border-box; cursor: pointer; background-repeat: no-repeat; background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;);" href="https://nanhuahigh.moe.edu.sg/qql/slot/u528/Experience/Programmes/NDLP/2022/Parent_Handbook_II_on_Learning_with_a_PLD_8_Dec_21.pdf" class="refobj">Parent_Handbook_II_on_Learning_with_a_PLD_8_Dec_21.pdf</a><br style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: left; border: 1px solid rgb(170, 170, 170);">NH Student Device Information Kit&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: center; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px 4px 0px 18px; box-sizing: border-box; cursor: pointer; background-repeat: no-repeat; background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;);" href="https://nanhuahigh.moe.edu.sg/qql/slot/u528/Experience/Programmes/NDLP/NH%20Student%20Device%20Information%20Kit.pdf" class="refobj">NH Student Device Information Kit.pdf</a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: left; border: 1px solid rgb(170, 170, 170);">Parent Kit on Cyber Wellness for Your Child</td><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: center; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box; cursor: pointer;" target="" href="https://go.gov.sg/moe-cyber-wellness">https://go.gov.sg/moe-cyber-wellness</a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: left; border: 1px solid rgb(170, 170, 170);">MOE Cyber Wellness Programme</td><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: center; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box; cursor: pointer;" target="" href="https://www.moe.gov.sg/programmes/cyber-wellness/">https://www.moe.gov.sg/programmes/cyber-wellness/</a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: left; border: 1px solid rgb(170, 170, 170);">Media Literacy Council</td><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: center; border: 1px solid rgb(170, 170, 170);"><a style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box; cursor: pointer;" target="" href="https://go.gov.sg/better-internet-sg">https://go.gov.sg/better-internet-sg</a><span style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;" id="docs-internal-guid-f081c76d-7fff-a0fd-e3ba-8f250dc9c177"><a style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box; cursor: pointer; text-decoration-line: none;" href="https://go.gov.sg/better-internet-sg"><span style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box; font-size: 20pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;"></span></a></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><div style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box; line-height: initial; text-align: left;">National Library’s Learning &amp;</div><div style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box; line-height: initial; text-align: left;">Information Literacy Resources</div></td><td style="margin: 0px; outline: 0px; padding: 2px; box-sizing: border-box; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><a style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box; cursor: pointer;" target="" href="https://sure.nlb.gov.sg/"><span style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;" id="docs-internal-guid-101ff758-7fff-c871-99dc-4ed388956f77"><span style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box; font-size: 20pt; font-family: Calibri, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"></span></span>https://sure.nlb.gov.sg/</a><br style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"></td></tr></tbody></table>
+
+  
+
+*   [Our Heritage](https://nanhuahigh.moe.edu.sg/our-heritage)
+*   [Our People](https://nanhuahigh.moe.edu.sg/our-people)
+*   [Our Partners](https://nanhuahigh.moe.edu.sg/our-partners)
+*   [Our Experience](https://nanhuahigh.moe.edu.sg/our-experience)
+
+*   [Events](https://nanhuahigh.moe.edu.sg/our-experience/events)
+*   [Programmes](https://nanhuahigh.moe.edu.sg/our-experience/programmes)
+
+*   [sKy Leaders Programme](https://nanhuahigh.moe.edu.sg/our-experience/programmes/sky-leaders-programme)
+*   [CnME Programme](https://nanhuahigh.moe.edu.sg/our-experience/programmes/cnme-programme)
+*   [Student Leadership](https://nanhuahigh.moe.edu.sg/our-experience/programmes/student-leadership)
+*   [Values In Action (VIA) Programme](https://nanhuahigh.moe.edu.sg/our-experience/programmes/values-in-action-via-programme)
+*   [Sexuality Education](https://nanhuahigh.moe.edu.sg/our-experience/programmes/sexuality-education)
+*   [Direct School Admission (DSA) 2022](https://nanhuahigh.moe.edu.sg/our-experience/programmes/direct-school-admission-dsa-2022)
+*   [Education and Career Guidance](https://nanhuahigh.moe.edu.sg/our-experience/programmes/education-and-career-guidance)
+*   [National Digital Literacy Programme (NDLP)](https://nanhuahigh.moe.edu.sg/our-experience/programmes/national-digital-literacy-programme-ndlp)
+
+*   [World. Nan Hua.](https://nanhuahigh.moe.edu.sg/our-experience/world-nan-hua)
+*   [Performing Arts](https://nanhuahigh.moe.edu.sg/our-experience/performing-arts)
+*   [SAP Flagship](https://nanhuahigh.moe.edu.sg/our-experience/sap-flagship)
+*   [Centre of Excellence/Chinese Language and Culture](https://nanhuahigh.moe.edu.sg/our-experience/centre-of-excellence-chinese-language-and-culture)
+*   [Sustainable Environment Education](https://nanhuahigh.moe.edu.sg/our-experience/sustainable-environment-education)
+
+*   [Our Curriculum](https://nanhuahigh.moe.edu.sg/our-curriculum)
+*   [Contact Us](https://nanhuahigh.moe.edu.sg/contact-us)
+
+![](https://nanhuahigh.moe.edu.sg/pix/spacer.gif)
+
+Contact Us
+
+[41 Clementi Avenue 1, Singapore 129956](https://www.google.com/maps/place/Nan+Hua+High+School/@1.3083739,103.7667359,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1af4ac85961d:0x2584ef1c02f4f3dc!8m2!3d1.3083739!4d103.7689246)
+
+[+(65) 6778 8303](tel:+65 67788303 "Telephone")[+(65) 6775 1956](fax:+65 67751956 "Fax")[nhhs@moe.edu.sg](mailto:nhhs@moe.edu.sg "Email")
+
+QUICK LINKS
