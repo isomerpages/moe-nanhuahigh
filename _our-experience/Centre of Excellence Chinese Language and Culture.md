@@ -21,10 +21,9 @@ With enthusiastic supports from our various stakeholders and partners, the Centr
 
 自 2016 年尾至今，我们举办了以下的重点项目：
 
-**西区华文与中华文化卓越中心  
-**
+**西区华文与中华文化卓越中心**
 
-![MA P S教师工作坊 .jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/People/Departments/Mother%20Tongue/2018/MA%20P%20S%E6%95%99%E5%B8%88%E5%B7%A5%E4%BD%9C%E5%9D%8A%20.jpg)
+![MA P S教师工作坊 .jpg](/images/coechinese19.jpg)
 
 **MA P S教师工作坊**
 
@@ -34,15 +33,15 @@ With enthusiastic supports from our various stakeholders and partners, the Centr
 
    老师们都表示，经过共备学习之后，更有信心提高课堂教学效率，提升学生的华文水平。
 
-![MA P S教师工作坊 - 3 .jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/People/Departments/Mother%20Tongue/2018/MA%20P%20S%E6%95%99%E5%B8%88%E5%B7%A5%E4%BD%9C%E5%9D%8A%20-%203%20.jpg) ![MA P S教师工作坊 - 2 .jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/People/Departments/Mother%20Tongue/2018/MA%20P%20S%E6%95%99%E5%B8%88%E5%B7%A5%E4%BD%9C%E5%9D%8A%20-%202%20.jpg)
+![MA P S教师工作坊 - 3 .jpg](/images/coechinese18.jpg) ![MA P S教师工作坊 - 2 .jpg](/images/coechinese17.jpg)
 
-![“ 教学中的提问和对话 ”工作 坊.jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/People/Departments/Mother%20Tongue/2018/%E2%80%9C%20%E6%95%99%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%8F%90%E9%97%AE%E5%92%8C%E5%AF%B9%E8%AF%9D%20%E2%80%9D%E5%B7%A5%E4%BD%9C%20%E5%9D%8A.jpg) 
+![“ 教学中的提问和对话 ”工作 坊.jpg](/images/coechinese16.jpg) 
 
   **“ 教学中的提问和对话 ”工作 坊**  
 
    为了协助华文老师更好地掌握有效提问的技巧，西区中学华文与中华文化卓越中心于2018年1月5日邀请台湾“萨提尔对话练习”专家李崇建先生开办“教学中的提问和对话“工作坊。当天，李崇建先生通过深入浅出的讲解以及具体的操作，让老师们认识如何在倾听、探索与核对中让师生彼此理解和关爱，自然消弭彼此的冲突。这对于老师们提高课堂教学质量，建立良好的师生关系和健康的班级管理大有帮助。
 
-![“ 教学中的提问和对话 ”工作 坊 - 2.jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/People/Departments/Mother%20Tongue/2018/%E2%80%9C%20%E6%95%99%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%8F%90%E9%97%AE%E5%92%8C%E5%AF%B9%E8%AF%9D%20%E2%80%9D%E5%B7%A5%E4%BD%9C%20%E5%9D%8A%20-%202.jpg) ![“ 教学中的提问和对话 ”工作 坊 - 3.jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/People/Departments/Mother%20Tongue/2018/%E2%80%9C%20%E6%95%99%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%8F%90%E9%97%AE%E5%92%8C%E5%AF%B9%E8%AF%9D%20%E2%80%9D%E5%B7%A5%E4%BD%9C%20%E5%9D%8A%20-%203.jpg)
+![“ 教学中的提问和对话 ”工作 坊 - 2.jpg](/images/coechinese15) ![“ 教学中的提问和对话 ”工作 坊 - 3.jpg](/images/coechinese14.jpg)
 
 **2016** **年西区华文教师台湾教学之旅**  
 
@@ -54,19 +53,19 @@ With enthusiastic supports from our various stakeholders and partners, the Centr
 
   
 
-![2 坪林国中的分组合作教学法值得借鉴。.jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Niche/Centre%20of%20Excellence/2017/2%20%E5%9D%AA%E6%9E%97%E5%9B%BD%E4%B8%AD%E7%9A%84%E5%88%86%E7%BB%84%E5%90%88%E4%BD%9C%E6%95%99%E5%AD%A6%E6%B3%95%E5%80%BC%E5%BE%97%E5%80%9F%E9%89%B4%E3%80%82.jpg)  
+![2 坪林国中的分组合作教学法值得借鉴。.jpg](/images/coechinese13.jpg)  
 
   
 
 曹美惠老师的分组合作教学法值得借鉴。  
 
-![1 丹凤高中的阅读教学法让老师们惊喜连连。.jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Niche/Centre%20of%20Excellence/2017/1%20%E4%B8%B9%E5%87%A4%E9%AB%98%E4%B8%AD%E7%9A%84%E9%98%85%E8%AF%BB%E6%95%99%E5%AD%A6%E6%B3%95%E8%AE%A9%E8%80%81%E5%B8%88%E4%BB%AC%E6%83%8A%E5%96%9C%E8%BF%9E%E8%BF%9E%E3%80%82.jpg)  
+![1 丹凤高中的阅读教学法让老师们惊喜连连。.jpg](/images/coechinese12.jpg)  
 
 丹凤高中的阅读教学法让老师们惊喜连连  
 
   
 
-![3 爽文中学的校园中　留下了美丽的身影。.jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Niche/Centre%20of%20Excellence/2017/3%20%E7%88%BD%E6%96%87%E4%B8%AD%E5%AD%A6%E7%9A%84%E6%A0%A1%E5%9B%AD%E4%B8%AD%E3%80%80%E7%95%99%E4%B8%8B%E4%BA%86%E7%BE%8E%E4%B8%BD%E7%9A%84%E8%BA%AB%E5%BD%B1%E3%80%82.jpg)  
+![3 爽文中学的校园中　留下了美丽的身影。.jpg](/images/coechinese11.jpg)  
 
 爽文中学的校园中　留下了美丽的身影。  
 
@@ -78,17 +77,17 @@ With enthusiastic supports from our various stakeholders and partners, the Centr
 
 此次研习坊让老师们获益良多，不仅进一步了解MAPS教学法，更通过与同行的深入探讨，互相分享了分组协作教学的好点子。我们希望老师们能将本次研习坊学习所得，在教学实践中深入开展， 展现出各自的风采 。
 
-![我们共备研习成果.JPG](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Niche/Centre%20of%20Excellence/2017/%E6%88%91%E4%BB%AC%E5%85%B1%E5%A4%87%E7%A0%94%E4%B9%A0%E6%88%90%E6%9E%9C.JPG)我们共备研习成果。
+![我们共备研习成果.JPG](/images/coechinese1)我们共备研习成果。
 
-![2 跨校共同备课互相学习.JPG](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Niche/Centre%20of%20Excellence/2017/2%20%E8%B7%A8%E6%A0%A1%E5%85%B1%E5%90%8C%E5%A4%87%E8%AF%BE%E4%BA%92%E7%9B%B8%E5%AD%A6%E4%B9%A0.JPG)跨校共同备课互相学习。
+![2 跨校共同备课互相学习.JPG](/images/coechinese2)跨校共同备课互相学习。
 
-![1 参加研习课的老师和王政忠老师合影。.JPG](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Niche/Centre%20of%20Excellence/2017/1%20%E5%8F%82%E5%8A%A0%E7%A0%94%E4%B9%A0%E8%AF%BE%E7%9A%84%E8%80%81%E5%B8%88%E5%92%8C%E7%8E%8B%E6%94%BF%E5%BF%A0%E8%80%81%E5%B8%88%E5%90%88%E5%BD%B1%E3%80%82.JPG)参加研习课的老师和王政忠老师合影。
+![1 参加研习课的老师和王政忠老师合影。.JPG](/images/coechinese3)参加研习课的老师和王政忠老师合影。
 
 **西区中学华文老师公开课**
 
  今年四月，本卓越中心联合武吉班让中学、南华中学、尤索夫伊萨中学、华义中学以及裕廊景中学，主办了六场公开课，展示各校老师在经营协作教学和差异教学方面的策略与步骤。台湾王政忠主任、教育部课程发展与规划司专员也列席给予专业的指导。 公开课的筹备团队在专家的指导和观课教师的提点下得到成长。而观课的教师也从中获得更多的启发，进而与其他同事分享并转移到自己的课堂上，使教学更为精进。这是一次群策群力、教学相长的学习历程。 分组合作教学结合了科技，让课堂更灵活有效。  
 
-![1　分组合作教学结合了科技，让课堂更灵活有效。.JPG](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Niche/Centre%20of%20Excellence/2017/1%E3%80%80%E5%88%86%E7%BB%84%E5%90%88%E4%BD%9C%E6%95%99%E5%AD%A6%E7%BB%93%E5%90%88%E4%BA%86%E7%A7%91%E6%8A%80%EF%BC%8C%E8%AE%A9%E8%AF%BE%E5%A0%82%E6%9B%B4%E7%81%B5%E6%B4%BB%E6%9C%89%E6%95%88%E3%80%82.JPG)  
+![1　分组合作教学结合了科技，让课堂更灵活有效。.JPG](/images/coechinese4)  
 
 分组合作教学结合了科技，让课堂更灵活有效。
 
