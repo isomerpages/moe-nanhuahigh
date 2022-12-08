@@ -4,8 +4,6 @@ permalink: /our-experience/programmes/dsa-2020/
 description: ""
 third_nav_title: Programmes
 ---
-
-
 **Introduction**
 ----------------
 
@@ -100,14 +98,4 @@ Please refer to the MOE Website DSA page for further details on the application 
 
 for 2022. Webpage link: [https://beta.moe.gov.sg/dsa/](https://beta.moe.gov.sg/dsa/)
 
-Parents and students are encouraged to choose schools wisely based on the student’s
-
-aptitudes and strengths, bearing in mind the schools’ academic and non-academic
-
-requirements, and the programmes available to develop the area of talent.
-
-Students who are successfully admitted to the school via DSA are expected to honour
-
-their commitment to the school, and participate in the activities related to the talent they
-
-are selected for from year 1-4.
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
