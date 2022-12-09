@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Physical Education.md
       - Character and Citizenship Education.md
       - Co Curricular Activities.md
