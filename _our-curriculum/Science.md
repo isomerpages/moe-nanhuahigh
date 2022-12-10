@@ -119,10 +119,10 @@ Eng Yi Xuan Jazelle, 201 
 ●      **2020 International Competitive Assessments for Schools (ICAS) – Science )**
 
 1 Distinction and 5 High Distinctions (best performance in a decade)
+<br>
+<img src="/images/zhurongchen.jpg" align="left" style="width:50%;">
+<img src="/images/duhanshuo .jpg" align="right" style="width:50%;">
 
-|   
-![Zhu Rongchen Physics Olympiad Silver.jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Our%20Curriculum%202021/Science/Zhu%20Rongchen%20Physics%20Olympiad%20Silver.jpg) |   
-![Du Hanshuo Physics Olympiad Silver.jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Our%20Curriculum%202021/Science/Du%20Hanshuo%20Physics%20Olympiad%20Silver.jpg) |
-| --- | --- |
-| Zhu Rongchen Physics Olympiad (Silver)  
- | Du Hanshuo Physics Olympiad (Silver)  |
+
+1. Zhu Rongchen Physics Olympiad (Silver)
+2. Du Hanshuo Physics Olympiad (Silver) 
