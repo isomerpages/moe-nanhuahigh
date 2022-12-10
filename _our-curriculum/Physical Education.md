@@ -27,7 +27,7 @@ An Excycling Journey
 
 ![Workstation workout led by PE department through Zoom.JPG](/images/Workstation%20workout%20led%20by%20PE%20department%20through%20Zoom.jpg)
 
-Workstation workout led by PE department through Zoom
+<p style="text-align: center"><strong>Workstation workout led by PE department through Zoom</strong></p>
 
   
 
@@ -60,5 +60,5 @@ Workstation workout led by PE department through Zoom
   
 ![The winning department of NHDiscovers.png](/images/The%20winning%20department%20of%20NHDiscovers.png)  
   
+<p style="text-align: center"><strong>The winning department of #NHDiscovers!</strong></p>
 
-The winning department of #NHDiscovers!
