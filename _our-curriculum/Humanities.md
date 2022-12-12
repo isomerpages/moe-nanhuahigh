@@ -43,7 +43,7 @@ The annual H.S.I Challenge, organised by the National Library, gives lower secon
 
 **CnME Modules**
 
-![Presentation of our ideas.JPG](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Our%20Curriculum%202021/Humanities/Presentation%20of%20our%20ideas.JPG)
+![Presentation of our ideas.JPG](/images/Presentation%20of%20our%20ideas.jpg)
 
 Presentation of our ideas
 
@@ -67,7 +67,7 @@ Liu Yutong, 304
 
 Joanne Teo Ying Xi 306
 
-![Putting David_s fate to a vote - Decisions decisions.jpg/images/Putting%20David_s%20fate%20to%20a%20vote.jpg)
+![Putting David_s fate to a vote - Decisions decisions.jpg](/images/Putting%20David_s%20fate%20to%20a%20vote.jpg)
 
 Putting David's fate to a vote - Decisions, decisions
 
