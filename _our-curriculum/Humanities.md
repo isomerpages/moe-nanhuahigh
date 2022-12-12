@@ -3,7 +3,6 @@ title: Humanities
 permalink: /our-curriculum/humanities/
 description: ""
 ---
-  
 ![Did you get it right_.jpg](/images/Did%20you%20get%20it%20right_.jpg)                                                               Checking our answers
 
 **EL-Humanities Week**  
@@ -28,7 +27,7 @@ Secondary One students were tasked to find out the effects of human activities o
 
 **Historical Investigation**
 
-![Historical Investigation.jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Our%20Curriculum%202021/Humanities/Historical%20Investigation.jpg)
+![Historical Investigation.jpg](/images/Historical%20Investigation.jpg)
 
 Historical Investigation
 
@@ -36,7 +35,7 @@ Secondary One and Two students are tasked to research on a selected inquiry ques
 
  **H.S.I Challenge**
 
-![HSI 2020.jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Our%20Curriculum%202021/Humanities/HSI%202020.jpg)
+![HSI 2020.jpg](/images/HSI%202020.jpg)
 
 HSI 2020
 
@@ -68,54 +67,22 @@ Liu Yutong, 304
 
 Joanne Teo Ying Xi 306
 
-![Putting David_s fate to a vote - Decisions decisions.jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Our%20Curriculum%202021/Humanities/Putting%20David_s%20fate%20to%20a%20vote%20-%20Decisions%20decisions.jpg)
+![Putting David_s fate to a vote - Decisions decisions.jpg/images/Putting%20David_s%20fate%20to%20a%20vote.jpg)
 
 Putting David's fate to a vote - Decisions, decisions
 
 **New Town Secondary - Nan Hua High School Social Studies Issues Investigation Collaboration 2021**  
   
     The inaugural NTSS-NHHS issues investigation collaboration provided Nan Hua students with the opportunity to experience social mixing while maintaining safe management measures enforced during the COVID-19 pandemic. It allowed students to work with others of different backgrounds and encouraged them to step out of their comfort zone, to learn the importance of communication and teamwork.  
-![Presenting our findings over Zoom.jpg](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Our%20Curriculum%202021/Humanities/Presenting%20our%20findings%20over%20Zoom.jpg)  
+![Presenting our findings over Zoom.jpg](/images/Presenting%20our%20findings%20over%20Zoom.jpg)  
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-    Presenting our findings over Zoom
+											 Presenting our findings over Zoom
 
   
 
     With their New Town Secondary School counterparts, they embarked on a journey to investigate contemporary social issues Singapore faces today. Together, they gathered data and analysed their results, and reflected on the implications of their findings. This experience culminated in a final presentation over Zoom where students presented their findings and proposed recommendations to their peers and teachers.  
   
-![Final Presentations by NHHS and NTSS students.png](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Our%20Curriculum%202021/Humanities/Final%20Presentations%20by%20NHHS%20and%20NTSS%20students.png)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+![Final Presentations by NHHS and NTSS students.png](/images/Final%20Presentations%20by%20NHHS%20and%20NTSS%20students.png)  
   
   
                                 Final Presentations by NHHS and NTSS students   
