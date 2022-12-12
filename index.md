@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
+      title: Nan Hua High School
       background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
