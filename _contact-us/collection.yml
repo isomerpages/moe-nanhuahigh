@@ -2,5 +2,6 @@ collections:
   contact-us:
     output: true
     order:
+      - Parents Gateway Mobile App.md
       - Virtual Tour.md
       - School Campus.md
