@@ -92,3 +92,5 @@ Chan Kah Min, Reading Ambassador of 305
 The theme for this year’s highly-anticipated English and Humanities Week was ‘Conserving our Heritage, Feeding our Future’. This theme was specifically chosen for its focus on the difficulties faced by hawkers, which were surfaced by the COVID-19 pandemic. During the programme, students were encouraged to reflect on the past, adapt to changes in the present, and ensure continuity for the future.  
   
 A cross-departmental effort, teachers from both the Humanities Department and the English Language and Literature Department worked together to create a narrative focussing on the trials and tribulations of the protagonists, Max and his mother, as they managed their noodle store in the midst of a volatile pandemic. As part of the programme, students had the opportunity to appreciate multi-modal, real-world texts (such as video recordings of events and interviews) and their role in portraying the lives of people. This helped develop students’ appreciation of the use of the English language in our daily lives.
+
+![](/images/ict001.png)
