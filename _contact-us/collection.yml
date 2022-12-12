@@ -2,6 +2,7 @@ collections:
   contact-us:
     output: true
     order:
+      - Booklist and Uniform 2022.md
       - Parents Gateway Mobile App.md
       - Virtual Tour.md
       - School Campus.md
