@@ -3,7 +3,6 @@ title: Mathematics
 permalink: /our-curriculum/mathematics/
 description: ""
 ---
-  
 ![Even classmates on Leave of Absence can join in the discussion.jpg](/images/Even%20classmates%20on%20Leave%20of%20Absence%20can%20join%20in%20the%20discussion.jpg)
 
 Even classmates on Leave of Absence can join in the discussion!
@@ -38,12 +37,19 @@ Circle properties can be learnt in a fun way through online game show
 
     To inspire students to explore principles of Mathematics and Science embedded in real-life, and be discerning about information presented, the theme "Quare", which means "Why?" in Latin, was chosen this year.
 
-  math1
+<img src="/images/math1.png" 
+         style="width:500px"
+	/>
+<br>
+
   
 
     During the Assembly programme, students explored misconceptions and paradoxes. Some intriguing misconceptions and paradoxes include bullets that can curve (a misconception especially prevalent in Hollywood films), and the Birthday Paradox. The programme culminated in an online Escape Room activity, where students collaborated with their peers to solve challenging Mathematics and Science questions.  
 
-  math2
+<img src="/images/math2.png" 
+         style="width:500px"
+	/>
+<br>
   
 
   
