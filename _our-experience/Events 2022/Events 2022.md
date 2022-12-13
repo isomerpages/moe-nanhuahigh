@@ -7,21 +7,15 @@ third_nav_title: Events 2022
 ## 2022
 
 
-<a href="/our-experience/events-2022/camp-achiever/"><img src="/images/CampAchieverBanner.jpg">
+<a href="/our-experience/events-2022/camp-achiever/"><img src="/images/CampAchieverBanner22.jpg">
 <br>
-<a href="/our-experience/events-2022/chinese-new-year/"><img src="/images/CNYWebsiteBanner.jpg">
+<a href="/our-experience/events-2022/chinese-new-year/"><img src="/images/2022CNYBanner.jpg">
 <br>
-<a href="/our-experience/events-2022/speech-day/"><img src="/images/SpeechDayWebsiteBanner.jpg">
+<a href="/our-experience/events-2022/ipad-unboxing-day/"><img src="/images/iPadWebsiteBanner.jpg">
 <br>
-<a href="/our-experience/events-2022/bicultural-week/"><img src="/images/BiculturalWebsiteBanner.jpg">
+<a href="/our-experience/events-2022/speech-day/"><img src="/images/SPEECHDAY.png">
 <br>
-<a href="/our-experience/events-2022/racial-harmony/"><img src="/images/RacialHarmonyWebsiteBanner1.jpg">
+<a href="/our-experience/events-2022/national-day/"><img src="/images/NationalDay22.png">
 <br>
-<a href="/our-experience/events-2022/national-day/"><img src="/images/NationalDayBanner.jpg">
-<br>
-<a href="/our-experience/events-2022/teachers-day/"><img src="/images/TeachersDayBanner.jpg">
-<br>
-<a href="/our-experience/events-2022/mid-autumn/"><img src="/images/MidAutumnBanner.jpg">
-<br>
-<a href="/our-experience/events-2022/annual-arts-appreciation/"><img src="/images/AAABanner.jpg">
+<a href="/our-experience/events-2022/mid-autumn/"><img src="/images/MAFbanner03.jpg">
 <br>
