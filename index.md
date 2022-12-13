@@ -11,9 +11,9 @@ sections:
       background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
-        - title: Vision
-          description: Important highlight A is important
-          url: https://google.com
+        - title: quick links
+          description: For Parents
+          url: /
         - title: Mission
           description: Important highlight B is equally important
           url: https://gmail.com
