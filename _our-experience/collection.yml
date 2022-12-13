@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Events 2022/.keep
+      - Events 2021/Events 2021.md
       - Events 2021/.keep
       - Programmes/.keep
       - Programmes/Programmes.md
