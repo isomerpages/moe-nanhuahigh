@@ -38,7 +38,6 @@ Download order form here
 
 [Click here to download order form](/files/NHHS%20uniform%20list%202021-2022.pdf)  
 
-### 
 
 ### _**NOTE:**_
 
