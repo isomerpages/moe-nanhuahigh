@@ -17,9 +17,6 @@ sections:
         - title: Mission
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Values
-          description: Key Highlight description
-          url: ""
   - infopic:
       title: Vision
       description: A school of excellence that nurtures world-ready Bicultural
