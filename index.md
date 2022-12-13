@@ -27,7 +27,7 @@ sections:
   - infopic:
       title: Mission
       description: To nurture confident, creative, and cultured students with a
-        passion for learning.  培育有信心、 有创意、  有文化素养又对学习充满热忱的学生。
+        passion for learning.<br>  培育有信心、 有创意、  有文化素养又对学习充满热忱的学生。
       image: /images/homegridimg2.jpg
       alt: Image alt text
   - infopic:
