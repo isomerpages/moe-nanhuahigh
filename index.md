@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: quick links
           description: For Parents
-          url: /
+          url: /quick-links
         - title: Mission
           description: Important highlight B is equally important
           url: https://gmail.com
