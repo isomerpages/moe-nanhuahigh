@@ -12,7 +12,7 @@ On 22 April 2022, Nan Hua High School celebrated our 105th Speech and Prize-Givi
  <p style="text-align: center"><strong>Mr William Leong, Guest of Honour(Right) and Mrs Tan, Principal(Left) presenting the Student of the Year Award</strong></p> 
 
 
-  
+ ![](/images/speechdayperformances.png)
 Highlights of the event include an impressive parade by the Uniformed Groups accompanied by the Symphonic Band, and creative and dynamic dance performances by the Sports CCA groups and Dance Society. The wonderful musical display by our Harp Ensemble also enthralled the audience. On that day, there was also a ceremony to open the refurbished Alumni Room located next to the school canteen. This room has been and will continue to be the focal point for Alumni activities.  
   
 
