@@ -16,7 +16,7 @@ sections:
           url: /quick-links
         - title: announcements
           description: Secondary 1 (AY2023)
-          url: https://gmail.com
+          url: /announcements
   - infopic:
       title: Vision
       description: A school of excellence that nurtures world-ready Bicultural
