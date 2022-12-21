@@ -14,8 +14,8 @@ sections:
         - title: quick links
           description: For Parents
           url: /quick-links
-        - title: Mission
-          description: Important highlight B is equally important
+        - title: announcements
+          description: Secondary 1 (AY2023)
           url: https://gmail.com
   - infopic:
       title: Vision
