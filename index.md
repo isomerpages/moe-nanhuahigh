@@ -9,7 +9,6 @@ sections:
   - hero:
       title: Nan Hua High School
       background: /images/hero-banner.png
-      url: /contact-us/
       key_highlights:
         - title: quick links
           description: For Parents
