@@ -2,14 +2,14 @@ collections:
   our-experience:
     output: true
     order:
+      - Events 2022/.keep
+      - Events 2022/Events 2022.md
       - Events 2022/Mid–Autumn Festival.md
       - Events 2022/National Day.md
       - Events 2022/Speech Day.md
       - Events 2022/iPad Unboxing Day.md
       - Events 2022/Chinese New Year.md
       - Events 2022/Camp Achiever.md
-      - Events 2022/Events 2022.md
-      - Events 2022/.keep
       - Events 2021/.keep
       - Events 2021/Events 2021.md
       - Events 2021/Camp Achiever.md
