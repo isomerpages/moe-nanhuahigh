@@ -4,7 +4,6 @@ permalink: /our-experience/events-2022/speech-day/
 description: ""
 third_nav_title: Events 2022
 ---
-
 On 22 April 2022, Nan Hua High School celebrated our 105th Speech and Prize-Giving Day with the theme “Confident Learners, Compassionate Leaders”. The Guest of Honour for the event was our SAC Chairperson, Mr William Leong.  
   
 ![278961926_5401269969884643_639611705632061625_n.jpg](/images/2789619265401269969884643639611705632061625n.jpg)  
@@ -12,7 +11,7 @@ On 22 April 2022, Nan Hua High School celebrated our 105th Speech and Prize-Givi
   
  <p style="text-align: center"><strong>Mr William Leong, Guest of Honour(Right) and Mrs Tan, Principal(Left) presenting the Student of the Year Award</strong></p> 
 
-  
+
   
 Highlights of the event include an impressive parade by the Uniformed Groups accompanied by the Symphonic Band, and creative and dynamic dance performances by the Sports CCA groups and Dance Society. The wonderful musical display by our Harp Ensemble also enthralled the audience. On that day, there was also a ceremony to open the refurbished Alumni Room located next to the school canteen. This room has been and will continue to be the focal point for Alumni activities.  
   
