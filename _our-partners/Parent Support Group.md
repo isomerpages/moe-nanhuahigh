@@ -24,7 +24,7 @@ Parent Support Group (PSG), an integral part of the school, actively organises w
 
 In spite of the COVID-19 situation, PSG continues to engage parents through social media and organise workshops through online platforms such as Zoom. They also taught dialects to the members of the Service Learning Club through the use of video recording.
 
-![PSG_2017_Edited.jpg](images/PSG_2017_Edited.jpg)
+![PSG_2017_Edited.jpg](/images/PSG_2017_Edited.jpg)
 <p style="text-align: center"><strong>PSG Chinese New Year Greeting</strong></p>
 
 
