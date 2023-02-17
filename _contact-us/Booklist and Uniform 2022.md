@@ -7,15 +7,14 @@ description: ""
 
   
 
-*   [NHHS Sec 1 Booklist 2022](https://nanhuahigh.moe.edu.sg/qql/slot/u1054/NHHS%202022%20S1%20EXP%203.pdf)  
-    
-*   [NHHS Sec 2 Booklist 2022](/files/NHHS%202022%20S2EXP.pdf)  
-    
-*   [NHHS Sec 3 Booklist 2022](/files/NHHS%202022%20S3EXP.pdf)  
-    
-*   [NHHS Sec 4 Booklist 2022](/files/NHHS%202022%20S4EXP.pdf)  
-    
 
+*   [NHHS Sec 1 Booklist for Year 2023.pdf](/files/NHHS%20Sec%201%20Booklist%20for%20Year%202023.pdf)  
+    
+*   [NHHS Sec 2 Booklist for Year 2023.pdf](/files/NHHS%20Sec%202%20Booklist%20for%20Year%202023.pdf)  
+    
+*   [NHHS Sec 3 Booklist for Year 2023.pdf](/files/NHHS%20Sec%203%20Booklist%20for%20Year%202023.pdf)  
+    
+*   [NHHS Sec 4 Booklist for Year 2023.pdf](/files/NHHS%20Sec%204%20Booklist%20for%20Year%202023.pdf)
   
 
   
@@ -34,7 +33,7 @@ Closed on Sunday and Public Holidays
 
   
 
-Download order form here  
+Download order form here  **(NOTE: the form is outdated below)**
 
 [Click here to download order form](/files/NHHS%20uniform%20list%202021-2022.pdf)  
 
