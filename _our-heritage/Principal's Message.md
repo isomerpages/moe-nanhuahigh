@@ -3,30 +3,21 @@ title: Principal's Message
 permalink: /our-heritage/principals-message/
 description: ""
 ---
-**Principal’s Foreword**
+![Mr Chiew Jing Wen, Principal](/images/Mr%20Chiew%20Jing%20Wen.jpg)**Mr Chiew Jing Wen, Principal**
 
-  
-![KZ1_7145.jpg](/images/KZ1_7145.jpg)
+A very warm greeting to all students and parents in our Nan Hua Family. Having recently joined the Nan Hua school leadership team as Principal-Designate in October 2022, I have been very encouraged by the warmth and energy of all our students and staff who have welcomed me, and experienced first-hand Nanhuarians’ passion for excellence in learning. I am confident that our new Sec 1 students will also find in Nan Hua High School a nest where you can learn and grow.  
 
-#### Mrs Tan Jong Lek, Principal
+As an institution of bicultural learning, Nan Hua High School strives to nurture confident, creative, and cultured Nanhuarians with a passion for learning. Under the visionary leadership of retiring Principal Mrs Tan Jong Lek, Nan Hua has grown from strength to strength over the past 13 years to provide a conducive environment that has nurtured generations of Nanhuarians who strive for excellence in life while remaining anchored in our unique sense of bicultural identity. On behalf of all our staff and generations of Nanhuarians, I thank Mrs Tan for her able stewardship of Nan Hua over the years and wish her the very best in her future endeavours in retirement.
 
-  
+Nan Hua High School stands proud and tall today, in large part because of our deeply-committed and fiercely-dedicated staff. Through their labour of love, our Nanhuarians carry a youthful exuberance, confidence, and spark which set them apart and place them in good stead to make the most of opportunities that come their way. At the same time, Nanhuarians live out our school culture of **_R_**_en_ (仁), **E**xcellence, **L**earning, and **C**ollegiality in their interactions with peers and teachers, with whom they learn and grow. As the Nan Hua Experience attests, “一日南华人，一世南华情” – the camaraderie and affection that our Nanhuarians demonstrate for the school, even after they step out of our 礼义之门 in graduation, is a powerful testament to the impact of Nan Hua in their lives.
 
-2021 was marked with encouraging successes and herculean challenges for us at Nan Hua High School. As a Nan Hua family, we stood rooted in unison and believed in our processes. We are thus confident that we will be able to provide our students a safe and conducive environment for them to become confident, creative and cultured individuals with a great passion for learning, ready to conquer their ever-changing future.
+As an educator, the holistic development of students’ character, confidence, and capacity to care and contribute is very close to my heart. Amidst the winds of change that are upon our society and the global landscape, we need to prepare our children differently, for a future markedly different from what our schooling experiences prepared us for. It will therefore be important to deepen the strong foundations for bicultural learning that Nan Hua has laid over the years and enrich the Nan Hua Experience while seeking healthy equilibrium in holistic development, so that generations of future Nanhuarians will also benefit in their learning. This will help Nanhuarians learn to sense-make with purpose, pursue growth _and_ innovation, and strive for excellence with a healthy sense of balance and buoyancy while remaining well-grounded in our timeless Nan Hua values (忠，孝，仁，爱，礼，义，廉，耻) as their moral compass.
 
-The staff and students of Nan Hua High School persevered, transformed and established innovative solutions to overcome any tribulations that the COVID-19 pandemic ushered our way. This is testament of the unfaltering Nan Hua spirit in these times of difficulties, crisis and need. Consistently learning, the school is better equipped to handle the recent surge in COVID-19 cases and effectively continue to strive for excellence. 
+Our hope is for all Nanhuarians to build deep friendships, discover their passions and strengths, and harness these strengths for good – to uplift those around us in our Nan Hua Family and serve our community. In this regard, we appreciate our close partnership with the School Advisory Committee (SAC), the Parents Support Group (PSG), the Nan Hua Alumni, and our community partners, who have supported meaningful opportunities for our students’ development over the years. “根植传统，放眼世界，回馈社会” – 这是我们南华人的理念。At the end of their four years in Nan Hua High School, we look forward to seeing each and every Nanhuarian emerge with confidence as world-ready Bicultural Scholars who not only embrace tradition, but also lead with courage and humility to serve as champions of society. 
 
-As Nan Hua geared up ahead to stay relevant, all staff and students were initiated into the digital classroom where learning remained effective and engaging regardless of where it took place, physically in school or remotely from home. To better prepare our staff and students for digital learning and create a positive cyber culture, we embarked on a vivid year of in-house sharing sessions and workshops on e-pedagogies and new technology. Today, we are all confident of harnessing the power of digital technology in the classroom. Moving forward, Nan Hua will continue to prioritise cyber wellness programmes to nurture in our students, not just skills but values, which would serve them well in navigating digital spaces responsibly.
+Mr Chiew Jing Wen
 
-The unfaltering spirit of the Nan Hua family continues to shine as we step forward into a different world.  The 2021 GCE ‘O’ Level Examination brought out the tenacity and diligence of our students as they proved their ability to soar to achieve their success and embrace the new world. Complementing our outstanding academic excellence, the Uniformed Groups and Sports CCAs displayed remarkable resolve and innovation in the way CCAs were carried out this year, maintaining requirements of practice sessions yet keeping their members close and taken care of.  Meanwhile, all our Performing Arts CCA groups also performed their best on new terrains in the various SYF competitions.  Embracing this new normal, Nan Hua High school embarked on our first ever online Cultural Potpourri Concert where imaginations were stretched and boundaries were blurred to bring performances into homes.
-
-As Nan Hua imbue in our students the notion of learning as a lifelong endeavour, we continue to keep an open mind to the path that lay ahead of us. The challenges faced by youths of today and the future are different from those decades ago, especially with social media, pressure to perform and a change in wants and needs wielding a bigger influence. Mental health, therefore, took centrestage as the school moulds Nanhuarians as leaders of tomorrow. Key processes such as student well-being check-in surveys, daily monitoring of students' well-being and consistent guidance and support continue to play a major role as the school enhanced the Character and Citizenship Education curriculum to prioritise mental health education.
-
-We are indeed very privileged to work with numerous partners who support us continually, namely our School Advisory Committee, Parents Support Group and Alumni.  We look forward to growing the Nan Hua Community and we anticipate a fruitful and healthy 2022.
-
-Mrs Tan Jong Lek
-
-_Principal_
+Principal
 
 
 ![](https://nanhuahigh.moe.edu.sg/pix/spacer.gif)
