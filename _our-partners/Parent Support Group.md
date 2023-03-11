@@ -3,7 +3,7 @@ title: Parent Support Group
 permalink: /our-partners/parent-support-group/
 description: ""
 ---
-	/>![Parent Support Group Executive Committee 2022](/images/PSG_PSG%20Exco%202022.jpg)
+[Parent Support Group Executive Committee 2022](/images/PSG_PSG%20Exco%202022.jpg)
 <br>
 
 Parent Support Group (PSG), an integral part of the school, actively organises workshops to equip our members with parenting skills and family bonding sessions to strengthen family ties. We build connections with members and serve the school actively at various platforms.
