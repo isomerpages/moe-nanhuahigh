@@ -12,10 +12,13 @@ The Parent Support Group (PSG) continues its steadfast support for the school in
 
 ![Secondary 1 Welcome Tea](/images/PSG_All%20ready%20for%20Sec%201%20Welcome%20Tea.jpg)
 <strong>Secondary One Welcome Tea</strong>
+
 ![](/images/PSG_Teaching%20students%20how%20to%20wrap%20dumplings.jpg)
 <strong>Teaching our students how to wrap rice dumplings</strong>
+
 ![](/images/PSG_Reading%20ambassadors%20during%20Library%20Week.jpg)
 <strong>Serving as reading ambassadors at Library Week</strong>
+
 ![](/images/PSG_Ready%20for%20Action%20for%20Mid-Autumn%20Festival.jpg)
 <strong>Ready for action for Mid-Autumn Celebration</strong>
 
