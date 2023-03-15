@@ -14,7 +14,7 @@ sections:
           description: For Parents
           url: /quick-links
         - title: announcements
-          description: Secondary 1 (AY2023)
+          description: ""
           url: /announcements
   - infopic:
       title: Vision
