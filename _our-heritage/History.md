@@ -44,6 +44,7 @@ Throughout the years, NHHS’s Performing Arts Groups have been recognised for t
 Nan Hua High School's current campus at 41 Clementi Ave 1.
 
 2017 marked a significant milestone in the school’s long history of 100 years. The school brought together the many groups of people who had contributed to the school in different ways. “Centennial Excellence, Pioneering Tomorrow-丰泽百年, 再创辉煌” was a memorable celebration of its history and the preservation of tradition as well as a vision of a school with the confidence to inspire beyond its centennial. At the Centennial Dinner on 15 Jul 2017, the storyboard on the conservation of the Adis Road campus was unveiled by Mr Tharman Shanmugaratnam, Deputy Prime Minister and Coordinating Minister for Economic and Social Policies.
+
 ![Storyboard on the conservation of the Adis Road campus ](/images/NHHS-162_scaleddown.jpg)
 Storyboard on the conservation of the Adis Road campus was unveiled by Mr Tharman Shanmugaratnam
 
