@@ -25,5 +25,4 @@ Parents play a key role in their children’s growth. Students benefit the most 
 
 [Parent Kit - Supporting your child during full home-based learning](https://www.moe.gov.sg/-/media/files/parent-kit/Parent-Kit_Supporting-your-child-during-Full-HBL.pdf)
 
-[Parents, we need to look up from our phones. Here's why and how - Article](https://www.washingtonpost.com/news/parenting/wp/2018/01/22/parents-look-up-from-your-phone/)  
-
+[Parents, we need to look up from our phones. Here's why and how - Article](https://www.washingtonpost.com/news/parenting/wp/2018/01/22/parents-look-up-from-your-phone/)
