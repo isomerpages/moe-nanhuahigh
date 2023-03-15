@@ -8,7 +8,7 @@ third_nav_title: Programmes
 
 1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
-2. The **Goals** of Sexuality Education are to:
+2. The **Goals** of Sexuality Education are to:
 
 (a)           To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
 
@@ -16,7 +16,7 @@ third_nav_title: Programmes
 
 (c)           To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.  
 
-3.  The **Key Messages** of Sexuality Education are:
+3. The **Key Messages** of Sexuality Education are:
 
 (a)           Love and respect yourself as you love and respect others;
 
@@ -60,9 +60,8 @@ b.    Character and Citizenship Education (CCE)
 
 | **Topics/Lessons** | **Programme Learning Objectives** | **Time Period (e.g. Term 3 Week 9)** |
 | -------- | -------- | -------- |
-| Mass Talk by HPB appointed vendor     | * Awareness of the different STIs and HIV/AIDS <br> * Modes of transmission<br>* Modes of protection, specifically on how the condom is used <br>* Consequences and impact of STIs/HIV     | Term 3 Week 8     |
-| Classroom-based Lesson| Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making |Term 3 Week 10
-
+| Mass Talk by HPB appointed vendor    | * Awareness of the different STIs and HIV/AIDS <br> * Modes of transmission<br>* Modes of protection, specifically on how the condom is used <br>* Consequences and impact of STIs/HIV     | Term 3 Week 8     |
+| Classroom-based Lesson     | Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making     | Term 3 Week 10     |
 
 ## Information for Parents
 
