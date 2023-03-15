@@ -26,3 +26,7 @@ Parents play a key role in their children’s growth. Students benefit the most 
 [Parent Kit - Supporting your child during full home-based learning](https://www.moe.gov.sg/-/media/files/parent-kit/Parent-Kit_Supporting-your-child-during-Full-HBL.pdf)
 
 [Parents, we need to look up from our phones. Here's why and how - Article](https://www.washingtonpost.com/news/parenting/wp/2018/01/22/parents-look-up-from-your-phone/)
+
+[ST article: Boosting parents' mental health and cyber wellness skills so they can better help their children](https://www.straitstimes.com/singapore/parenting-education/boosting-parents-mental-health-and-cyber-wellness-skills-so-they-can)
+
+[Media Literacy Council Resources for Parents ](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents)
