@@ -7,7 +7,17 @@ The Physical Education (PE) department continues to cultivate positive habits in
 
  At the end of Term 1 and 2, students had the opportunity to engage in 2 days of level-wide activities, which further facilitated class-based and level-based bonding as they work together towards a common goal. Those were also days that students could destress and enjoy a fun-filled day of activities to celebrate the hard work they have put in throughout the term. Not forgetting the mental and affective domain, students also had sessions to show their gratitude and practice mindfulness as part of their holistic well-being development.
  
+ ![Writing a gratitude note to a peer](/images/Writing%20a%20gratitude%20note%20to%20a%20peer.jpg)
+ 
+ <p style="text-align: center"><strong>Writing a gratitude note to a peer</strong></p>
+ 
  At this event, Secondary 1 students participated in the inter-class recreational Captain's Ball competition, held at NUS High School of Mathematics and Science. The Secondary 2 students pitted their speed against one another in a track event at Clementi Stadium. This was the students' first opportunity since the relaxation of SMM guidelines to be able to interact with students from other classes in a sporting event. The enthusiasm from the students electrified the atmosphere as they fervently cheered their classmates on during the event. Creative signage designed by the students were also on full display at the grandstand, to motivate their classmates.
+ 
+ 
+ 
+  <p style="text-align: center"><strong>Writing a gratitude note to a peer</strong></p>
+	
+	 <p style="text-align: center"><strong>Writing a gratitude note to a peer</strong></p>
  
  "The 2022 Healthy Habits Sports Carnival was definitely the highlight of our Secondary 1 year and was very memorable for all of us! I recall many of my classmates cheering one another on by the sidelines and having lots of fun competing and playing for our class. Although there were disagreements between some of the classes, 108 emerged in 4th place. All in all, I'm sure many of us made fond memories and had a great time!"
  
@@ -24,8 +34,13 @@ The Secondary 4 students had the opportunity to engage in physical activities no
 In addition, the PE department continues to hatch, hone and heighten healthy habits in staff by enhancing staff health, well-being and satisfaction through consistent and manageable healthy lifestyle pursuits. Leveraging on the PACER app, fun challenges such as virtual adventure challenges and step challenges were set up through the app to encourgae staff to stay active and virtually travel the world together. Through these efforts, staff can model the way for their students, and highlight the importance of staying active and healthy.
  
 
+
 ![Workstation workout led by PE department through Zoom.JPG](/images/Workstation%20workout%20led%20by%20PE%20department%20through%20Zoom.jpg)
 
-<p style="text-align: center"><strong>Workstation workout led by PE department through Zoom</strong></p>
 
 
+ 
+
+
+  
+winning department of #NHDiscovers!</strong></p>
