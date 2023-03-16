@@ -55,6 +55,8 @@ Students answered challenging Biology questions from a broad range of topics.
 
 ![STEM Playground Challenge - Making a Geodesic Dome](/images/STEM%20Playground%20Challenge%20-%20Making%20a%20Geodesic%20Dome.png) 
 
-<p style="text-align: center"><strong>STEM Playground Challenge - Making a Geodesic Dome</strong></p> 
+<p style="text-align: center"><strong>STEM Playground Challenge - Making a Geodesic Dome</strong></p>
 
-  
+![Thank you Dr Tan Aik Ling for conducting the STEM Workshop for teachers](/images/Thank%20you%20Dr%20Tan%20Aik%20Ling%20for%20conducting%20the%20STEM%20Workshop%20for%20teachers.jpg)
+
+<p style="text-align: center"><strong>Thank you Dr Tan Aik Ling for conducting the STEM Workshop for teachers</strong></p>
