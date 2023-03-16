@@ -101,12 +101,10 @@ Nan Hua High School Alumni Association
 
 
 ![](/images/Alumni_Preparing%20uniforms%20for%20Secondary%201%20students.jpg)
-
 <p style="text-align: center"><strong>Alumni preparing uniforms for Secondary 1 Registration Day</p>
 
 ![](/images/Alumni_Cloth%20flowers%20making%20workshop%20at%20Kwong%20Wai%20Shiu%20Care%20Centre.jpg)
-	
-	
+		
 <p style="text-align: center"><strong>Cloth flowers making workshop at Kwong Wai Shiu Care Centre</p>
 	
 ![](/images/Alumni_Hiking%20Southern%20Ridges.jpg)
