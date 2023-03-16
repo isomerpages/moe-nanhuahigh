@@ -9,4 +9,4 @@ description: ""
 
 **Click [here](https://go.gov.sg/rbs-nhhs) to access the Resource Booking System (RBS).**
 
-Please note that you need to login with your MIMS credentials. 
+Please note that you need to login with your MIMS credentials.
