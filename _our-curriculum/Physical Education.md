@@ -13,9 +13,13 @@ The Physical Education (PE) department continues to cultivate positive habits in
  
  At this event, Secondary 1 students participated in the inter-class recreational Captain's Ball competition, held at NUS High School of Mathematics and Science. The Secondary 2 students pitted their speed against one another in a track event at Clementi Stadium. This was the students' first opportunity since the relaxation of SMM guidelines to be able to interact with students from other classes in a sporting event. The enthusiasm from the students electrified the atmosphere as they fervently cheered their classmates on during the event. Creative signage designed by the students were also on full display at the grandstand, to motivate their classmates.
  
-
+ ![Sec 1 Inter-class Captain's Ball Competition](/images/Sec%201%20Inter-class%20Captain_s%20Ball%20Competition.jpg)
  
-  <p style="text-align: center"><strong>Writing a gratitude note to a peer</strong></p>
+ <p style="text-align: center"><strong>Sec 1 Inter-class Captain's Ball Competition</strong></p>
+ 
+ ![Sec 2 Relay Race](/images/Sec%202%20Relay%20Race.jpg)
+ 
+  <p style="text-align: center"><strong>Sec 2 Relay Race</strong></p>
 	
 
  
@@ -24,6 +28,8 @@ The Physical Education (PE) department continues to cultivate positive habits in
  Denise Lim Wei Xin, 108
  
  For the Secondary 3 cohort, the PE department came up with a modified version of "Family Feud" meets "Amazing Race", coining it as *Class Clash*. In this game, students harnessed their collaborative effort to excel in tasks creatively. An example was using their resources at hand in the classroom to build the longest structure. Many students exercised their creativity, incorporating unexpected items such as standing fans, brooms and old newspapers as part of their structure!
+ 
+ <p style="text-align: center"><strong>Sec 2 Relay Race</strong></p>
  
 "In *Class Clash*, all of us worked together and were very supportive towards one another as classmates. Everyone did our part and leveraged on one another's strengths. We also trusted one another to give it our best and thus, we were able to achieve a positive result while at the same time building wonderful memories to look back upon." 
 
