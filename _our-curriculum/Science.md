@@ -14,8 +14,7 @@ Our students were offered opportunities to take part in many competitions. Here 
 
 1\. Singapore Junior Physics Olympiad 2022 (Awarded 13 individual and 3 team awards)
 
-Students collaborated on challenging Physics   
-problems.
+Students collaborated on challenging Physics problems.
   
 
 2\. ACJC International Biomedical Quiz 
