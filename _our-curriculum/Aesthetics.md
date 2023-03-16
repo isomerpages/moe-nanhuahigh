@@ -21,9 +21,9 @@ The Lower Secondary Music curriculum utilizes well-founded pedagogical methods t
 
 <p style="text-align: center"><strong>Secondary 1 student expressing thoughts and emotions on a music piece through drawing </strong></p>
 
+![Secondary 1 Lino print](/images/Secondary%201%20Lino%20print.jpg)
 
-
-<p style="text-align: center"><strong>Secondary 1 students playing the ukelele during AAA Music module  </strong></p>
+<p style="text-align: center"><strong>Secondary 1 Lino print</strong></p>
 
 Using the Gradual Release of Responsibility (GRR) and Inquiry-Based Learning approach, our Art programme aims to develop students' creative thinking and craftsmanship through project-based assignments. The Lower Secondary Art programme seeks to expose students to various art forms and empower them with the confidence to express themselves through Visual Art forms. Critical appreciation also forms the bedrock of the programe, as students learn to appreciate artwork. The Higher Art Programme allows students to further develop their artistic skills in both 2D and 3D mediums and provides opportunities for students to develop their artistic voice.
 
