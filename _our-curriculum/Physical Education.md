@@ -11,6 +11,10 @@ At the end of Term 1 and 2, students had the opportunity to engage in 2 days of 
  
  <p style="text-align: center"><strong>Writing a gratitude note to a peer</strong></p>
  
+ ![Fit Fit Friday - Morning stretching in class](/images/Fit%20Fit%20Friday%20-%20Morning%20stretching%20in%20class.jpg)
+ 
+  <p style="text-align: center"><strong>Fit Fit Friday - Morning stretching in class</strong></p>
+ 
 At this event, Secondary 1 students participated in the inter-class recreational Captain's Ball competition, held at NUS High School of Mathematics and Science. The Secondary 2 students pitted their speed against one another in a track event at Clementi Stadium. This was the students' first opportunity since the relaxation of SMM guidelines to be able to interact with students from other classes in a sporting event. The enthusiasm from the students electrified the atmosphere as they fervently cheered their classmates on during the event. Creative signage designed by the students were also on full display at the grandstand, to motivate their classmates.
  
  ![Sec 1 Inter-class Captain's Ball Competition](/images/Sec%201%20Inter-class%20Captain_s%20Ball%20Competition.jpg)
