@@ -39,9 +39,10 @@ Using the Gradual Release of Responsibility (GRR) and Inquiry-Based Learning app
 
 <p style="text-align: center"><strong>Secondary 2 students cutting recycled fabrics to create fabric flowers</strong></p>
 
-<p style="text-align: center"><strong>Secondary 1 students drawing based on verbal descriptions in pair-work activity</strong></p>
+![Secondary 2 students placing fabric flowers on canvas for Artsfest ](/images/Secondary%202%20students%20placing%20fabric%20flowers%20on%20canvas%20for%20Artsfest%20.jpg)
 
-<p style="text-align: center"><strong>Secondary 1 students drawing based on verbal descriptions in pair-work activity</strong></p>
+<p style="text-align: center"><strong>Secondary 2 students placing fabric flowers on canvas for Artsfest </strong></p>
+
 
 The Design & Technology (D&T) unit engages the Secondary 2 students through Design Thinking Process as they learn to manage their own projects aiming at improving real-life situations. Being new to D&T and having little experience with handling the equipment and tools, the students were guided using the Gradual Release of Responsibility (GRR) model. As they progress, students gain experience and develop confidence in tackling problems and designing functional products. With Empathy guiding their hands and hearts, the students strive to create responsibly while making their designs relevant and useful.
 
