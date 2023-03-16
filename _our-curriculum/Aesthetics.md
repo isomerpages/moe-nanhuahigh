@@ -9,6 +9,22 @@ The Aesthetics Department strives to spark curiosity and creativity in students,
 
 The Lower Secondary Music curriculum utilizes well-founded pedagogical methods to motivate students to achieve instrumental mastery and performance competency. Secondary 1 students learn music theory through ICT online platforms and hands-on lessons with musical instruments. An Arrangement module, involving GarageBand on the iPad, allows students to develop their musical abilities through technology. Secondary 2 students deepened their musical knowledge through the learning of music from different cultures and genres.
 
+![Secondary 1 students creating music using GarageBand](/images/Secondary%201%20students%20creating%20music%20using%20GarageBand.jpg)
+
+<p style="text-align: center"><strong>Secondary 1 students creating music using GarageBand</strong></p>
+
+![Secondary 1 students playing the ukelele during AAA Music module  ](/images/Secondary%201%20students%20playing%20the%20ukulele%20during%20AAA%20Music%20module.jpg)
+
+<p style="text-align: center"><strong>Secondary 1 students playing the ukelele during AAA Music module  </strong></p>
+
+![Secondary 1 student expressing thoughts and emotions on a music piece through drawing](/images/Secondary%201%20student%20expressing%20thoughts%20and%20emotions%20on%20a%20music%20piece%20through%20drawing.jpg)
+
+<p style="text-align: center"><strong>Secondary 1 student expressing thoughts and emotions on a music piece through drawing </strong></p>
+
+
+
+<p style="text-align: center"><strong>Secondary 1 students playing the ukelele during AAA Music module  </strong></p>
+
 Using the Gradual Release of Responsibility (GRR) and Inquiry-Based Learning approach, our Art programme aims to develop students' creative thinking and craftsmanship through project-based assignments. The Lower Secondary Art programme seeks to expose students to various art forms and empower them with the confidence to express themselves through Visual Art forms. Critical appreciation also forms the bedrock of the programe, as students learn to appreciate artwork. The Higher Art Programme allows students to further develop their artistic skills in both 2D and 3D mediums and provides opportunities for students to develop their artistic voice.
 
 The Design & Technology (D&T) unit engages the Secondary 2 students through Design Thinking Process as they learn to manage their own projects aiming at improving real-life situations. Being new to D&T and having little experience with handling the equipment and tools, the students were guided using the Gradual Release of Responsibility (GRR) model. As they progress, students gain experience and develop confidence in tackling problems and designing functional products. With Empathy guiding their hands and hearts, the students strive to create responsibly while making their designs relevant and useful.
