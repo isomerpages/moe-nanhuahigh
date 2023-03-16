@@ -25,6 +25,10 @@ The Lower Secondary Music curriculum utilizes well-founded pedagogical methods t
 
 <p style="text-align: center"><strong>Secondary 1 Lino print</strong></p>
 
+![Secondary 1 students drawing based on verbal descriptions in pair-work activity](/images/Secondary%201%20students%20drawing%20based%20on%20verbal%20descriptions%20in%20pair-work%20activity.jpg)
+
+<p style="text-align: center"><strong>Secondary 1 students drawing based on verbal descriptions in pair-work activity</strong></p>
+
 Using the Gradual Release of Responsibility (GRR) and Inquiry-Based Learning approach, our Art programme aims to develop students' creative thinking and craftsmanship through project-based assignments. The Lower Secondary Art programme seeks to expose students to various art forms and empower them with the confidence to express themselves through Visual Art forms. Critical appreciation also forms the bedrock of the programe, as students learn to appreciate artwork. The Higher Art Programme allows students to further develop their artistic skills in both 2D and 3D mediums and provides opportunities for students to develop their artistic voice.
 
 The Design & Technology (D&T) unit engages the Secondary 2 students through Design Thinking Process as they learn to manage their own projects aiming at improving real-life situations. Being new to D&T and having little experience with handling the equipment and tools, the students were guided using the Gradual Release of Responsibility (GRR) model. As they progress, students gain experience and develop confidence in tackling problems and designing functional products. With Empathy guiding their hands and hearts, the students strive to create responsibly while making their designs relevant and useful.
