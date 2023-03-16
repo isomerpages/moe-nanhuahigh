@@ -29,7 +29,9 @@ Our students were offered opportunities to take part in many competitions. Here 
 <p style="text-align: center"><strong>Congratulations to our ACJC International Biomedical Quiz Winners!</strong></p>
 
 3\. C.B Paul Memorial Science Quiz    
-     (2 Gold, 4 Silver, 1 Bronze in Category 2 and 1 Gold, 2 Silver and 1 Bronze in Category 1, Fourth Place in Team Final Round)
+      (2 Gold, 4 Silver, 1 Bronze in Category 2 and 1
+		  Gold, 2 Silver and 1 Bronze in Category 1, 
+		  Fourth Place in Team Final Round)
 
 High-ability students applied their science and mathematical knowledge to explain daily phenomena.
 
@@ -37,67 +39,22 @@ High-ability students applied their science and mathematical knowledge to explai
 
 <p style="text-align: center"><strong>Congratulations to our CB Paul ACJC Science Competition Category 1 medal winners!</strong></p>
 
+  4\. Singapore Junior Biology Olympiad 2022   
+        (3 Silver and 5 Bronze)
+
+Students answered challenging Biology questions from a broad range of topics.
   
 
-The IS assignment gave me the opportunity to create a game that can raise awareness about the ways in which people can protect the environment in the long run. I was challenged to think creatively to design aesthetically pleasing game cards and also to create different scenarios that can make my group’s game more sustainable in the long run so that people will remember what they can do to protect the environment.  
+![Curious Explorers of Knowledge at the STEM Chemistry PLC](/images/Curious%20Explorers%20of%20Knowledge%20at%20the%20STEM%20Chemistry%20PLC.jpg)
+
+<p style="text-align: center"><strong>Curious Explorers of Knowledge at the STEM Chemistry PLC</strong></p>
+
+![Experimenting with making a balloon car at the STEM Playground](/images/Experimenting%20with%20making%20a%20balloon%20car%20at%20the%20STEM%20Playground.jpg)
+
+<p style="text-align: center"><strong>Experimenting with making a balloon car at the STEM Playground</strong></p>
+
+![STEM Playground Challenge - Making a Geodesic Dome](/images/STEM%20Playground%20Challenge%20-%20Making%20a%20Geodesic%20Dome.png) 
+
+<p style="text-align: center"><strong>STEM Playground Challenge - Making a Geodesic Dome</strong></p> 
 
   
-
-I also learnt the importance of teamwork where we respect and listen to each other’s opinion and acknowledge differing viewpoints. With strong teamwork, we came up with an amazing game which managed to combine all our ideas!”
-
-Eng Yi Xuan Jazelle, 201 
-
-![Enviro-poly. A game developed by students for Integrated Science.jpg](/images/enviropoly.jpg)
-<p style="text-align: center"><strong>Enviro-poly. A game developed by students for Integrated Science.</strong></p>
-
-
-
-4\. STEM training with Dr Tan
-
-    Echoing the nation’s call for promoting STEM education in the teaching of Science, and supporting the school in applying innovative pedagogical skills relevant for Science teaching and learning, the Science Department engaged Dr Tan Aik Ling, Deputy Head (Teaching and Curriculum Matters), Natural Sciences and Science Education (NSSE), NIE, to conduct a series of professional development for the Science teachers on integrating STEM education into Science lessons. Through the STEM education training, Science teachers shared how they have benefited from the PD sessions.
-
-![Dr Tan describing evolution of Science through a simple but powerful demonstration.jpg](/images/scienceevolution.jpg)  
-
-<p style="text-align: center"><strong>Dr tan describing evolution of Science through a simple but powerful demonstration</strong></p> 
-
-  
-    “Dr Tan’s sharing has encouraged me to think deeper into the nature of socio-scientific issues and how to conduct classroom discussions to enhance scientific literacy and moral sensitivity in students. I also appreciate how I was able to develop my students’ Habits of Thinking and raise their awareness of how Science is related and applied to the world around them.” 
-
-– Ms Sheena Ng, Chemistry Teacher
-
-  
-    “The sharing enlightened me on how STEM education relates closely to the different roles played by Science that is encapsulated in the Science Curriculum Framework.” 
-
-– Mr Daniel Tan, Physics Teacher
-
-  
-**5\. Stretching student’s abilities via enrichment activities.**  
-
-●      **National Science Challenge 2020 – televised quarter-final rounds in Nov 2020**
-
-●      **International Biomedical Quiz 2020**
-
-3 Silvers, 3 Bronzes
-
-●      **2020 Singapore Junior Biology Olympiad (SJBO)**
-
-15 Certificates of Merit (standardised for all participants due to Covid-19)
-
-●      **2020 Singapore Junior Physics Olympiad (SJPO)**
-
-           2 Silvers and 4 Bronze
-
-●      **2020 Singapore Junior Physics Olympiad (SJPO)**
-
-           2 Silvers and 4 Bronze
-
-●      **2020 International Competitive Assessments for Schools (ICAS) – Science )**
-
-1 Distinction and 5 High Distinctions (best performance in a decade)
-<br>
-<img src="/images/zhurongchen.jpg" align="left" style="width:50%;">
-<img src="/images/duhanshuo .jpg" align="right" style="width:50%;">
-
-
-1. Zhu Rongchen Physics Olympiad (Silver)
-2. Du Hanshuo Physics Olympiad (Silver)
