@@ -18,7 +18,8 @@ Students collaborated on challenging Physics
 problems.
   
 
-2\. ACJC International Biomedical Quiz (Awarded 1 Gold, 4 Silver, 4 Bronze)
+2\. ACJC International Biomedical Quiz 
+(Awarded 1 Gold, 4 Silver, 4 Bronze)
 
 Students went through a series of online workshops on Oncology and applied their learning to real life clinical contexts.
 
@@ -27,9 +28,9 @@ Students went through a series of online workshops on Oncology and applied their
 
 <p style="text-align: center"><strong>Congratulations to our ACJC International Biomedical Quiz Winners!</strong></p>
 
-3\. C.B Paul Memorial Science Quiz (Awarded 2 Gold, 4 Silver, 1 Bronze in Category 2 and 1
-		  Gold, 2 Silver and 1 Bronze in Category 1, 
-		  Fourth Place in Team Final Round)
+3\. C.B Paul Memorial Science Quiz 
+(Awarded 2 Gold, 4 Silver, 1 Bronze in Category 2 and 1 Gold, 2 Silver and 1 Bronze in Category 1, 
+Fourth Place in Team Final Round)
 
 High-ability students applied their science and mathematical knowledge to explain daily phenomena.
 
