@@ -2,31 +2,19 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: "Nan Hua High School "
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - 41 Clementi Avenue 1
+      - Singapore 129956
+      - ""
+    operating_hours: []
+    maps_link: https://www.google.com/maps/place/41+Clementi+Ave+1,+Singapore+129956/@1.30807,103.769189,17z/data=!3m1!4b1!4m6!3m5!1s0x31da1af35460dcb7:0xd8c0990001d581b7!8m2!3d1.30807!4d103.769189!16s%2Fg%2F11c23h9d4j
+    title: Locate Us
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6778 8303
+      - email: nhhs@moe.edu.sg
+      - other: "Fax: (+65) 6775 1956"
+    title: General Enquiries & Feedback
 ---
