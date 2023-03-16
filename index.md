@@ -10,11 +10,11 @@ sections:
       title: Nan Hua High School
       background: /images/IMG_9840a_compressed.jpg
       key_highlights:
-        - title: quick links
-          description: For Parents
-          url: /quick-links
-        - title: announcements
-          description: ""
+        - title: Events
+          description: Click here for upcoming events
+          url: ""
+        - title: Announcements
+          description: Click here for announcements
           url: /announcements
   - infopic:
       title: Vision
