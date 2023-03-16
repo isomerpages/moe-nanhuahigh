@@ -62,16 +62,24 @@ The Secondary 4 students had the opportunity to engage in physical activities no
 	
 <p style="text-align: center"><strong>Kicking high during a taekwondo session</strong></p>
 
-In addition, the PE department continues to hatch, hone and heighten healthy habits in staff by enhancing staff health, well-being and satisfaction through consistent and manageable healthy lifestyle pursuits. Leveraging on the PACER app, fun challenges such as virtual adventure challenges and step challenges were set up through the app to encourgae staff to stay active and virtually travel the world together. Through these efforts, staff can model the way for their students, and highlight the importance of staying active and healthy.
- 
+In addition, the PE department continues to hatch, hone and heighten healthy habits in staff by enhancing staff health, well-being and satisfaction through consistent and manageable healthy lifestyle pursuits. Leveraging on the PACER app, fun challenges such as virtual adventure challenges and step challenges were set up through the app to encourage staff to stay active and virtually travel the world together. Through these efforts, staff can model the way for their students, and highlight the importance of staying active and healthy.
 
+![Teacher and students play together during a Kinball session](/images/Teacher%20and%20students%20play%20together%20during%20a%20Kinball%20session.jpg)
 
-![Workstation workout led by PE department through Zoom.JPG](/images/Workstation%20workout%20led%20by%20PE%20department%20through%20Zoom.jpg)
+  <p style="text-align: center"><strong>Teacher and students play together during a Kinball session</strong></p>
 
+![Qigong for staff](/images/Qigong%20for%20staff.jpg)
 
+  <p style="text-align: center"><strong>Qigong for staff</strong></p>
+	
+![Staff learning a new sport during a SWEAT It Out! session](/images/Staff%20learning%20a%20new%20sport%20during%20a%20SWEAT%20It%20Out!%20session.jpg)
 
- 
+  <p style="text-align: center"><strong>Staff learning a new sport during a SWEAT It Out! session</strong></p>
 
+![Volleyball session during SWEAT It Out!](/images/Volleyball%20session%20during%20SWEAT%20It%20Out!.jpg)
 
-  
+   <p style="text-align: center"><strong>Volleyball session during SWEAT It Out!</strong></p>
+	 
+	 
+	 
 winning department of #NHDiscovers!</strong></p>
