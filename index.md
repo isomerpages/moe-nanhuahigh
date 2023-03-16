@@ -18,7 +18,7 @@ sections:
           url: /announcements
         - title: Quick Links
           description: ""
-          url: ""
+          url: https://nanhuahigh.moe.edu.sg/quick-links/
   - infopic:
       title: Vision
       description: A school of excellence that nurtures world-ready Bicultural
