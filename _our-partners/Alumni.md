@@ -114,6 +114,11 @@ Nan Hua High School Alumni Association
 ![](/images/Alumni_Hiking%20Southern%20Ridges.jpg)
 <p style="text-align: center"><strong>Hiking at Southern Ridges
 	
+![](/images/Alumni_Playing%20games%20between%20generations%20of%20Nanhurians.jpg)
+<p style="text-align: center"><strong>Playing games between generations of Nanhurians
+	
+![](/images/Alumni_Nagomi%20Art%20workshop.jpg)
+<p style="text-align: center"><strong>Nagomi Art workshop
 	
 
 	
@@ -143,32 +148,15 @@ Nan Hua High School Alumni Association
 <br>
 
   
-### Nan Hua High School Alumni Association 2021
-
-This year, the Alumni Association completed the renovation of the activity room. We were also honoured to take part in the school’s&nbsp; Further Education Talk to the Secondary 4 graduating classes where 5 alumni from diverse careers shared their work experiences in their respective industries. Our 2 senior alumni also played a part in the school’s online Mid-Autumn Festival Celebrations this year. They elaborated on the origins of the Mid-Autumn Festival and festive dishes consumed during the celebrations. We also conducted a Mid-Autumn Festival Facebook livestream.&nbsp;
-
-To reach out to more graduated Nanhuarians, the Alumni Association have set up a Telegram ([https://t.me/joinchat/UuhStkpZiGM3YTRl](https://t.me/joinchat/UuhStkpZiGM3YTRl)) chat group this year.
-
-### 2021年校友会的活动简介
 
 
-尽管疫情肆虐，校友会坐落于校内的活动室“聚谊阁”的装修工程依然在年中完成，这将促进校友以及学校之间的交流。
-
-<img style="width:500px" src="/images/9alum3.jpeg">
-<br>
-
-9月13日校友会应学校的邀请，参与了为应届毕业生举行的职业讲座。参与的校友中有来自银行服务业、牙医、会计与财务管理、医药设备销售以及社区服务工作的资深校友。他们的分享，在升学和就业选择等方面为学弟学妹们开拓视野，具有深远的影响。
-
-<img style="width:500px" src="/images/9alum2.jpeg">
-<br>
-
-每一年母校的中秋校园活动，校友会都举办回校活动。 今年虽然不能以实体活动庆祝佳节，但校友会也积极参加线上庆典活动。他们和学弟学妹们分享中秋节的来源，介绍应节食品，主持猜灯谜活动，为活动增色不少。9月19日校友会也继续以脸书进行现场直播进行中秋庆祝活动。&nbsp;
-
-![9alum.jpeg](/images/9alum.jpeg)  
-
-  
 
 
-为了联系更多毕业后的南华人，并招募更多毕业生加入校友会，除了继续通过社交平台联系校友之外， 校友会更设立了Telegram 平台，加强和毕业生的联系。寄望来年，我们能有更多的机会与母校合作，让更多校友能够在聚谊阁聚首。  
+
+
+
+
+
+ 
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/rFp5NxXsS8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
