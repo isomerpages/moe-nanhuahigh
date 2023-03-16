@@ -110,7 +110,7 @@ Nan Hua High School Alumni Association
 ![](/images/Alumni_Hiking%20Southern%20Ridges.jpg)
 <p style="text-align: center"><strong>Hiking at Southern Ridges
 	
-![](/images/Alumni_Hiking%20Southern%20Ridges.jpg)
+![](/images/Alumni_Playing%20games%20between%20generations%20of%20Nanhurians.jpg)
 <p style="text-align: center"><strong>Playing games between generations of Nanhurians
 	
 ![](/images/Alumni_Nagomi%20Art%20workshop.jpg)
