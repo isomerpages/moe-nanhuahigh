@@ -7,10 +7,6 @@ description: ""
 
   
 
-**Click [here](http://lms.asknlearn.com/nhhs/) to access the LMS Portal**
+**Click [here](https://go.gov.sg/rbs-nhhs) to access the Resource Booking System (RBS).**
 
-Step 1: Log in to ASKnLearn (You may retrieve your password if you ever forget your password. Alternatively, you may contact the ICT Department.)
-
-![](/images/bookingsystem1.png)
-![](/images/bookingsystem2.png)
-![](/images/bookingsystem3.png)
+Please note that you need to login with your MIMS credentials. 
