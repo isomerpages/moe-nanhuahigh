@@ -75,7 +75,7 @@ description: ""
 </tbody>
 </table>
 
-        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:"Arial Unicode MS"; panose-1:2 11 6 4 2 2 2 2 2 4; mso-font-charset:128; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-134238209 -371195905 63 0 4129279 0;} @font-face {font-family:"\\@Arial Unicode MS"; panose-1:2 11 6 4 2 2 2 2 2 4; mso-font-charset:128; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-134238209 -371195905 63 0 4129279 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN-SG;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-ansi-language:EN-SG;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+       
 
 The Alumni Association believes in moving forward and so we started to serve our alma mater from the beginning of the year at events such as Secondary 1 Registration and the Secondary 4 Expedition for Excellence. We are delighted to learn that the career education talks received many positive responses. By sharing our work experiences, we hope to impact our juniors' career choices positively. Our key members also celebrated Chinese New Year and Mid-Autumn Festival together with the Nan Hua family.
 
@@ -87,19 +87,17 @@ Another highlight for 2022 was the election of the 11th Executive Committee on 2
 
 **CHU C. L. TOMMY**
 
-President
- of 11th Executive Committee  
+President of 11th Executive Committee  
 Nan Hua High School Alumni Association
 
   
-
        冠状病疫期间，许多活动几乎停顿不前。 南华校友会克服困难，自2021年底开始展开各项服务母校的活动，当中包括中一新生注册日和中四年级品格训练营。此外，第三学段时三名事业有成的校友为中四应届毕业生主讲的职业辅导讲座，更获得了学弟妹们热烈的反应，令我们深受鼓舞。另外，为庆祝建校105年，校友会参加学校主办的八大校训和谐粉彩壁画的绘制活动，共同绘下标志母校卓越发展的里程碑。
 
       为了更有效地加强校友间的情谊，校友会会所经过重新装修后，在今年校庆日隆重开幕，命名“聚谊阁”。除了为校友们主办各项联谊活动，如桌游、南部山脊健步行等，校友们也本着“取之社会，回馈社会”的精神为广惠肇留医院社区关怀中心举办了一个环保布花缝制活动，给许多年长者的生活增添一抹色彩。
 
       6月23日，第十一届校友会执委在选举中诞生。虽然接棒的执委中有好几张新面孔，但都是愿意在资深前辈建立的基础上实践校友会宗旨的有志者。祝愿来年，校友们共同发挥南华精神，和母校一起攀越高峰。
 
-第十一届校友会会长 朱致陇
+                                   第十一届校友会会长 朱致陇
 
 
 ![](/images/Alumni_Preparing%20uniforms%20for%20Secondary%201%20students.jpg)
@@ -148,15 +146,5 @@ Nan Hua High School Alumni Association
 <br>
 
   
-
-
-
-
-
-
-
-
-
- 
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/rFp5NxXsS8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
