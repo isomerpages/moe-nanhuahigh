@@ -97,13 +97,13 @@ Nan Hua High School Alumni Association
 
       6月23日，第十一届校友会执委在选举中诞生。虽然接棒的执委中有好几张新面孔，但都是愿意在资深前辈建立的基础上实践校友会宗旨的有志者。祝愿来年，校友们共同发挥南华精神，和母校一起攀越高峰。
 
-                                  第十一届校友会会长 朱致陇
+                                  第十一届校友会会长  朱致陇
 
 
 ![](/images/Alumni_Preparing%20uniforms%20for%20Secondary%201%20students.jpg)
 <p style="text-align: center"><strong>Alumni preparing uniforms for Secondary 1 Registration Day</p>
 	
-	
+
 ![](/images/Alumni_Cloth%20flowers%20making%20workshop%20at%20Kwong%20Wai%20Shiu%20Care%20Centre.jpg)
 	
 <p style="text-align: center"><strong>Cloth flowers making workshop at Kwong Wai Shiu Care Centre</p>
