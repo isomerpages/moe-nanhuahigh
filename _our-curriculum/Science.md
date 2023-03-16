@@ -33,9 +33,9 @@ Our students were offered opportunities to take part in many competitions. Here 
 
 High-ability students applied their science and mathematical knowledge to explain daily phenomena.
 
-![A game developed by students for Integrated Science.jpeg](/images/integratedsciencegame.jpeg)
+![Congratulations to our CB Paul ACJC Science Competition Category 1 medal winners!](/images/Congratulations%20to%20our%20CB%20Paul%20ACJC%20Science%20Competition%20Category%201%20medal%20winners!.jpg)
 
-<p style="text-align: center"><strong>A game developed by students for Integrated Science</strong></p>
+<p style="text-align: center"><strong>Congratulations to our CB Paul ACJC Science Competition Category 1 medal winners!</strong></p>
 
   
 
