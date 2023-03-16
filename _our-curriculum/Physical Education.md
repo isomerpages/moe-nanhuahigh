@@ -3,7 +3,7 @@ title: Physical Education
 permalink: /our-curriculum/physical-education/
 description: ""
 ---
-The PE department aims to create a rigorous programme that develops students’ physical competence and knowledge of movement and safety, as well as the ability to perform in a wide range of activities. Through meaningful engagements, students can then acquire the right attitudes and values to pursue physically active and healthy lifestyles.
+The Physical Education (PE) department continues to cultivate positive habits in students through a rigorous PE and Healthy Habits programme. Focusing on not just physical health, our collaboration with other departments and committees allows students to also be aware of their mental, emotional and social well-being to develop themselves holistically. With the opportunity to learn a variety of sports and games, and participate in a range of activities, students can become 
 
     In 2020, the department embarked on an exploration of ICT tools and pedagogies to bring PE lessons to students as they transitioned to Home Based Learning (HBL) due to the COVID-19 pandemic. The challenge was to engage them even with the lack of resources and face-to-face opportunities for guidance. With the introduction of the PE HBL Calendar, students were given a variety of activities to accomplish daily. Some of the tasks that can be found in the calendar are yoga pose challenges, mini workouts, mindful exercises and reflections. With the variety of activities, students have the resources to be mindful of their personal well-being (physically and mentally), at the same time maintain an active and healthy lifestyle.
 
@@ -61,4 +61,3 @@ An Excycling Journey
 ![The winning department of NHDiscovers.png](/images/The%20winning%20department%20of%20NHDiscovers.png)  
   
 <p style="text-align: center"><strong>The winning department of #NHDiscovers!</strong></p>
-
