@@ -16,6 +16,9 @@ sections:
         - title: Announcements
           description: Click here for announcements
           url: /announcements
+        - title: Quick Links
+          description: ""
+          url: ""
   - infopic:
       title: Vision
       description: A school of excellence that nurtures world-ready Bicultural
