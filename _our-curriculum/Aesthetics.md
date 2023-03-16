@@ -13,7 +13,21 @@ Using the Gradual Release of Responsibility (GRR) and Inquiry-Based Learning app
 
 The Design & Technology (D&T) unit engages the Secondary 2 students through Design Thinking Process as they learn to manage their own projects aiming at improving real-life situations. Being new to D&T and having little experience with handling the equipment and tools, the students were guided using the Gradual Release of Responsibility (GRR) model. As they progress, students gain experience and develop confidence in tackling problems and designing functional products. With Empathy guiding their hands and hearts, the students strive to create responsibly while making their designs relevant and useful.
 
+![Designers at work](/images/Designers%20at%20work.jpg)
+
+<p style="text-align: center"><strong>Designers at work</strong></p>
+
+![Doing design work for D&T on the iPad](/images/Doing%20design%20work%20for%20D_T%20on%20the%20iPad.jpg)
+
+<p style="text-align: center"><strong>Doing design work for D&T on the iPad</strong></p>
+
+<p style="text-align: center"><strong>Designers at work</strong></p>
+
 Food & Consumer Education place much emphasis on authentic and practical learning experiences through exploration of nutrition and health, diet-related diseases, and the impact of sustainable consumption on our lives. Students engaged in robust discussion on food and resource-management topics as well as consumer issues. Inquiry-Based Learning and discourse through Dialogic Talk - enhanced through active use of ICT tools and platforms - helped them develop greater literacy in the subject.
+
+![Cooking Fried Rice in an FCE practical lesson](/images/Cooking%20Fried%20Rice%20in%20an%20FCE%20practical%20lesson.jpg)
+
+<p style="text-align: center"><strong>Cooking Fried Rice in an FCE practical lesson</strong></p>
 
 Albert Einstein once said : "Art is the expression of the profoundest thoughts in the simplest way." Our Art programmes offer a spectrum of opportunities for our students to blossom into open-minded champions of society, raising awareness and soaring positively. We aim to recognise our students' potential and creativity to the maximum extent for them to acquire the necessary skills to build their own future humbly and confidently.
 
