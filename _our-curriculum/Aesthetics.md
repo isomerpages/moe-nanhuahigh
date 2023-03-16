@@ -64,7 +64,7 @@ Food & Consumer Education place much emphasis on authentic and practical learnin
 
 <p style="text-align: center"><strong>Cooking Fried Rice in an FCE practical lesson</strong></p>
 
-Albert Einstein once said : "*Art is the expression of the profoundest thoughts in the simplest way*." Our Art programmes offer a spectrum of opportunities for our students to blossom into open-minded champions of society, raising awareness and soaring positively. We aim to recognise our students' potential and creativity to the maximum extent for them to acquire the necessary skills to build their own future humbly and confidently.
+Albert Einstein once said : "*Art is the expression of the profoundest thoughts in the simplest way*." Our Art programmes offer a spectrum of opportunities for our students to blossom into open-minded champions of society, raising awareness and soaring positively. We aim to recognise our students' potential and creativity to the maximum extent for them to acquire the necessary skills to build their own future humbly and confidently. 
 
 
 By Justin Low Jing Heng (205)
