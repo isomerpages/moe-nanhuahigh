@@ -17,7 +17,7 @@ The Physical Education (PE) department continues to cultivate positive habits in
  
   <p style="text-align: center"><strong>Writing a gratitude note to a peer</strong></p>
 	
-	 <p style="text-align: center"><strong>Writing a gratitude note to a peer</strong></p>
+
  
  "The 2022 Healthy Habits Sports Carnival was definitely the highlight of our Secondary 1 year and was very memorable for all of us! I recall many of my classmates cheering one another on by the sidelines and having lots of fun competing and playing for our class. Although there were disagreements between some of the classes, 108 emerged in 4th place. All in all, I'm sure many of us made fond memories and had a great time!"
  
