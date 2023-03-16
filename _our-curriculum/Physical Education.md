@@ -13,6 +13,16 @@ The Physical Education (PE) department continues to cultivate positive habits in
  
  Denise Lim Wei Xin, 108
  
+ For the Secondary 3 cohort, the PE department came up with a modified version of "Family Feud" meets "Amazing Race", coining it as *Class Clash*. In this game, students harnessed their collaborative effort to excel in tasks creatively. An example was using their resources at hand in the classroom to build the longest structure. Many students exercised their creativity, incorporating unexpected items such as standing fans, brooms and old newspapers as part of their structure!
+ 
+"In *Class Clash*, all of us worked together and were very supportive towards one another as classmates. Everyone did our part and leveraged on one another's strengths. We also trusted one another to give it our best and thus, we were able to achieve a positive result while at the same time building wonderful memories to look back upon." 
+
+Khoo Tian Tian Angela 310
+
+The Secondary 4 students had the opportunity to engage in physical activities not offered in their PE programme, such as Kinball, Tchoukball, Archery Tag and martial arts. The objective was to expose them to various sports to pique their interest in pursuing an active lifestyle as they prepare to move on to the next stage of their education.
+
+In addition, the PE department continues to hatch, hone and heighten healthy habits in staff by enhancing staff health, well-being and satisfaction through consistent and manageable healthy lifestyle pursuits. Leveraging on the PACER app, fun challenges such as virtual adventure challenges and step challenges were set up through the app to encourgae staff to stay active and virtually travel the world together. Through these efforts, staff can model the way for their students, and highlight the importance of staying active and healthy.
+ 
  
 
 ![Students engaging in modified game with safe distancing observed.JPG](/images/Students%20engaging%20in%20modified%20game%20with%20safe%20distancing%20observed.jpg)
