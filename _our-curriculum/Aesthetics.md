@@ -18,14 +18,6 @@ Food & Consumer Education place much emphasis on authentic and practical learnin
 Albert Einstein once said : "Art is the expression of the profoundest thoughts in the simplest way." Our Art programmes offer a spectrum of opportunities for our students to blossom into open-minded champions of society, raising awareness and soaring positively. We aim to recognise our students' potential and creativity to the maximum extent for them to acquire the necessary skills to build their own future humbly and confidently.
 
 <p style="text-align: center"><strong>Sec 3 Higher Art Programme: Observational Study</strong></p>
-  
-![Exploring charcoal and levels.jpg](/images/Exploring%20charcoal%20and%20levels.jpg)
-
-
-
-
-
-
 
 
 By Justin Low Jing Heng (205)
