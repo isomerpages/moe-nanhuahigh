@@ -13,7 +13,7 @@ The Physical Education (PE) department continues to cultivate positive habits in
  
  At this event, Secondary 1 students participated in the inter-class recreational Captain's Ball competition, held at NUS High School of Mathematics and Science. The Secondary 2 students pitted their speed against one another in a track event at Clementi Stadium. This was the students' first opportunity since the relaxation of SMM guidelines to be able to interact with students from other classes in a sporting event. The enthusiasm from the students electrified the atmosphere as they fervently cheered their classmates on during the event. Creative signage designed by the students were also on full display at the grandstand, to motivate their classmates.
  
- 
+
  
   <p style="text-align: center"><strong>Writing a gratitude note to a peer</strong></p>
 	
