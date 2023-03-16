@@ -21,7 +21,9 @@ The Design & Technology (D&T) unit engages the Secondary 2 students through Desi
 
 <p style="text-align: center"><strong>Doing design work for D&T on the iPad</strong></p>
 
-<p style="text-align: center"><strong>Designers at work</strong></p>
+![Design Thinking in progress](/images/Design%20Thinking%20in%20progress.jpg)
+
+<p style="text-align: center"><strong>Design Thinking in progress</strong></p>
 
 Food & Consumer Education place much emphasis on authentic and practical learning experiences through exploration of nutrition and health, diet-related diseases, and the impact of sustainable consumption on our lives. Students engaged in robust discussion on food and resource-management topics as well as consumer issues. Inquiry-Based Learning and discourse through Dialogic Talk - enhanced through active use of ICT tools and platforms - helped them develop greater literacy in the subject.
 
