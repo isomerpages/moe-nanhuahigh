@@ -12,24 +12,22 @@ The Science department has engaged the professional guidance of Dr Tan Aik Ling 
 
 Our students were offered opportunities to take part in many competitions. Here are some of the highlights and achievements:
 
-1\. Singapore Junior Physics Olympiad 2022  
-     (Awarded 13 individual and 3 team awards)
+1\. Singapore Junior Physics Olympiad 2022 (Awarded 13 individual and 3 team awards)
 
-    Students collaborated on challenging Physics problems.
+Students collaborated on challenging Physics   
+problems.
   
 
-2\. ACJC International Biomedical Quiz    
-     (1 Gold, 4 Silver, 4 Bronze)
+2\. ACJC International Biomedical Quiz (Awarded 1 Gold, 4 Silver, 4 Bronze)
 
-    Students went through a series of online workshops on Oncology and applied their learning to real life clinical contexts.
+Students went through a series of online workshops on Oncology and applied their learning to real life clinical contexts.
 
   
 ![Congratulations to our ACJC International Biomedical Quiz Winners!](/images/Congratulations%20to%20our%20ACJC%20International%20Biomedical%20Quiz%20Winners!.jpg)
 
 <p style="text-align: center"><strong>Congratulations to our ACJC International Biomedical Quiz Winners!</strong></p>
 
-3\. C.B Paul Memorial Science Quiz    
-      (2 Gold, 4 Silver, 1 Bronze in Category 2 and 1
+3\. C.B Paul Memorial Science Quiz (Awarded 2 Gold, 4 Silver, 1 Bronze in Category 2 and 1
 		  Gold, 2 Silver and 1 Bronze in Category 1, 
 		  Fourth Place in Team Final Round)
 
@@ -39,8 +37,7 @@ High-ability students applied their science and mathematical knowledge to explai
 
 <p style="text-align: center"><strong>Congratulations to our CB Paul ACJC Science Competition Category 1 medal winners!</strong></p>
 
-  4\. Singapore Junior Biology Olympiad 2022   
-        (3 Silver and 5 Bronze)
+  4\. Singapore Junior Biology Olympiad 2022 (Awarded 3 Silver and 5 Bronze)
 
 Students answered challenging Biology questions from a broad range of topics.
   
