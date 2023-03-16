@@ -22,5 +22,5 @@ The Parent Support Group (PSG) continues its steadfast support for the school in
 ![](/images/PSG_Ready%20for%20Action%20for%20Mid-Autumn%20Festival.jpg)
 <strong>Ready for action for Mid-Autumn Celebration</strong>
 
- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MA3eGPLIfAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ [PSG Montage](https://drive.google.com/file/d/1nR2x7ehWBYnF8SN8UXVaLvMchOrhA_fM/view?usp=sharing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MA3eGPLIted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
