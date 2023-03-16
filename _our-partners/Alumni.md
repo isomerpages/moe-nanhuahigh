@@ -75,40 +75,66 @@ description: ""
 </tbody>
 </table>
 
-It has been a tradition for the members of the Alumni Association to attend major school programs and render their support as volunteers. Despite the Covid19 pandemic, members of the school Alumni Association supported key school events, including Secondary 1 Registration Day, Chinese New Year Celebration and Orientation Camp and Secondary 4 Night Walk during Camp Achiever.&nbsp;
+        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:"Arial Unicode MS"; panose-1:2 11 6 4 2 2 2 2 2 4; mso-font-charset:128; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-134238209 -371195905 63 0 4129279 0;} @font-face {font-family:"\\@Arial Unicode MS"; panose-1:2 11 6 4 2 2 2 2 2 4; mso-font-charset:128; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-134238209 -371195905 63 0 4129279 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN-SG;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-ansi-language:EN-SG;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
 
+The Alumni Association believes in moving forward and so we started to serve our alma mater from the beginning of the year at events such as Secondary 1 Registration and the Secondary 4 Expedition for Excellence. We are delighted to learn that the career education talks received many positive responses. By sharing our work experiences, we hope to impact our juniors' career choices positively. Our key members also celebrated Chinese New Year and Mid-Autumn Festival together with the Nan Hua family.
 
-![Executive members CNY_2.jpg](/images/Executive%20members%20CNY_2.jpg)
+We reopened the Alumni Activity Room, which is fondly christened "聚谊阁", meaning a place for friendship and reconnection among graduated Nanhuarians. We are also proud to have participated in the Nagomi Art workshop in conjunction with the school's 105th anniversary celebrations. Our artwork forms part of the School Values Wall Mural.
 
-<p style="text-align: center"><strong>Executive members of the Alumni Association attended the&nbsp;Chinese New Year Celebration in January this year.<br> &nbsp;
-校友会执委参加学校的农历新年庆祝会。  </strong></p>
+In fostering the bond between members of different generations, the Alumni Association has organised activities ranging from indoor board games to an outdoor hike. We also conducted a cloth flowers making workshop at Kwong Wai Shiu Care Centre in June, which brought cheer to senior citizens and participating alumni.
 
+Another highlight for 2022 was the election of the 11th Executive Committee on 23 June 2022. The baton was passed to a new team with fresh faces and a new lead who aspires to build upon the foundation laid by the seniors.
 
-The School Alumni Association has also been sponsoring 3 book prizes since 2001 to students who demonstrate excellence in the field of academic, sports and arts. The three recipients of the book prizes this year are:&nbsp; Yuen Hui En Gloria (403), Tay Qi Ying Faith (404) &amp; Mar Wen Hui (409).
+**CHU C. L. TOMMY**
 
-  
-
-<table style="margin-top: auto; margin-right: 0px !important; margin-bottom: auto; margin-left: auto; outline: 0px; padding: 0px; box-sizing: border-box; border-collapse: collapse; clear: both; border: 0px !important; table-layout: fixed; width: 700px; height: auto !important; text-align: center;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><tr style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; box-sizing: border-box; vertical-align: top; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; box-sizing: border-box; float: left; max-width: 100%; height: auto !important;" class="ive_eobj_left" alt="The recipients of Alumni Book Prize. 校友会书籍奖获奖学生1.JPG" width="100%" src="/images/recepient1.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; box-sizing: border-box; vertical-align: top; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; box-sizing: border-box; float: left; max-width: 100%; height: auto !important;" class="ive_eobj_left" alt="The recipients of Alumni Book Prize. 校友会书籍奖获奖学生2.JPG" width="100%" src="/images/recepient2.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; box-sizing: border-box; vertical-align: top; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; box-sizing: border-box; float: left; max-width: 100%; height: auto !important;" class="ive_eobj_left" alt="The recipients of Alumni Book Prize. 校友会书籍奖获奖学生3.JPG" width="100%" src="images/recepient3.jpg"></td></tr></tbody></table>
-
-<p style="text-align: center"><strong>The recipients of Alumni Book Prize. 校友会书籍奖获奖学生</strong></p>
-
-
-The Alumni Association harnesses social media platforms such as the Facebook and Instagram to reach out to all ex-Nanhuarians. Key school events, educational and cultural programmes are publicised especially in the year of COVID-19 pandemic. The recent Facebook live stream for the Mid-Autumn Festival Celebration was a great success in connecting the alumni together.
+President
+ of 11th Executive Committee  
+Nan Hua High School Alumni Association
 
   
 
-![The Facebook live stream.jpg](/images/The%20Facebook%20live%20stream.jpg)
+       冠状病疫期间，许多活动几乎停顿不前。 南华校友会克服困难，自2021年底开始展开各项服务母校的活动，当中包括中一新生注册日和中四年级品格训练营。此外，第三学段时三名事业有成的校友为中四应届毕业生主讲的职业辅导讲座，更获得了学弟妹们热烈的反应，令我们深受鼓舞。另外，为庆祝建校105年，校友会参加学校主办的八大校训和谐粉彩壁画的绘制活动，共同绘下标志母校卓越发展的里程碑。
 
-<p style="text-align: center"><strong>The Facebook live stream for the Mid-Autumn Festival Celebration was a great success.&nbsp; 今年的中秋节庆祝会以脸书直播的方式举行，别开生面。</strong></p>
+      为了更有效地加强校友间的情谊，校友会会所经过重新装修后，在今年校庆日隆重开幕，命名“聚谊阁”。除了为校友们主办各项联谊活动，如桌游、南部山脊健步行等，校友们也本着“取之社会，回馈社会”的精神为广惠肇留医院社区关怀中心举办了一个环保布花缝制活动，给许多年长者的生活增添一抹色彩。
+
+      6月23日，第十一届校友会执委在选举中诞生。虽然接棒的执委中有好几张新面孔，但都是愿意在资深前辈建立的基础上实践校友会宗旨的有志者。祝愿来年，校友们共同发挥南华精神，和母校一起攀越高峰。
+
+第十一届校友会会长 朱致陇
+
+
+![](/images/Alumni_Preparing%20uniforms%20for%20Secondary%201%20students.jpg)
+
+<p style="text-align: center"><strong>Alumni preparing uniforms for Secondary 1 Registration Day</p>
+
+![](/images/Alumni_Cloth%20flowers%20making%20workshop%20at%20Kwong%20Wai%20Shiu%20Care%20Centre.jpg)
+	
+	
+<p style="text-align: center"><strong>Cloth flowers making workshop at Kwong Wai Shiu Care Centre</p>
+	
+![](/images/Alumni_Hiking%20Southern%20Ridges.jpg)
+<p style="text-align: center"><strong>Hiking at Southern Ridges
+	
+	
+
+	
+
+
+
+
+
+  
+
+
+
+
   
 
   
 
-&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;每一年校友会都积极支持学校的活动，让在籍南华人以及他们的家人，深深感受到校友会的热情和温馨。在今年的中一新生注册日、新春庆典以及品格训练营中，大家都能看到身穿白色制服的校友会成员穿梭于人群之中，以各种方式为南华学子们加油打气。此外，校友会从2001年始便捐赠给母校三份书籍奖，奖励那些在学业、体育、美育方面全面发展的学生。今年的获奖者在同学的见证下，获颁奖项，仪式简单而隆重。
 
   
 
-&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;校友会也善用科技平台联系海内外校友，他们的脸书和Instagram平台有数千名粉丝，能有效地进行校方和校友会的活动宣传。今年冠状病疫肆虐，校友会更将常年中秋庆祝会搬到线上，使用脸书直播的功能，举办了一场趣味横生而又意义深远的庆祝会。祝愿来年，大家重回双文化园共赏明月，再庆中秋。
+
 
 
 #### [Visit the Nan Hua High School Alumni Website](https://www.facebook.com/nanhuaalumni)
