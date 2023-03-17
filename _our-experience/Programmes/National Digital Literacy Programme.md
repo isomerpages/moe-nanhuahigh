@@ -20,17 +20,7 @@ Students who wish to use their existing iPads must ensure that it meets the comp
 ## Important Contacts/Helplines
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-aaqb{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-8s0f{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-r9z4{background-color:#F2F9FF;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
