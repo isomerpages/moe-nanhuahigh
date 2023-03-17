@@ -12,6 +12,9 @@ third_nav_title: Programmes
 
 With the vision on developing values-centric leaders who bring positive changes to the community by serving others through their innovation and thoughtfulness, the Student Leadership Committee has adopted the essence of both Innovation Leadership and Servant Leadership models in their student leadership training programme. This is to ensure that student leaders are equipped with the skills and mindset to use innovative platforms to serve the community and address its needs.
 
+![](/images/2E2A2324.jpg)
+**Student Leaders Investiture 2022** 
+
 The student leadership development approaches centre on 3 aspects, forming the acronym **A.C.E.**:
 
 **A**ll Inclusivity
@@ -27,6 +30,9 @@ Customised training programmes are put in place to cater to the different develo
 All student leaders are given opportunities to lead through the various platforms available within and beyond school.
 
 A variety of leadership roles are made available to students, to encourage them to pursue their own leadership development goals and to fulfil the school’s direction of having every student taking up leadership roles in school. An adventure camp is organised for Secondary 3 students at the start of the year as part of this programme. Students are also engaged in student-initiated Values-In-Action (VIA) activities, where students have to propose, plan, organise and execute the VIA activities as a class. These programmes serve as platforms for them to embark on the National Youth Achievement Award (Silver), which serves as the yardstick of one’s self-leadership journey.
+
+![](/images/UG%20Student%20Leaders.jpeg)
+**Uniformed Group Student Leaders 2022** 
 
 Student leaders are also given the autonomy to select the various leadership modules they need to complement their leadership role in the school. The various modules allow student leaders to not just enhance their performance competencies, but also their moral competencies when handling their groups. The modules range from peer-mediation to facilitation skills.
 
@@ -98,4 +104,3 @@ The Student Leadership Training Programme has helped me grow in my character, as
 The Junior Leadership Training Programme (JLTP) gave me a lot of opportunities to step out of my comfort zone, for example, the planning of the Teachers’ Day Celebration allowed me to speak up about the ideas I had and discuss with my peers to better improve on them. The Teachers’ Day Emcee audition also encouraged me to face my fear of speaking confidently in front of a panel of teachers or audience, which is something a leader is frequently required to do. These experiences have taught me to become more confident in guiding others and being a role model that others can look up to.
 
 **Talyna En Ting Rosenkranz (106)**
-                                                                 
