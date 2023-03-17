@@ -3,7 +3,7 @@ title: Mathematics
 permalink: /our-curriculum/mathematics/
 description: ""
 ---
- ![Dr Kiesha Prem sharing the pandemic models with the students](/images/Dr%20Kiesha%20Prem%20sharing%20the%20pandemic%20models%20with%20the%20students.jpg)
+![Dr Kiesha Prem sharing the pandemic models with the students](/images/Dr%20Kiesha%20Prem%20sharing%20the%20pandemic%20models%20with%20the%20students.jpg)
 
 **Mathematical Modelling**
 
@@ -13,9 +13,7 @@ Dr Kiesha Prem from the Saw See Hock School of Public Health and London School o
 
 Students with the aptitude and ability participated in the International Mathematical Modelling Competition. Through in-depth mathematical analysis, they took on the challenge of proposing an optimal boarding and disembarking method for passengers on commercial flights. The team was awarded a Certificate of Merit for their commendable efforts.
 
-
-        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN-GB;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-ansi-language:EN-GB;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
-
+     
 **Curious and Creative Learners**
 
 ![](/images/Samples%20of%20problem-posing%20tasks%20submitted.jpg)
