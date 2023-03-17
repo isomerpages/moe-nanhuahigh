@@ -19,18 +19,6 @@ The overview and objectives of the ECG Programme in NHHS is as follows:
 
   
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-92kb{background-color:#FFF;color:#030303;text-align:center;vertical-align:top}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-qx1l{background-color:#FFF;color:#030303;text-align:left;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
 <table class="tg">
 <thead>
   <tr>
