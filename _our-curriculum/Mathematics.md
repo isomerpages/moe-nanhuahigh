@@ -57,30 +57,14 @@ Circle properties can be learnt in a fun way through online game show
 
     To inspire students to explore principles of Mathematics and Science embedded in real-life, and be discerning about information presented, the theme "Quare", which means "Why?" in Latin, was chosen this year.
 
-<img src="/images/math1.png" 
-         style="width:500px"
-	/>
-<br>
+During the Assembly programme, students explored misconceptions and paradoxes. Some intriguing misconceptions and paradoxes include bullets that can curve (a misconception especially prevalent in Hollywood films), and the Birthday Paradox. The programme culminated in an online Escape Room activity, where students collaborated with their peers to solve challenging Mathematics and Science questions.  
 
-  
-
-    During the Assembly programme, students explored misconceptions and paradoxes. Some intriguing misconceptions and paradoxes include bullets that can curve (a misconception especially prevalent in Hollywood films), and the Birthday Paradox. The programme culminated in an online Escape Room activity, where students collaborated with their peers to solve challenging Mathematics and Science questions.  
-
-<img src="/images/math2.png" 
-         style="width:500px"
-	/>
-<br>
-  
-
-  
-
-Excel Programme
+**Excel Programme**
 
 Appreciating the usefulness of Mathematics in real life is a goal of Mathematics education. Through our Excel Programme “Seeing the World through Mathematics”, students who demonstrate an aptitude for in-depth study of the subject could engage in mathematical modelling. The department also aspires to help students develop a sense of positive accomplishment through opportunities to participate in the International Mathematical Modelling Competition and Singapore Mathematical Society's Essay Competition in which students conducted mathematical analysis of the current pandemic situation. In the process, students learnt to appreciate the subject at a deeper level, thereby igniting their passion for learning.
 
   
 
-![After a fruitful brainstorming session by the IMMC Team.jpg](/images/After%20a%20fruitful%20brainstorming%20session%20by%20the%20IMMC%20Team.jpg)  
 
 
 After a fruitful brainstorming session by the IMMC Team 
@@ -89,23 +73,15 @@ After a fruitful brainstorming session by the IMMC Team 
 
   
 
-Positive Accomplishments:  
+**Positive Accomplishments:**  
 
-*   Singapore Mathematics Project Festival 
-    
+       
 
-*   Junior Section: 2 Honourable Mentions
-    
+* Singapore Mathematical Olympiad 2022 
+        ●       School Award Category 1: Bronze
+        ●       Junior Section: 1 Gold, 2 Silver and 9 Bronze
+        ●       Senior Section: 1 Silver and 1 Bronze
 
-*   International Mathematical Modelling Competition
-    
-
-*   Distinction Award
-    
-
-*   Singapore Mathematical Society Essay Competition 
-    
-
-*   Category A: National 3rd 
+* International Mathematical Modelling Competition -   Merit Award
     
 *   Category B: National 1st
