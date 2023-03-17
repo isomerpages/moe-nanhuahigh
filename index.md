@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Nan Hua High School
       background: /images/IMG_9840a_compressed.jpg
       key_highlights:
         - title: Events
