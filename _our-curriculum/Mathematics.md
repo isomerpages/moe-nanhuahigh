@@ -3,9 +3,31 @@ title: Mathematics
 permalink: /our-curriculum/mathematics/
 description: ""
 ---
-![Even classmates on Leave of Absence can join in the discussion.jpg](/images/Even%20classmates%20on%20Leave%20of%20Absence%20can%20join%20in%20the%20discussion.jpg)
+ ![Dr Kiesha Prem sharing the pandemic models with the students](/images/Dr%20Kiesha%20Prem%20sharing%20the%20pandemic%20models%20with%20the%20students.jpg)
 
-Even classmates on Leave of Absence can join in the discussion!
+**Mathematical Modelling**
+
+The Mathematics department seeks ways to expose students to mathematical modelling, a useful way to solve real-world problems.
+
+Dr Kiesha Prem from the Saw See Hock School of Public Health and London School of Hygiene & Tropical Medicine shared on public health with some of our Secondary Three students. From her sharing, students gained a deeper understanding of how mathematical modelling is applied in managing the pandemic situation. Students had the opportunity to apply their knowledge to projects under her guidance.
+
+Students with the aptitude and ability participated in the International Mathematical Modelling Competition. Through in-depth mathematical analysis, they took on the challenge of proposing an optimal boarding and disembarking method for passengers on commercial flights. The team was awarded a Certificate of Merit for their commendable efforts.
+
+
+        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN-GB;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-ansi-language:EN-GB;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+**Curious and Creative Learners**
+
+![](/images/Samples%20of%20problem-posing%20tasks%20submitted.jpg)
+
+To encourage students to be reflective learners who are curious about the world around them, the department embarked on a journey of problem-posing for the lower secondary level. As a start, students were tasked to pose as many questions as possible for the scenarios they came up with. This activity generated much interest and further discussion.
+
+![](/images/Finding%20the%20height%20of%20the%20Confucius%20statue.jpg)
+
+Instead of solving problems from textbooks, students had the opportunity to apply their knowledge in real-life situations. For instance, students were challenged to find the height of various structures in school using different creative ways. These engaging activities help students appreciate possible applications of mathematics in the real world.
+
+![](/images/The%20measuring%20tape%20is%20not%20long%20enough.jpg)
+
 
 Enriching the learning experiences of students amidst the pandemic 2020 started with the Mathematics Department embarking on a journey to enhance student engagement so as to bring about joy of learning. We made the effort to provide learning experiences that could also deepen students’ understanding of mathematical concepts. Although the progress was affected by the COVID-19 pandemic, we worked at overcoming the new challenges through designing lessons that incorporated videos, games and quizzes, and promoted online interaction. We also tapped on Google Classroom to monitor students’ work and tools like the Padlet application to encourage students to learn independently. In the process, there was rich learning for everyone as we discovered the possibilities that the various platforms had opened up to us.
 
