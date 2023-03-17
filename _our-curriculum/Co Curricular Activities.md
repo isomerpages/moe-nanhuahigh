@@ -45,7 +45,7 @@ Cluster 2IC : Mr Han Chin Gene
 
 #### Uniformed Groups Cluster
 
-Cluster IC : Mr Chow Yew Chung&nbsp;
+Cluster IC : Mr Jason Chow Yew Chung&nbsp;
 
 Cluster 2IC : Ms Gan Jiayi Karolyn&nbsp;
 
