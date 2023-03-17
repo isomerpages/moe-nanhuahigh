@@ -6,7 +6,8 @@ third_nav_title: Programmes
 ---
 ### What is Education and Career Guidance (ECG)?
 
-![](/images/Further%20Education%20Day%202022.jpg)
+![](/images/Further%20Education%20Day%202022.jpg)<p style="text-align: center"><strong>Further Education Day 2022</strong></p>
+
 
 ECG is a developmental process that facilitates the acquisition of attitudes, skills and knowledge to help students better understand themselves, explore viable education and career options, make informed decisions and develop plans to achieve their career aspirations.
 
