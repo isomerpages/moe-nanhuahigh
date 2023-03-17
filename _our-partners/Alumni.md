@@ -103,41 +103,20 @@ Nan Hua High School Alumni Association
 ![](/images/Alumni_Preparing%20uniforms%20for%20Secondary%201%20students.jpg)
 <p style="text-align: center"><strong>Alumni preparing uniforms for Secondary 1 Registration Day</p>
 	
-![](/images/Alumni_Cloth%20flowers%20making%20workshop%20at%20Kwong%20Wai%20Shiu%20Care%20Centre.jpg)
 	
-<p style="text-align: center"><strong>Cloth flowers making workshop at Kwong Wai Shiu Care Centre</p>
+![cloth flower making workshop](/images/Alumni_Cloth%20flowers%20making%20workshop%20at%20Kwong%20Wai%20Shiu%20Care%20Centre.jpg)
+**Cloth flowers making workshop at Kwong Wai Shiu Care Centre
+	**
+![Alumni Hiking](/images/Alumni_Hiking%20Southern%20Ridges.jpg)
+**Hiking at Southern Ridges	**
 
-![](/images/Alumni_Hiking%20Southern%20Ridges.jpg)
-<p style="text-align: center"><strong>Hiking at Southern Ridges
+![Alumni playing games](/images/Alumni_Playing%20games%20between%20generations%20of%20Nanhurians.jpg)
+Playing games between generations of Nanhuarian
+
+![Nagomi art](/images/Alumni_Nagomi%20Art%20workshop.jpg)
+**Nagomi art workshop**
+
 	
-![](/images/Alumni_Playing%20games%20between%20generations%20of%20Nanhurians.jpg)
-<p style="text-align: center"><strong>Playing games between generations of Nanhurians
-	
-![](/images/Alumni_Nagomi%20Art%20workshop.jpg)
-<p style="text-align: center"><strong>Nagomi Art workshop
-	
-
-	
-
-
-
-
-
-  
-
-
-
-
-  
-
-  
-
-
-  
-
-
-
-
 #### [Visit the Nan Hua High School Alumni Website](https://www.facebook.com/nanhuaalumni)
 
 <img style="width:500px" src="/images/Alumni_2016_Logo.jpg">
