@@ -97,6 +97,5 @@ The Student Leadership Training Programme has helped me grow in my character, as
 
 The Junior Leadership Training Programme (JLTP) gave me a lot of opportunities to step out of my comfort zone, for example, the planning of the Teachers’ Day Celebration allowed me to speak up about the ideas I had and discuss with my peers to better improve on them. The Teachers’ Day Emcee audition also encouraged me to face my fear of speaking confidently in front of a panel of teachers or audience, which is something a leader is frequently required to do. These experiences have taught me to become more confident in guiding others and being a role model that others can look up to.
 
-                                                                                                           **Talyna En Ting Rosenkranz (106)**
-
-**Participant of Junior Leaders Training Programme**
+**Talyna En Ting Rosenkranz (106)**
+                                                                 
