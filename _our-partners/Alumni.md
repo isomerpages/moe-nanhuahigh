@@ -105,9 +105,9 @@ Nan Hua High School Alumni Association
 	
 	
 ![cloth flower making workshop](/images/Alumni_Cloth%20flowers%20making%20workshop%20at%20Kwong%20Wai%20Shiu%20Care%20Centre.jpg)
-**Cloth flowers making workshop at Kwong Wai Shiu Care Centre
-	**
-	**
+**Cloth flowers making workshop at Kwong Wai Shiu Care Centre**
+	
+	
 ![Alumni Hiking](/images/Alumni_Hiking%20Southern%20Ridges.jpg)
 **Hiking at Southern Ridges	**
 
@@ -124,5 +124,4 @@ Nan Hua High School Alumni Association
 <br>
 
   
-
   <iframe width="560" height="315" src="https://www.youtube.com/embed/rFp5NxXsS8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
