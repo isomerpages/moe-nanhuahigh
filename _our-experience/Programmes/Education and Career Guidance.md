@@ -76,4 +76,4 @@ At the end of each level, the objectives of ECG @ Nan Hua High School are to:
 
 ### **Resources for Students & Parents**
 
-[JAE Information 2022](https://nanhuahigh.moe.edu.sg/qql/slot/u528/Experience/Programmes/Education%20and%20Career%20Guidance/2022-JAE-Information-Booklet-Dec-2021.pdf)
+[JAE Information 2023](https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx)
