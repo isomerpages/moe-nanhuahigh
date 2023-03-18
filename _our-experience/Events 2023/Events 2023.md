@@ -5,6 +5,5 @@ description: ""
 third_nav_title: Events 2023
 ---
 ## 2023
-
-![Camp achiever 23](/images/CAMP%20ACHIEVER.png)
+![camp achiever banner 2023](/images/CAMP%20ACHIEVER.jpg)
 
