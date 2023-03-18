@@ -24,7 +24,7 @@ The Secondary Two students were given the opportunity to immerse themselves in a
 
 ![](/images/2023%20camp%20cultura%20tea%20appreciation.jpg)
 
-
+![](/images/2023%20camp%20cultura%20hpv.jpg)
 
 **Camp Vigour**
 
@@ -33,6 +33,8 @@ An exciting, fun-filled outdoor adventure in Sentosa was fully welcomed by the S
 ![](/images/2023%20camp%20vigour%20beach.jpg)
 
 ![](/images/camp%2013.jpg)
+
+![](/images/2023%20camp%20vigour%20tent.jpg)
 
 **Camp Horizon**
 
