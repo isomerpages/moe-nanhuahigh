@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Events 2023/Blind Date with a Book.md
       - Events 2023/Camp Achiever.md
       - Events 2023/Chinese New Year.md
       - Events 2023/Events 2023.md
