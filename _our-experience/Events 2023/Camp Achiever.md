@@ -4,20 +4,29 @@ permalink: /our-experience/events-2023/permalink/
 description: ""
 third_nav_title: Events 2023
 ---
-**Camp Achiever**
+![](/images/camp%201.jpg)
 
 **Camp Genesis**
 
 Over the three days, the Secondary One students forged new friendships while bonding over the preparation of their class dance, in anticipation of their campfire performance. With the golden flames of the campfire blazing in the background, each and every secondary one class danced their hearts out. They also proudly walked through the ‘礼仪之门, marking the official start of their journey as a Nanhuarian!
 
-Camp Cultura
+![](/images/2023%20camp%203.jpg)
+
+![](/images/2023%20camp%20genesis%204.jpg)
+
+**Camp Cultura**
 
 The Secondary Two students were given the opportunity to immerse themselves in an array of activities that raise their awareness of the many cultures in our society. They bravely tried their hands on performing arts such as Chinese opera, English drama, and other traditional dances of various cultures. The eye-opening trip to the teahouses for tea appreciation, gave them a sneak peek to how black tea came about, and how the different types of tea each offered a unique taste.
 
-Camp Vigour
+![](/images/2023%20camp%20cultura%20dance.jpg)
+
+![](/images/2023%20camp%20cultura%20tea%20appreciation.jpg)
+
+**Camp Vigour**
 
 An exciting, fun-filled outdoor adventure in Sentosa was fully welcomed by the Secondary Three cohort where they were engaged in many team building activities such as dragon boating, rafting, navigation and the trolley & trebuchet challenge. Furthermore, students had the opportunity to develop survival skills and cook their own meals outdoors, pitch tents and even experience sleeping overnight outdoors under the stars in Nan Hua!
 
+![](/images/2023%20camp%20vigour%20beach.jpg)
 Camp Horizon
 
 Ready to strive for their goals in 2023, the secondary four students reviewed different studying techniques in the “Learning How to Learn’ segment of the camp, set out with confidence for their 8.8km Expedition for Excellence and visited various institutes of higher learning to develop resilience and make a more informed choice in their future career pathways. On top of that, students suited up for a luxurious fine dining experience where they picked up skills on social etiquette that prepared them for life ahead.
