@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/nan hua high school.gif
       key_highlights:
         - title: Highlights
           description: ""
