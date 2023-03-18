@@ -44,5 +44,6 @@ Ready to strive for their goals in 2023, the secondary four students reviewed di
 
 ![](/images/2023%20camp%20horizon%20fine%20dining.jpg)
 
+![](/images/2023%20camp%20horizon%20exped.jpg)
 
 Yu Boyuan of Class 3-09 reflected: “The shiniest diamonds are formed under the biggest pressure”. Through the many activities of Camp Vigour, I built resilience, honed my leadership skills and learnt the importance of teamwork. A very special thanks to the alumni and Parent Support Group(PSG) too for their unwavering support and help to ensure the smooth running of the camp!
