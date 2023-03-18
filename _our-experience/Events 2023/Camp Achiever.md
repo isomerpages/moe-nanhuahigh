@@ -14,6 +14,8 @@ Over the three days, the Secondary One students forged new friendships while bon
 
 ![](/images/2023%20camp%20genesis%204.jpg)
 
+![](/images/2023%20camp%20genesis%20campfire%20performance.jpg)
+
 **Camp Cultura**
 
 The Secondary Two students were given the opportunity to immerse themselves in an array of activities that raise their awareness of the many cultures in our society. They bravely tried their hands on performing arts such as Chinese opera, English drama, and other traditional dances of various cultures. The eye-opening trip to the teahouses for tea appreciation, gave them a sneak peek to how black tea came about, and how the different types of tea each offered a unique taste.
@@ -21,6 +23,8 @@ The Secondary Two students were given the opportunity to immerse themselves in a
 ![](/images/2023%20camp%20cultura%20dance.jpg)
 
 ![](/images/2023%20camp%20cultura%20tea%20appreciation.jpg)
+
+
 
 **Camp Vigour**
 
@@ -40,4 +44,3 @@ Ready to strive for their goals in 2023, the secondary four students reviewed di
 
 
 Yu Boyuan of Class 3-09 reflected: “The shiniest diamonds are formed under the biggest pressure”. Through the many activities of Camp Vigour, I built resilience, honed my leadership skills and learnt the importance of teamwork. A very special thanks to the alumni and Parent Support Group(PSG) too for their unwavering support and help to ensure the smooth running of the camp!
-
