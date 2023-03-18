@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/nan hua high school.gif
       key_highlights:
-        - title: Events
-          description: Click here for upcoming events
+        - title: Highlights
+          description: ""
           url: ""
         - title: Announcements
-          description: Click here for announcements
+          description: ""
           url: /announcements
         - title: Quick Links
           description: ""
-          url: https://nanhuahigh.moe.edu.sg/quick-links/
+          url: /quick-links
   - infopic:
       title: Vision
       description: A school of excellence that nurtures world-ready Bicultural
