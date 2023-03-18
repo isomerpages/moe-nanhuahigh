@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Events 2023/.keep
-      - Events 2023.md
       - Events 2022/.keep
       - Events 2022/Events 2022.md
       - Events 2022/Mid–Autumn Festival.md
