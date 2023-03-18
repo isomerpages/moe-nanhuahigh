@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/IMG_9840a_compressed.jpg
+      background: /images/nan hua high school.gif
       key_highlights:
         - title: Events
           description: Click here for upcoming events
