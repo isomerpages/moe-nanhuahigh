@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Highlights
           description: ""
-          url: /Our Experience
+          url: /Our-Experience
         - title: Announcements
           description: ""
           url: /announcements
