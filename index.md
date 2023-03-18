@@ -17,6 +17,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
+      background: /images/nan hua high school (3).gif
   - infopic:
       title: Vision
       description: A school of excellence that nurtures world-ready Bicultural
