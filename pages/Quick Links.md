@@ -9,3 +9,4 @@ description: ""
 * Event calender needs to be uploaded on Google Calendar
 * [National Digital Literacy Programme (NDLP)](/our-experience/programmes/national-digital-literacy-programme/)
 * [Student Learning Space](https://vle.learning.moe.edu.sg/login)
+* Resource Booking System (Staff)
