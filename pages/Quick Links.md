@@ -7,5 +7,5 @@ description: ""
 * [Booklist and Uniform](/contact-us/book-and-uniform/)
 * [Direct School Admission](/our-experience/programmes/dsa-2020/)
 * Event calender needs to be uploaded on Google Calendar
-* [National Digital Literacy Programme (NDLP)](our-experience/programmes/national-digital-literacy-programme/)
+* [National Digital Literacy Programme (NDLP)](/our-experience/programmes/national-digital-literacy-programme/)
 * [Student Learning Space](https://vle.learning.moe.edu.sg/login)
