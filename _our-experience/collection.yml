@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - Events.md
       - Events 2023/National Youth Environment Conference.md
       - Events 2023/Annual Road Run.md
       - Events 2023/Parent Networking and Learning Day.md
