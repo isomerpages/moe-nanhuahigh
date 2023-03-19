@@ -4,7 +4,7 @@ permalink: /our-experience/events-2023/permalink/
 description: ""
 third_nav_title: Events 2023
 ---
-![](/images/camp%201.jpg)
+![2023 Camp Achiever Opening ](/images/camp%201.jpg)
 
 **Camp Genesis**
 
