@@ -2,14 +2,24 @@ collections:
   our-experience:
     output: true
     order:
+      - Programmes/.keep
+      - Programmes/Programmes.md
+      - Programmes/sKy Leaders Programme.md
+      - Programmes/CnME Programme.md
+      - Programmes/Student Leadership.md
+      - Programmes/Values In Action (VIA) Programme.md
+      - Programmes/Sexuality Education.md
+      - Programmes/Direct School Admission (DSA).md
+      - Programmes/Education and Career Guidance.md
+      - Programmes/National Digital Literacy Programme.md
       - Events.md
+      - Events 2023/.keep
       - Events 2023/National Youth Environment Conference.md
       - Events 2023/Annual Road Run.md
       - Events 2023/Parent Networking and Learning Day.md
       - Events 2023/Camp Achiever.md
       - Events 2023/Chinese New Year.md
       - Events 2023/Events 2023.md
-      - Events 2023/.keep
       - Events 2022/.keep
       - Events 2022/Events 2022.md
       - Events 2022/Mid–Autumn Festival.md
@@ -29,16 +39,6 @@ collections:
       - Events 2021/Teacher's Day.md
       - Events 2021/Mid–Autumn Festival.md
       - Events 2021/Annual Arts Appreciation.md
-      - Programmes/.keep
-      - Programmes/Programmes.md
-      - Programmes/sKy Leaders Programme.md
-      - Programmes/CnME Programme.md
-      - Programmes/Student Leadership.md
-      - Programmes/Values In Action (VIA) Programme.md
-      - Programmes/Sexuality Education.md
-      - Programmes/Direct School Admission (DSA).md
-      - Programmes/Education and Career Guidance.md
-      - Programmes/National Digital Literacy Programme.md
       - World – Nan Hua.md
       - Performing Arts.md
       - SAP Flagship.md
