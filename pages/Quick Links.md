@@ -10,3 +10,4 @@ description: ""
 * [National Digital Literacy Programme (NDLP)](/our-experience/programmes/national-digital-literacy-programme/)
 * [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 * Resource Booking System (Staff)
+(/resource-booking-system/)
