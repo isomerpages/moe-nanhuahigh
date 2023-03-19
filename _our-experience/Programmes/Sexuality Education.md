@@ -6,36 +6,37 @@ third_nav_title: Programmes
 ---
 ## MOE Sexuality Education in Schools
 
-1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
-2. The **Goals** of Sexuality Education are to:
+1.       Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
-(a)           To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
+2.       The **Goals** of Sexuality Education are to:
 
-(b)           To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+a.       To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
 
-(c)           To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.  
+b.       To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
-3. The **Key Messages** of Sexuality Education are:  
+c.       To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.  
 
-(a)           Love and respect yourself as you love and respect others;
+3.       The **Key Messages** of Sexuality Education are:  
 
-(b)           Build positive relationships based on love and respect (which are the foundation for strong families);
+a.       Love and respect yourself as you love and respect others;
 
-(c)           Make responsible decisions for yourself, your family and society; and
+b.       Build positive relationships based on love and respect (which are the foundation for strong families);
 
-(d)           Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+c.       Make responsible decisions for yourself, your family and society; and
+
+d.       Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
 ## Overview of Nan Hua High School's Sexuality Education Programme for 2023
 
-4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+4.       Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
-5.   The subjects that incorporate topics on sexuality include:
+5.       The subjects that incorporate topics on sexuality include:
 
-a.    Science
+a.       Science
 
-b.    Character and Citizenship Education (CCE)
+b.       Character and Citizenship Education (CCE)
 
 ## Sexuality Education Lessons: 
 
@@ -49,25 +50,23 @@ b.    Character and Citizenship Education (CCE)
 
 ## eTeens Programme
 
-8.       _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme. 
+8.        _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme. 
 
 9.       Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
 **At Nan Hua High School, the _eTeens_ programme will be implemented as follows in 2023:**
 
-
-
-| **Topics/Lessons** | **Programme Learning Objectives** | **Time Period (e.g. Term 3 Week 9)** |
+|**Topics/Lessons** | **Programme Learning Objectives** | **Time Period (e.g. Term 3 Week 9)** |
 | -------- | -------- | -------- |
-| Mass Talk by HPB appointed vendor    | * Awareness of the different STIs and HIV/AIDS <br> * Modes of transmission<br>* Modes of protection, specifically on how the condom is used <br>* Consequences and impact of STIs/HIV     | Term 3 Week 8     |
-| Classroom-based Lesson     | Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making     | Term 3 Week 10     |
+| Mass Talk by HPB appointed vendor    | * Awareness of the different STIs and HIV/AIDS <br> * Modes of transmission<br>* Modes of protection, specifically on how the condom is used <br>* Consequences and impact of STIs/HIV     | Term 3 Week 8     |
+| Classroom-based Lesson     | Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making     | Term 3 Week 10     |
 
 ## Information for Parents
 
-10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+10.   Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63da15dcf2bd6c0012cbd2f1). The completed form is to be submitted by 10/02/2023.
+11.   Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63da15dcf2bd6c0012cbd2f1). The completed form is to be submitted by 10/02/2023.
 
-12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63da208fbef23b0011b10ea4). The completed form is to be submitted by 10/02/2023.
+12.   Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63da208fbef23b0011b10ea4). The completed form is to be submitted by 10/02/2023.
 
-13.      Parents can contact the school at 67788303 or [nhhs@moe.edu.sg](mailto:nhhs@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
+13.   Parents can contact the school at 67788303 or [nhhs@moe.edu.sg](mailto:nhhs@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
