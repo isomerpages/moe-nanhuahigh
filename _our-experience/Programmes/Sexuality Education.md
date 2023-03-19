@@ -46,7 +46,7 @@ b.       Character and Citizenship Education (CCE)
 
 ## Lesson Overview
 
-[Secondary One Lessons]()<br>[Secondary Two Lessons]()<br> [Secondary Three Lessons]()<br>[Secondary Four Lessons]()
+[Secondary One Lessons](/files/Secondary%201.pdf)<br>[Secondary Two Lessons](/files/Secondary%202%20Lesson.pdf)<br> [Secondary Three Lessons](/files/Secondary%203.pdf)<br>[Secondary Four Lessons](/files/Secondary%204.pdf)
 
 ## eTeens Programme
 
