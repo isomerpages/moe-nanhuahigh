@@ -43,7 +43,7 @@ permalink: /privacy/
 
 Nan Hua Privacy Policy
 
-A full copy of our Privacy Policy can be accessed here: [Nan Hua Privacy Policy\_10\_Nov\_17.docx](https://nanhuahigh.moe.edu.sg/qql/slot/u528/news/Nan%20Hua%20Privacy%20Policy_10_Nov_17.docx)  
+A full copy of our Privacy Policy can be accessed here: [Nan Hua Privacy Policy](/files/Nan%20Hua%20Privacy%20Policy.pdf)
   
 You may also direct any queries or questions to our Data Protection Officer.  
   
