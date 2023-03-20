@@ -29,7 +29,7 @@ In the Secondary Two Debate Competition, top speakers from each class were selec
 
 On 15 July 2022, a representative from each Sec 3 class took part in the competition, where participants had to prepare Planned Responses to a range of topics from e-sports to cyberbullying. After an intensive and insightful round, Kim Harim of 305 emerged as Champion!
 
-Nan Hua Orators (Isaac)
+**Nan Hua Orators** 
 
 Nan Hua Orators is home to students with a passion for public speaking in the English Language. Orators have a chance to not only showcase their oratorical skills but also develop their confidence, resilience and teamwork. A highlight of the programme is Nan Hua Speaks, a fortnightly presentation programme, where students share topics of interest with their school mates. The orators also serve as emcees for school events and take part in public speaking competitions. This year, Teo Laura of 104 made it into the YMCA Plain English Speaking Award Semi-Finals, and Myra Lim Zhuo En of 206 and Kim Harim of 305 emerged Grand-Finalists of the National Public Speaking Competition!
 
