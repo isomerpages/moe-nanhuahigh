@@ -48,7 +48,6 @@ This year, our Reading Ambassadors took the lead by sharing their book reviews w
 
 Chua Yee Ting, 304
 
-  
 
 **EL-Humanities Week  **
 
