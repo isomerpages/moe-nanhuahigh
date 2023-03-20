@@ -9,7 +9,7 @@ description: ""
 Students learning about cross lights
 
 ![](/images/SS%20Issues%20Investigation.jpg)
-Guiding students in Issues Investigation 
+Issues Investigation in collaboration with New Town Secondary School  
 
 
 
