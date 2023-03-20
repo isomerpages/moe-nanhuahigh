@@ -15,8 +15,8 @@ As an educator, the holistic development of students’ character, confidence, a
 
 Our hope is for all Nanhuarians to build deep friendships, discover their passions and strengths, and harness these strengths for good – to uplift those around us in our Nan Hua Family and serve our community. In this regard, we appreciate our close partnership with the School Advisory Committee (SAC), the Parents Support Group (PSG), the Nan Hua Alumni, and our community partners, who have supported meaningful opportunities for our students’ development over the years. “根植传统，放眼世界，回馈社会” – 这是我们南华人的理念。At the end of their four years in Nan Hua High School, we look forward to seeing each and every Nanhuarian emerge with confidence as world-ready Bicultural Scholars who not only embrace tradition, but also lead with courage and humility to serve as champions of society. 
 
-Mr Chiew Jing Wen 
-<br> Principal
-<br> 周景文校长
+Mr Chiew Jing Wen  周景文
+<br> Principal  校长
+
 
 ![](https://nanhuahigh.moe.edu.sg/pix/spacer.gif)
