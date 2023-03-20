@@ -13,7 +13,7 @@ ECG is a developmental process that facilitates the acquisition of attitudes, sk
 
 ![](/images/Further%20Education%20Day%202022.jpg)<p style="text-align: center"><strong>Further Education Day 2022</strong></p>
 
-In Nan Hua High School, each level will be exposed to areas of Education and Career Guidance (ECG) with different focus for each level.
+In Nan Hua High School, each level will be exposed to areas of Education and Career Guidance (ECG) with a different focus for each level.
 
 The overview and objectives of the ECG Programme in NHHS is as follows:
 
