@@ -33,10 +33,9 @@ On 15 July 2022, a representative from each Sec 3 class took part in the competi
 
 Nan Hua Orators is home to students with a passion for public speaking in the English Language. Orators have a chance to not only showcase their oratorical skills but also develop their confidence, resilience and teamwork. A highlight of the programme is Nan Hua Speaks, a fortnightly presentation programme, where students share topics of interest with their school mates. The orators also serve as emcees for school events and take part in public speaking competitions. This year, Teo Laura of 104 made it into the YMCA Plain English Speaking Award Semi-Finals, and Myra Lim Zhuo En of 206 and Kim Harim of 305 emerged Grand-Finalists of the National Public Speaking Competition!
 
-Structured Reading Programme and Current Affairs Programme (Mei Si)
-
+**Structured Reading Programme and Current Affairs Programme 
+**
   
-
 The Structured Reading Programme and Current Affairs Programme aims to cultivate good reading habits among students while heightening their awareness of current affairs. 
 
   
@@ -51,7 +50,7 @@ Chua Yee Ting, 304
 
   
 
-EL-Humanities Week (Yang Wei) 
+**EL-Humanities Week  **
 
 The English Language and Humanities Week (EL-HUM Week) returned to the hall this year with a highly interactive performance by the English Drama and Debate Club. The theme for this year was ‘Alternative Realities’, which brought Nanhuarians through different worlds to discover the importance of each and every one of our Humanities and English language and Literature subjects. Nanhuarians also got the chance to go on eye-opening learning journeys to Battle Box and LTA Mobility Gallery. Coupled with a special English lesson and EL-HUM quiz, Nanhuarians enjoyed a week full of enriching activities.
 
