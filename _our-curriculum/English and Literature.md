@@ -3,8 +3,6 @@ title: English and Literature
 permalink: /our-curriculum/english-and-literature/
 description: ""
 ---
-
-
 The English Language and Literature department stays committed to our mission of nurturing world-savvy, articulate and engaging students. This year, we leveraged on the experiences gained from facing the challenges brought about by the pandemic and transformed them into opportunities to further our mission, by synergising new pedagogical approaches to enhance existing techniques. On top of signature events such as the Secondary One Public Speaking Workshops held in Term 1, the Structured Reading Programme, and the Reading Ambassadors programme, the department continued its collaboration with the Humanities Department through an exciting EL-Humanities Week Assembly lesson in Term 3 that helped students appreciate English while learning about social issues. 
 
   
@@ -31,4 +29,6 @@ On 15 July 2022, a representative from each Sec 3 class took part in the competi
 
 **Nan Hua Orators** 
 
-Nan Hua Orators is home to students with a passion for public speaking in the English Language. Orators have a chance to not only showcase their oratorical skills but also develop their confidence, resilience and teamwork. A highlight of the programme is Nan Hua Speaks, a fortnightly presentation programme, where students share topics of interest with their school mates. The orators also serve as emcees for school events and take part in public speaking competitions. This year, Teo Laura of 104 made it into the YMCA Plain English Speaking Award Semi-Finals, and Myra Lim Zhuo En of 206 and Kim Harim of 305 emerged Grand-Finalists of the National Public Speaking Competition!
+Nan Hua Orators is home to students with a passion for public speaking in the English Language. Orators have a chance to not only showcase their oratorical skills but also develop their confidence, resilience and teamwork. A highlight of the programme is Nan Hua Speaks, a fortnightly presentation programme, where students share topics of interest with their school mates. The orators also serve as emcees for school events and take part in public speaking competitions. This year, Teo Laura of 104 made it into the YMCA Plain English Speaking Award.
+
+Semi-Finals, and Myra Lim Zhuo En of 206 and Kim Harim of 305 emerged Grand-Finalists of the National Public Speaking Competition!
