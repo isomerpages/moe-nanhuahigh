@@ -6,10 +6,10 @@ third_nav_title: Programmes
 ---
 ### Overview
 
-The school believes that community involvement allows students to be active contributors as well as concerned citizens in Singapore. VIA is an important component of National Education and holistic development of students for the following reasons:
+The school believes that community involvement allows students to be active contributors as well as concerned citizens in Singapore. VIA is an important component of National Education and the holistic development of students for the following reasons:
 
 *   VIA promotes active citizenry by involving students in meaningful community service to school and community.
-*   VIA provides an opportunity for moral action and recognition for moral action.
+*   VIA provides an opportunity for moral action and recognition of moral action.
 
   
 
@@ -30,7 +30,7 @@ With the approaches in place, the school believes that Nan Hua students will de
 
           **A** ctive Citizens
 
-*   Students who contribute significantly to the local and global community and continually seek betterment to the welfare of others
+*   Students who contribute significantly to the local and global community and continually seek betterment for the welfare of others
 
           **R** esourceful Innovators
 
@@ -38,13 +38,13 @@ With the approaches in place, the school believes that Nan Hua students will de
 
           **E** mpathisers
 
-*   Students who understand the problems faced by the less-fortunate, feel the woes and act for them
+*   Students who understand the problems faced by the less-fortunate feel the woes and act for them
 
   
 ![Sec-3-VIA-2.jpg](/images/Sec3VIA2.jpg)  
 
   
 
-The VIA structure in Nan Hua High School is developmental, involving the students more and providing them with more autonomy in the planning of their VIA projects as they get more experienced. The nature of the students’ involvement in VIA ranges from service to school and environment, service to elderly community to student-initiated projects, with the choice of beneficiaries depending on the students’ decision and interest.
+The VIA structure in Nan Hua High School is developmental, involving the students more and providing them with more autonomy in planning their VIA projects as they get more experienced. The nature of the student’s involvement in VIA ranges from service to school and environment, service to the elderly community to student-initiated projects, with the choice of beneficiaries depending on the students’ decision and interest.
 
 ![Sec-3-VIA.jpg](/images/Sec3VIA.jpg)
