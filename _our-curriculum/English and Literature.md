@@ -21,6 +21,12 @@ With the aim of encouraging confident speakers, a Public Speaking Competition wa
 
 **Secondary 2 Inter-Class English Language Debate Competition**
 
+![](/images/EL3.jpeg)
+Eloquence plays an important role in debate
+
+![](/images/EL4.jpeg)
+A heated group discussion during a debate
+
 In the Secondary Two Debate Competition, top speakers from each class were selected to represent their class in a face-to-face debate finally after much-awaited relaxation of safe distancing measures. After rounds of intense debate, the competition concluded with classes 203, 204, 207, 208 and 209 emerging victorious!
 
 **Secondary 3 Inter-Class English Language Planned Response Competition**
@@ -52,6 +58,7 @@ Chua Yee Ting, 304
 
 EL-Humanities Week 
 ****
+![](/images/EL5.jpg)
 
 The English Language and Humanities Week (EL-HUM Week) returned to the hall this year with a highly interactive performance by the English Drama and Debate Club. The theme for this year was ‘Alternative Realities’, which brought Nanhuarians through different worlds to discover the importance of each and every one of our Humanities and English language and Literature subjects. Nanhuarians also got the chance to go on eye-opening learning journeys to Battle Box and LTA Mobility Gallery. Coupled with a special English lesson and EL-HUM quiz, Nanhuarians enjoyed a week full of enriching activities.
 
