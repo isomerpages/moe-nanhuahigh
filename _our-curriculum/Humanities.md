@@ -11,6 +11,8 @@ Students learning about cross lights
 ![](/images/SS%20Issues%20Investigation.jpg)
 Issues Investigation in collaboration with New Town Secondary School  
 
+![](/images/II.jpg)
+Bonding with friends
 
 A major component of the Humanities curriculum, Field-Based Learning, comprises Historical Investigation, Geographical Investigation and Issue Investigation for Social Studies. This programme takes learning outside the classroom, and sees students taking ownership of the research process to generate questions about the topic at hand, plan the execution of data collection, and conduct their own fieldwork. For the second year, we held an inter-school Issue Investigation Collaboration with NTSS, which not only deepened their understanding of current social issues, but also gave our students a unique opportunity to learn from students of different backgrounds while honing their teamwork and organisational skills.
 
