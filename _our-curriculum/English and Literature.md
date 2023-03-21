@@ -47,6 +47,12 @@ Semi-Finals, and Myra Lim Zhuo En of 206 and Kim Harim of 305 emerged Grand-Fina
 **Structured Reading Programme and Current Affairs Programme 
 **
  
+ ![](/images/EL6.jpg)
+ Engaging students in global issues
+ 
+ ![](/images/EL7.jpg)
+ Student sharing his elevator pitch
+ 
 The Structured Reading Programme and Current Affairs Programme aims to cultivate good reading habits among students while heightening their awareness of current affairs. 
 
 This year, our Reading Ambassadors took the lead by sharing their book reviews with their schoolmates on the English Language and Literature website. During the school’s assembly programme, they also explored topics that are of interest to them such as youth empowerment and the changing employment landscape. The Reading Ambassadors will strive to encourage their peers to continue reading by sparking their interest in reading. 
