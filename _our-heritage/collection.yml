@@ -1,0 +1,9 @@
+collections:
+  our-heritage:
+    output: true
+    order:
+      - Principal's Message.md
+      - Vision, Mission, Values.md
+      - School Song.md
+      - History.md
+      - Centennial Celebrations.md

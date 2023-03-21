@@ -1,0 +1,14 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - Aesthetics.md
+      - English and Literature.md
+      - Humanities.md
+      - ICT and Cyber Wellness.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Science.md
+      - Physical Education.md
+      - Character and Citizenship Education.md
+      - Co Curricular Activities.md

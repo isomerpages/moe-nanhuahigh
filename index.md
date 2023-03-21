@@ -1,32 +1,42 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Nan Hua High School
+description: An Isomer site of the Singapore Government
+image: /images/schoollogo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      key_highlights:
+        - title: Highlights
+          description: ""
+          url: /our-experience/events-2023/
+        - title: Announcements
+          description: ""
+          url: /announcements
+        - title: Quick Links
+          description: ""
+          url: /quick-links
+      background: /images/nan hua high school (3).gif
+  - infopic:
+      title: Vision
+      description: A school of excellence that nurtures world-ready Bicultural
+        Scholars who embrace tradition and are champions of
+        society.<br>根植传统  放眼世界  回馈社会 <br>一所培育双文化君子的卓越学校。
+      image: /images/homegridimg1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Mission
+      description: To nurture confident, creative, and cultured students with a
+        passion for learning.<br>  培育有信心、 有创意、  有文化素养又对学习充满热忱的学生。
+      image: /images/homegridimg2.jpg
+      alt: Image alt text
+  - infopic:
+      title: Values
+      description: "忠 Loyalty   孝 Filial Piety   仁 Humanity   爱 Love   礼
+        Courtesy  义Righteousness   廉 Integrity   耻 Sense of Shame "
+      image: /images/valuebanner.jpg
+      alt: Image alt text
+      url: /our-heritage/vision-mission-values/
+      button: our values
 ---
-

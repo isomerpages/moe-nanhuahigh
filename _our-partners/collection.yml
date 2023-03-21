@@ -1,0 +1,13 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - School Advisory Committee.md
+      - Parent Support Group.md
+      - Alumni.md
+      - Schoolbag.md
+      - Values Education Portal/.keep
+      - Values Education Portal/Values Education Portal.md
+      - Values Education Portal/Values.md
+      - Values Education Portal/Positive Education.md
+      - Values Education Portal/Cyber Wellness.md
