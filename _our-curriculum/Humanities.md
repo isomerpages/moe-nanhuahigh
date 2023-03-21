@@ -16,6 +16,12 @@ A major component of the Humanities curriculum, Field-Based Learning, comprises 
 
 **RICH Fest**
 
+![](/images/RICH1.jpg)
+Listening to their classmate's presentation 
+
+![](/images/RICH2.jpg)
+Sharing insights with one another 
+
 The Humanities department’s RICH Fest provided Secondary Two students with an innovative platform to gain a deeper understanding of History and Geography through exploring rich historical issues and geographical phenomena in ASEAN. Students learnt from one another‘s sharing and participated in engaging interactive activities such as Kahoot quizzes and food tasting. Their ability to leverage on the affordances of IT to engage one another was also heartening. This year’s RICH Fest once again ignited students’ passion for the Humanities and reinforced the relevance of the Humanities to their daily lives and experiences.
 
 Student’s Reflection
