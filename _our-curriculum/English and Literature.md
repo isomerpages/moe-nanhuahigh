@@ -29,6 +29,12 @@ On 15 July 2022, a representative from each Sec 3 class took part in the competi
 
 **Nan Hua Orators** 
 
+![](/images/EL1.jpg)
+Speech Day Hall Emcees
+
+![](/images/EL2.jpg)
+Learning how to tell stories with impact
+
 Nan Hua Orators is home to students with a passion for public speaking in the English Language. Orators have a chance to not only showcase their oratorical skills but also develop their confidence, resilience and teamwork. A highlight of the programme is Nan Hua Speaks, a fortnightly presentation programme, where students share topics of interest with their school mates. The orators also serve as emcees for school events and take part in public speaking competitions. This year, Teo Laura of 104 made it into the YMCA Plain English Speaking Award 
 Semi-Finals, and Myra Lim Zhuo En of 206 and Kim Harim of 305 emerged Grand-Finalists of the National Public Speaking Competition!
 
