@@ -24,11 +24,9 @@ Nan Hua High School Alumni Association
       为了更有效地加强校友间的情谊，校友会会所经过重新装修后，在今年校庆日隆重开幕，命名“聚谊阁”。除了为校友们主办各项联谊活动，如桌游、南部山脊健步行等，校友们也本着“取之社会，回馈社会”的精神为广惠肇留医院社区关怀中心举办了一个环保布花缝制活动，给许多年长者的生活增添一抹色彩。
 
       6月23日，第十一届校友会执委在选举中诞生。虽然接棒的执委中有好几张新面孔，但都是愿意在资深前辈建立的基础上实践校友会宗旨的有志者。祝愿来年，校友们共同发挥南华精神，和母校一起攀越高峰。
-
-													  第十一届校友会会长朱致陇
+		
+		                                  第十一届校友会会长朱致陇
                               
-
-
 ![](/images/Alumni_Preparing%20uniforms%20for%20Secondary%201%20students.jpg)
 **Alumni preparing uniforms for Secondary 1 Registration Day**
 	
