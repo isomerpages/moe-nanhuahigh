@@ -14,7 +14,6 @@ In fostering the bond between members of different generations, the Alumni Assoc
 Another highlight for 2022 was the election of the 11th Executive Committee on 23 June 2022. The baton was passed to a new team with fresh faces and a new lead who aspires to build upon the foundation laid by the seniors.
 
 **CHU C. L. TOMMY**
-
 President of 11th Executive Committee  
 Nan Hua High School Alumni Association
 
