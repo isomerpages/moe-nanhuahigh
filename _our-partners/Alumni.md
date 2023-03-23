@@ -3,79 +3,9 @@ title: Alumni
 permalink: /our-partners/alumni/
 description: ""
 ---
-![committee members v1-3_final.jpg](/images/committee%20members%20v1-3_final.jpg)
+![alumni logo](/images/Alumni_2016_Logo.jpg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th colspan="3" class="tg-baqh">第十届执委 10th Executive Committee
-</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">会长</td>
-    <td class="tg-0lax">President </td>
-    <td class="tg-0lax">林四妹 Mdm Lim See Moi</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">副会长<br></td>
-    <td class="tg-0lax">Vice President</td>
-    <td class="tg-0lax">罗美荔 Mdm Loh Mary<br><br>朱致陇  Mr Chu Chee Leng Tommy<br><br>陈思平 Mr Tan Sze Pheng<br></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">财政  </td>
-    <td class="tg-0lax">Treasurer </td>
-    <td class="tg-0lax">甄淑贞 Mdm Chin Sook Ching </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">副财政 </td>
-    <td class="tg-0lax"> Assistant Treasurer</td>
-    <td class="tg-0lax">陈文碧 Mdm Chen Boon Phek  </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> 秘书</td>
-    <td class="tg-0lax">Secretary </td>
-    <td class="tg-0lax"> 李伟建 Mr Lee Wei Chien William<br></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> 副秘书</td>
-    <td class="tg-0lax"> Assistant Secretary</td>
-    <td class="tg-0lax"> 阮秀华 Mdm Wan Siew Hua </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">公关</td>
-    <td class="tg-0lax"> Public Relations</td>
-    <td class="tg-0lax">余美玉 Mdm Yu Mei Yoke </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">副公关 </td>
-    <td class="tg-0lax"> Assistant Public Relations</td>
-    <td class="tg-0lax"> 陈照燿 Mr Tan Zhow Yeow, Roger </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> 委员</td>
-    <td class="tg-0lax"> Committee Member</td>
-    <td class="tg-0lax"> 张瑞平 Mdm Cheong Sooi Peng<br>李丽芳 Mdm Lee Lai Fong<br><br>梁英芳 Mdm Leong Eng Fong<br><br>林赛琴 Mdm Lim Sai Khin<br><br>张玉宋 Mdm Linda Teo<br><br>郑淑云 Ms Cheng Shuyun<br></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">增选 </td>
-    <td class="tg-0lax">Co-opted </td>
-    <td class="tg-0lax">吴亚麦  Mdm Goh Ah Mai Nancy<br><br>林培兰 Mdm Lim Phui Lan, Susan <br><br>颜㻡 Mdm Ngan Tip<br><br>许鑑坤 Mr Khoo Kian Koon<br></td>
-  </tr>
-</tbody>
-</table>
-
-       
+![Alumni 11th Exco](/images/NHHS%2011%20Alumni%20Association%20Exco.jpg)
 
 The Alumni Association believes in moving forward and so we started to serve our alma mater from the beginning of the year at events such as Secondary 1 Registration and the Secondary 4 Expedition for Excellence. We are delighted to learn that the career education talks received many positive responses. By sharing our work experiences, we hope to impact our juniors' career choices positively. Our key members also celebrated Chinese New Year and Mid-Autumn Festival together with the Nan Hua family.
 
