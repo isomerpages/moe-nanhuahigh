@@ -3,8 +3,6 @@ title: Alumni
 permalink: /our-partners/alumni/
 description: ""
 ---
-![alumni logo](/images/Alumni_2016_Logo.jpg)
-
 ![Alumni 11th Exco](/images/NHHS%2011%20Alumni%20Association%20Exco.jpg)
 
 The Alumni Association believes in moving forward and so we started to serve our alma mater from the beginning of the year at events such as Secondary 1 Registration and the Secondary 4 Expedition for Excellence. We are delighted to learn that the career education talks received many positive responses. By sharing our work experiences, we hope to impact our juniors' career choices positively. Our key members also celebrated Chinese New Year and Mid-Autumn Festival together with the Nan Hua family.
