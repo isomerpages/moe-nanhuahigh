@@ -2,7 +2,7 @@ collections:
   contact-us:
     output: true
     order:
-      - Contact Page.md
+      - Contact Page 联系方式.md
       - Booklist and Uniform.md
       - Parents Gateway Mobile App.md
       - Virtual Tour.md
