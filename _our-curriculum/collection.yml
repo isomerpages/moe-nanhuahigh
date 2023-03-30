@@ -2,7 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Aesthetics.md
+      - Aesthetics 美育.md
       - English and Literature.md
       - Humanities.md
       - ICT and Cyber Wellness.md
