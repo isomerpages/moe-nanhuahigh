@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Aesthetics 美育.md
-      - English and Literature.md
+      - English and Literature 英文与英文文学.md
       - Humanities.md
       - ICT and Cyber Wellness.md
       - Mathematics.md
