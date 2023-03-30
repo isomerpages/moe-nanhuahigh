@@ -3,6 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+![](/images/dsa%20engagement%20announcement.jpg)
 ![](/images/14%20Dec%20Announcement%20to%202023%20Sec%201%20Students.jpg)
 
 **Welcome Secondary One Students (Academic Year 2023)**
