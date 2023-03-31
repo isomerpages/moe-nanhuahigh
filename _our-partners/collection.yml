@@ -2,12 +2,12 @@ collections:
   our-partners:
     output: true
     order:
-      - School Advisory Committee.md
-      - Parent Support Group.md
-      - Alumni.md
-      - Schoolbag.md
-      - Values Education Portal/.keep
-      - Values Education Portal/Values Education Portal.md
-      - Values Education Portal/Values.md
-      - Values Education Portal/Positive Education.md
-      - Values Education Portal/Cyber Wellness.md
+      - School Advisory Committee 学校咨询委员会.md
+      - Parent Support Group 家长支援组.md
+      - Alumni 校友会.md
+      - Schoolbag 教育部网络刊物.md
+      - Values Education Portal 价值教育平台/.keep
+      - Values Education Portal 价值教育平台/Values Education Portal.md
+      - Values Education Portal 价值教育平台/Values.md
+      - Values Education Portal 价值教育平台/Positive Education.md
+      - Values Education Portal 价值教育平台/Cyber Wellness.md

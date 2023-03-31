@@ -2,6 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - School Management Committee.md
-      - Executive and Administrative Staff.md
-      - Form Teachers 2023.md
+      - School Management Committee 学校管理层.md
+      - Executive and Administrative Staff 行政人员.md
+      - Form Teachers 2023 级任老师 (2023）.md
