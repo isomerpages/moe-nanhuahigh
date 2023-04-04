@@ -1,9 +1,8 @@
 ---
-title: Sustainable Environment Education 永续环境教育
+title: Sustainable Environment Education 可持续环境教育
 permalink: /our-experience/sustainable-environment-education/
 description: ""
 ---
-
 ### Eco-Serve Week&nbsp;  
   
 During Eco-Serve Week, students were engaged in Eco-Craft upcycling booths and Eco-Race during their recess and lunch breaks. The Parent Support Group also gave out Grow Your Own Green kits, and our own hydroponics was harvested for staff. Go Green Day also encouraged all to take public transport or walk to school.  
