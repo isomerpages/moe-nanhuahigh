@@ -4,17 +4,17 @@ permalink: /our-experience/programmes/dsa-2020/
 description: ""
 third_nav_title: Programmes
 ---
-### **2023 Direct School Admission – Secondary (DSA-SEC)**
-### 
-### **\[For admission to Secondary 1 in 2024\]**
+# **2023 Direct School Admission – Secondary (DSA-SEC)**
+# 
+# **\[For admission to Secondary 1 in 2024\]**
  
-## **Introduction**
+### **Introduction**
 ----------------
 
 Nan Hua High School is an Autonomous Special Assistance Plan (SAP) school. Our vision is to be a school of excellence that nurtures world-ready Bicultural Scholars who embrace tradition and are champions of society. Our mission is to nurture confident, creative and cultured students with a passion for learning.
   
 
-**Overview**
+### **Overview**
 ------------
 
 In the 2023 Direct School Admission (DSA) Exercise, Nan Hua High School will be admitting students who possess special talents in one of the following:  
