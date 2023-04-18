@@ -7,7 +7,7 @@ third_nav_title: Programmes
 ### **2023 Direct School Admission – Secondary (DSA-SEC)**
 ### 
 ### **\[For admission to Secondary 1 in 2024\]**
-## 
+ 
 ## **Introduction**
 ----------------
 
