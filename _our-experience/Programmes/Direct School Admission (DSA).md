@@ -7,6 +7,7 @@ third_nav_title: Programmes
 ### **2023 Direct School Admission – Secondary (DSA-SEC)**
 ### 
 ### **\[For admission to Secondary 1 in 2024\]**
+## 
 ## **Introduction**
 ----------------
 
@@ -49,6 +50,3 @@ In the 2023 Direct School Admission (DSA) Exercise, Nan Hua High School will b
 **Leadership**
 
 **The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec**
-      
-    
-
