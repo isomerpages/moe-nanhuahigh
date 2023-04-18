@@ -17,42 +17,43 @@ Nan Hua High School is an Autonomous Special Assistance Plan (SAP) school. Our v
 ------------
 
 In the 2023 Direct School Admission (DSA) Exercise, Nan Hua High School will be admitting students who possess special talents in one of the following:  
-  
+ 
+**Performing Arts**
 
-**Category 1: CCA Talent**
+* Chinese Drama  
+* Chinese Orchestra
+* Chinese and Modern Dance
+* Choir
+* Concert Band 
+* English Drama
+* Guzheng Ensemble
+* Harp Ensemble
 
-*   Performing Arts
+**Visual Arts, Design and Media**
 
-*   Chinese Orchestra  
-    
-*   Choir
-*   Chinese Dance
-*   Modern Dance
-*   Guzheng Ensemble
-*   Concert Band
-*   English Drama
-*   Chinese Drama
-*   Harp Ensemble  
+·      Chinese Calligraphy
 
-*   Visual Arts - Chinese Calligraphy
+**Sports and Games**
 
-*   Sports
+·      Badminton
 
-*   Badminton
-*   Basketball (Boys only)
-*   Netball (Girls only)
-*   Softball (Girls only)
-*   Table-Tennis
-*   Track & Field - Long Distance Running only
+·      Basketball (Boys only)
 
-**Category 2: Leadership**  
+·      Netball (Girls only)
 
-*   Leadership
-*   Boys’ Brigade (Boys only)
-*   Girl Guides (Girls only)
-*   National Cadet Corps
-*   National Police Cadet Corps
-*   St John Brigade  
+·      Softball (Girls only)
+
+·      Table Tennis
+
+·      Track & Field
+
+**Language and Humanities**
+
+·      Debating
+
+**Leadership**
+
+_“The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec”_
       
     
 
