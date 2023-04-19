@@ -73,7 +73,7 @@ third_nav_title: Programmes
 	
 <h2 style="margin: 0px 0px 8px; outline: 0px; padding: 0px; box-sizing: border-box; min-height: 1em; color: rgb(0, 59, 195); font-size: 23px; line-height: 1.2 !important;">
 	
-<a href="/our-experience/programmes/direct-school-admission-dsa" target="" style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box; cursor: pointer;">Direct School Admission (DSA)</a></h2>
+<a href="/our-experience/programmes/dsa-2020" target="" style="margin: 0px; outline: 0px; padding: 0px; box-sizing: border-box; cursor: pointer;">Direct School Admission (DSA)</a></h2>
 	
 <h2 style="margin: 0px 0px 8px; outline: 0px; padding: 0px; box-sizing: border-box; min-height: 1em; color: rgb(0, 59, 195); font-size: 23px; line-height: 1.2 !important;">
 	
