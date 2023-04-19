@@ -11,7 +11,8 @@ third_nav_title: Programmes
 
 ECG is a developmental process that facilitates the acquisition of attitudes, skills and knowledge to help students better understand themselves, explore viable education and career options, make informed decisions and develop plans to achieve their career aspirations.
 
-![](/images/Further%20Education%20Day%202022.jpg)<p style="text-align: center"><strong>Further Education Day 2022</strong></p>
+![](/images/Further%20Education%20Day%202022.jpg)
+<p style="text-align: center"><strong>Further Education Day 2022</strong></p>
 
 In Nan Hua High School, each level will be exposed to areas of Education and Career Guidance (ECG) with a different focus for each level.
 
@@ -67,6 +68,6 @@ At the end of each level, the objectives of ECG @ Nan Hua High School are to:
 
   
 
-### **Resources for Students & Parents**
+### **Resources&nbsp;for Students &amp; Parents**
 
 [JAE Information 2023](https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx)
