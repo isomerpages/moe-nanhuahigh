@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission (DSA)
-permalink: /our-experience/programmes//our-experience/programmes/direct-school-admission-dsa/
+permalink: /our-experience/programmes/direct-school-admission-dsa/
 description: ""
 third_nav_title: Programmes
 ---
