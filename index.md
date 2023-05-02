@@ -39,4 +39,9 @@ sections:
       alt: Image alt text
       url: /our-heritage/vision-mission-values/
       button: our values
+  - infobar:
+      title: 2023 Direct School Admission – Secondary (DSA-SEC)
+      description: "[For admission to Secondary 1 in 2024]"
+      button: "Click here "
+      url: tes
 ---
