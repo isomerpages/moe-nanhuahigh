@@ -18,6 +18,11 @@ sections:
           description: ""
           url: /quick-links
       background: /images/nan hua high school (3).gif
+  - infobar:
+      title: 2023 Direct School Admission – Secondary (DSA-SEC)
+      description: "[For admission to Secondary 1 in 2024]"
+      button: "Click here "
+      url: our-experience/programmes/direct-school-admission-dsa
   - infopic:
       title: Vision
       description: A school of excellence that nurtures world-ready Bicultural
@@ -39,9 +44,4 @@ sections:
       alt: Image alt text
       url: /our-heritage/vision-mission-values/
       button: our values
-  - infobar:
-      title: 2023 Direct School Admission – Secondary (DSA-SEC)
-      description: "[For admission to Secondary 1 in 2024]"
-      button: "Click here "
-      url: our-experience/programmes/direct-school-admission-dsa
 ---
