@@ -8,15 +8,15 @@ third_nav_title: Programmes
  
 # **[For admission to Secondary 1 in 2024]**
    
-#### **Introduction**
+### **Introduction**
 
 Nan Hua High School is an Autonomous Special Assistance Plan (SAP) school. Our vision is to be a school of excellence that nurtures world-ready Bicultural Scholars who embrace tradition and are champions of society. Our mission is to nurture confident, creative and cultured students with a passion for learning.  
 
-#### **Overview**
+### **Overview**
 
 In the 2023 Direct School Admission (DSA) Exercise, Nan Hua High School will be admitting students who possess special talents in one of the following:
 
-##### **Performing Arts**
+#### **Performing Arts**
 * Chinese Drama  
 * Chinese Orchestra
 * Chinese and Modern Dance
@@ -26,10 +26,10 @@ In the 2023 Direct School Admission (DSA) Exercise, Nan Hua High School will be 
 * Guzheng Ensemble
 * Harp Ensemble
 
-##### **Visual Arts, Design and Media**
+#### **Visual Arts, Design and Media**
 * Chinese Calligraphy
 
-##### **Sports and Games**
+#### **Sports and Games**
 * Badminton
 * Basketball (Boys only)
 * Netball (Girls only)
@@ -37,13 +37,13 @@ In the 2023 Direct School Admission (DSA) Exercise, Nan Hua High School will be 
 * Table Tennis
 * Track & Field
 
-##### **Language and Humanities**
+#### **Language and Humanities**
 
 * Debating
 
-##### **Leadership**
+#### **Leadership**
 
-##### **Selection Process**
+### **Selection Process**
 
 1.    Selection of students for the 2023 DSA exercise will take place from 26 June – 11 September.
 
@@ -53,12 +53,9 @@ In the 2023 Direct School Admission (DSA) Exercise, Nan Hua High School will be 
 
 4.    Shortlisted applicants will be required to undergo selection trials, auditions and/or interviews.
 
-#### **Selection Criteria**
-
-##### **Performing Arts**  
-  
-
-**Chinese Orchestra**
+### **Selection Criteria**
+#### **Performing Arts**  
+##### **Chinese Orchestra**
 
 Applicants should
 * possess strong interest and passion for Chinese Orchestra
@@ -73,7 +70,7 @@ Applicants should
 
 Ø  Any Percussion instrument
 
-**Concert Band**
+##### **Concert Band**
 
 Applicants should
 
@@ -89,7 +86,7 @@ Applicants should
 
 Ø  Percussion Instruments - Tuned and Untuned
 
-**All Other Performing Arts**
+##### **All Other Performing Arts**
 
 Applicants should
 
@@ -99,9 +96,9 @@ Applicants should
 
 * have outstanding achievements in the relevant DSA talent area
 
-**Visual Arts, Design and Media**
+##### **Visual Arts, Design and Media**
 
-**Chinese Calligraphy**
+##### **Chinese Calligraphy**
 
 Applicants should
 
@@ -111,7 +108,7 @@ Applicants should
 
 * have outstanding individual achievements
 
-##### **Sports and Games**
+#### **Sports and Games**
 
 Applicants should
 
@@ -119,9 +116,9 @@ Applicants should
 
 * have outstanding individual achievements
 
-##### **Language and Humanities**
+#### **Language and Humanities**
 
-**Debating**
+##### **Debating**
 
 Applicants should
 * have represented school in debating or public speaking competitions
@@ -131,14 +128,14 @@ Applicants should
 * have strong English Language ability
 * have good current affairs knowledge
 
-##### **Leadership**
+#### **Leadership**
 
 Applicants should
 
 * demonstrate exemplary character and leadership qualities
 * hold key school-wide leadership positions in Prefectorial Board/Student Council (e.g. Head or Deputy Head Prefect or its equivalent) and/or significant student organisations in primary school
 
-#### **Programmes for successful applicants**
+### **Programmes for successful applicants**
 
 **[Performing Arts]** Successful applicants will join the CCA of their respective DSA talent area. They will have the opportunity to represent the school in Singapore Youth Festival Arts Presentations as well as other performances and/or competitions. They will also be given the opportunity to take part in Cultural Potpourri, our school’s annual concert by the Performing Arts CCA groups.  
 
