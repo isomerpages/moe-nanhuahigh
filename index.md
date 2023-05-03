@@ -44,4 +44,9 @@ sections:
       alt: Image alt text
       url: /our-heritage/vision-mission-values/
       button: our values
+  - infobar:
+      title: "DSA Online Engagement "
+      description: 4 May 2023
+      button: "Click here "
+      url: /announcement
 ---
