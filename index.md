@@ -48,5 +48,5 @@ sections:
       title: "DSA Online Engagement "
       description: 4 May 2023
       button: "Click here "
-      url: announcements
+      url: /announcements/
 ---
