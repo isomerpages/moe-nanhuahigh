@@ -23,6 +23,11 @@ sections:
       description: "[For admission to Secondary 1 in 2024]"
       button: "Click here "
       url: our-experience/programmes/direct-school-admission-dsa
+  - infobar:
+      title: "DSA Online Engagement "
+      description: 4 May 2023
+      button: "Click here "
+      url: /announcements/
   - infopic:
       title: Vision
       description: A school of excellence that nurtures world-ready Bicultural
