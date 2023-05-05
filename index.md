@@ -23,6 +23,12 @@ sections:
       description: "[For admission to Secondary 1 in 2024]"
       button: "Click here "
       url: our-experience/programmes/direct-school-admission-dsa
+  - infobar:
+      title: Certificate Collection for 2022 Graduating Classes
+      description: Collection of School Graduation Certificate & Testimonial from 8
+        May 2023 to 30 June 2023
+      button: INFO HERE
+      url: https://www.nanhuahigh.moe.edu.sg/announcements/
   - infopic:
       title: Vision
       description: A school of excellence that nurtures world-ready Bicultural
@@ -44,10 +50,4 @@ sections:
       alt: Image alt text
       url: /our-heritage/vision-mission-values/
       button: our values
-  - infobar:
-      title: Certificate Collection for 2022 Graduating Classes
-      description: Collection of School Graduation Certificate & Testimonial from 8
-        May 2023 to 30 Jun 2023
-      button: INFO HERE
-      url: https://www.nanhuahigh.moe.edu.sg/announcements/
 ---
