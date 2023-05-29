@@ -3,7 +3,7 @@ title: Performing Arts 表演艺术
 permalink: /our-experience/performing-arts/
 description: ""
 ---
-![Secondary 2 CnME Aesthetics - Students dancing to the beat of the drums.JPG](/images/sec2cnme.jpg)<p><strong>Students dancing to the beat of the drums </strong></p>
+![Secondary 2 CnME Aesthetics - Students dancing to the beat of the drums.JPG](/images/sec2cnme.jpg)<p style="text align:center"><strong>Students dancing to the beat of the drums </strong></p>
 
   
 
