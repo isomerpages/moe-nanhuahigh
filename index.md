@@ -19,11 +19,6 @@ sections:
           url: /quick-links
       background: /images/nan hua high school (3).gif
   - infobar:
-      title: 2023 Direct School Admission – Secondary (DSA-SEC)
-      description: "[For admission to Secondary 1 in 2024]"
-      button: "Click here "
-      url: our-experience/programmes/direct-school-admission-dsa
-  - infobar:
       title: Certificate Collection for 2022 Graduating Classes
       description: Collection of School Graduation Certificate & Testimonial from 8
         May 2023 to 30 June 2023
