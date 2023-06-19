@@ -8,5 +8,4 @@ description: ""
 
 
 
-| ![](/images/Events%20Page/cpc_test.png) | ![](/images/00_Main01.jpg) | Column 3 |
-
+| ![](/images/Events%20Page/cpc_test.png) | ![](/images/00_Main01.jpg) | ![](/images/01KZ20265Resized.jpg) |
