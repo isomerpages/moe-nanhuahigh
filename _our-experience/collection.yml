@@ -2,9 +2,9 @@ collections:
   our-experience:
     output: true
     order:
-      - Events Page/Ipad Unboxing.md
-      - Events Page/Events.md
-      - Events Page/.keep
+      - Events/Ipad Unboxing.md
+      - Events/Events.md
+      - Events/.keep
       - Programmes/.keep
       - Programmes/Programmes.md
       - Programmes/sKy Leaders Programme.md
