@@ -16,6 +16,8 @@ Over the three days, the Secondary One students forged new friendships while bon
 |![](/images/2023%20camp%20genesis%20campfire%20performance.jpg) | ![](/images/2023%20camp%20genesis%204.jpg)|
 
 
+
+
 **Camp Cultura – Secondary Two**
 
 ![](/images/2023%20camp%20cultura%20hpv.jpg)
