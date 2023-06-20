@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Events Page/.keep
-      - Events.md
       - Programmes/.keep
       - Programmes/Programmes.md
       - Programmes/sKy Leaders Programme.md
