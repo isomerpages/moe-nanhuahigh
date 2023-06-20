@@ -4,7 +4,7 @@ permalink: /our-experience/events/
 description: ""
 third_nav_title: Events
 ---
-# Events
+# Life at Nan Hua
 
 |<a href="/our-experience/events/camp-achiever/"><img src="/images/Events%20Page/campachiever2023_945x630.png"></a> | <a href="/our-experience/events/chinese-new-year/"><img src="/images/Events%20Page/cny2023_945x630.png"></a> | <a href="/our-experience/events/ipad-unboxing-day/"><img src="/images/Events%20Page/ipadunboxing2023_945x630.png"></a>|
 
