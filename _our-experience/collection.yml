@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - Events/Annual Road Run.md
       - Events/.keep
       - Events/Events.md
       - Events/Camp Achiever.md
