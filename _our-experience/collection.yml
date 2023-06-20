@@ -2,15 +2,15 @@ collections:
   our-experience:
     output: true
     order:
-      - Events/.keep
-      - Events/Events.md
-      - Events/Camp Achiever.md
-      - Events/Chinese New Year.md
-      - Events/Ipad Unboxing Day.md
-      - Events/Annual Road Run.md
-      - Events/National Youth Environment Conference.md
-      - Events/Speech Day.md
-      - Events/Cultural Potpourri.md
+      - Events 活动/.keep
+      - Events 活动/Events.md
+      - Events 活动/Camp Achiever.md
+      - Events 活动/Chinese New Year.md
+      - Events 活动/Ipad Unboxing Day.md
+      - Events 活动/Annual Road Run.md
+      - Events 活动/National Youth Environment Conference.md
+      - Events 活动/Speech Day.md
+      - Events 活动/Cultural Potpourri.md
       - Programmes/.keep
       - Programmes/Programmes.md
       - Programmes/sKy Leaders Programme.md
