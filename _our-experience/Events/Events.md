@@ -13,3 +13,5 @@ third_nav_title: Events
 |![](/images/Events%20Page/culturalpotpourri2023_945x630.png) | ![](/images/Events%20Page/sportscarnival2023_945x630.png) | ![](/images/Events%20Page/confuciuscamp2023_945x630.png)|
 
 |<a href="/our-experience/events/camp-achiever/"><img src="/images/Events%20Page/ndp2022_945x630.png"></a> | <a href="/our-experience/events/chinese-new-year/"><img src="/images/Events%20Page/teachersday2022_945x630.png"></a> | <a href="/our-experience/events/ipad-unboxing-day/"><img src="/images/Events%20Page/midautumnfestival2022_945x630.png"></a>|
+
+|<a href="/our-experience/events/camp-achiever/"><img src="/images/Events%20Page/annualartsappreciation_945x630.png"></a> | <a href="/our-experience/events/chinese-new-year/"><img src="/images/Events%20Page/graduationday_945x630.png"></a> | <a href="/our-experience/events/ipad-unboxing-day/"><img src="/images/Events%20Page/openhouse2022_945x630.png"></a>|
