@@ -2,10 +2,10 @@ collections:
   our-experience:
     output: true
     order:
-      - Events/Chinese New Year.md
       - Events/.keep
       - Events/Events.md
       - Events/Camp Achiever.md
+      - Events/Chinese New Year.md
       - Events/Ipad Unboxing Day.md
       - Programmes/.keep
       - Programmes/Programmes.md
