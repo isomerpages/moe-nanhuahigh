@@ -2,13 +2,13 @@ collections:
   our-experience:
     output: true
     order:
-      - Events/National Youth Environment Conference.md
       - Events/.keep
       - Events/Events.md
       - Events/Camp Achiever.md
       - Events/Chinese New Year.md
       - Events/Ipad Unboxing Day.md
       - Events/Annual Road Run.md
+      - Events/National Youth Environment Conference.md
       - Programmes/.keep
       - Programmes/Programmes.md
       - Programmes/sKy Leaders Programme.md
