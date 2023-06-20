@@ -25,7 +25,6 @@ third_nav_title: Events
 
 ![2023 CNY hamper](/images/2023%20CNY%20hamper.jpg)
 
-##### Chen Zirong (Sec 2-01) reflected: "I fully enjoyed myself as we could lohei with our friends and teachers. I am appreciative of the performing arts CCAs who put in so much effort for the amazing performances. From this experience, I have learnt not to take things for granted, such as the chance to watch performances live. The engaging activities have also helped me immerse in and appreciate the Chinese culture better. I hereby wish everyone a Happy Chinese New Year!"
-
+Chen Zirong (Sec 2-01) reflected: "I fully enjoyed myself as we could lohei with our friends and teachers. I am appreciative of the performing arts CCAs who put in so much effort for the amazing performances. From this experience, I have learnt not to take things for granted, such as the chance to watch performances live. The engaging activities have also helped me immerse in and appreciate the Chinese culture better. I hereby wish everyone a Happy Chinese New Year!"
 
 | ![2023 CNY choir](/images/NHHS%20CNY%202023_choir.jpg) | ![2023 CNY finale](/images/NHHS%20CNY%202023_final.jpg) |
