@@ -21,5 +21,3 @@ third_nav_title: Events
         </a><a class="btn btn-primary" href="#">Go somewhere</a>
       </div>
     </div>
-
-		
