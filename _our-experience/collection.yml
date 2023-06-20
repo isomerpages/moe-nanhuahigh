@@ -2,8 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Events/Cultural Potpourri.md
-      - Events/Speech Day.md
       - Events/.keep
       - Events/Events.md
       - Events/Camp Achiever.md
@@ -11,6 +9,8 @@ collections:
       - Events/Ipad Unboxing Day.md
       - Events/Annual Road Run.md
       - Events/National Youth Environment Conference.md
+      - Events/Speech Day.md
+      - Events/Cultural Potpourri.md
       - Programmes/.keep
       - Programmes/Programmes.md
       - Programmes/sKy Leaders Programme.md
