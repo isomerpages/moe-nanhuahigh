@@ -16,6 +16,7 @@ With their new iPads, each Sec 1 student now joins the rest of the school in hav
 1.  develops their digital literacies,
 2.  supports self-directed and collaborative learning, and 
 3.  enhances teaching and learning. 
+
 Every Nanhuarian, equipped with a PLD, now has equitable access to digital tools for blended learning, and will be future-ready, confident, creative and cultured learners.
 
 ![](/images/Sec%201%20iPad%20Unboxing%20(162)%20edited.jpg)
