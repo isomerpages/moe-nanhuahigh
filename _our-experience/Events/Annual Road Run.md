@@ -18,7 +18,7 @@ third_nav_title: Events
 	</div>
 	<div class="carousel-inner">
 		<div class="carousel-item active">
-			<img alt="..." class="d-block w-100" src="...">
+			<img alt="..." class="d-block w-100" src="/images/Events%20Page/Annual%20Road%20Run/2023%20RR%201.jpg">
 		</div>
 		<div class="carousel-item">
 			<img alt="..." class="d-block w-100" src="...">
