@@ -31,6 +31,8 @@ third_nav_title: Events
 
 **Camp Horizon – Secondary Four**
 
-| Ready to strive for their goals in 2023, the secondary four students reviewed different studying techniques in the “Learning How to Learn’ segment of the camp, set out with confidence for their 8.8km Expedition for Excellence and visited various institutes of higher learning to develop resilience and make a more informed choice in their future career pathways. On top of that, students suited up for a luxurious fine dining experience where they picked up skills on social etiquette that prepared them for life ahead. | ![](/images/2023%20camp%20horizon%20exped.jpg)
+![](/images/2023%20camp%20horizon%20exped.jpg)
+
+Ready to strive for their goals in 2023, the secondary four students reviewed different studying techniques in the “Learning How to Learn’ segment of the camp, set out with confidence for their 8.8km Expedition for Excellence and visited various institutes of higher learning to develop resilience and make a more informed choice in their future career pathways. On top of that, students suited up for a luxurious fine dining experience where they picked up skills on social etiquette that prepared them for life ahead.
 
 | ![](/images/2023%20camp%20horizon%20visit%20to%20IHL.jpg) | ![](/images/2023%20camp%20horizon%20fine%20dining.jpg) |
