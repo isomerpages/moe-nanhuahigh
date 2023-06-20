@@ -16,4 +16,4 @@ third_nav_title: Events
 ##### 3.  enhances teaching and learning. Every Nanhuarian, equipped with a PLD, now has equitable access to digital tools for blended learning, and will be future-ready, confident, creative and cultured learners.
 
 ![](/images/Sec%201%20iPad%20Unboxing%20(162)%20edited.jpg)
-##### Above: Sec 1 students reciting the cyber wellness pledge
+##### ^Sec 1 students reciting the cyber wellness pledge
