@@ -14,4 +14,3 @@ third_nav_title: Events
 
 
 | ![](/images/2023%20camp%203.jpg) | ![](/images/2023%20camp%20genesis%204.jpg) |
-
