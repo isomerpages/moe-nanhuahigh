@@ -12,7 +12,7 @@ third_nav_title: Events
 | Over the three days, the Secondary One students forged new friendships while bonding over the preparation of their class dance, in anticipation of their campfire performance. With the golden flames of the campfire blazing in the background, each and every secondary one class danced their hearts out. They also proudly walked through the ‘礼仪之门, marking the official start of their journey as a Nanhuarian! | ![](/images/2023%20camp%203.jpg) |
 
 
-| ![](/images/2023%20camp%20genesis%20campfire%20performance.jpg) | ![](/images/2023%20camp%20genesis%204.jpg) |
+|![](/images/2023%20camp%20genesis%20campfire%20performance.jpg) | ![](/images/2023%20camp%20genesis%204.jpg)|
 
 
 **Camp Cultura – Secondary Two**
@@ -34,4 +34,3 @@ Yu Boyuan of Class 3-09 reflected: “The shiniest diamonds are formed under the
 | Ready to strive for their goals in 2023, the secondary four students reviewed different studying techniques in the “Learning How to Learn’ segment of the camp, set out with confidence for their 8.8km Expedition for Excellence and visited various institutes of higher learning to develop resilience and make a more informed choice in their future career pathways. On top of that, students suited up for a luxurious fine dining experience where they picked up skills on social etiquette that prepared them for life ahead. | ![](/images/2023%20camp%20horizon%20exped.jpg)
 
 | ![](/images/2023%20camp%20horizon%20visit%20to%20IHL.jpg) | ![](/images/2023%20camp%20horizon%20fine%20dining.jpg) |
-		
