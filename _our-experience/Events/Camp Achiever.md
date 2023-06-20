@@ -24,6 +24,8 @@ third_nav_title: Events
 
 | An exciting, fun-filled outdoor adventure in Sentosa was fully welcomed by the Secondary Three cohort where they were engaged in many team building activities such as dragon boating, rafting, navigation and the trolley & trebuchet challenge. Furthermore, students had the opportunity to develop survival skills and cook their own meals outdoors, pitch tents and even experience sleeping overnight outdoors under the stars in Nan Hua! | ![](/images/2023%20camp%20vigour%20beach.jpg) |
 
+> Yu Boyuan of Class 3-09 reflected: “The shiniest diamonds are formed under the biggest pressure”. Through the many activities of Camp Vigour, I built resilience, honed my leadership skills and learnt the importance of teamwork. A very special thanks to the alumni and Parent Support Group(PSG) too for their unwavering support and help to ensure the smooth running of the camp!
+
 | ![](/images/camp%2013.jpg) | ![](/images/2023%20camp%20vigour%20tent.jpg) |
 
 **Camp Horizon – Secondary Four**
@@ -31,5 +33,3 @@ third_nav_title: Events
 | Ready to strive for their goals in 2023, the secondary four students reviewed different studying techniques in the “Learning How to Learn’ segment of the camp, set out with confidence for their 8.8km Expedition for Excellence and visited various institutes of higher learning to develop resilience and make a more informed choice in their future career pathways. On top of that, students suited up for a luxurious fine dining experience where they picked up skills on social etiquette that prepared them for life ahead. | ![](/images/2023%20camp%20horizon%20exped.jpg)
 
 | ![](/images/2023%20camp%20horizon%20visit%20to%20IHL.jpg) | ![](/images/2023%20camp%20horizon%20fine%20dining.jpg) |
-
-> Yu Boyuan of Class 3-09 reflected: “The shiniest diamonds are formed under the biggest pressure”. Through the many activities of Camp Vigour, I built resilience, honed my leadership skills and learnt the importance of teamwork. A very special thanks to the alumni and Parent Support Group(PSG) too for their unwavering support and help to ensure the smooth running of the camp!
