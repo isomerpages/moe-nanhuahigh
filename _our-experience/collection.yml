@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - Events/Cultural Potpourri.md
       - Events/Speech Day.md
       - Events/.keep
       - Events/Events.md
