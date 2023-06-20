@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Events
 ---
 # Annual Road Run at West Coast Park
-
-![](/images/Events%20Page/Annual%20Road%20Run/2023%20RR%201.jpg)
-
+![](/images/Events%20Page/Annual%20Road%20Run/2023%20RR%202.jpg)
 
 
 <div data-bs-ride="carousel" class="carousel slide" id="carouselExampleIndicators">
@@ -21,7 +19,7 @@ third_nav_title: Events
 			<img alt="..." class="d-block w-100" src="/images/Events%20Page/Annual%20Road%20Run/2023%20RR%201.jpg">
 		</div>
 		<div class="carousel-item">
-			<img alt="..." class="d-block w-100" src="...">
+			<img alt="..." class="d-block w-100" src="/images/Events%20Page/Annual%20Road%20Run/2023%20RR%202.jpg">
 		</div>
 		<div class="carousel-item">
 			<img alt="..." class="d-block w-100" src="...">
