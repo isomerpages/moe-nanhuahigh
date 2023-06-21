@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - Chinese New Year 2021.md
       - Camp Achiever 2021.md
       - Past Events.md
