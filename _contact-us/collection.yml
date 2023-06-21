@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Contact Page 联系方式.md
-      - Parents Gateway Mobile App 家长联通应用程序.md
       - Virtual Tour 线上导览.md
       - School Campus 校园.md
