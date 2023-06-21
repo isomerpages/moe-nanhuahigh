@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - Events 活动/Confucius Camp.md
       - Events 活动/.keep
       - Events 活动/Life at Nan Hua.md
       - Events 活动/Camp Achiever.md
