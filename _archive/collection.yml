@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Past Events/iPad Unboxing Day.md
       - Past Events/Speech Day.md
       - Past Events/Mid–Autumn Festival 2021.md
       - Past Events/National Day 2021.md
