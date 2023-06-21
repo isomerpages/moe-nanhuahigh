@@ -2,6 +2,7 @@ collections:
   our-parents:
     output: true
     order:
+      - Schoolbag 教育部网络刊物.md
       - Parent Support Group 家长支援组.md
       - Parents Gateway Mobile App 家长联通应用程序.md
       - Booklist and Uniform 书单与校服.md
