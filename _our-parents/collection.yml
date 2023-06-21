@@ -2,4 +2,5 @@ collections:
   our-parents:
     output: true
     order:
+      - Parent Support Group 家长支援组.md
       - Parent Networking and Learning Day.md
