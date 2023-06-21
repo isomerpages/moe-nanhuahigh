@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - School Advisory Committee 学校咨询委员会.md
       - Alumni 校友会.md
       - School Management Committee 学校管理层.md
       - Executive and Administrative Staff 行政人员.md
