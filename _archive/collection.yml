@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Past Events/Speech & Prize–Giving Day.md
       - Past Events/Camp Achiever 2021.md
       - Past Events/Chinese New Year 2021.md
       - Past Events/.keep
