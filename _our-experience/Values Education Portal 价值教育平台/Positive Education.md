@@ -10,7 +10,7 @@ As part of the quest to equip our students with new skills to flourish in the 21
 
 ![02_PositiveEducation07.jpg](/images/02_PositiveEducation07.jpg)
 
-screenshot insert 943
+
 ## Character Strengths
 
 ![02_PositiveEducation_CharacterStrengths.jpg](/images/02_PositiveEducation_CharacterStrengths.jpg)  
