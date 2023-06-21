@@ -2,5 +2,6 @@ collections:
   our-parents:
     output: true
     order:
+      - Booklist and Uniform 书单与校服.md
       - Parent Support Group 家长支援组.md
       - Parent Networking and Learning Day.md
