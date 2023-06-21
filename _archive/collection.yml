@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Past Events/Camp Achiever.md
       - Past Events/Chinese New Year.md
       - Past Events/iPad Unboxing Day.md
       - Past Events/Speech Day.md
