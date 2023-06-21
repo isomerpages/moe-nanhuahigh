@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Past Events/National Day.md
       - Past Events/Racial Harmony Day.md
       - Past Events/Bicultural & Inaugural Library Week.md
       - Past Events/Speech & Prize–Giving Day.md
