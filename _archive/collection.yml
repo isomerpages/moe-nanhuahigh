@@ -2,4 +2,5 @@ collections:
   archive:
     output: true
     order:
+      - Camp Achiever 2021.md
       - Past Events.md
