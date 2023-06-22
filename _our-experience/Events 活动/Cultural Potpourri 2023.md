@@ -17,3 +17,6 @@ third_nav_title: Events 活动
 | -------- | -------- |
 | Choir     | Chinese Drama    |
 
+|![](/images/Events%20Page/Cultural%20Potpourri/cpc_2240x1260_8.jpg) | ![](/images/Events%20Page/Cultural%20Potpourri/cpc_2240x1260_6.jpg)|
+| -------- | -------- |
+| Harp Ensemble    | Symphonic Band     |
