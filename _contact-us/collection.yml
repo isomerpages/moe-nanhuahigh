@@ -1,7 +1,0 @@
-collections:
-  contact-us:
-    output: true
-    order:
-      - Contact Page 联系方式.md
-      - Virtual Tour 线上导览.md
-      - School Campus 校园.md

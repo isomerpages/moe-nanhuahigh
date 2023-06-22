@@ -1,9 +1,8 @@
 ---
 title: Contact Page 联系方式
-permalink: /contact-us/contact-page/
+permalink: /about-us/contact-page/
 description: ""
 ---
-
 **Address**  
 41 Clementi Avenue 1, Singapore 129956  
 Tel: (65) 6778 8303  
@@ -31,7 +30,7 @@ Bus stop at Aft Clementi Ave 1 (**Bus Stop No,**&nbsp;17091):
 Bus stop at Transview Golf Club (**Bus Stop No,** 19059):  **33, 96, 151, 151e, 183, 196**
   
   
-#### By Car  
+### By Car  
   
 via&nbsp; Ayer Rajah Expressway_&nbsp;towards&nbsp;_East Coast Parkway (ECP)  
 **Take Exit 9 for Clementi Road. Turn left into Clementi Ave 1. Nan&nbsp;Hua High School will be on&nbsp;the right side of the road.** <br>

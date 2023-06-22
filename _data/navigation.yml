@@ -1,6 +1,6 @@
 logo: /images/schoollogo.png
 links:
-  - title: About Us
+  - title: About Us 关于我们
     collection: about-us
   - title: Our People 教职员
     collection: our-people
@@ -10,5 +10,3 @@ links:
     collection: our-curriculum
   - title: Our Parents 家长
     collection: our-parents
-  - title: Contact Us 联系我们
-    collection: contact-us
