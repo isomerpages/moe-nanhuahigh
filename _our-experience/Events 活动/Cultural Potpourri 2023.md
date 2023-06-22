@@ -9,6 +9,11 @@ third_nav_title: Events 活动
 
 
 
-| ![](/images/Events%20Page/Cultural%20Potpourri/cpc_2240x1260_5.jpg) | ![](/images/Events%20Page/Cultural%20Potpourri/cpc_2240x1260_11.jpg) |
+|![](/images/Events%20Page/Cultural%20Potpourri/cpc_2240x1260_5.jpg) | ![](/images/Events%20Page/Cultural%20Potpourri/cpc_2240x1260_11.jpg)|
 | -------- | -------- |
 | Chinese Orchestra    | Guzheng Ensemble     |
+
+|![](/images/Events%20Page/Cultural%20Potpourri/cpc_2240x1260_3.jpg) | ![](/images/Events%20Page/Cultural%20Potpourri/cpc_2240x1260_10.jpg)|
+| -------- | -------- |
+| Choir     | Chinese Drama    |
+
