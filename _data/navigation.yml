@@ -1,14 +1,14 @@
 logo: /images/schoollogo.png
 links:
-  - title: Our Heritage 传承
-    collection: our-heritage
+  - title: About Us
+    collection: about-us
   - title: Our People 教职员
     collection: our-people
-  - title: Our Partners 教育伙伴
-    collection: our-partners
   - title: Our Experience 校园生活
     collection: our-experience
   - title: Our Curriculum 课程
     collection: our-curriculum
+  - title: Our Parents 家长
+    collection: our-parents
   - title: Contact Us 联系我们
     collection: contact-us

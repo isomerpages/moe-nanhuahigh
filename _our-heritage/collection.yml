@@ -1,9 +1,0 @@
-collections:
-  our-heritage:
-    output: true
-    order:
-      - Principal's Message 校长.md
-      - Vision, Mission, Values 愿景、使命、八大校训.md
-      - School Song 校歌.md
-      - History 校史.md
-      - Centennial Celebrations 百年校庆.md
