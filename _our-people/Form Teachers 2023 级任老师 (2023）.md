@@ -20,7 +20,7 @@ description: ""
  
 | Class | Form Teacher 1 | Form Teacher 2 |
 | -------- | -------- | -------- |
-| 201     | Mrs Tong Hwai Ping     | Text     |
+| 201     | Mrs Tong Hwai Ping     |    |
 202| Mdm Ong Chiao Ling| Mr Ervine Quek
 203| Ms Foong Wei Hao| Mr Jason Chow
 204| Mr Victor Gan| Mdm Ding Juan
