@@ -3,8 +3,7 @@ title: Form Teachers 2023 级任老师 (2023）
 permalink: /our-people/form-teachers/
 description: ""
 ---
-Secondary 1
-
+#### Secondary 1
 
 | Class| Form Teacher 1 | Form Teacher2 |
 | -------- | -------- | -------- |
@@ -17,10 +16,8 @@ Secondary 1
 107| Mdm Nur Irdawaty | Ms Tamsyn Tong
 108 | Mr Raymond Teo
 
-
-### Secondary 2
+#### Secondary 2
  
-
 | Class | Form Teacher 1 | Form Teacher 2 |
 | -------- | -------- | -------- |
 | 201     | Mrs Tong Hwai Ping     | Text     |
@@ -33,12 +30,8 @@ Secondary 1
 208| Ms Chin Ying Fen| Mdm Anu
 209| Ms Kathy Loh| Mr Herman
 
-
-
-
-### **Secondary 3**
+#### Secondary 3
  
-
 | Class | Form Teacher 1 | Form Teacher 2 |
 | -------- | -------- | -------- |
 | 301     | Mr Joel Chan    | Mdm Wendy Lim
@@ -48,13 +41,10 @@ Secondary 1
 305| Mdm Xiang Pin| Ms Justine Ocampo
 306| Mdm Chin Pei You| Mr Lim Say Han
 307| Ms Yang Wei| Mr Bryson Lam
-308| Mrs Jacqueline Tan| Mdm Ng Kang Leng
-309| Mdm Ong Shan shan| Mr Li Zihao
+308| Mrs Jacqueline Tan  | Mdm Ng Kang Leng
+309| Mdm Ong Shan shan |  Mr Li Zihao
 
-
-
-### **Secondary 4**
- 
+#### Secondary 4
 
 | Class | Form Teacher 1 | Form Teacher 2 |
 | -------- | -------- | -------- |
@@ -68,6 +58,3 @@ Secondary 1
 408| Mr Kevin Wong| Mdm Nornieyuniza
 409| Ms Yvonne Lim| Mdm Junaidah
 410| Mdm Elza Tan| Ms Wei Mingwei
-
-
-
