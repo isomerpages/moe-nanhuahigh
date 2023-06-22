@@ -33,7 +33,7 @@ description: ""
 #### Secondary 3
  
 | Class | Form Teacher 1 | Form Teacher 2 |
-| -------- | -------- | -------- |
+| --------  |   -------- | -------- |
 | 301     | Mr Joel Chan    | Mdm Wendy Lim
 302|  Mdm  Shen Xiaoxu| Ms Saw Eileen
 303| Ms Joanne Song| Mr Daren Tay
@@ -42,7 +42,7 @@ description: ""
 306| Mdm Chin Pei You| Mr Lim Say Han
 307| Ms Yang Wei| Mr Bryson Lam
 308| Mrs Jacqueline Tan  | Mdm Ng Kang Leng
-309| Mdm Ong Shan shan |  Mr Li Zihao
+309    |    Mdm Ong Shan shan |    Mr Li Zihao
 
 #### Secondary 4
 
