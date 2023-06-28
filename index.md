@@ -35,7 +35,7 @@ sections:
       title: Mission
       description: To nurture confident, creative, and cultured students with a
         passion for learning.<br>  培育有信心、 有创意、  有文化素养又对学习充满热忱的学生。
-      image: /images/Homepage/campvigour2019_.jpg
+      image: /images/Homepage/studentleadersinvestiture_2240x1260.jpg
       alt: Image alt text
   - infopic:
       title: Values
