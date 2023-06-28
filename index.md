@@ -29,7 +29,7 @@ sections:
       description: A school of excellence that nurtures world-ready Bicultural
         Scholars who embrace tradition and are champions of
         society.<br>根植传统  放眼世界  回馈社会 <br>一所培育双文化君子的卓越学校。
-      image: /images/homegridimg1.jpg
+      image: /images/Events Page/Confucius Camp/confuciuscamp_2240x1260_4.jpg
       alt: Image alt text
   - infopic:
       title: Mission
