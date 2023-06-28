@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Highlights
           description: ""
-          url: /our-experience/events-2023/
+          url: /our-experience/events/
         - title: Announcements
           description: ""
           url: /announcements
@@ -39,8 +39,8 @@ sections:
       alt: Image alt text
   - infopic:
       title: Values
-      description: "忠 Loyalty   孝 Filial Piety   仁 Humanity   爱 Love   礼
-        Courtesy  义Righteousness   廉 Integrity   耻 Sense of Shame "
+      description: 忠 Loyalty   孝 Filial Piety   仁 Humanity   爱 Love   礼
+        Courtesy  义Righteousness   廉 Integrity   耻 Sense of Shame
       image: /images/valuebanner.jpg
       alt: Image alt text
       url: /our-heritage/vision-mission-values/

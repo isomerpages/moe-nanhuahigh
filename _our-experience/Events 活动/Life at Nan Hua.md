@@ -10,7 +10,7 @@ third_nav_title: Events 活动
 
 |<a href="/our-experience/events/annual-road-run/"><img src="/images/Events%20Page/annualroadrun2023_945x630.png"></a> | <a href="/our-experience/events/national-youth-environment-conference/"><img src="/images/Events%20Page/nyec2023_945x630.png"></a> | <a href="/our-experience/events/"><img src="/images/Events%20Page/biculturalweek2023_945x630.png"></a>|
 
-|<a href="/our-experience/events/"><img src="/images/Events%20Page/studentcouncil2023_945x630.png"></a> | <a href="/our-experience/events/speech-day/"><img src="/images/Events%20Page/speechday2023_945x630.png"></a> | <a href="/our-experience/events/"><img src="/images/Events%20Page/culturalpotpourri2023_945x630.png"></a>|
+|<a href="/our-experience/events/"><img src="/images/Events%20Page/studentcouncil2023_945x630.png"></a> | <a href="/our-experience/events/speech-day/"><img src="/images/Events%20Page/speechday2023_945x630.png"></a> | <a href="/our-experience/events/cultural-potpourri"><img src="/images/Events%20Page/culturalpotpourri2023_945x630.png"></a>|
 
 |<a href="/our-experience/events/"><img src="/images/Events%20Page/studentleaders2023_945x630.png"></a> | <a href="/our-experience/events/"><img src="/images/Events%20Page/sportscarnival2023_945x630.png"></a> | <a href="/our-experience/events/"><img src="/images/Events%20Page/confuciuscamp2023_945x630.png"></a>|
 
