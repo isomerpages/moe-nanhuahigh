@@ -18,12 +18,6 @@ sections:
           description: ""
           url: /quick-links
       background: /images/nan hua high school (3).gif
-  - infobar:
-      title: Certificate Collection for 2022 Graduating Classes
-      description: Collection of School Graduation Certificate & Testimonial from 8
-        May 2023 to 30 June 2023
-      button: INFO HERE
-      url: https://www.nanhuahigh.moe.edu.sg/announcements/
   - infopic:
       title: Vision
       description: A school of excellence that nurtures world-ready Bicultural
