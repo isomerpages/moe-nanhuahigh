@@ -4,4 +4,4 @@ permalink: /our-people/executive-and-administrative-staff/
 description: ""
 ---
 ### 2023
-![](/images/Our%20People/eas2023_2500x1786.jpg)
+![](/images/Our%20People/eas2023_2240x1260.png)
