@@ -2,6 +2,7 @@ collections:
   our-parents:
     output: true
     order:
+      - Values.md
       - Values Education Portal.md
       - Parent Support Group 家长支援组.md
       - Parents Gateway Mobile App 家长联通应用程序.md
