@@ -43,6 +43,6 @@ sections:
         Courtesy  义Righteousness   廉 Integrity   耻 Sense of Shame
       image: /images/Homepage/campvigour2023_2240x1260.jpg
       alt: Image alt text
-      url: /our-heritage/vision-mission-values/
+      url: /about-us/vision-mission-values/
       button: our values
 ---
