@@ -28,7 +28,7 @@ The Secondary Two students were given the opportunity to immerse themselves in a
 
 **Camp Vigour – Secondary Three**
 
-![](/images/2023%20camp%20vigour%20beach.jpg)
+![](/images/Events%20Page/Camp%20Achiever/campvigour3_2240x1260.jpg)
 
 An exciting, fun-filled outdoor adventure in Sentosa was fully welcomed by the Secondary Three cohort where they were engaged in many team building activities such as dragon boating, rafting, navigation and the trolley & trebuchet challenge. Furthermore, students had the opportunity to develop survival skills and cook their own meals outdoors, pitch tents and even experience sleeping overnight outdoors under the stars in Nan Hua!
 
