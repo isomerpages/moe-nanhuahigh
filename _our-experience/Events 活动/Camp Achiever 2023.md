@@ -34,7 +34,7 @@ An exciting, fun-filled outdoor adventure in Sentosa was fully welcomed by the S
 
 Yu Boyuan of Class 3-09 reflected: “The shiniest diamonds are formed under the biggest pressure”. Through the many activities of Camp Vigour, I built resilience, honed my leadership skills and learnt the importance of teamwork. A very special thanks to the alumni and Parent Support Group(PSG) too for their unwavering support and help to ensure the smooth running of the camp!"
 
-| ![](/images/camp%2013.jpg) | ![](/images/Events%20Page/Camp%20Achiever/campvigour1_2240x1260.jpg) |
+| ![](/images/Events%20Page/Camp%20Achiever/campvigour2_2240x1260.jpg) | ![](/images/Events%20Page/Camp%20Achiever/campvigour1_2240x1260.jpg) |
 
 **Camp Horizon – Secondary Four**
 
