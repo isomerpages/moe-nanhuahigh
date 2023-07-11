@@ -21,7 +21,7 @@ sections:
   - infobar:
       title: Certificate Collection for 2022 Graduating Classes
       description: Collection of School Graduation Certificate & Testimonial from 8
-        May 2023 to 30 June 2023
+        May to 31 July 2023
       button: INFO HERE
       url: https://www.nanhuahigh.moe.edu.sg/announcements/
   - infopic:
@@ -43,6 +43,6 @@ sections:
         Courtesy  义Righteousness   廉 Integrity   耻 Sense of Shame
       image: /images/Homepage/campvigour2023_2240x1260.jpg
       alt: Image alt text
-      url: /our-heritage/vision-mission-values/
+      url: /about-us/vision-mission-values/
       button: our values
 ---

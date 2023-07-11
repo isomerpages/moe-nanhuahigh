@@ -3,7 +3,6 @@ title: Co Curricular Activities 课程辅助活动
 permalink: /our-curriculum/co-curricular-activities/
 description: ""
 ---
-
 ![DSA Photo Collage 2.JPG](/images/DSA%20Photo%20Collage%202.jpg)  
 
 Co-Curricular Activities (CCAs) in Nan Hua High School
@@ -16,7 +15,7 @@ Our 25 CCA Groups are organised in four CCA Clusters, namely the Aesthetics Clus
 ### CCA COMMITTEE
 
 
-**Subject Head, CCA(Internal):**&nbsp;Ms Ting Hui Xin
+Subject Head, CCA(Internal):&nbsp;Ms Ting Hui Xin
 
   
 
@@ -54,7 +53,7 @@ Cluster 2IC : Ms Gan Jiayi Karolyn&nbsp;
 
   
 
-**The following CCAs are offered by the school.**&nbsp;
+#### The following CCAs are offered by the school&nbsp;
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness
-permalink: /our-experience/values-education-portal/cyber-wellness/
+permalink: /our-parents/values-education-portal/cyber-wellness/
 description: ""
 third_nav_title: Values Education Portal 价值教育平台
 ---

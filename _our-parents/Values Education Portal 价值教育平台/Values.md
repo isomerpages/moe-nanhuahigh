@@ -1,6 +1,6 @@
 ---
 title: Values
-permalink: /our-experience/values-education-portal/values/
+permalink: /our-parents/values-education-portal/values/
 description: ""
 third_nav_title: Values Education Portal 价值教育平台
 ---
@@ -16,4 +16,3 @@ Value-of-the-month is a programme through which we engage students in the unders
 
 
 ## Ceremonial Walk
-

@@ -1,6 +1,6 @@
 ---
 title: Positive Education
-permalink: /our-experience/values-education-portal/positive-education/
+permalink: /our-parents/values-education-portal/positive-education/
 description: ""
 third_nav_title: Values Education Portal 价值教育平台
 ---

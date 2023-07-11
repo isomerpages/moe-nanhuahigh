@@ -1,6 +1,6 @@
 ---
 title: Values Education Portal
-permalink: /our-experience/values-education-portal/
+permalink: /our-parents/values-education-portal/
 description: ""
 third_nav_title: Values Education Portal 价值教育平台
 ---

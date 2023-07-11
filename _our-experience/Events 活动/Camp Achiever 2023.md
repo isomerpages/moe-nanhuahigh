@@ -13,7 +13,7 @@ third_nav_title: Events 活动
 
 Over the three days, the Secondary One students forged new friendships while bonding over the preparation of their class dance, in anticipation of their campfire performance. With the golden flames of the campfire blazing in the background, each and every secondary one class danced their hearts out. They also proudly walked through the ‘礼仪之门, marking the official start of their journey as a Nanhuarian!
 
-|![](/images/2023%20camp%20genesis%20campfire%20performance.jpg) | ![](/images/2023%20camp%20genesis%204.jpg)|
+|![](/images/Events%20Page/Camp%20Achiever/campvigour2_2240x1260.jpg) | ![](/images/2023%20camp%20genesis%204.jpg)|
 
 
 
@@ -28,13 +28,13 @@ The Secondary Two students were given the opportunity to immerse themselves in a
 
 **Camp Vigour – Secondary Three**
 
-![](/images/2023%20camp%20vigour%20beach.jpg)
+![](/images/Events%20Page/Camp%20Achiever/campvigour3_2240x1260.jpg)
 
 An exciting, fun-filled outdoor adventure in Sentosa was fully welcomed by the Secondary Three cohort where they were engaged in many team building activities such as dragon boating, rafting, navigation and the trolley & trebuchet challenge. Furthermore, students had the opportunity to develop survival skills and cook their own meals outdoors, pitch tents and even experience sleeping overnight outdoors under the stars in Nan Hua!
 
 Yu Boyuan of Class 3-09 reflected: “The shiniest diamonds are formed under the biggest pressure”. Through the many activities of Camp Vigour, I built resilience, honed my leadership skills and learnt the importance of teamwork. A very special thanks to the alumni and Parent Support Group(PSG) too for their unwavering support and help to ensure the smooth running of the camp!"
 
-| ![](/images/camp%2013.jpg) | ![](/images/2023%20camp%20vigour%20tent.jpg) |
+| ![](/images/Events%20Page/Camp%20Achiever/campvigour2_2240x1260.jpg) | ![](/images/Events%20Page/Camp%20Achiever/campvigour1_2240x1260.jpg) |
 
 **Camp Horizon – Secondary Four**
 
