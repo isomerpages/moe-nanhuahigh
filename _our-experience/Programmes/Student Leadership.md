@@ -10,6 +10,7 @@ third_nav_title: Programmes
 
 ![](/images/student%20leadership%203.jpg)
 
+![](/images/student%20leadership%204.jpg)
 
 ## STUDENT LEADERSHIP DEVELOPMENT IN NHHS
 
@@ -34,8 +35,6 @@ A variety of leadership roles are made available to students, to encourage them 
 Student leaders are also given the autonomy to select the various leadership modules they need to complement their leadership role in the school. The various modules allow student leaders to not just enhance their performance competencies, but also their moral competencies when handling their groups. The modules range from peer-mediation to facilitation skills.
 
 Furthermore, budding student leaders in the Lower Secondary level are hand-picked to attend the Secondary 2 Leaders’ Camp. Secondary 3 students are invited to attend an Overseas Service-Learning Trip to further emphasise on the need for leaders to serve and improve the lives of those beyond Singapore. All student leaders also work together during Project SERVE (SustainablE and Resourceful Volunteering Effort), whereby student leaders are given seed funding from the school to kick-start Service-Learning projects in the respective groups / clusters they are taking charge of, so as to better address and solve the needs of the community within and beyond school.
-
-![](/images/student%20leadership%204.jpg)
 
 ![](/images/student%20leadership%205.jpg)
 ![](/images/student%20leadership%20%206.jpg)
