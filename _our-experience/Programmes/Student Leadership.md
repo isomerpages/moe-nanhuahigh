@@ -10,7 +10,6 @@ third_nav_title: Programmes
 
 ![](/images/student%20leadership%203.jpg)
 
-![](/images/student%20leadership%204.jpg)
 
 ## STUDENT LEADERSHIP DEVELOPMENT IN NHHS
 
