@@ -7,7 +7,7 @@ description: ""
 
 | Class| Form Teacher 1 | Form Teacher2 |
 | -------- | -------- | -------- |
-|101     | Mdm Jennifer Lai     | Mr Lee Chee Koon     |
+|101     | Mdm Jennifer Lai     | Mr Lim Chee Koon     |
 102 | Mr Mo Zelong| Mdm Ho Wan Yee
 103| Mrs Yeo Soo Mui | Mr Tan Kian Tong
 104| Mr Goh Bang Rui| Mr Wang Zhaolin
