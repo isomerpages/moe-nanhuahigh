@@ -3,9 +3,6 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-# Collection of School Graduation Certificate & Testimonial 2022 Graduating Classes
+# Message for former students of Nan Hua
 
-1. The 2022 School Graduation Certificate and Testimonial is ready for collection. Students may collect their portfolio from the General Office from **8 May 2023 to 31 July 2023** from 8.00am to 5.00pm (Mondays – Fridays).
-2. Please call the General Office at 67788303 to book a date and time for collection.
-3. Please bring along your identity card/student concession card for verification during the collection.
-4. Parents who are collecting on behalf of your child, please bring along your own identity card and your child’s identity card/student concession or passport.
+Please take note that due to the Presidential Election on Fri 1st September, our school premises will be handed over to Election Department officials on Thu 31st August after school celebrations with our current students. All non-election officials will not be able to enter the school premises after school dismissal. We strongly encourage you to meet your teachers in school on Fri 22nd September in the evening for Mid-Autumn Festival celebration.
