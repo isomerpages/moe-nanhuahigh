@@ -19,7 +19,7 @@ sections:
           url: /quick-links
       background: /images/nan hua high school (3).gif
   - infobar:
-      title: Message for former students of Nan Hua
+      title: Caring Teacher Awards 2024 Nomination is now open
       button: INFO HERE
       url: https://www.nanhuahigh.moe.edu.sg/announcements/
   - infopic:
