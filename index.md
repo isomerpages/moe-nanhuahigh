@@ -20,7 +20,7 @@ sections:
       background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
   - infopic:
       title: Nan Hua High Open House 2023
-      subtitle: 25 November, sat |  9am - 11am
+      subtitle: 25 November, sat |  9am - 1pm
       id: infopic
       image: /images/Open House 2023/messageoftheday_web4.jpg
       alt: Nan Hua High Open House
