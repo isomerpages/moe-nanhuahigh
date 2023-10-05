@@ -17,7 +17,6 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
-      background: /images/nan hua high school (3).gif
   - infobar:
       title: Caring Teacher Awards 2024 Nomination is now open
       button: INFO HERE
