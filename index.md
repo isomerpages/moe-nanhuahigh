@@ -17,7 +17,13 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
-      background: /images/nan hua high school (3).gif
+      background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
+  - infopic:
+      title: Nan Hua High Open House 2023
+      subtitle: 25 November, sat |  9am - 11am
+      id: infopic
+      image: /images/Open House 2023/messageoftheday_web4.jpg
+      alt: Nan Hua High Open House
   - infobar:
       title: Caring Teacher Awards 2024 Nomination is now open
       button: INFO HERE
