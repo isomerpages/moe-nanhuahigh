@@ -22,7 +22,7 @@ sections:
       title: Nan Hua High Open House 2023
       subtitle: 25 November, sat |  9am - 11am
       id: infopic
-      image: /images/messageoftheday_web.jpg
+      image: /images/messageoftheday_web3.jpg
       alt: Nan Hua High Open House
   - infobar:
       title: Caring Teacher Awards 2024 Nomination is now open
