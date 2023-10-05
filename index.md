@@ -17,7 +17,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
-      background: /images/messageoftheday_web_v2.jpg
+      background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
   - infopic:
       title: Nan Hua High Open House 2023
       subtitle: 25 November, sat |  9am - 11am
