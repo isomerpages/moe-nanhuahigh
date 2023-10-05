@@ -17,7 +17,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
-      background: /images/messageoftheday_web.jpg
+      background: /images/messageoftheday_web_v2.jpg
   - infobar:
       title: Caring Teacher Awards 2024 Nomination is now open
       button: INFO HERE
