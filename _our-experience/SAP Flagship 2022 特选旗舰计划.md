@@ -60,9 +60,13 @@ Bicultural Studies Bicultural Studies is implemented for Sec 2 students as a ten
 
 论文发布会上，大家各显神通，以多种创意形式呈现研究成果。异彩纷呈的呈现不单展现了同学们努力研究的成果，更是给予了同学们互相学习的机会。十八年的道路走来并不简单，但特选学校这个大家庭能在共同的坚持下一起茁壮成长，使今年的幼苗计划更加意义非凡。
 
+![](/images/Our%20Experience/SAP%20Mentorship/sap_seedlingplan_2.jfif)
+
 #### 第48届全国学生中英文互译比赛
 
 翻译是将一种语言转化为另外一种语言的过程，但它更是两种文化之间的转换，是21世纪全球化进程中重要的一个环节。为培养我国新一代的翻译人才，新闻及通讯部联合新加坡中学华文教师会及南华中学联办“第48届全国学生中英文互译比赛”。
+
+![](/images/Our%20Experience/SAP%20Mentorship/sap_translationcompetition.jpg)
 
 8月26日，来自全国多所中小学的学生齐聚南华中学礼堂，参与一年一度的全国学生中英文互译比赛。因反应热烈，比赛从以前的小学及中学组已扩大到高中组。比赛内容包括文学篇章、短语和本地近期出现的一些专有术语。比赛期间，现场鸦雀无声，学生们全神贯注，绞尽脑汁以最贴切的文字翻译，且不失原来的韵味。
 
@@ -72,4 +76,10 @@ Bicultural Studies Bicultural Studies is implemented for Sec 2 students as a ten
 
 为了鼓励同学们多阅读课外书，培养良好的阅读习惯，进而提高华文水平，本校配合教育部的“泛读计划”，在低年级全面推行阅读计划。同学们阅读推荐的书籍，完成了一系列丰富多彩的阅读活动。
 
+![](/images/Our%20Experience/SAP%20Mentorship/sap-readingplan.jpg)
+
 中一的学生阅读《小轩的折叠世界》，每个学生阅读后需要完成一篇书香阅读报告，记录下阅读心得。另外，他们以阅读小组的形式设计各种各样的阅读游戏，让其他同学通过有趣的游戏深入了解书中的内容。中二的学生则阅读《面包特工队》，除了完成阅读报告，同学们也要针对书中的主要人物设计人物卡。在小组活动方面，同学们可以选择以电子海报、手绘漫画或制作视频等方式，来呈现他们的阅读心得。
+
+![](/images/Our%20Experience/SAP%20Mentorship/sap-readingplan-3.PNG)
+
+![](/images/Our%20Experience/SAP%20Mentorship/sap-readingplan-2.PNG)
