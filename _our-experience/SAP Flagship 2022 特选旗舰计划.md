@@ -44,7 +44,11 @@ Bicultural Studies Bicultural Studies is implemented for Sec 2 students as a ten
 
 我们非常荣幸能邀请到作家林道锦先生和诗人Ms Janelle Tan，与同学们分享旅游和旅居国外的经历以及写作的一些技巧。另外，我校也把往年年末举办的“台湾书香及环境教育浸濡计划”的行程搬到了线上。同学们通过远在台湾的导游和解说员的摄像镜头，饱览了台湾的风光美景，也首次通过视讯的方式和北新国中的师生线上交流，共同讨论课题。
 
+![](/images/Our%20Experience/SAP%20Mentorship/sap_taiwan.png)
+
 不仅如此，同学们化身旅游达人，并结合社交媒体Instagram，以一日一图或限时动态的形式，把这两天的收获通过Instagram与大家分享。之后同学们合作完成了旅游手札，为双文化营画上了完美的句号。
+
+![](/images/Our%20Experience/SAP%20Mentorship/sap_postcard.png)
 
 #### 激发学习热忱 了解华族文化 ──  特选中学学术幼苗计划
 
