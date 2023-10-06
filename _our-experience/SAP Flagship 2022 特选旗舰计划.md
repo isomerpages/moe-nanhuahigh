@@ -19,10 +19,21 @@ Contemporary China Studies The Contemporary China Studies (CCS) Programme is bei
 
 Bicultural Studies Bicultural Studies is implemented for Sec 2 students as a ten-week programme. In alignment with the 21st Century competencies and student outcomes framework, there is a need for greater emphasis in global awareness and cross-cultural skills. The programme seeks to create an engaging environment for them to learn and compare various aspects of the Chinese and Western culture in the literary contexts of Language and Literature. We would be focusing on nuances and aesthetics features of both Chinese and English languages and literary works would be analysed and discussed during the lessons. Students would especially be comparing and contrasting Chinese and English aspects of Literature.
 
-**2022年儒学营**
+**2022 年儒学营**
 
 5月30日、31日，我校在经历两年疫情之后，终于以实体活动形式进行了第九届儒学研习营暨德育工作坊。今年的主题是“ 博学于文，约之以礼”，意谓君子广泛地学习文化知识，再用礼来约束自己。我校有幸邀请到台湾鹅湖月刊社刘宣妘老师和黄爱智老师担任主讲嘉宾，为72位中一学生讲解儒家思想。
 
     黄爱智老师演讲主题为 ：“孔子的压箱宝”，让同学们了解孔子的哲学思想与待人处事之道。而刘宣妘老师则通过演讲“文+质+彬彬\=？”，向同学们传达了如何成为文质彬彬的君子之道。学生们还通过欣赏电影《孔子》学习儒家思想的精髓。而古琴鉴赏课和射击活动，让同学们感受古代君子文武双全的概念。
 
 儒学营以接近学生生活的方式向学生传递了儒家思想。来自105班的袁闻伯同学希望自己能够活学活用所学的儒学知识，在生活中加以实践，真正做到“博学于文，约之以礼”。
+
+
+**柔情写诗**　**缜密破案**
+
+**──双文化周活动**
+
+     今年双文化周，主题是“真相只有一个”。五天的活动围绕着悬疑和诗歌两方面展开。一系列妙趣横生的活动，激发了学生对阅读和创作的兴趣，引导他们深入了解中英诗句，感受中西方文化的魅力。　　为活动拉开序幕的是周会的《南华熊失踪谜案》。伴随两首中英文谜语诗歌，学生化身侦探，在校园寻觅南华熊的踪迹。在《早安南华》节目中，中二的说书人介绍了著名日本推理小说家东野圭吾的《嫌疑人X的献身》。此外，为配合悬疑小说主题，图书馆特地挑选了许多扣人心弦的中英文悬疑小说，供同学们借阅。
+
+     今年也是南华中学建校105周年，同学们以“南华一隅”为题，在特别绘制的明信片上创作诗歌。201班的高婕庭说：“今年的双文化周让我了解到文学原来离我们那么近。我们都能创作诗，为学校献上祝福！”
+
+
