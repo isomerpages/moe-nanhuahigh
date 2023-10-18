@@ -1,5 +1,7 @@
 logo: /images/schoollogo.png
 links:
+  - title: Open House 2023
+    collection: open-house-2023
   - title: About Us 关于我们
     collection: about-us
   - title: Our People 教职员
@@ -10,5 +12,3 @@ links:
     collection: our-curriculum
   - title: Our Parents 家长
     collection: our-parents
-  - title: Open House 2023
-    collection: open-house-2023
