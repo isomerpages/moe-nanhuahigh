@@ -2,5 +2,5 @@ collections:
   open-house-2023:
     output: true
     order:
-      - Open House Schedule.md
+      - Schedule.md
       - School Map.md
