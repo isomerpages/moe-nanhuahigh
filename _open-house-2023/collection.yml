@@ -2,6 +2,6 @@ collections:
   open-house-2023:
     output: true
     order:
-      - FAQ Page.md
       - Programme.md
       - School Map.md
+      - FAQ Page.md
