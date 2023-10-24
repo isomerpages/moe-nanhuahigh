@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Sustainable Environment Education 可持续环境教育 Archive.md
       - SAP Flagship 特选旗舰计划.md
       - Past Events/Camp Achiever 2022.md
       - Past Events/Chinese New Year 2022.md
