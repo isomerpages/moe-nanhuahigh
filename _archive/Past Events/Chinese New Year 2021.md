@@ -4,7 +4,4 @@ permalink: /archive/past-events/chinese-new-year/
 description: ""
 third_nav_title: Past Events
 ---
-<img src="/images/cny1.png" style="width:500px">
-<br>
-<img src="/images/cny2.png" style="width:500px">
-<br>
+![](/images/Archived%20Photos/cny1.png)![](/images/Archived%20Photos/cny2.png)
