@@ -19,6 +19,7 @@ events.”
 
 #### Sec 1 CnME module
 Sec 1 students learn more about green living through sustainable habits of consumption and the benefits of recycling and upcycling. They also used recycled materials to make eco-lanterns for the celebration of Mid-Autumn in school. Bamboo Girl was also invited to give a talk to the students on sustainable lifestyle. 
+
 ![](/images/Our%20Experience/Sustainable%20Environment/sec%201%20cnme_2000x1260.jpg) 
 
 
