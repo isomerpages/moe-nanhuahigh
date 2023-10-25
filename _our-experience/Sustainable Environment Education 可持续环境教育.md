@@ -10,7 +10,12 @@ During Eco-Serve Week, students were engaged in Eco-Games, which advocated the i
 
 SLC, together with students from the sKy Programme, organised the 2023 National Youth Environment Conference (NYEC). NYEC provides a platform for students to talk about how policies can shape a sustainable future through a Model United Nations Conference simulation. Students went on learning journeys to Kok Fah Farm, Marina Barrage, Singapore Discovery Centre and Lee Kong Chian Natural History Museum to learn more about sustainable efforts locally and around the world. We were also honoured to have Dr Toh Tai Chong, as our Guest-of-Honour.
 
-Mikhail Sergeyevich Parinov of Class 3-07 reflected: “NYEC provided participants an enriching experience through their discussions on environmental issues and through learning journeys. I also deepened my knowledge on sustainable issues and built up my skill in the area of public speaking and planning of events.”
+![](/images/Our%20Experience/Sustainable%20Environment/nyec2_2240x1260.jpg)
+
+Mikhail Sergeyevich Parinov of Class 3-07 reflected: “NYEC provided participants an enriching experience through their discussions on environmental issues and through learning journeys. I also deepened my knowledge on sustainable issues and built up my skill in the area of public speaking and planning of 
+events.”
+
+![](/images/Our%20Experience/Sustainable%20Environment/nyeclj_2240x1260.jpg)
 
 #### Sec 1 CnME module
 Sec 1 students learn more about green living through sustainable habits of consumption and the benefits of recycling and upcycling. They also used recycled materials to make eco-lanterns for the celebration of Mid-Autumn in school. Bamboo Girl was also invited to give a talk to the students on sustainable lifestyle. 
