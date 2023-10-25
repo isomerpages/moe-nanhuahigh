@@ -24,6 +24,8 @@ sections:
       id: infopic
       image: /images/Open House 2023/messageoftheday_web4.jpg
       alt: Nan Hua High Open House
+      button: Find out more
+      url: https://www.nanhuahigh.moe.edu.sg/open-house-2023/programme/
   - infobar:
       title: Caring Teacher Awards 2024 Nomination is now open
       button: INFO HERE
