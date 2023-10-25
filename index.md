@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Nan Hua High School
-description: An Isomer site of the Singapore Government
+description: A school of excellence that nurtures world-ready Bicultural
+  Scholars who embrace tradition and are champions of society.
 image: /images/schoollogo.png
 permalink: /
 notification: ""
