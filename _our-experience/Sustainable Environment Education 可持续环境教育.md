@@ -13,8 +13,8 @@ SLC, together with students from the sKy Programme, organised the 2023 National 
 Mikhail Sergeyevich Parinov of Class 3-07 reflected: “NYEC provided participants an enriching experience through their discussions on environmental issues and through learning journeys. I also deepened my knowledge on sustainable issues and built up my skill in the area of public speaking and planning of events.”
 
 #### Sec 1 CnME module
-
-| Sec 1 students learn more about green living through sustainable habits of consumption and the benefits of recycling and upcycling. They also used recycled materials to make eco-lanterns for the celebration of Mid-Autumn in school. Bamboo Girl was also invited to give a talk to the students on sustainable lifestyle. | ![](/images/Our%20Experience/Sustainable%20Environment/sec%201%20cnme_2000x1260.jpg) | 
+Sec 1 students learn more about green living through sustainable habits of consumption and the benefits of recycling and upcycling. They also used recycled materials to make eco-lanterns for the celebration of Mid-Autumn in school. Bamboo Girl was also invited to give a talk to the students on sustainable lifestyle. 
+![](/images/Our%20Experience/Sustainable%20Environment/sec%201%20cnme_2000x1260.jpg) 
 
 
 
