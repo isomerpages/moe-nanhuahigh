@@ -4,6 +4,8 @@ permalink: /open-house-2023/
 description: ""
 ---
 ![](/images/Open%20House%202023/messageoftheday_web4.jpg)
+
+![](/images/Open%20House%202023/openhouse_campusguide.png)
 Programme
 
 Map
