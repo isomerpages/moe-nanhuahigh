@@ -6,6 +6,8 @@ description: ""
 #### Eco-Serve Week
 During Eco-Serve Week, students were engaged in Eco-Games, which advocated the importance of sustainability in transport, energy and water conservation. The Parent Support Group (PSG) also demonstrated the use of coffee powder to make eco-friendly body scrubs. At the West Coast Earth Hour 2023, students from 308, Girl Guides and Service Learning Club (SLC) also set up booths to share sustainability tips with the public.
 
+![](/images/Our%20Experience/Sustainable%20Environment/eco-serveweek_2240x1260.jpg)
+
 #### National Youth Environment Conference (NYEC)
 
 SLC, together with students from the sKy Programme, organised the 2023 National Youth Environment Conference (NYEC). NYEC provides a platform for students to talk about how policies can shape a sustainable future through a Model United Nations Conference simulation. Students went on learning journeys to Kok Fah Farm, Marina Barrage, Singapore Discovery Centre and Lee Kong Chian Natural History Museum to learn more about sustainable efforts locally and around the world. We were also honoured to have Dr Toh Tai Chong, as our Guest-of-Honour.
