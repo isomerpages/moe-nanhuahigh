@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Programme.md
-      - School Map.md
       - FAQ Page.md
