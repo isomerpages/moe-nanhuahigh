@@ -31,6 +31,7 @@ Through the CnME module, students learn about 
 
 Using our school’s hydroponics system, students learned to grow vegetables from seeds and harvest them for all to enjoy, reducing carbon-footprint and enhancing sustainable living efforts. 
 
+![](/images/Our%20Experience/Sustainable%20Environment/hydroponics_2240x1260.jpg)
   
 
 Nan Hua is also the proud recipient of the International Green Flag Award presented by the Worldwide Fund for Nature (WWF) which was awarded in 2022 to 2023 for its contributions to environment conservation.
