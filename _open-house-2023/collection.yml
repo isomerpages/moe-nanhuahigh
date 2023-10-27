@@ -2,6 +2,5 @@ collections:
   open-house-2023:
     output: true
     order:
-      - FAQ Page.md
       - Open House 2023.md
       - Programme.md
