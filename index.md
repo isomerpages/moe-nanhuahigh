@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Nan Hua High School
-description: An Isomer site of the Singapore Government
+description: A school of excellence that nurtures world-ready Bicultural
+  Scholars who embrace tradition and are champions of society.
 image: /images/schoollogo.png
 permalink: /
 notification: ""
@@ -18,12 +19,10 @@ sections:
           description: ""
           url: /quick-links
       background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
-  - infopic:
       title: Nan Hua High Open House 2023
-      subtitle: 25 November, sat |  9am - 1pm
-      id: infopic
-      image: /images/Open House 2023/messageoftheday_web4.jpg
-      alt: Nan Hua High Open House
+      subtitle: 25 November 2023, Saturday | 9am - 1pm
+      button: FIND OUT MORE
+      url: https://www.nanhuahigh.moe.edu.sg/open-house-2023/
   - infobar:
       title: Caring Teacher Awards 2024 Nomination is now open
       button: INFO HERE
