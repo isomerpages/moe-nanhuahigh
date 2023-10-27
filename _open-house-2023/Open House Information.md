@@ -3,8 +3,6 @@ title: Open House Information
 permalink: /open-house-2023/
 description: ""
 ---
-
-
 ![](/images/Open%20House%202023/messageoftheday_web4.jpg)
 
 <a href="/open-house-2023/programme/"><img src="/images/Open%20House%202023/openhouse_programme.png"></a>
