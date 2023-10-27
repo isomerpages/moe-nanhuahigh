@@ -22,7 +22,7 @@ sections:
       title: Nan Hua High Open House 2023
       subtitle: 25 November 2023, Saturday | 9am - 1pm
       button: FIND OUT MORE
-      url: https://www.nanhuahigh.moe.edu.sg/open-house-2023/programme/
+      url: https://www.nanhuahigh.moe.edu.sg/open-house-2023/
   - infobar:
       title: Caring Teacher Awards 2024 Nomination is now open
       button: INFO HERE
