@@ -2,6 +2,7 @@
 title: Booklist and Uniform 书单与校服
 permalink: /our-parents/book-and-uniform/
 description: ""
+variant: markdown
 ---
 ## Booklist
 
@@ -10,11 +11,10 @@ description: ""
 
 *   [NHHS Sec 1 Booklist for Year 2023.pdf](/files/NHHS%20Sec%201%20Booklist%20for%20Year%202023.pdf)  
     
-*   [NHHS Sec 2 Booklist for Year 2023.pdf](/files/NHHS%20Sec%202%20Booklist%20for%20Year%202023.pdf)  
-    
-*   [NHHS Sec 3 Booklist for Year 2023.pdf](/files/NHHS%20Sec%203%20Booklist%20for%20Year%202023.pdf)  
-    
-*   [NHHS Sec 4 Booklist for Year 2023.pdf](/files/NHHS%20Sec%204%20Booklist%20for%20Year%202023.pdf)
+*   [NHHS Sec 2 Booklist for Year 2024](/files/Booklist/s2%20booklist_2024.pdf)
+*   [NHHS Sec 3 Booklist for Year 2024](/files/Booklist/s3%20booklist_2024.pdf)  
+*   [NHHS Sec 4 Booklist for Year 2024](/files/Booklist/s4%20booklist_2024.pdf)
+      
   
 
   
