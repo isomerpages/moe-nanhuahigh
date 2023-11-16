@@ -2,6 +2,7 @@
 title: Open House Information
 permalink: /open-house-2023/
 description: ""
+variant: markdown
 ---
 ![](/images/Open%20House%202023/messageoftheday_web4.jpg)
 
@@ -13,6 +14,6 @@ description: ""
 
 | ![](/images/Open%20House%202023/openhouse_2240x1260_1.jpg) | ![](/images/Open%20House%202023/openhouse_2240x1260_2.jpg) | ![](/images/Open%20House%202023/openhouse_2240x1260_6.jpg) |
 
-![](/images/Open%20House%202023/openhouse_web-03.png)
+![](/images/Open%20House%202023/Publicity.jpg)
 
 <a href="/files/nan%20hua%20faq.pdf"><img src="/images/Open%20House%202023/openhouse_faq.png"></a>
