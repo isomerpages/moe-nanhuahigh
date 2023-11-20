@@ -1,6 +1,6 @@
 ---
 title: Corporate Film
 permalink: /about-us/corporatefilm/
-variant: tiptap
+variant: markdown
 description: ""
 ---
