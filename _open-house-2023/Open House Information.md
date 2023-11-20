@@ -15,5 +15,6 @@ variant: markdown
 | ![](/images/Open%20House%202023/openhouse_2240x1260_1.jpg) | ![](/images/Open%20House%202023/openhouse_2240x1260_2.jpg) | ![](/images/Open%20House%202023/openhouse_2240x1260_6.jpg) |
 
 ![](/images/Open%20House%202023/Publicity.jpg)
+[Click here for more information on our CnME Electives Showcase](https://docs.google.com/document/d/1r6xJ2zUw8VIpM1r7XxY0l2dUQ3HMzan3zCmgClsC1LQ/edit?usp=sharing)
 
 <a href="/files/Frequently_Asked_Questions_for_Website.pdf"><img src="/images/Open%20House%202023/openhouse_faq.png"></a>
