@@ -16,4 +16,4 @@ variant: markdown
 
 ![](/images/Open%20House%202023/Publicity.jpg)
 
-<a href="/files/nan%20hua%20faq.pdf"><img src="/images/Open%20House%202023/openhouse_faq.png"></a>
+<a href="[](/files/Frequently_Asked_Questions_for_Website.pdf)"><img src="/images/Open%20House%202023/openhouse_faq.png"></a>
