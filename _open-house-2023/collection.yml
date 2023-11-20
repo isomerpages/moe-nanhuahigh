@@ -2,5 +2,4 @@ collections:
   open-house-2023:
     output: true
     order:
-      - Corporate Film.md
       - Open House Information.md
