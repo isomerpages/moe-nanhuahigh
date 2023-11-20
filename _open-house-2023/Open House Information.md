@@ -2,6 +2,7 @@
 title: Open House Information
 permalink: /open-house-2023/
 description: ""
+variant: markdown
 ---
 ![](/images/Open%20House%202023/messageoftheday_web4.jpg)
 
@@ -13,6 +14,7 @@ description: ""
 
 | ![](/images/Open%20House%202023/openhouse_2240x1260_1.jpg) | ![](/images/Open%20House%202023/openhouse_2240x1260_2.jpg) | ![](/images/Open%20House%202023/openhouse_2240x1260_6.jpg) |
 
-![](/images/Open%20House%202023/openhouse_web-03.png)
+![](/images/Open%20House%202023/Publicity.jpg)
+[Click here for more information on our CnME Electives Showcase](https://docs.google.com/document/d/1r6xJ2zUw8VIpM1r7XxY0l2dUQ3HMzan3zCmgClsC1LQ/edit?usp=sharing)
 
-<a href="/files/nan%20hua%20faq.pdf"><img src="/images/Open%20House%202023/openhouse_faq.png"></a>
+<a href="/files/Frequently_Asked_Questions_for_Website.pdf"><img src="/images/Open%20House%202023/openhouse_faq.png"></a>
