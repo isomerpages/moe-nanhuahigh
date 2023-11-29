@@ -20,8 +20,7 @@ sections:
           url: /quick-links
       background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
   - infobar:
-      title: Announcement for Our 2024 Sec 1 Students
-      subtitle: Add informational text
+      title: 2024 Sec 1 Students
       id: infobar
       description: Please visit the school website in mid-Dec for more information
   - infobar:
