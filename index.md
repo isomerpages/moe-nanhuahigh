@@ -19,10 +19,6 @@ sections:
           description: ""
           url: /quick-links
       background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
-  - infopic:
-      id: infopic
-      image: /images/Announcement_to_2024_Sec_1_Students.jpg
-      alt: Sec 1 2024 Students
   - infobar:
       title: Caring Teacher Awards 2024 Nomination is now open
       button: INFO HERE
