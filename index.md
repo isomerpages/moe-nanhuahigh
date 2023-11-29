@@ -20,7 +20,6 @@ sections:
           url: /quick-links
       background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
   - infopic:
-      title: 2024 Sec 1 Students
       id: infopic
       image: /images/Announcement_to_2024_Sec_1_Students.jpg
       alt: Sec 1 2024 Students
