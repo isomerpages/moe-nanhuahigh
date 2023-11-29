@@ -20,6 +20,11 @@ sections:
           url: /quick-links
       background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
   - infobar:
+      title: Announcement for Our 2024 Sec 1 Students
+      subtitle: Add informational text
+      id: infobar
+      description: Please visit the school website in mid-Dec for more information
+  - infobar:
       title: Caring Teacher Awards 2024 Nomination is now open
       button: INFO HERE
       url: https://www.nanhuahigh.moe.edu.sg/announcements/
