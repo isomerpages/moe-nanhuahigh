@@ -23,6 +23,11 @@ sections:
       subtitle: 25 November 2023, Saturday | 9am - 1pm
       button: FIND OUT MORE
       url: https://www.nanhuahigh.moe.edu.sg/open-house-2023/
+  - infopic:
+      title: Announcement for Our New Sec 1 Students
+      id: infopic
+      description: Please visit the school website in mid-Dec for more information
+      image: /images/Announcement_to_2024_Sec_1_Students.jpg
   - infobar:
       title: Caring Teacher Awards 2024 Nomination is now open
       button: INFO HERE
