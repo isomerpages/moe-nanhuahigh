@@ -2,8 +2,8 @@
 title: Character and Citizenship Education 公民与品格教育
 permalink: /our-curriculum/character-and-citizenship-education/
 description: ""
+variant: markdown
 ---
-
 At Nan Hua High School, the focus of Character and Citizenship Education (CCE) is on enabling students to actualise the 8 School Values through the pathways of Positive Education. We believe in creating positive memories and authentic experiences to bring about a student-centric, values-driven education for our Nanhuarians, so that they develop competencies and use their character strengths to lead flourishing lives in a volatile and complex future.
 ![](/images/Interactive%20activities%20help%20develop%20character%20in%20students.jpg)
 Interactive activities help develop character in students. 
@@ -47,3 +47,11 @@ Commemorating Racial Harmony Day by wearing our best ethnic costumes.
 
 "Though planning for IFD took much time and effort, it was worthwhile as our classmates learnt more about the day and its importance in a fun and interactive manner!" (Kor Hor Ken and Shane Shahin Shah, 202)
 
+**
+
+At Nan Hua High School, the focus of Character and Citizenship Education (CCE) is on enabling students to actualise the 8 School Values through the pathways of Positive Education, so as to nurture active citizens grounded in values. We believe in creating positive memories and authentic experiences to bring about a student-centric, values-driven education for our Nanhuarians, so that they learn important skills and competencies and use their character strengths to lead flourishing lives in an ever-evolving BANI world. 
+
+The school has introduced a dynamic group of Peer Support Leaders, known as CareForce, comprising dedicated Care Champions from each class. They champion the school's endeavors in fostering a supportive care culture through peer support. While values inculcation and values in action remain the bedrock of CCE at Nan Hua, there is now an increased focus on promoting enhanced mental health among both students and staff through meaningful conversations. One crucial avenue for facilitating these conversations and fostering positive relationships is the Teacher Interaction with Pupils Sessions (TIPS). Within this platform, teachers assume the role of life coaches, guiding our students in exploring their individual identities, cultivating healthy relationships, and making informed choices. By prioritizing these aspects, our school aims to instill a greater sense of well-being and equip our students with the necessary tools to navigate their academic and personal journeys with grace and determination.
+
+With the firm belief that all Nan Hua teachers are CCE teachers first, professional development opportunities, such as the termly CCE LeAPS, HQ workshop on ECG counselling, and the annual STAR Seminar, are provided to equip our teachers with the necessary skills, strategies, and mindsets, to be effective CCE teachers. The theme for this year’s STAR Seminar is ‘Unwinding Anxiety’. Staff were introduced to the science of anxiety, its link to habit, and strategies to help themselves and their students to be anxiety-aware in promoting Positive Health.
+**
