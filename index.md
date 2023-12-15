@@ -20,10 +20,11 @@ sections:
           url: /quick-links
       background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
   - infobar:
-      title: 2024 Sec 1 Students
+      title: Registration for 2024 Sec 1 Students
       subtitle: Announcement
       id: infobar
-      description: Please visit the school website in mid-Dec for more information
+      button: Info Here
+      url: https://www.nanhuahigh.moe.edu.sg/announcements/
   - infobar:
       title: Caring Teacher Awards 2024 Nomination is now open
       button: INFO HERE
