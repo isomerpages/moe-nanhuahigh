@@ -2,37 +2,6 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: tiptap
 ---
-# Caring Teacher Awards 2024 nomination
-
-Dear students, ex-Nanhuarians, parents and guardians, 
-
-The Caring Teacher Awards 2024 nomination is now open! 
-
-#### For students and ex-Nanhuarians 
-
-Please submit your online nominations of our teachers whom you know and have gone the extra mile to nurture and develop you holistically. 
-
-What are some qualities that the dedicated teachers have displayed in their daily interactions with you?  How have they demonstrated a high level of genuine care, concern and consideration for you and make a  difference in your life? 
-
-How have you been transformed or what significant life-shaping experiences do you have because of the teachers' influence, leading to your positive change in perspectives and values? 
-
-Please go to this website www.cta.nie.edu.sg to submit your online nominations. The closing date is 12 Jan 2024. 
-
-#### For parents and guardians 
-
-Please submit your online nominations of our teachers whom you know and have gone the extra mile to nurture and develop your child/ward holistically. 
-
-What are some qualities that the dedicated teachers have displayed in their daily interactions with your child/ward? How have they demonstrated a high level of genuine care, concern and consideration for your child/ward and make a difference in his/her life? 
-
-How has your child/ward been transformed or what significant life-shaping experiences does he/she have because of the teachers' influence, leading to his/her positive change in perspectives and values? 
-
-Please go to this website www.cta.nie.edu.sg to submit your online nominations. The closing date is 12 Jan 2024. 
-
-Thank you, 
-
-On behalf of the School, 
-
-Mrs Eunice Iong
-
-School Staff Developer
+<p></p><h1>Sec 1 Registration 2024</h1><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucement/Announcement_on_school_website_for_Sec_1_Registration.jpg"></div><h1>Caring Teacher Awards 2024 nomination</h1><p>Dear students, ex-Nanhuarians, parents and guardians,</p><p>The Caring Teacher Awards 2024 nomination is now open!</p><h4>For students and ex-Nanhuarians</h4><p>Please submit your online nominations of our teachers whom you know and have gone the extra mile to&nbsp;nurture and develop you holistically.</p><p>What are some qualities that the dedicated teachers have displayed in their daily interactions with you?&nbsp; How have they demonstrated a high level of genuine care, concern and consideration for you and make a&nbsp; difference in your life?</p><p>How have you been transformed or what significant life-shaping experiences do you have because of the teachers' influence, leading to your positive change in perspectives and values?</p><p>Please go to this website www.cta.nie.edu.sg to submit your online nominations. The closing date is 12 Jan 2024.</p><h4>For parents and guardians</h4><p>Please submit your online nominations of our teachers whom you know and have gone the extra mile to&nbsp;nurture and develop your child/ward holistically.</p><p>What are some qualities that the dedicated teachers have displayed in their daily interactions with your&nbsp;child/ward? How have they demonstrated a high level of genuine care, concern and consideration for your child/ward and make a difference in his/her life?</p><p>How has your child/ward been transformed or what significant life-shaping experiences does he/she have because of the teachers' influence, leading to his/her positive change in perspectives and values?</p><p>Please go to this website www.cta.nie.edu.sg to submit your online nominations. The closing date is 12 Jan 2024.</p><p>Thank you,</p><p>On behalf of the School,</p><p>Mrs Eunice Iong</p><p>School Staff Developer</p>
