@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Message 校长.md
+      - Principal's Message 校长献词.md
       - Vision, Mission, Values 愿景、使命、八大校训.md
       - Corporate Film 南华故事.md
       - School Song 校歌.md
