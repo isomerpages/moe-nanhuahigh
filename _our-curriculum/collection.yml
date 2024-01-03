@@ -1,0 +1,14 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - Aesthetics 美育.md
+      - English and Literature 英文与英文文学.md
+      - Humanities 人文科.md
+      - ICT and Cyber Wellness 资讯科技与网络健康.md
+      - Mathematics 数学.md
+      - Mother Tongue 母语.md
+      - Science 科学.md
+      - Physical Education 体育.md
+      - Character and Citizenship Education 公民与品格教育.md
+      - Co Curricular Activities 课程辅助活动.md
