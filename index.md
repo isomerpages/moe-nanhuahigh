@@ -20,14 +20,10 @@ sections:
           url: /quick-links
       background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
   - infobar:
-      title: Registration for 2024 Sec 1 Students
-      subtitle: Announcement
+      title: Lunar New Year Visiting Hours
+      subtitle: 9 February 2024
       id: infobar
-      button: Info Here
-      url: https://www.nanhuahigh.moe.edu.sg/announcements/
-  - infobar:
-      title: Caring Teacher Awards 2024 Nomination is now open
-      button: INFO HERE
+      button: info here
       url: https://www.nanhuahigh.moe.edu.sg/announcements/
   - infopic:
       title: Vision
