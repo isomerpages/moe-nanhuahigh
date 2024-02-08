@@ -40,4 +40,10 @@ sections:
       alt: Image alt text
       url: /about-us/vision-mission-values/
       button: our values
+  - infobar:
+      title: Lunar New Year Visiting Hours
+      subtitle: 9 February 2024
+      id: infobar
+      button: info here
+      url: https://www.nanhuahigh.moe.edu.sg/announcements/
 ---
