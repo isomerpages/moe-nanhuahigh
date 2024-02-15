@@ -60,7 +60,7 @@ the compatibility list found here:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6270 8281
-<br><a href="mailto:pdlpapple@asiapac.com.sg" rel="noopener noreferrer nofollow" target="_blank">pdlpapple@asiapac.com.sg</a>
+<br><a href="mailto:pdlpapple@asiapac.com.sg" rel="noopener noreferrer nofollow" target="_blank">pdlpapple@asiapac.com.sg</a> 
 <br>
 </p>
 </td>
@@ -71,7 +71,7 @@ the compatibility list found here:</p>
 <br>(For buying of accessories)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.asiapac.com.sg/pld/apple" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/pld/apple</a>
+<p><a href="https://www.asiapac.com.sg/pld/apple" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/pld/apple</a> 
 <br>
 </p>
 </td>
