@@ -19,12 +19,6 @@ sections:
           description: ""
           url: /quick-links
       background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
-  - infobar:
-      title: Lunar New Year Visiting Hours
-      subtitle: 9 February 2024
-      id: infobar
-      button: info here
-      url: https://www.nanhuahigh.moe.edu.sg/announcements/
   - infopic:
       title: Vision
       description: A school of excellence that nurtures world-ready Bicultural
