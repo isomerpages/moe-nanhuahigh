@@ -152,7 +152,7 @@ variant: tiptap
 <p>Mr Tan Kian Tong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chang Mui Ching</p>
+<p>Mrs Chang Mui Ching/Ms Kelly Chua</p>
 </td>
 </tr>
 <tr>
