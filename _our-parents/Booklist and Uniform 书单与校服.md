@@ -35,8 +35,7 @@ Closed on Sunday and Public Holidays
 
 Download order form here  **(NOTE: the form is outdated below)**
 
-[Click here to download order form](/files/NHHS%20uniform%20list%202021-2022.pdf)  
-
+[Click here to download order form](/files/Uniform%20list/NHHS_Uniform_List_2023.pdf)
 
 ### _**NOTE:**_
 
