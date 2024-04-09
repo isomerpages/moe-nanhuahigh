@@ -10,7 +10,7 @@ variant: markdown
 </p>
 </li>
 <li>
-<p><strong><a href="/announcement/the-nan-hua-experience/" rel="noopener noreferrer nofollow" target="_self">3 May 2024 : "The Nan Hua Experience" – DSA e-Engagement Zoom Session by NHHS</a></strong>
+<p><strong><a href="/announcements/the-nan-hua-experience/" rel="noopener noreferrer nofollow" target="_self">3 May 2024 : "The Nan Hua Experience" – DSA e-Engagement Zoom Session by NHHS</a></strong>
 </p>
 </li>
 </ul>
