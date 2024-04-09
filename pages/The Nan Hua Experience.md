@@ -21,7 +21,7 @@ and many more.</p>
 <br>Do note that the session is capped at 1000 participants and is a first
 come first serve basis.
 <br>Please refer to the post for further instructions and passcode.</p>
-<p>&nbsp;You may contact the school at <a href="https://for.edu.sg/thenanhuaexperience2024" rel="noopener noreferrer nofollow" target="_blank">nhhs@moe.edu.sg</a> or
+<p>&nbsp;You may contact the school at <a href="mailto://nhhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nhhs@moe.edu.sg</a> or
 67788303 for clarifications.</p>
 <p></p>
 <p>We hope to see you there!</p>
