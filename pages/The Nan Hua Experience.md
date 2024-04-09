@@ -4,7 +4,7 @@ permalink: /announcement/the-nan-hua-experience/
 variant: tiptap
 description: ""
 ---
-<p><strong>“The Nan Hua Experience” – DSA e-Engagement Zoom Session by NHHS</strong>
+<p><strong>"The Nan Hua Experience" – DSA e-Engagement Zoom Session by NHHS</strong>
 </p>
 <p>To P6 Parents,</p>
 <p>&nbsp;Nan Hua High School would like to invite you to our online E-Engagement
