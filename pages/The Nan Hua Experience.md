@@ -6,13 +6,13 @@ description: ""
 ---
 <p><strong>"The Nan Hua Experience" – DSA e-Engagement Zoom Session by NHHS</strong>
 </p>
+
 <p>To P6 Parents,</p>
-<p>&nbsp;Nan Hua High School would like to invite you to our online E-Engagement
-session on 3 May 2024.</p>
-<p>![Life in Nan Hua](/images/Annoucement/DSA2.png)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Life in Nan Hua" src="/images/Annoucement/DSA2.png">
+<div style="float: right; margin: 0 0 10px 10px;" class="isomer-image-wrapper">
+    <img style="width: 100%;" alt="Life in Nan Hua" src="/images/Annoucement/DSA2.png">
 </div>
+&nbsp;Nan Hua High School would like to invite you to our online E-Engagement
+session on 3 May 2024.
 <p>Through this e-engagement, the school hopes to help P6 students look forward
 to the learning opportunities in secondary schools, and enable students
 to have deeper and meaningful conversations with parents about secondary
