@@ -9,8 +9,6 @@ description: ""
 <p>To P6 Parents,</p>
 <p>&nbsp;Nan Hua High School would like to invite you to our online E-Engagement
 session on 3 May 2024.</p>
-
-
 <p>Through this e-engagement, the school hopes to help P6 students look forward
 to the learning opportunities in secondary schools, and enable students
 to have deeper and meaningful conversations with parents about secondary
