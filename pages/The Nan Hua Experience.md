@@ -10,7 +10,7 @@ description: ""
 <p>&nbsp;Nan Hua High School would like to invite you to our online E-Engagement
 session on 3 May 2024.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Life in Nan Hua" src="/images/Annoucement/DSA.png">
+<img style="width: 100%" height="auto" width="50%" alt="Life in Nan Hua" src="/images/Annoucement/DSA.png">
 </div>
 <p>Through this e-engagement, the school hopes to help P6 students look forward
 to the learning opportunities in secondary schools, and enable students
