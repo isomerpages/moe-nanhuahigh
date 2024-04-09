@@ -1,18 +1,22 @@
 ---
 title: The Nan Hua Experience
 permalink: /announcements/the-nan-hua-experience/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p><strong>"The Nan Hua Experience" – DSA e-Engagement Zoom Session by NHHS</strong>
 </p>
 <p>To P6 Parents,</p>
 <p>&nbsp;Nan Hua High School would like to invite you to our online E-Engagement
-session on 3 May 2024. Through this e-engagement, the school hopes to help
-P6 students look forward to the learning opportunities in secondary schools,
-and enable students to have deeper and meaningful conversations with parents
-about secondary school options in line with their aspirations to make informed
-choices for their education journey ahead.</p>
+session on 3 May 2024.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Life in Nan Hua" src="/images/Annoucement/DSA.png">
+</div>
+<p>Through this e-engagement, the school hopes to help P6 students look forward
+to the learning opportunities in secondary schools, and enable students
+to have deeper and meaningful conversations with parents about secondary
+school options in line with their aspirations to make informed choices
+for their education journey ahead.</p>
 <p>We will also share more about the Nan Hua vision, mission and values,
 our Bicultural Education, DSA opportunities for admission into Nan Hua
 and many more.</p>
