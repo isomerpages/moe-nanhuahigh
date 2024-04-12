@@ -8,9 +8,6 @@ description: ""
 </p>
 
 <p>To P6 Parents,</p>
-<div style="float: right; margin: 0 0 10px 10px;" class="isomer-image-wrapper">
-    <img style="width: 100%;" alt="Life in Nan Hua" src="/images/Annoucement/DSA2.png">
-</div>
 &nbsp;Nan Hua High School would like to invite you to our online E-Engagement
 session on 3 May 2024.
 <p>Through this e-engagement, the school hopes to help P6 students look forward
@@ -21,7 +18,7 @@ for their education journey ahead.</p>
 <p>We will also share more about the Nan Hua vision, mission and values,
 our Bicultural Education, DSA opportunities for admission into Nan Hua
 and many more.</p>
-<p>&nbsp;Interested participants may register via this Zoom link <a href="https://for.edu.sg/thenanhuaexperience2024" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/thenanhuaexperience2024</a> .
+<p>&nbsp;Interested participants may register via this <a href="https://moe-singapore.zoom.us/webinar/register/WN_lw5ce3HKS5uKyuu7ZZZ-RQ#/registration" rel="noopener noreferrer nofollow" target="_blank"> link</a>.
 <br>
 <br>Do note that the session is capped at 1000 participants and is a first
 come first serve basis.
