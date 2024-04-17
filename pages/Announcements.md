@@ -4,6 +4,10 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<p></p>
+<p></p>
+<h4><strong>Our upcoming events</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -28,7 +32,9 @@ variant: tiptap
 <p>3 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/announcements/the-nan-hua-experience/" rel="noopener noreferrer nofollow" target="_self">"The Nan Hua Experience" – DSA e-Engagement Zoom Session by NHHS</a></strong>
+<p><strong><a href="/announcements/the-nan-hua-experience/" rel="noopener noreferrer nofollow" target="_self">"The Nan Hua Experience" – DSA e-</a></strong>
+</p>
+<p><strong><a href="/announcements/the-nan-hua-experience/" rel="noopener noreferrer nofollow" target="_self">Engagement Zoom Session by NHHS</a></strong>
 </p>
 </td>
 </tr>
