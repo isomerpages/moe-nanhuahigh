@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
-<p></p>
+<p><strong><a href="/announcements/cultural-potpourri-presents-voyage/" rel="noopener noreferrer nofollow" target="_self">Cultural Potpourri presents Voyage</a></strong>
+</p>
 <h4><strong>Our upcoming events</strong></h4>
 <table>
 <tbody>
