@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-<a href="/announcements/cultural-potpourri-presents-voyage/" rel="noopener noreferrer nofollow" target="_self">Cultural Potpourri presents Voyage</a>
+<a href="/announcements/talent-areas-for-dsa/" rel="noopener noreferrer nofollow" target="_self">Nan Hua High School Talent Areas for Direct School Admission</a>
 
 <h4><strong>Our upcoming events</strong></h4>
 <table>
