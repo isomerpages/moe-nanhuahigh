@@ -4,8 +4,9 @@ permalink: /announcements/talent-areas-for-dsa/
 variant: tiptap
 description: ""
 ---
-<p>Dear Primary 6 students/ Parents,</p>
-<p>Please refer to the following table for the talent areas offered by our
+<p>Dear Primary 6 students/ Parents,
+<br>
+<br>Please refer to the following table for the talent areas offered by our
 school for the Direct School Admission (DSA) exercise:</p>
 <table>
 <tbody>
