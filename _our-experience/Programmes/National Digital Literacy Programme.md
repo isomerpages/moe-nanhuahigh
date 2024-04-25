@@ -202,7 +202,7 @@ the compatibility list found here:</p>
 <p>Parents' Guide to Generative AI Tools for Learning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/parent_guide_genai.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents' Guide to Generative AI Tools for Learning </a>
+<p><a href="/files/parent_guide_genai.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents' Guide to Generative AI Tools for Learning</a>
 </p>
 </td>
 </tr>
