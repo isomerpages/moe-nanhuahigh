@@ -2,7 +2,6 @@
 title: National Digital Literacy Programme
 permalink: /our-experience/programmes/national-digital-literacy-programme/
 description: ""
-third_nav_title: Programmes
 variant: tiptap
 ---
 <h3>Introduction</h3>
@@ -194,6 +193,15 @@ the compatibility list found here:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NLB S.U.R.E</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents' Guide to Generative AI Tools for Learning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/parent_guide_genai.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents' Guide to Generative AI Tools for Learning</a>
 </p>
 </td>
 </tr>
