@@ -48,7 +48,8 @@ In the 2024 Direct School Admission (DSA) Exercise, Nan Hua High School will be 
 
 1.    Selection of students for the 2024 DSA exercise will take place from 24 June – 9 September.
 
-2.    In addition to meeting the criteria for DSA talent area, applicants must take Higher Chinese/Chinese as Mother Tongue Language.
+2.    In addition to meeting the criteria for DSA talent area, applicants must take Higher Chinese Language or Chinese Language as their Mother Tongue subject. Applicants must
+also be posted to secondary schools through Posting Group 3 (G3).
 
 3.    Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. Due to different profiles of applicants, selection/shortlisting trends may differ year on year.
 
