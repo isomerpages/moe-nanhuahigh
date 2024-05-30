@@ -71,4 +71,4 @@ At the end of each level, the objectives of ECG @ Nan Hua High School are to:
 
 ### **Resources&nbsp;for Students &amp; Parents**
 
-[JAE Information 2024](https://sites.google.com/nhhs.edu.sg/nhecg/home)
+[NHHS Education &amp; Career Guidance](https://sites.google.com/nhhs.edu.sg/nhecg/home)
