@@ -3,6 +3,7 @@ title: Education and Career Guidance
 permalink: /our-experience/programmes/education-and-career-guidance/
 description: ""
 third_nav_title: Programmes
+variant: markdown
 ---
 ### What is Education and Career Guidance (ECG)?
 
@@ -70,4 +71,4 @@ At the end of each level, the objectives of ECG @ Nan Hua High School are to:
 
 ### **Resources&nbsp;for Students &amp; Parents**
 
-[JAE Information 2023](https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx)
+[NHHS Education &amp; Career Guidance](https://sites.google.com/nhhs.edu.sg/nhecg/home)
