@@ -25,7 +25,7 @@ the Contents are owned by, licensed to or controlled by Nan Hua High School.</p>
 <p><strong>Privacy Policy</strong>
 </p>
 <p>4. Click [here](/privacy statement) to review this Web Site Privacy Statement.</p>
-<p><strong>Restrictions on use of Materials</strong>
+<p><strong>Restrictions on Use of Materials</strong>
 </p>
 <p>5. Except as otherwise provided, the Contents of this Web Site shall not
 be reproduced, republished, uploaded, posted, transmitted or otherwise
@@ -40,7 +40,7 @@ other purpose will be a violation of Nan Hua High School's copyright and
 other intellectual property rights. Graphics and images on this Web Site
 are protected by copyright and may not be reproduced or appropriated in
 any manner without written permission of Nan Hua High School.</p>
-<p><strong>Right of Access </strong>
+<p><strong>Right of Access</strong>
 </p>
 <p>7. Nan Hua High School reserves all rights to deny or restrict access
 to this Web Site to any particular person, or to block access from a particular
