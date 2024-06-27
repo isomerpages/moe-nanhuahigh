@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h4>Secondary 1</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -100,16 +105,21 @@ variant: tiptap
 <p>108</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yeo Soo Mui</p>
+<p>Mr Wong Jye Huei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Jye Huei</p>
+<p>Mr Quenton Tan</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Secondary 2</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -149,10 +159,10 @@ variant: tiptap
 <p>203</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kian Tong</p>
+<p>Mrs Chang Mui Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chang Mui Ching/Ms Kelly Chua</p>
+<p>Ms Kelly Chua</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +223,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Secondary 3</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -231,10 +246,10 @@ variant: tiptap
 <p>301</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Laura Khoo</p>
+<p>Mr Lee Jun Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Jun Yi</p>
+<p>Ms Phoebe Lim</p>
 </td>
 </tr>
 <tr>
@@ -328,7 +343,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Secondary 4</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
