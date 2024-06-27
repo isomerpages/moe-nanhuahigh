@@ -2,6 +2,7 @@
 title: Alumni 校友会
 permalink: /our-people/alumni/
 description: ""
+variant: markdown
 ---
 ![Alumni 11th Exco](/images/NHHS%2011%20Alumni%20Association%20Exco.jpg)
 
@@ -26,7 +27,15 @@ Nan Hua High School Alumni Association
 			
 			
 **第十一届校友会会长朱致陇**
-                              
+
+<br>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Z1zVAq7xH1g?si=2MGl220-dSWETyc3" height="315" width="560"></iframe>
+Our Nan Hua High School Alumni celebrated its Silver Jubilee Celebration in 2023. Join us as we recap the meaningful moments in this video.
+<br><br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rFp5NxXsS8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+A video montage about our Alumni.
+
 ![](/images/Alumni_Preparing%20uniforms%20for%20Secondary%201%20students.jpg)
 **Alumni preparing uniforms for Secondary 1 Registration Day**
 	
@@ -47,8 +56,7 @@ Nan Hua High School Alumni Association
 	
 #### [Visit the Nan Hua High School Alumni Website](https://www.facebook.com/nanhuaalumni)
 
-<img style="width:500px" src="/images/Alumni_2016_Logo.jpg">
-<br>
+<img style="width:200px" src="/images/Alumni_2016_Logo.jpg">
+
 
   
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/rFp5NxXsS8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
