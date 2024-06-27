@@ -31,10 +31,8 @@ Nan Hua High School Alumni Association
 <br>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Z1zVAq7xH1g?si=2MGl220-dSWETyc3" height="315" width="560"></iframe>
-Our Nan Hua High School Alumni celebrated its Silver Jubilee Celebration in 2023. Join us as we recap the meaningful moments in this video.
-<br><br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/rFp5NxXsS8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-A video montage about our Alumni.
+**Our Nan Hua High School Alumni celebrated its Silver Jubilee Celebration in 2023. Join us as we recap the meaningful moments in this video.**
+<br>
 
 ![](/images/Alumni_Preparing%20uniforms%20for%20Secondary%201%20students.jpg)
 **Alumni preparing uniforms for Secondary 1 Registration Day**
@@ -58,5 +56,6 @@ A video montage about our Alumni.
 
 <img style="width:200px" src="/images/Alumni_2016_Logo.jpg">
 
-
-  
+<br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rFp5NxXsS8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+**A video montage about our Alumni.**
