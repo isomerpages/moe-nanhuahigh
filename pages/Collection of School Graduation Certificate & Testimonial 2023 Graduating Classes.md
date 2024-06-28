@@ -5,8 +5,6 @@ permalink: /announcements/collection-2023-graduating-classes/
 variant: tiptap
 description: ""
 ---
-<p><strong>Collection of School Graduation Certificate &amp; Testimonial 2023 Graduating Classes</strong>
-</p>
 <ol>
 <li>
 <p>The 2023 School Graduation Certificate and Testimonial is ready for collection.
