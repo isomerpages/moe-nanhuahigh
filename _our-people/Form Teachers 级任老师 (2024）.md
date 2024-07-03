@@ -64,7 +64,7 @@ variant: tiptap
 <p>Ms Koh Jia Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chin Ying Fen/Ms Teo Xin Yi</p>
+<p>Ms Chen Shuhui/Ms Teo Xin Yi</p>
 </td>
 </tr>
 <tr>
