@@ -10,8 +10,6 @@ variant: markdown
 
 The school leverages the MUN Conference, an excellent platform to hone the sKy Leaders’ 21st-century competencies, to develop student agency in students where they can be conference organisers. The sKy leaders take on various roles in organising the conference according to their strengths, for instance, facilitating discussions, designing publicity materials, etc.
 
-![](/images/2023%20nyec%201.jpg)
-
 **National Youth Environment Conference (NYEC) 2024**
 
 NYEC is a MUN Conference with an environmental focus as sustainable environment education (SEED) is one of the niches of the school.
@@ -20,11 +18,11 @@ In collaboration with Service Learning Club, Sky Leaders organised the 4th NYEC,
 
 NYEC has developed “Confident Learners” by allowing both participants and the organising team to step out of their comfort zones, acquire new skills and gain insights from experts. It has also nurtured “Compassionate Leaders” by fostering a greater sense of eco stewardship amongst everyone involved.
 
-![](/images/nyec%20banner.jpg)
+
+![](/images/Our%20Experience/SKY%20Leaders/NYEC2024.jpg)
 Click [here](http://nyec.epizy.com/?i=3) to access the NYEC Website.
 
 **Singapore Model United Nations**
 
 In the CnME module, Young Diplomats in Action, Secondary 3 sKy leaders learnt the ropes of being a delegate in a Model United Nations (MUN) setting. A highlight of their experience is participating in the Singapore MUN (SMUN). 
-
-![](/images/nyec%20banner%202.png)
+![Singapore MUN 2024](/images/Our%20Experience/SKY%20Leaders/MUN2024.jpg)
