@@ -10,10 +10,10 @@ variant: markdown
 
 
    
-* [Secondary 1 Booklist 2024](/files/Booklist/S1_Booklist_2024.pdf)
-* [Secondary 2 Booklist 2024](/files/Booklist/S2_Booklist_2024.pdf)
-* [Secondary 3 Booklist 2024](/files/Booklist/S3_Booklist_2024.pdf)
-* [Secondary 4 Booklist 2024](/files/Booklist/S4_Booklist_2024.pdf)
+* Secondary 1 Booklist 2025 (Coming soon)
+* [Secondary 2 Booklist 2025](/files/Booklist/NHHS_SEC_2_2025.pdf)
+* [Secondary 3 Booklist 2025](/files/Booklist/NHHS_SEC_3_2025.pdf)
+* [Secondary 4 Booklist 2025](/files/Booklist/NHHS_SEC_4_2025.pdf)
 
 
   
