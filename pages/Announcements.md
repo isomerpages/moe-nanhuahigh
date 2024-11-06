@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-<h5>Information about Secondary 1 Admission 2025</h5>
+<h5>Information about Secondary 1 (2025) Admission</h5>
 ![Sec 1 2025](/images/Annoucement/Announcement_for_Sec_1_Registration_2025.png)
 
 <h5>Collection of School Graduation Certificate &amp; Testimonial</h5>
