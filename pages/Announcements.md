@@ -4,4 +4,4 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-<h5>There are no announcements for now.</h5>
+<h5>Open House 2024  23 November 9 am to 1 pm</h5>
