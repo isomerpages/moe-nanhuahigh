@@ -2,7 +2,7 @@
 title: Teacher's Day 2021
 permalink: /our-experience/events/teachers-day/
 description: ""
-third_nav_title: Events 活动
+third_nav_title: Past Events
 ---
 <img src="/images/teachersday1.png" style="width:500px">
 <br>

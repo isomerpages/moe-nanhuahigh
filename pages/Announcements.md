@@ -4,9 +4,6 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-<h5>Collection of School Graduation Certificate &amp; Testimonial</h5>
-<strong><a href="/announcements/collection-2023-graduating-classes/" rel="noopener noreferrer nofollow" target="_self">For 2023 Graduating Classes</a></strong>
+<h5>Nan Hua High School Open House 2024 :  23 November 9 am to 1 pm</h5>
 
-
-<h5>Direct School Admission (2024)</h5>
-<strong><a href="/announcements/talent-areas-for-dsa/" rel="noopener noreferrer nofollow" target="_self">NHHS Talent Areas for Direct School Admission</a></strong>
+<a href="https://for.edu.sg/nhhsopenhouse2024">![Open House 2024](/images/Annoucement/NHHS_Open_House_Main_FB.jpg)</a>

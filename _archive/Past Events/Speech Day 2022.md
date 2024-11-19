@@ -2,7 +2,7 @@
 title: Speech Day 2022
 permalink: /our-experience/events/speech-day/
 description: ""
-third_nav_title: Events 活动
+third_nav_title: Past Events
 ---
 On 22 April 2022, Nan Hua High School celebrated our 105th Speech and Prize-Giving Day with the theme “Confident Learners, Compassionate Leaders”. The Guest of Honour for the event was our SAC Chairperson, Mr William Leong.  
   

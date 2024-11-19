@@ -3,7 +3,6 @@ title: Centre of Excellence Chinese Language and Culture 西区华文与中华�
 permalink: /our-experience/centre-of-excellence-chinese-language-and-culture/
 description: ""
 ---
-
 **[https://sites.google.com/moe.edu.sg/wzcoecl/home](https://sites.google.com/moe.edu.sg/wzcoecl/home)**
 
 **《一心集》**

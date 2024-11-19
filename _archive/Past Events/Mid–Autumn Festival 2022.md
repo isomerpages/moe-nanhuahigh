@@ -2,7 +2,7 @@
 title: Mid–Autumn Festival 2022
 permalink: /our-experience/events/mid-autumn-festival/
 description: ""
-third_nav_title: Events 活动
+third_nav_title: Past Events
 ---
 **中秋赏明月，南华庆团圆**  
 两年多来，疫情渐渐平稳， 9月16日南华人终于能齐聚校园，满怀希望的喜悦，共庆中秋佳节。 当夜，皎皎明月当空，欢声笑语不绝于耳，南华校园里一派温馨祥和的景象。  

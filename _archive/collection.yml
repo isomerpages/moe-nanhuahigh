@@ -2,8 +2,14 @@ collections:
   archive:
     output: true
     order:
+      - Centre of Excellence Chinese Language and Culture 西区华文与中华文化卓越中心.md
       - Sustainable Environment Education 可持续环境教育.md
       - SAP Flagship 特选旗舰计划.md
+      - Past Events/National Day 2022.md
+      - Past Events/Speech Day 2022.md
+      - Past Events/Mid–Autumn Festival 2022.md
+      - Past Events/Annual Arts Appreciation 2021.md
+      - Past Events/Teacher's Day 2021.md
       - Past Events/Camp Achiever 2022.md
       - Past Events/Chinese New Year 2022.md
       - Past Events/iPad Unboxing Day 2022.md

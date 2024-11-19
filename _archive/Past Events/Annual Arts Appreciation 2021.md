@@ -2,7 +2,7 @@
 title: Annual Arts Appreciation 2021
 permalink: /our-experience/events/annual-arts-appreciation/
 description: ""
-third_nav_title: Events 活动
+third_nav_title: Past Events
 ---
 <img src="/images/aaa1.png" style="width:600px">
 <br>
