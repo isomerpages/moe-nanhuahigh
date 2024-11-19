@@ -21,7 +21,7 @@ sections:
       background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
   - infopic:
       title: Vision
-      description: Curious Learners | Cultured Scholars |  Courageous Leaders   乐学善思 |
+      description: Curious Learners|Cultured Scholars| Courageous Leaders    乐学善思 |
         文质彬彬 | 当仁不让
       image: /images/Homepage/cny2023_2240x1260.jpg
       alt: Image alt text
