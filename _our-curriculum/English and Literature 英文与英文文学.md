@@ -20,7 +20,12 @@ a new genre to the school each month. They created library displays featuring
 recommended texts and shared book reviews with their schoolmates. To encourage
 reading, the Reading Ambassadors also launched the Golden Ticket Event!
 An exciting hunt for golden tickets saw an increase in books being borrowed
-from the library, where the winner had scavenged a whopping fourteen tickets!
+from the library, where the winner had scavenged a whopping fourteen tickets!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Launching the Golden Ticket Event at the school library" src="/images/Our Curriculum/2024 Update/Launching_the_Golden_Ticket_Event_at_the_school_library.jpg">
+</div>
+<p><strong><em>Launching the Golden Ticket Event at the school library</em></strong>
 <br>
 </p>
 <p><strong>English and Humanities Week</strong>
@@ -41,6 +46,11 @@ poem through creative expressions, and the Book Trailer Competition, where
 students dramatise moments from our beloved plays.
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hearing from our schoolmates at EL-Humanities assembly" src="/images/Our Curriculum/2024 Update/Hearing_from_our_schoolmates_at_EL_Humanities_assembly.jpg">
+</div>
+<p><strong><em>Hearing from our schoolmates at EL-Humanities assembly</em></strong>
+</p>
 <p><strong>National Schools' Literature Festival</strong>
 </p>
 <p>Nan Hua has always been an active participant in the bi-annual National
@@ -57,3 +67,8 @@ award”. It was truly a day where we come together to celebrate Literature,
 and reaffirm how intellectually stimulating and actively creative Literature
 can be.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Reading together as a school for the 'Read for Books' drive" src="/images/Our Curriculum/2024 Update/Reading_together_as_a_school_for_the__Read_for_Books__drive.jpg">
+</div>
+<p><strong><em>Reading together as a school for the 'Read for Books' drive</em></strong>
+</p>
