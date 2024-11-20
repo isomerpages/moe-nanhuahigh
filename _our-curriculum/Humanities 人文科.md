@@ -4,7 +4,7 @@ permalink: /humanities/
 variant: tiptap
 description: ""
 ---
-<p><strong>Humanities Department  </strong>
+<p><strong>Humanities Department</strong>
 </p>
 <p>The Humanities department adopts an inquiry approach in sparking curiosity
 and developing passion in the learning of Humanities. Through the multiple
@@ -35,6 +35,12 @@ challenges and resilience of the people living during the transformative
 periods of Singapore. This helped to deepen their understanding and appreciation
 for the contributions made by the pioneer generations that have built Singapore
 from a fishing village to a cosmopolitan nation today.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Exploring the museum" src="/images/Our Curriculum/2024 Update/Exploring_the_museum.jpg">
+</div>
+<p><strong><em>Exploring the museum</em></strong>
+</p>
 <p><strong>Social Studies Issue Investigation</strong>
 </p>
 <p>The Social Studies Issue Investigation was a collaborative inquiry project
@@ -46,7 +52,7 @@ and analysed the data collected before making recommendations based on
 sound reasoning to improve societal issues. This investigation provided
 students with authentic opportunities to gain diverse perspectives from
 Singaporeans on the issues and challenges in our society.</p>
-<p><strong>Social Studies Issue Investigation Collaboration with Clementi Town Secondary </strong>
+<p><strong>Social Studies Issue Investigation Collaboration with Clementi Town Secondary</strong>
 </p>
 <p>From the Secondary 3 cohort, two classes collaborated with students from
 Clementi Town Secondary for their Social Studies Issue Investigation project.
@@ -71,12 +77,24 @@ and skills when doing their research on various aspects of ASEAN countries.
 Through this event, students gained a deeper understanding of how to apply
 what they learnt in the classroom to a real-life showcase to their friends
 and teachers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Presenters engaging their peers on Vietnam" src="/images/Our Curriculum/2024 Update/Presenters_engaging_their_peers_on_Vietnam.jpg">
+</div>
+<p><strong><em>Presenters engaging their peers on Vietnam</em></strong>
+</p>
 <p><strong>NH ASEAN Forum 2023</strong>
 </p>
 <p>Held on 19 July, the Secondary 3 cohort participated in the inaugural
 NH ASEAN Forum. The brainchild of the Humanities teachers, the forum aims
 to provide opportunities for Nanhuarians to strengthen their understanding
 and exposure towards Asia, particularly the ASEAN region.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Learning about the civil-military relations in the ASEAN region" src="/images/Our Curriculum/2024 Update/Learning_about_the_civil_military_relations_in_the_ASEAN_region.jpg">
+</div>
+<p><strong><em>Learning about the civil-military relations in the ASEAN region</em></strong>
+</p>
 <p>The theme was Blurring the Lines: Military and Governance in ASEAN, where
 students were tasked to conduct guided research on an ASEAN country of
 their choice and present their findings. A Fireside Chat featuring our
