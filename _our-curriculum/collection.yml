@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - ICT and Cyber Wellness 资讯科技与网络健康2.md
       - Humanities 人文科2.md
       - English and Literature 英文与英文文学2.md
       - Aesthetics 美育2.md
