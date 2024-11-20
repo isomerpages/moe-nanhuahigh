@@ -28,7 +28,14 @@ and hands-on lessons with musical instruments. An arrangement module, involving
 GarageBand on the iPad, allows students to develop their musical abilities.
 Secondary 2 students deepened their musical knowledge through the learning
 of music from different cultures and genres.</p>
-<p>Our Art Programme empowers students to become creative thinkers, problem
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 Update/Students_painting_a_still_life_using_acrylic_paint.jpg">
+</div>
+<p><strong><em>Students painting a still life using acrylic paint</em></strong>
+<br>
+<br>Our Art Programme empowers students to become creative thinkers, problem
 solvers and better critiques by using Student Agency, through Gradual Release
 of Responsibility and Inquiry-Based Learning approaches. Both Lower and
 Upper Art Programme allow students to seek and develop meaning in their
