@@ -8,6 +8,12 @@ description: ""
 of students, promoting physical fitness, instilling discipline, and fostering
 teamwork. At Nan Hua High School, the PE department has consistently nurtured
 a culture of active living and sporting excellence among students and staff.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staff doing warm up before Kickboxing" src="/images/Our Curriculum/2024 Update/Staff_doing_warm_up_before_Kickboxing.jpg">
+</div>
+<p><strong><em>Staff doing warm up before Kickboxing</em></strong>
+</p>
 <p>The team embraced a holistic approach to physical fitness, recognising
 that it encompasses more than just physical prowess. A comprehensive curriculum
 that focuses not only on skill development but also on fostering mental
@@ -24,6 +30,12 @@ such as sportsmanship, fair play, and respect in students. Activities are
 deliberately crafted for students to learn valuable life lessons such as
 accepting defeat graciously, celebrating victories humbly, and supporting
 teammates through adversity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Working together as a team" src="/images/Our Curriculum/2024 Update/Working_together_as_a_team.jpg">
+</div>
+<p><strong><em>Working together as a team</em></strong>
+</p>
 <p>Proactive steps were also taken by the team to engage staff in adopting
 a healthy lifestyle. Leveraging on the LeAPS sessions carved out for physical
 activity, a series of initiatives such as introducing different categories
@@ -43,6 +55,12 @@ lace up their running shoes to push their boundaries and achieve personal
 goals. Beyond the physical aspect, the event promotes a sense of togetherness
 among students and staff as they also engage in a healthy picnic and a
 fun sports challenge as a fringe activity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Annual Road Run at West Coast Park" src="/images/Our Curriculum/2024 Update/Annual_Road_Run_at_West_Coast_Park.jpg">
+</div>
+<p><strong><em>Annual Road Run at West Coast Park</em></strong>
+</p>
 <p><strong>Healthy Habits Sports Carnival</strong>
 </p>
 <p>The Healthy Habit Sports Carnival is a vibrant spectacle that unites students
