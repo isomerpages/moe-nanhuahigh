@@ -18,7 +18,7 @@ of the year.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 Update/Students_evaluating_food_sold_at_a_canteen_stall.jpg">
 </div>
-<p><em>Students evaluating food sold at a canteen stall</em>
+<p><strong><em>Students evaluating food sold at a canteen stall</em></strong>
 <br>
 </p>
 <p>The Lower Secondary Music curriculum utilises well-founded pedagogical
