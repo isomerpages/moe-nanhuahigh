@@ -2,6 +2,15 @@ collections:
   archive:
     output: true
     order:
+      - Science 科学.md
+      - Mother Tongue 母语.md
+      - Mathematics 数学.md
+      - Physical Education 体育.md
+      - Character and Citizenship Education 公民与品格教育.md
+      - ICT and Cyber Wellness 资讯科技与网络健康.md
+      - Humanities 人文科.md
+      - English and Literature 英文与英文文学.md
+      - Aesthetics 美育.md
       - Centre of Excellence Chinese Language and Culture 西区华文与中华文化卓越中心.md
       - Sustainable Environment Education 可持续环境教育.md
       - SAP Flagship 特选旗舰计划.md

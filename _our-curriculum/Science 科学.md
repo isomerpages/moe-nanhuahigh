@@ -1,60 +1,90 @@
 ---
 title: Science 科学
-permalink: /our-curriculum/science/
+permalink: /science/
+variant: tiptap
 description: ""
 ---
-
-**Department's focus towards STEM (Science, Technology, Engineering and Mathematics) Program**
-
-The Science department has engaged the professional guidance of Dr Tan Aik Ling to conduct STEM workshops and consultations for our teachers to deepen their understanding on STEM. Dr Tan is the Deputy Head (Teaching and Curriculum Matters) and Associate Professor of Natural Sciences and Science Education at the National Institute of Education. Putting our learning into practice, we designed STEM PLC projects for our upper secondary Chemistry and Biology students. The students took part in challenges to design the best sleeve for hot and cold drinks, and to design innovative, sustainable solutions to improve crop yield through vertical farming. As part of the PLC project, some of our students also took part in the nation-wide STEM Playground 2022 competition to design balloon cars and geodesic domes, creating prize-winning designs.
-
-
-**Enrichment Programs**  
-
-Our students were offered opportunities to take part in many competitions. Here are some of the highlights and achievements:
-
-1\. Singapore Junior Physics Olympiad 2022 (Awarded 13 individual and 3 team awards)
-
-Students collaborated on challenging Physics problems.
-  
-
-2\. ACJC International Biomedical Quiz 
-(Awarded 1 Gold, 4 Silver, 4 Bronze)
-
-Students went through a series of online workshops on Oncology and applied their learning to real life clinical contexts.
-
-  
-![Congratulations to our ACJC International Biomedical Quiz Winners!](/images/Congratulations%20to%20our%20ACJC%20International%20Biomedical%20Quiz%20Winners!.jpg)
-
-<p style="text-align: center"><strong>Congratulations to our ACJC International Biomedical Quiz Winners!</strong></p>
-
-3\. C.B Paul Memorial Science Quiz 
-(Awarded 2 Gold, 4 Silver, 1 Bronze in Category 2 and 1 Gold, 2 Silver and 1 Bronze in Category 1, 
-Fourth Place in Team Final Round)
-
-High-ability students applied their science and mathematical knowledge to explain daily phenomena.
-
-![Congratulations to our CB Paul ACJC Science Competition Category 1 medal winners!](/images/Congratulations%20to%20our%20CB%20Paul%20ACJC%20Science%20Competition%20Category%201%20medal%20winners!.jpg)
-
-<p style="text-align: center"><strong>Congratulations to our CB Paul ACJC Science Competition Category 1 medal winners!</strong></p>
-
-  4\. Singapore Junior Biology Olympiad 2022 (Awarded 3 Silver and 5 Bronze)
-
-Students answered challenging Biology questions from a broad range of topics.
-  
-
-![Curious Explorers of Knowledge at the STEM Chemistry PLC](/images/Curious%20Explorers%20of%20Knowledge%20at%20the%20STEM%20Chemistry%20PLC.jpg)
-
-<p style="text-align: center"><strong>Curious Explorers of Knowledge at the STEM Chemistry PLC</strong></p>
-
-![Experimenting with making a balloon car at the STEM Playground](/images/Experimenting%20with%20making%20a%20balloon%20car%20at%20the%20STEM%20Playground.jpg)
-
-<p style="text-align: center"><strong>Experimenting with making a balloon car at the STEM Playground</strong></p>
-
-![STEM Playground Challenge - Making a Geodesic Dome](/images/STEM%20Playground%20Challenge%20-%20Making%20a%20Geodesic%20Dome.png) 
-
-<p style="text-align: center"><strong>STEM Playground Challenge - Making a Geodesic Dome</strong></p>
-
-![Thank you Dr Tan Aik Ling for conducting the STEM Workshop for teachers](/images/Thank%20you%20Dr%20Tan%20Aik%20Ling%20for%20conducting%20the%20STEM%20Workshop%20for%20teachers.jpg)
-
-<p style="text-align: center"><strong>Thank you Dr Tan Aik Ling for conducting the STEM Workshop for teachers</strong></p>
+<p><strong>STEM Endeavors</strong>
+</p>
+<p><strong>STEM Workshop led by Dr Tan Aik Ling (National Institute of Education)</strong>
+</p>
+<p>Since 2022, the Science Department has embarked on our journey to spearhead
+STEM related activities in the school for both staff and students. We had
+the privilege of attending a STEM workshop conducted by the eminent Dr
+Tan Aik Ling from the National Institute of Education in March this year.
+Dr Tan demonstrated, using an engaging activity in which participants designed
+a kitchen device for the visually impaired, how the Science curriculum
+can be infused with STEM activities to engender engagement in real world
+issues, multiple perspectives through role play as well as an appreciation
+for how STEM is a part of everyday living.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Science teachers listening attentively to Dr Tan Aik Ling" src="/images/Our Curriculum/2024 Update/2__STEM_Workshop___Science_teachers_listening_attentively_to_Dr_Tan_Aik_Ling.jpg">
+</div>
+<p><strong><em>Science teachers listening attentively to Dr Tan Aik Ling</em></strong>
+</p>
+<p><strong>STEM Playground Challenge organized by CPDD, Science Centre and The James Dyson Foundation</strong>
+</p>
+<p>STEM Playground Challenge 2023 is jointly organised by Curriculum Planning
+and Development Division (CPDD), Science Centre Singapore and The James
+Dyson Foundation. The main objective of this competition is to encourage
+students’ curiosity, creativity and interest through innovation in STEM
+challenges. The challenges also develop school spirit alongside 21st Century
+Competencies in our students. Our Secondary one and two students did the
+school proud by clinching the top spot as the Champion school in STEM Playground
+Challenge 1 “CanBridge Hold’Em” held in semester one. In STEM Playground
+2023 Challenge 2, “Sea-Rious” held in semester two, we won the Second Prize.
+As a recognition of our stellar performance in the STEM challenge activities,
+thirty students and two staff were invited to participate in the James
+Dyson Foundation Prototyping workshop.The workshop challenges students
+to think like engineers – and to turn their ideas into working prototypes.The
+school will endeavor to facilitate our students’ journey in exploring STEM
+activities with passion and curiosity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students collaborating to complete STEM Playground Challenge 1" src="/images/Our Curriculum/2024 Update/3__Stem_Challenge___Students_collaborating_to_complete_STEM_Playground_Challenge_1.jpg">
+</div>
+<p><strong><em>Students collaborating to complete STEM Playground Challenge 1</em></strong>
+</p>
+<p><strong>Enrichment Activities</strong>
+</p>
+<p>Our students were offered opportunities to take part in many external
+competitions to stretch their abilities. Some highlights include;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>C.B. Paul Memorial Science Quiz by ACJC</strong>
+<br>3 Gold, 2 Silver
+<br>
+</p>
+</li>
+<li>
+<p><strong>Singapore Junior Biology Olympiad (SJBO)</strong>
+<br>1 Gold, 4 Silver and 5 Bronze
+<br>
+</p>
+</li>
+<li>
+<p><strong>Singapore Junior Physics Olympiad (SJPO)</strong>
+<br>1 Silver and 5 Bronze
+<br>
+</p>
+</li>
+<li>
+<p><strong>Singapore Junior Chemistry Olympiad (SJChO)</strong>
+<br>1 Silver, 3 Bronze
+<br>
+</p>
+</li>
+<li>
+<p><strong>The Singapore International STEM Innovation Challenge 2023</strong>
+<br>Bronze Award
+<br>
+</p>
+</li>
+<li>
+<p><strong>Vanda International Science Competition</strong>
+<br>4 Gold, 8 Silvers and 16 Bronze</p>
+<p></p>
+</li>
+</ul>
+<p></p>

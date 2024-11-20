@@ -3,8 +3,6 @@ title: ICT and Cyber Wellness 资讯科技与网络健康
 permalink: /our-curriculum/ict-and-cyber-wellness/
 description: ""
 ---
-
-
 **Information and Communications Technology (ICT) Department**
 
   
@@ -23,6 +21,4 @@ In order to better prepare our students for digital learning and create a positi
 
 ![](/images/Peer%20training%20workshops%20for%20Cyber%20Wellness%20Champions%20and%20Care%20Champions.jpg)Peer training workshops for Cyber Wellness Champions and Care Champions. 
 
-![](/images/Sec%201%20iPad%20Unboxing%20202.jpg) Sec 1 iPad Unboxing 
-
-
+![](/images/Sec%201%20iPad%20Unboxing%20202.jpg) Sec 1 iPad Unboxing

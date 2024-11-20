@@ -1,86 +1,77 @@
 ---
 title: Physical Education 体育
-permalink: /our-curriculum/physical-education/
+permalink: /physical-education/
+variant: tiptap
 description: ""
 ---
-
-The Physical Education (PE) department continues to cultivate positive habits in students through a rigorous PE and Healthy Habits programme. Focusing on not just physical health, our collaboration with other departments and committees allows students to also be aware of their mental, emotional and social well-being to develop themselves holistically. With the opportunity to learn a variety of sports and games, and participate in a range of activities, students can become competent in and passionate about pursuing an active, healthy lifestyle. Students can also learn to work together as a team and nurture class spirit as they acquire the knowledge, skills, right attitudes and values to understand the importance of maintaining fitness for their personal well-being.
-
-At the end of Term 1 and 2, students had the opportunity to engage in 2 days of level-wide activities, which further facilitated class-based and level-based bonding as they work together towards a common goal. Those were also days that students could destress and enjoy a fun-filled day of activities to celebrate the hard work they have put in throughout the term. Not forgetting the mental and affective domain, students also had sessions to show their gratitude and practice mindfulness as part of their holistic well-being development.
- 
- ![Writing a gratitude note to a peer](/images/Writing%20a%20gratitude%20note%20to%20a%20peer.jpg)
- 
- <p style="text-align: center"><strong>Writing a gratitude note to a peer</strong></p>
- 
- ![Fit Fit Friday - Morning stretching in class](/images/Fit%20Fit%20Friday%20-%20Morning%20stretching%20in%20class.jpg)
- 
-  <p style="text-align: center"><strong>Fit Fit Friday - Morning stretching in class</strong></p>
- 
-At this event, Secondary 1 students participated in the inter-class recreational Captain's Ball competition, held at NUS High School of Mathematics and Science. The Secondary 2 students pitted their speed against one another in a track event at Clementi Stadium. This was the students' first opportunity since the relaxation of SMM guidelines to be able to interact with students from other classes in a sporting event. The enthusiasm from the students electrified the atmosphere as they fervently cheered their classmates on during the event. Creative signage designed by the students were also on full display at the grandstand, to motivate their classmates.
- 
- ![Sec 1 Inter-class Captain's Ball Competition](/images/Sec%201%20Inter-class%20Captain_s%20Ball%20Competition.jpg)
- 
- <p style="text-align: center"><strong>Sec 1 Inter-class Captain's Ball Competition</strong></p>
- 
- ![Cheering on their classmates!](/images/Cheering%20on%20their%20classmates!.jpg)
- 
- <p style="text-align: center"><strong>Cheering on their classmates!</strong></p>
- 
- ![Bonding with classmates over a game of hopscotch](/images/Bonding%20with%20classmates%20over%20a%20game%20of%20hopscotch.jpg)
- 
- <p style="text-align: center"><strong>Bonding with classmates over a game of hopscotch</strong></p>
- 
- ![Sec 2 Relay Race](/images/Sec%202%20Relay%20Race.jpg)
- 
-  <p style="text-align: center"><strong>Sec 2 Relay Race</strong></p>
-	
- 
- "The 2022 Healthy Habits Sports Carnival was definitely the highlight of our Secondary 1 year and was very memorable for all of us! I recall many of my classmates cheering one another on by the sidelines and having lots of fun competing and playing for our class. Although there were disagreements between some of the classes, 108 emerged in 4th place. All in all, I'm sure many of us made fond memories and had a great time!"
- 
- Denise Lim Wei Xin, 108
- 
- For the Secondary 3 cohort, the PE department came up with a modified version of "Family Feud" meets "Amazing Race", coining it as *Class Clash*. In this game, students harnessed their collaborative effort to excel in tasks creatively. An example was using their resources at hand in the classroom to build the longest structure. Many students exercised their creativity, incorporating unexpected items such as standing fans, brooms and old newspapers as part of their structure!
- 
- ![Sec 3 Class Clash - Constructing the longest structure](/images/Sec%203%20Class%20Clash%20-%20Constructing%20the%20longest%20structure.jpg)
- 
- <p style="text-align: center"><strong>Sec 3 Class Clash - Constructing the longest structure</strong></p>
- 
-"In *Class Clash*, all of us worked together and were very supportive towards one another as classmates. Everyone did our part and leveraged on one another's strengths. We also trusted one another to give it our best and thus, we were able to achieve a positive result while at the same time building wonderful memories to look back upon." 
-
-Khoo Tian Tian Angela 310
-
-The Secondary 4 students had the opportunity to engage in physical activities not offered in their PE programme, such as Kinball, Tchoukball, Archery Tag and martial arts. The objective was to expose them to various sports to pique their interest in pursuing an active lifestyle as they prepare to move on to the next stage of their education.
-
-![Aiming for an opponent during Archery Tag](/images/Aiming%20for%20an%20opponent%20during%20Archery%20Tag.jpg)
-
- <p style="text-align: center"><strong>Aiming for an opponent during Archery Tag</strong></p>
- 
- ![Going for the goal in Tchoukball](/images/Going%20for%20the%20goal%20in%20Tchoukball.jpg)
- 
-  <p style="text-align: center"><strong>Going for the goal in Tchoukball</strong></p>
-	
-![Kicking high during a taekwondo session](/images/Kicking%20high%20during%20a%20taekwondo%20session.jpg)
-	
-<p style="text-align: center"><strong>Kicking high during a taekwondo session</strong></p>
-
-In addition, the PE department continues to hatch, hone and heighten healthy habits in staff by enhancing staff health, well-being and satisfaction through consistent and manageable healthy lifestyle pursuits. Leveraging on the PACER app, fun challenges such as virtual adventure challenges and step challenges were set up through the app to encourage staff to stay active and virtually travel the world together. Through these efforts, staff can model the way for their students, and highlight the importance of staying active and healthy.
-
-![Teacher and students play together during a Kinball session](/images/Teacher%20and%20students%20play%20together%20during%20a%20Kinball%20session.jpg)
-
-  <p style="text-align: center"><strong>Teacher and students play together during a Kinball session</strong></p>
-
-![Qigong for staff](/images/Qigong%20for%20staff.jpg)
-
-  <p style="text-align: center"><strong>Qigong for staff</strong></p>
-	
-![Staff learning a new sport during a SWEAT It Out! session](/images/Staff%20learning%20a%20new%20sport%20during%20a%20SWEAT%20It%20Out!%20session.jpg)
-
-  <p style="text-align: center"><strong>Staff learning a new sport during a SWEAT It Out! session</strong></p>
-
-![Volleyball session during SWEAT It Out!](/images/Volleyball%20session%20during%20SWEAT%20It%20Out!.jpg)
-
-   <p style="text-align: center"><strong>Volleyball session during SWEAT It Out!</strong></p>
-	 
-	 
-	 
-winning department of #NHDiscovers!</strong></p>
+<p>Physical Education plays a vital role in the overall development and well-being
+of students, promoting physical fitness, instilling discipline, and fostering
+teamwork. At Nan Hua High School, the PE department has consistently nurtured
+a culture of active living and sporting excellence among students and staff.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staff doing warm up before Kickboxing" src="/images/Our Curriculum/2024 Update/Staff_doing_warm_up_before_Kickboxing.jpg">
+</div>
+<p><strong><em>Staff doing warm up before Kickboxing</em></strong>
+</p>
+<p>The team embraced a holistic approach to physical fitness, recognising
+that it encompasses more than just physical prowess. A comprehensive curriculum
+that focuses not only on skill development but also on fostering mental
+resilience, emotional well-being, and social interaction helps students
+develop a well-rounded understanding of physical fitness as a lifelong
+pursuit.</p>
+<p>By offering a wide array of programmes including team sports, individual
+sports, and recreational activities, the team aims to ignite a passion
+for sports among students. From territorial-invasion games to net-barrier
+games, and striking and fielding games, we ensure that every student can
+find their niche and explore their talents.</p>
+<p>The PE department firmly believes in the importance of instilling values
+such as sportsmanship, fair play, and respect in students. Activities are
+deliberately crafted for students to learn valuable life lessons such as
+accepting defeat graciously, celebrating victories humbly, and supporting
+teammates through adversity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Working together as a team" src="/images/Our Curriculum/2024 Update/Working_together_as_a_team.jpg">
+</div>
+<p><strong><em>Working together as a team</em></strong>
+</p>
+<p>Proactive steps were also taken by the team to engage staff in adopting
+a healthy lifestyle. Leveraging on the LeAPS sessions carved out for physical
+activity, a series of initiatives such as introducing different categories
+of sports through play, organising the School-based Sports for Life Fitness
+Assessment and carrying out mass physical workout were completed under
+the Sweat It Out! programme. These efforts fostered a culture of health,
+promoting not only physical well-being but also camaraderie among staff
+members.</p>
+<p><strong>Annual Road Run</strong>
+</p>
+<p>Marking the first mass sporting event at an external venue since recovering
+from the grip of Covid-19, Nanhuarians gathered at West Coast Park for
+the anticipated Annual Road Run. This event has become a cherished tradition
+that brings people together in a shared pursuit of health, challenge, and
+fun. The event is more than just a race, as runners of various skill levels
+lace up their running shoes to push their boundaries and achieve personal
+goals. Beyond the physical aspect, the event promotes a sense of togetherness
+among students and staff as they also engage in a healthy picnic and a
+fun sports challenge as a fringe activity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Annual Road Run at West Coast Park" src="/images/Our Curriculum/2024 Update/Annual_Road_Run_at_West_Coast_Park.jpg">
+</div>
+<p><strong><em>Annual Road Run at West Coast Park</em></strong>
+</p>
+<p><strong>Healthy Habits Sports Carnival</strong>
+</p>
+<p>The Healthy Habit Sports Carnival is a vibrant spectacle that unites students
+in a celebration of athleticism and teamwork. Bursting with colour and
+energy, a variety of activities were offered with students showcasing their
+prowess and dedication. While the lower secondary cohorts engaged in Captain’s
+Ball and sprint relays, the upper secondary students were involved in a
+multi-disciplinary sport challenge organised by Sports CCA leaders and
+recreational games such as Kinball and inline skating. Supporters cheer
+for their peers with enthusiasm and offer words of encouragement, adding
+to the electric atmosphere. The camaraderie and healthy competition fostered
+during the carnival promote not only physical fitness but also a sense
+of community.</p>
+<p></p>
