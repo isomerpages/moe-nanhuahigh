@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Humanities 人文科.md
       - English and Literature 英文与英文文学.md
       - Aesthetics 美育.md
       - Centre of Excellence Chinese Language and Culture 西区华文与中华文化卓越中心.md
