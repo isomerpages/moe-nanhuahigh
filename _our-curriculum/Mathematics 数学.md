@@ -18,6 +18,11 @@ to engage in an ICT-enabled game in which they acquired financial literacy
 knowledge and reflected on their values and attitude.
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A student sharing his solution with his classmates" src="/images/Our Curriculum/2024 Update/A_student_sharing_his_solution_with_his_classmates.jpg">
+</div>
+<p><strong><em>A student sharing his solution with his classmates</em></strong>
+</p>
 <p><strong>Foster Growth: Stretching the Boundaries of Learning</strong>
 </p>
 <p>Believing in acquiring knowledge beyond the curriculum, selected Secondary
@@ -31,11 +36,27 @@ the challenge in the International Mathematical Modelling Competition.
 Through in-depth mathematical analysis, they proposed the “best” land-use
 option after considering short- and long-term benefits and costs. The team
 was awarded a Certificate of Merit for their commendable efforts.</p>
-<p>
-<br><strong>Singapore Mathematical Olympiad 2023</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The team that clinched a certificate of Merit in the IMMC" src="/images/Our Curriculum/2024 Update/The_team_that_clinched_a_certificate_of_Merit_in_the_IMMC.jpg">
+</div>
+<p><strong><em>The team that clinched a certificate of Merit in the IMMC</em></strong>
+<br>
 </p>
+<p><strong>Singapore Mathematical Olympiad 2023</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>School Award Category 1: Silver</p>
+</li>
+<li>
 <p>Junior - 1 Silver, 5 Bronze</p>
+</li>
+<li>
 <p>Senior - 5 Bronze</p>
+</li>
+<li>
 <p>International Mathematical Modelling Competition 2023 - Merit</p>
+</li>
+</ul>
 <p></p>
