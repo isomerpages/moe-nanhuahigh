@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Aesthetics 美育.md
       - Centre of Excellence Chinese Language and Culture 西区华文与中华文化卓越中心.md
       - Sustainable Environment Education 可持续环境教育.md
       - SAP Flagship 特选旗舰计划.md
