@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Character and Citizenship Education 公民与品格教育.md
       - ICT and Cyber Wellness 资讯科技与网络健康.md
       - Humanities 人文科.md
       - English and Literature 英文与英文文学.md
