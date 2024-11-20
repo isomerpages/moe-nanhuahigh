@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Aesthetics 美育2.md
       - Aesthetics 美育.md
       - English and Literature 英文与英文文学.md
       - Humanities 人文科.md
