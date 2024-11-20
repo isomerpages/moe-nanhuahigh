@@ -2,13 +2,13 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Physical Education 体育2.md
-      - Science 科学2.md
+      - Aesthetics 美育2.md
+      - English and Literature 英文与英文文学2.md
+      - Humanities 人文科2.md
       - Mother Tongue 母语2.md
       - Mathematics 数学2.md
-      - Humanities 人文科2.md
-      - English and Literature 英文与英文文学2.md
-      - Aesthetics 美育2.md
+      - Physical Education 体育2.md
+      - Science 科学2.md
       - Aesthetics 美育.md
       - English and Literature 英文与英文文学.md
       - Humanities 人文科.md
