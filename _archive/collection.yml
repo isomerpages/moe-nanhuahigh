@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Mother Tongue 母语.md
       - Mathematics 数学.md
       - Physical Education 体育.md
       - Character and Citizenship Education 公民与品格教育.md
