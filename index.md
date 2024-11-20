@@ -22,9 +22,9 @@ sections:
   - infopic:
       title: Open House 2024
       id: infopic
-      description: Come visit us at Nan Hua High School Open House 2024 on  23
+      description: Come visit us at the Nan Hua High School Open House 2024 on  23
         November 9 am to 1 pm
-      button: Click Here
+      button: Click Here to find out more
       url: https://for.edu.sg/nhhsopenhouse2024
       image: /images/Annoucement/openhouse2024.jpg
       alt: Open House 2024
