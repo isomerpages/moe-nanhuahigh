@@ -17,6 +17,12 @@ a kitchen device for the visually impaired, how the Science curriculum
 can be infused with STEM activities to engender engagement in real world
 issues, multiple perspectives through role play as well as an appreciation
 for how STEM is a part of everyday living.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Science teachers listening attentively to Dr Tan Aik Ling" src="/images/Our Curriculum/2024 Update/2__STEM_Workshop___Science_teachers_listening_attentively_to_Dr_Tan_Aik_Ling.jpg">
+</div>
+<p><strong><em>Science teachers listening attentively to Dr Tan Aik Ling</em></strong>
+</p>
 <p><strong>STEM Playground Challenge organized by CPDD, Science Centre and The James Dyson Foundation</strong>
 </p>
 <p>STEM Playground Challenge 2023 is jointly organised by Curriculum Planning
@@ -34,6 +40,12 @@ Dyson Foundation Prototyping workshop.The workshop challenges students
 to think like engineers – and to turn their ideas into working prototypes.The
 school will endeavor to facilitate our students’ journey in exploring STEM
 activities with passion and curiosity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students collaborating to complete STEM Playground Challenge 1" src="/images/Our Curriculum/2024 Update/3__Stem_Challenge___Students_collaborating_to_complete_STEM_Playground_Challenge_1.jpg">
+</div>
+<p><strong><em>Students collaborating to complete STEM Playground Challenge 1</em></strong>
+</p>
 <p><strong>Enrichment Activities</strong>
 </p>
 <p>Our students were offered opportunities to take part in many external
@@ -72,6 +84,7 @@ competitions to stretch their abilities. Some highlights include;</p>
 <li>
 <p><strong>Vanda International Science Competition</strong>
 <br>4 Gold, 8 Silvers and 16 Bronze</p>
+<p></p>
 </li>
 </ul>
 <p></p>
