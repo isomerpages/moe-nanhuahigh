@@ -15,12 +15,6 @@ Lower Secondary students celebrate their learning and enjoy enriching aesthetics
 programmes through our Annual Arts Appreciation and ArtsFest at the end
 of the year.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 Update/Students_evaluating_food_sold_at_a_canteen_stall.jpg">
-</div>
-<p><strong><em>Students evaluating food sold at a canteen stall</em></strong>
-<br>
-</p>
 <p>The Lower Secondary Music curriculum utilises well-founded pedagogical
 methods to motivate students to achieve instrumental mastery and performance
 competency. Secondary 1s learn musical theory through ICT online platforms
@@ -28,8 +22,6 @@ and hands-on lessons with musical instruments. An arrangement module, involving
 GarageBand on the iPad, allows students to develop their musical abilities.
 Secondary 2 students deepened their musical knowledge through the learning
 of music from different cultures and genres.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 Update/Students_painting_a_still_life_using_acrylic_paint.jpg">
 </div>
@@ -45,7 +37,6 @@ through Art Critique techniques. In addition, our Annual Arts Appreciation
 programme and Artfest provide more opportunities for the students to stretch
 their artistic skills through custom-made modules and learning journeys.</p>
 <p></p>
-<p></p>
 <p>The Design &amp; Technology (D&amp;T) unit engages the Sec 2 students
 through Design Thinking Process as they learn and develop their Student
 Agency, managing their own projects aiming at improving real-life situations.
@@ -55,6 +46,11 @@ and creative in tackling problems and designing functional products. With
 empathy guiding their hearts, the students strive to create responsibly
 while making their designs relevant and useful.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 Update/Students_evaluating_food_sold_at_a_canteen_stall.jpg">
+</div>
+<p><strong><em>Students evaluating food sold at a canteen stall</em></strong>
+</p>
 <p>Food &amp; Consumer Education lessons place much emphasis on authentic
 and practical learning experiences through exploration of nutrition and
 health, such as exploring diet-related diseases and the impact of sustainable
