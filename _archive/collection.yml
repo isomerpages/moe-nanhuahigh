@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - ICT and Cyber Wellness 资讯科技与网络健康.md
       - Humanities 人文科.md
       - English and Literature 英文与英文文学.md
       - Aesthetics 美育.md
