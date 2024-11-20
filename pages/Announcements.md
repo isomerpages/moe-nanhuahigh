@@ -8,4 +8,4 @@ variant: markdown
 
 [Click Here -&gt; ](https://for.edu.sg/nhhsopenhouse2024)
 
-<a href="https://for.edu.sg/nhhsopenhouse2024">![Open House 2024](/images/Annoucement/NHHS_Open_House_Main_FB.jpg)</a>
+<a href="https://for.edu.sg/nhhsopenhouse2024">![Open House 2024](/images/Annoucement/openhouse2024.jpg)</a>
