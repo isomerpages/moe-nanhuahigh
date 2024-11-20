@@ -4,9 +4,9 @@ permalink: /science-2/
 variant: tiptap
 description: ""
 ---
-<p><strong>1.STEM Endeavors</strong>
+<p><strong>STEM Endeavors</strong>
 </p>
-<p><strong>a) STEM Workshop led by Dr Tan Aik Ling (National Institute of Education)</strong>
+<p><strong>STEM Workshop led by Dr Tan Aik Ling (National Institute of Education)</strong>
 </p>
 <p>Since 2022, the Science Department has embarked on our journey to spearhead
 STEM related activities in the school for both staff and students. We had
@@ -17,7 +17,7 @@ a kitchen device for the visually impaired, how the Science curriculum
 can be infused with STEM activities to engender engagement in real world
 issues, multiple perspectives through role play as well as an appreciation
 for how STEM is a part of everyday living.</p>
-<p><strong>b) STEM Playground Challenge organized by CPDD, Science Centre and The James Dyson Foundation</strong>
+<p><strong>STEM Playground Challenge organized by CPDD, Science Centre and The James Dyson Foundation</strong>
 </p>
 <p>STEM Playground Challenge 2023 is jointly organised by Curriculum Planning
 and Development Division (CPDD), Science Centre Singapore and The James
@@ -34,7 +34,7 @@ Dyson Foundation Prototyping workshop.The workshop challenges students
 to think like engineers – and to turn their ideas into working prototypes.The
 school will endeavor to facilitate our students’ journey in exploring STEM
 activities with passion and curiosity.</p>
-<p><strong>2. Enrichment Activities</strong>
+<p><strong>Enrichment Activities</strong>
 </p>
 <p>Our students were offered opportunities to take part in many external
 competitions to stretch their abilities. Some highlights include;</p>
