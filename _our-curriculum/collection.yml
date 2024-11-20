@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Science 科学2.md
       - Mother Tongue 母语2.md
       - Mathematics 数学2.md
       - Humanities 人文科2.md
