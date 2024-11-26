@@ -20,15 +20,6 @@ sections:
           url: /quick-links
       background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
   - infopic:
-      title: Open House 2024
-      id: infopic
-      description: Come visit us at the Nan Hua High School Open House 2024 on  23
-        November 9 am to 1 pm
-      button: Click Here
-      url: https://for.edu.sg/nhhsopenhouse2024
-      image: /images/Annoucement/openhouse2024.jpg
-      alt: Open House 2024
-  - infopic:
       title: Vision
       description: Curious Learners | Cultured Scholars | Courageous Leaders<br>乐学善思 |
         文质彬彬 | 当仁不让
