@@ -40,4 +40,11 @@ sections:
       alt: Image alt text
       url: /about-us/vision-mission-values/
       button: our values
+  - infopic:
+      title: 2025 Secondary 1 Admission
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      image: /images/Annoucement/Announcement_for_Sec_1_Registration_2025.png
+      alt: Image alt text
 ---
