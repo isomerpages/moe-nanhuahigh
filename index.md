@@ -20,6 +20,13 @@ sections:
           url: /quick-links
       background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
   - infopic:
+      title: 2025 Secondary 1 Admission
+      subtitle: Add an image and text
+      id: infopic
+      description: Stay tuned. More information will be available from 17 December 2024.
+      image: /images/Annoucement/Announcement_for_Sec_1_Registration_2025.png
+      alt: Image alt text
+  - infopic:
       title: Vision
       description: Curious Learners | Cultured Scholars | Courageous Leaders<br>乐学善思 |
         文质彬彬 | 当仁不让
@@ -40,11 +47,4 @@ sections:
       alt: Image alt text
       url: /about-us/vision-mission-values/
       button: our values
-  - infopic:
-      title: 2025 Secondary 1 Admission
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      image: /images/Annoucement/Announcement_for_Sec_1_Registration_2025.png
-      alt: Image alt text
 ---
