@@ -22,8 +22,8 @@ sections:
   - infopic:
       title: 2025 Secondary 1 Admission
       id: infopic
-      description: Stay tuned. More information will be available from 17 December 2024.
-      image: /images/Annoucement/Announcement_for_Sec_1_Registration_2025.png
+      description: Stay tuned. More information will be available from 18 December 2024.
+      image: /images/Annoucement/Announcement_for_Sec_1_Registration_18_Dec.png
       alt: Image alt text
   - infopic:
       title: Vision
