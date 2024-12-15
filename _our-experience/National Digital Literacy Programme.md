@@ -24,6 +24,32 @@ navigate an increasingly digitalised world.</p>
 the compatibility list found here:</p>
 <p><a href="/files/PDLP/NH_Compatible_iPad_List___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">NH Compatible iPad List 2024 (2025 list is coming soon!)</a>
 </p>
+<h2>Information for Students </h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Resource</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Link</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Information Kit for Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/NHHS_Student_Device_Information_Kit_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 NHHS Student Device Information Kit</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>Important Contacts/Helplines</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -80,7 +106,7 @@ the compatibility list found here:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DMA (Mobile Guardian) Enquiries</p>
+<p>DMA (Jamf) Enquiries</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dma@nhhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ict@nhhs.edu.sg</a>
@@ -128,15 +154,6 @@ the compatibility list found here:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/PDLP/Infographic_on_the_PLD_Initiative_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">The PLD Initiative Infographic</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NH Student Device Information Kit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/NHHS_Student_Device_Information_Kit_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 NHHS Student Device Information Kit</a>
 </p>
 </td>
 </tr>
