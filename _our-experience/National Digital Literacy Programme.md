@@ -145,7 +145,8 @@ the compatibility list found here:</p>
 <p>Parent Handbooks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PDLP/Parent_Handbook__I__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I (2024)</a>
+<p><a href="/files/PDLP/Parent_Handbook__I__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent </a>
+<a href="/files/Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Handbook I (2025)</a>
 </p>
 </td>
 </tr>
