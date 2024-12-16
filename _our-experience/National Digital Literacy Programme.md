@@ -22,10 +22,40 @@ enable students to acquire digital skills and apply these skills as they
 navigate an increasingly digitalised world.</p>
 <p>Students who wish to use their existing iPads must ensure that it meets
 the compatibility list found here:</p>
-<p><a href="/files/PDLP/NH_Compatible_iPad_List___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">NH Compatible iPad List 2024</a>
+<p><a href="/files/PDLP/NH_Compatible_iPad_List___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">NH Compatible iPad List 2024 (2025 list is coming soon!)</a>
 </p>
+<h2>Information for Students </h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Resource</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Link</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Information Kit for Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/NHHS_Student_Device_Information_Kit_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 NHHS Student Device Information Kit</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>Important Contacts/Helplines</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -48,8 +78,7 @@ the compatibility list found here:</p>
 <p>Financial assistance available for PLD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm May Yeo, Admin Manager
-<br>Mdm Mary Lau, Corporate Support Officer
+<p>Ms Shirley Yeong, Admin Manager
 <br>67788303</p>
 </td>
 </tr>
@@ -77,10 +106,10 @@ the compatibility list found here:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DMA (Mobile Guardian) Enquiries</p>
+<p>DMA (Jamf) Enquiries</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dma@nhhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dma@nhhs.edu.sg</a>
+<p><a href="mailto:dma@nhhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ict@nhhs.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -96,7 +125,11 @@ the compatibility list found here:</p>
 </tbody>
 </table>
 <h3>Additional Resources for Parents</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -126,28 +159,11 @@ the compatibility list found here:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>After-school DMA Options</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/PDLP/Infographic_on_DMA_Options_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">After-school DMA Options Infographic</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NH Student Device Information Kit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/NHHS_Student_Device_Information_Kit_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 NHHS Student Device Information Kit</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Parent Handbooks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PDLP/Parent_Handbook__I__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I (2024)</a>
+<p><a href="/files/PDLP/Parent_Handbook__I__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent </a>
+<a href="/files/Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Handbook I (2025)</a>
 </p>
 </td>
 </tr>
@@ -156,7 +172,8 @@ the compatibility list found here:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PDLP/Parent_Handbook__II__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II (2024)</a>
+<p><a href="/files/Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook II (2025</a>
+<a href="/files/PDLP/Parent_Handbook__II__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">)</a>
 </p>
 </td>
 </tr>
