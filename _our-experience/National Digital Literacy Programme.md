@@ -24,7 +24,7 @@ navigate an increasingly digitalised world.</p>
 the compatibility list found here:</p>
 <p><a href="/files/PDLP/NH_Compatible_iPad_List___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">NH Compatible iPad List 2024 (2025 list is coming soon!)</a>
 </p>
-<h2>Information for Students </h2>
+<h2>Information for Students</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -118,7 +118,7 @@ the compatibility list found here:</p>
 <p>Other Enquiries</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nhhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nhhs@moe.edu.sg</a>
+<p><a href="mailto:nhhs@nhhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nhhs@moe.edu.sg</a>
 </p>
 </td>
 </tr>
