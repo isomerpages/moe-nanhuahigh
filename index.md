@@ -22,9 +22,12 @@ sections:
   - infopic:
       title: 2025 Secondary 1 Admission
       id: infopic
-      description: Stay tunned, please come back to the site on 18 December 2024
-      image: /images/Annoucement/16_17_Dec.jpg
+      description: Welcome to Nan Hua High School. Click on the link below for the
+        2025 Secondary 1 posting information.
+      image: /images/Annoucement/18_Dec_onwards.jpg
       alt: Image alt text
+      url: https://go.gov.sg/nhhssec1posting
+      button: Click Here
   - infopic:
       title: Vision
       description: Curious Learners | Cultured Scholars | Courageous Leaders<br>乐学善思 |
