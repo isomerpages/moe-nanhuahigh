@@ -26,8 +26,8 @@ sections:
         2025 Secondary 1 posting information.
       image: /images/Annoucement/18_Dec_onwards.jpg
       alt: Image alt text
-      button: Click Here
       url: https://go.gov.sg/nhhssec1posting
+      button: Click Here
   - infopic:
       title: Vision
       description: Curious Learners | Cultured Scholars | Courageous Leaders<br>乐学善思 |

@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: "Nan Hua High School "
+agency_name: Nan Hua High School
 locations:
   - address:
       - 41 Clementi Avenue 1
@@ -14,7 +14,8 @@ locations:
 contacts:
   - content:
       - phone: +65 6778 8303
-      - email: nhhs@moe.edu.sg
+      - email: nhhs@nhhs.edu.sg
       - other: "Fax: (+65) 6775 1956"
     title: General Enquiries & Feedback
+feedback: ""
 ---
