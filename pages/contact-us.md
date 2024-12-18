@@ -14,7 +14,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6778 8303
-      - email: nhhs@moe.edu.sg
+      - email: nhhs@nhhs.edu.sg
       - other: "Fax: (+65) 6775 1956"
     title: General Enquiries & Feedback
 feedback: ""
