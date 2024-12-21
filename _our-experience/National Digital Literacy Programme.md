@@ -144,7 +144,7 @@ the compatibility list found here:</p>
 <p>PDLP Briefing Slides</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PDLP/Briefing_for_Parents__PDLP__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 PLD Briefing for Parents</a>
+<p><a href="https://go.gov.sg/pldparentbriefing" rel="noopener nofollow" target="_blank">2025 PLD Briefing Slides</a>
 </p>
 </td>
 </tr>
