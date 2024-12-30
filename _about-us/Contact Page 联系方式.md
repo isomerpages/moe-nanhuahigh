@@ -8,7 +8,7 @@ variant: markdown
 41 Clementi Avenue 1, Singapore 129956  
 Tel: (65) 6778 8303  
 Fax: (65) 6775 1956  
-Email: nhhs@nhhs.edu.sg  
+Email: nhhs@moe.edu.sg  
   
 **Operating Hours**  
 Monday to Friday - 8:00am to 5:30pm  
