@@ -21,8 +21,8 @@ where you can learn and grow.</p>
 to champion a better society for all, Nan Hua has grown from strength to
 strength over our 108 years to nurture generations of Nanhuarians who strive
 for excellence in life while remaining anchored in our unique sense of
-bicultural identity. Living out our school culture of Ren (仁), Excellence,
-Learning, and Collegiality in their interactions with peers and teachers
+bicultural identity. Living out our school culture of <strong>R</strong>en (仁), <strong>E</strong>xcellence,
+<strong>L</strong>earning, and <strong>C</strong>ollegiality in their interactions with peers and teachers
 with whom they learn and grow, our Nanhuarians carry a youthful exuberance,
 confidence, and spark which set them apart and place them in good stead
 to make the most of opportunities that come their way.</p>
