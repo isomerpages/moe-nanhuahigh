@@ -15,7 +15,7 @@ vibrant Nan Hua community, which characterises our love for learning, our
 compassion for all, and our zest for life as Nanhuarians. I am confident
 that our new Sec 1 students will also find in Nan Hua High School a nest
 where you can learn and grow.</p>
-<p></p>
+
 <p><strong>An Institution of Bicultural Learning</strong>
 <br>As a centenary institution founded in 1917 through a philanthropic spirit
 to champion a better society for all, Nan Hua has grown from strength to
@@ -53,19 +53,22 @@ our staff in Nan Hua shares this heartbeat. We must therefore deepen the
 strong foundations for bicultural learning that Nan Hua has laid over the
 years and empower our Nanhuarians to grow holistically as learners of learning,
 beyond merely students of subjects.
-</p><p>I am excited to share our new Nan Hua vision, for us to grow as a community
+</p>
+<p>I am excited to share our new Nan Hua vision, for us to grow as a community
 of:
-<br>
 </p><center>
 <strong>Curious Learners . Cultured Scholars . Courageous Leaders<br>乐学善思 | 文质彬彬 | 当仁不让</strong>
 	</center>
+<p>
 who embrace tradition and embody the spirit of Junzi (君子) in pursuing
 learning for our inner cultivation, with our timeless Nan Hua values (忠，孝，仁，爱，礼，义，廉，耻)
 as our moral compass, so that we may lead with courage, compassion, and
 humility in our outward contribution in championing a better society.
+</p>
 <p>As a school, we strive to achieve this vision through our mission, to
 nurture:
-</p><center><strong>
+</p>
+<center><strong>
 Bicultural Nanhuarians who are Confident, <br>Compassionate, and Culturally
 Versatile, <br>with a Passion for Life.
 <br>有信心、有仁爱精神、具备跨文化素养，
@@ -83,11 +86,13 @@ Through their journey with us, we will support every Nanhuarians to develop the 
 <strong>Our School Theme for 2025</strong>
 <br>	
 	Last year, our school theme of <strong>Riding the Waves, Pursuing Our Dreams – 扬帆起航，乘风逐梦 –</strong> reminds us that each of us are on our personal voyage of learning and adventure. On this journey, we can ride the waves to reach higher and travel further, by being positively purposeful, resourcefully buoyant, and adaptively agile, so that together we harness the winds to chase our dreams.
-</p><p>
+</p>
+<p>
 This year in 2025, our school theme will be <strong>Strength in Identity, Passion in Community – 南华同心，众彩生辉 </strong>. It builds on our growth from 2024, to encourage all Nanhuarians to draw strength from our bicultural Nan Hua identity, especially our timeless Nan Hua values and the philanthropic spirit upon which Nan Hua was founded, to grow in confidence, compassion, and cultural versatility. This will enable us to harness our collective passion as a Nan Hua community to give back to our society. As the Nan Hua experience attests, “一日南华人，一世南华情” – the camaraderie and affection that our Nanhuarians demonstrate for the school, even after they step out of our 礼义之门 in graduation, is a powerful testament to the impact of Nan Hua in their lives. As Nanhuarians, our passion must enrich lives beyond our own, and our impact must likewise reach beyond our school. With our passion as a community, let us illuminate the path for those in our society who need it the most.</p>
 <p>
-Our hope for all Nanhuarians is to build deep friendships, discover their passions and strengths, and harness these strengths for good – to uplift our society as a Nan Hua Family. 根植传统，放眼世界，回馈社会 – 这是我们南华人的理念。At the end of their four years in Nan Hua High School, we look forward to seeing each and every Nanhuarian emerge with confidence as <strong>Curious Learners, Cultured Scholars, and Courageous Leaders </strong>who not only embrace tradition and pursuing learning for inner cultivation, but also lead with courage, compassion, and humility in outward contribution towards a better society. 愿每一名南华学生都能成为<strong> 乐学善思、文质彬彬、当仁不让 </strong>的南华人。</p><p>
+Our hope for all Nanhuarians is to build deep friendships, discover their passions and strengths, and harness these strengths for good – to uplift our society as a Nan Hua Family. 根植传统，放眼世界，回馈社会 – 这是我们南华人的理念。At the end of their four years in Nan Hua High School, we look forward to seeing each and every Nanhuarian emerge with confidence as <strong>Curious Learners, Cultured Scholars, and Courageous Leaders </strong>who not only embrace tradition and pursuing learning for inner cultivation, but also lead with courage, compassion, and humility in outward contribution towards a better society. 愿每一名南华学生都能成为<strong> 乐学善思、文质彬彬、当仁不让 </strong>的南华人。</p>
+<p>
 May we look forward to a fruitful and fulfilling 2025!
-
-</p><p>Mr Chiew Jing Wen 周景文
+</p>
+<p>Mr Chiew Jing Wen 周景文
 <br>Principal 校长</p>
