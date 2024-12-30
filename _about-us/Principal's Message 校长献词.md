@@ -62,10 +62,10 @@ of:
 who embrace tradition and embody the spirit of Junzi (君子) in pursuing
 learning for our inner cultivation, with our timeless Nan Hua values (忠，孝，仁，爱，礼，义，廉，耻)
 as our moral compass, so that we may lead with courage, compassion, and
-humility in our outward contribution in championing a better society.<p></p>
+humility in our outward contribution in championing a better society.<p>
 As a school, we strive to achieve this vision through our mission, to
 nurture:
-<center><strong>
+</p><center><strong>
 Bicultural Nanhuarians who are Confident, <br>Compassionate, and Culturally
 Versatile, <br>with a Passion for Life.
 <br>有信心、有仁爱精神、具备跨文化素养，
