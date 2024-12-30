@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Chiew Jing Wen, Principal" src="/images/Mr%20Chiew%20Jing%20Wen.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Chiew Jing Wen, Principal" src="/images/Principia24SEPT_0499_2.jpg">
 </div>
 <p><strong>Mr Chiew Jing Wen, Principal</strong>
 </p>
