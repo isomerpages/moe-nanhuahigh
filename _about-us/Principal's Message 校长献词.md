@@ -51,7 +51,7 @@ need to prepare our children differently, for a future markedly different
 from what our schooling experiences prepared us for. I am heartened that
 our staff in Nan Hua shares this heartbeat. We must therefore deepen the
 strong foundations for bicultural learning that Nan Hua has laid over the
-years and empower our Nanhuarians to grow holistically as learners of learning,
+years and empower our Nanhuarians to grow holistically as learners of learning for life,
 beyond merely students of subjects.
 </p>
 <p>I am excited to share our new Nan Hua vision, for us to grow as a community
@@ -61,26 +61,25 @@ of:
 	</center>
 <p>
 who embrace tradition and embody the spirit of Junzi (君子) in pursuing
-learning for our inner cultivation, with our timeless Nan Hua values (忠，孝，仁，爱，礼，义，廉，耻)
-as our moral compass, so that we may lead with courage, compassion, and
+learning for our inner cultivation, so that we may lead with courage, compassion, and
 humility in our outward contribution in championing a better society.
 </p>
 <p>As a school, we strive to achieve this vision through our mission, to
 nurture:
 </p>
 <center><strong>
-Bicultural Nanhuarians who are Confident, <br>Compassionate, and Culturally
+Bicultural Nanhuarians who are <br>Confident, Compassionate, and Culturally
 Versatile, <br>with a Passion for Life.
 <br>有信心、有仁爱精神、具备跨文化素养，
 <br>并对生活充满热忱的南华双文化君子</strong>
 </center>
-We are committed to nurturing Nanhuarians with a passion not just for learning but for life, who are able to:
+We believe that each Nanhuarian must develop a passion not just for learning but for life, who are able to:
 <ul>
 <li> Embrace the cultural strengths of our Chinese values and traditions and harness their individual character strengths, to develop a healthy sense of identity with confidence; 
 </li><li> Uphold Ren (仁 Humanity) in exercising empathy and thoughtful consideration for the well-being of others, to uplift lives around them with selfless compassion; and 
-</li><li> Appreciate perspectives and strengths across cultures and contexts with humility and sensitivity, to collaborate respectfully and meaningfully in strengthening our multi-cultural society with cultural versatility.
+</li><li>Appreciate perspectives and experiences across cultures and contexts with humility and sensitivity, to collaborate respectfully in strengthening our multi-cultural society with cultural versatility.
 </li></ul>
-Through their journey with us, we will support every Nanhuarians to develop the confidence to sense-make with purpose, make connections for growth and innovation, and strive for excellence with a healthy sense of balance and buoyancy in life.
+Our timeless Nan Hua values (忠，孝，仁，爱，礼，义，廉，耻) will remain as our moral compass, guiding us in learning and in life. Through their journey with us, we will support every Nanhuarians to develop the confidence to sense-make with purpose, make connections for growth and innovation, and strive for excellence with a healthy sense of balance and buoyancy in life.
 <p>	
 
 <strong>Our School Theme for 2025</strong>
