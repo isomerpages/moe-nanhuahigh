@@ -198,6 +198,34 @@ in life and in learning for life.</p>
 </tr>
 </tbody>
 </table>
+<h2><br>Our Nan Hua Values and Nanhuarian Dispositions</h2>
+<p></p>
+<h2>Strategic Thrusts 发展策略</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Bicultural Experiences
+<br>精彩纷呈的双文化体验
+<br>
+</p>
+</li>
+<li>
+<p>Holistic Education
+<br>以仁为本的全面教育
+<br>
+</p>
+</li>
+<li>
+<p>Inclusive Staff
+<br>携手齐心的教职员
+<br>
+</p>
+</li>
+<li>
+<p>Purposeful Partnerships
+<br>共创前程的教育伙伴</p>
+</li>
+</ol>
+<p></p>
 <h2>Values</h2>
 <ul>
 <li>
