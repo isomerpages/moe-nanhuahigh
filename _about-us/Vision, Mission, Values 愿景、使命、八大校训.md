@@ -200,6 +200,9 @@ in life and in learning for life.</p>
 </table>
 <h2><br>Our Nan Hua Values and Nanhuarian Dispositions</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Values_and_Nanhuarian_Dispositions.png">
+</div>
 <h2>Strategic Thrusts 发展策略</h2>
 <ol data-tight="true" class="tight">
 <li>
