@@ -108,6 +108,96 @@ the greater good and champion a better society.</p>
 <p>Nurturing Bicultural Nanhuarians who are <em>Confident</em>, <em>Compassionate</em> and <em>Culturally Versatile</em> with
 a Passion for Life. &nbsp;
 <br>培育有信心、有仁爱精神、具备跨文化素养，并对生活充满热忱的南华双文化君子</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mission Elements</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>What We Are Committed to…</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nurturing
+<br>Bicultural Nanhuarians</p>
+<p>南华双文化君子</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To nurture Nanhuarians in embodying the spirit of Junzi (君子), by embracing
+Chinese traditions and values as cultural strengths for a healthy sense
+of identity, while appreciating perspectives across cultures and contexts,
+to hone critical, adaptive and inventive thinking.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nurturing
+<br>Confident, Compassionate, and Culturally Versatile Nanhuarians</p>
+<p>培育有信心、有仁爱精神、
+<br>具备跨文化素养的南华人</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To nurture Nanhuarians’ holistic growth across domains – social moral
+[德], cognitive [智], physical [体], leadership &amp; service [群], and aesthetics
+[美] – to develop as:
+<br>
+<br><u>Confident Nanhuarians</u>
+</p>
+<p>Positively Purposeful, Resourcefully Buoyant</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Embodying a self-assured, positive and purposeful demeanor, reflected
+in their belief in their abilities, aptitude, and capacity to navigate
+opportunities and overcome setbacks.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><u>Compassionate Nanhuarians</u>
+</p>
+<p>Selflessly Compassionate, Gratefully Giving</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Possessing a deep sense of empathy, thoughtful consideration, and genuine
+concern for the well-being of others, with Ren (仁 Humanity) as the underpinning
+value, to contribute to uplifting the lives of those around them.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><u>Culturally Versatile Nanhuarians</u>
+</p>
+<p>Graciously Humble, Adaptively Agile</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Encompassing the agility to adapt one's behavior, thinking, communication,
+and decision-making to navigate various cultural contexts with sensitivity,
+and the humility to appreciate diverse strengths and collaborate respectfully,
+meaningfully and effectively with others.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Passion for Life</p>
+<p>对生活充满热忱</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To nurture Nanhuarians who possess vibrant energy and positive mindsets
+to strive for purpose and fulfillment in their pursuits of growth, both
+in life and in learning for life.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>Values</h2>
 <ul>
 <li>
@@ -135,4 +225,7 @@ a Passion for Life. &nbsp;
 <p>耻 Sense of Shame 维护尊严的自律</p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
