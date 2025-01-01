@@ -198,7 +198,7 @@ in life and in learning for life.</p>
 </tr>
 </tbody>
 </table>
-<h3><br>Our Nan Hua Values and Nanhuarian Dispositions</h3>
+<h3>Our Nan Hua Values and Nanhuarian Dispositions</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Values_and_Nanhuarian_Dispositions.png">
