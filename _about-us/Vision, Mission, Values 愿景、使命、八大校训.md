@@ -6,8 +6,8 @@ variant: tiptap
 ---
 <h2>Vision</h2>
 <p>Curious Learners<strong> </strong>|<strong> </strong>Cultured Scholars
-|<strong>&nbsp; </strong>Courageous Leaders&nbsp;&nbsp;</p>
-<p>乐学善思 | 文质彬彬 | 当仁不让</p>
+|<strong>&nbsp; </strong>Courageous Leaders
+<br>乐学善思 | 文质彬彬 | 当仁不让</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -106,7 +106,7 @@ the greater good and champion a better society.</p>
 </table>
 <h2>Mission</h2>
 <p>Nurturing Bicultural Nanhuarians who are <em>Confident</em>, <em>Compassionate</em> and <em>Culturally Versatile</em> with
-a Passion for Life. &nbsp;
+a Passion for Life.
 <br>培育有信心、有仁爱精神、具备跨文化素养，并对生活充满热忱的南华双文化君子</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -198,12 +198,12 @@ in life and in learning for life.</p>
 </tr>
 </tbody>
 </table>
-<h2><br>Our Nan Hua Values and Nanhuarian Dispositions</h2>
+<h3><br>Our Nan Hua Values and Nanhuarian Dispositions</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Values_and_Nanhuarian_Dispositions.png">
 </div>
-<h2>Strategic Thrusts 发展策略</h2>
+<h3>Strategic Thrusts 发展策略</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Bicultural Experiences
