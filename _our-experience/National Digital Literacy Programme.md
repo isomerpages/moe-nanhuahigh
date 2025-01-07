@@ -22,7 +22,7 @@ enable students to acquire digital skills and apply these skills as they
 navigate an increasingly digitalised world.</p>
 <p>Students who wish to use their existing iPads must ensure that it meets
 the compatibility list found here:</p>
-<p><a href="/files/PDLP/NH_Compatible_iPad_List___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">NH Compatible iPad List 2024 (2025 list is coming soon!)</a>
+<p><a href="/files/NH_Compatible_iPad_List___2025_docx.pdf" rel="noopener nofollow" target="_blank">Compatible iPad List 2025</a>
 </p>
 <h2>Information for Students</h2>
 <table style="minWidth: 50px">
