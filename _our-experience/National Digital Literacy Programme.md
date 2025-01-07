@@ -22,7 +22,7 @@ enable students to acquire digital skills and apply these skills as they
 navigate an increasingly digitalised world.</p>
 <p>Students who wish to use their existing iPads must ensure that it meets
 the compatibility list found here:</p>
-<p><a href="/files/PDLP/NH_Compatible_iPad_List___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">NH Compatible iPad List 2024 (2025 list is coming soon!)</a>
+<p><a href="/files/NH_Compatible_iPad_List___2025_docx.pdf" rel="noopener nofollow" target="_blank">Compatible iPad List 2025</a>
 </p>
 <h2>Information for Students</h2>
 <table style="minWidth: 50px">
@@ -42,9 +42,23 @@ the compatibility list found here:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Information Kit for Students</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Information on Warranty + Insurance</p>
+</li>
+<li>
+<p>Information on Service Centres</p>
+</li>
+<li>
+<p>SOP for reporting device issues and loss of device</p>
+</li>
+<li>
+<p>Information on school ICT support</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NHHS_Student_Device_Information_Kit_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 NHHS Student Device Information Kit</a>
+<p><a href="/files/Student_Device_Information_Kit_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit 2025</a>
 </p>
 </td>
 </tr>
