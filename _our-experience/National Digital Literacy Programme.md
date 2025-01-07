@@ -42,9 +42,23 @@ the compatibility list found here:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Information Kit for Students</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Information on Warranty + Insurance</p>
+</li>
+<li>
+<p>Information on Service Centres</p>
+</li>
+<li>
+<p>SOP for reporting device issues and loss of device</p>
+</li>
+<li>
+<p>Information on school ICT support</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NHHS_Student_Device_Information_Kit_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 NHHS Student Device Information Kit</a>
+<p><a href="/files/Student_Device_Information_Kit_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit 2025</a>
 </p>
 </td>
 </tr>
