@@ -192,12 +192,12 @@ lessons,&nbsp;<em>eTeens</em>&nbsp;and/or supplementary sexuality education
 programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp; Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also accessible <a href="https://form.gov.sg/6596651655f4ec0012465318" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-form is to be submitted by 07/02/2025.</p>
+at the start of the year and is also accessible <a href="/files/Sexuality Education/Annex_A___Opt_out_Form_for_Sexuality_Education_Programme_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 07/02/2025.</p>
 <p>12.&nbsp;&nbsp; Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also accessible <a href="https://form.gov.sg/65966c98b70a3e00113fa1a4" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-form is to be submitted by 07/02/2025.</p>
+at the start of the year and is also accessible <a href="/files/Sexuality Education/Annex_B___Opt_out_Form_for_eTeens_for_Secondary_Schools_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 07/02/2025.</p>
 <p>13.&nbsp;&nbsp; Parents can contact the school at 67788303 or&nbsp;
 <a href="mailto:nhhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nhhs@moe.edu.sg</a>&nbsp;for discussion or to seek clarification about
 the school’s Sexuality Education programme.</p>
