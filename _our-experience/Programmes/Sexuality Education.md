@@ -79,22 +79,37 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <h2>Lesson Overview</h2>
 <p>Secondary 1 Lessons (Respectful Relationships &amp; Safety)
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec1_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec1_2.jpg">
+	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec1_3.jpg">
 </div>
-<p></p>
+
 <p>Secondary 2 Lessons (Respectful Relationships &amp; Safety)</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_2.jpg">
+	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_3.jpg">
+</div>
+
+
 <p>Secondary 3 Lessons (Respectful Relationships &amp; Safety)</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec3_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec3_2.jpg">
+	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec3_3.jpg">
+</div>
+
 <p>Secondary 4 Lessons (Respectful Relationships &amp; Safety)</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec4_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec4_2.jpg">
+	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec4_3.jpg">
+	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec4_4.jpg">
+
+</div>
+
 <h2>eTeens Programme</h2>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<em>eTeens</em>&nbsp;is a
 programme developed by Health Promotion Board, in collaboration with the
