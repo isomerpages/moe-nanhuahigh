@@ -158,7 +158,7 @@ variant: tiptap
 <p>Ms Lim Yvonne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Biology (Bio)</p>
+<p>Subject Head Biology</p>
 </td>
 </tr>
 <tr>
