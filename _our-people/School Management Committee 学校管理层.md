@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h2>Our School Leaders</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/OrganisationChart_SLs_2025_V2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/OrganisationChart_SLs_2025_V3.png">
 </div>
 <h2>School Management Committee Members</h2>
 <table style="minWidth: 50px">
