@@ -20,15 +20,6 @@ sections:
           url: /quick-links
       background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
   - infopic:
-      title: 2025 Secondary 1 Admission
-      id: infopic
-      description: Welcome to Nan Hua High School. Click on the link below for the
-        2025 Secondary 1 posting information.
-      image: /images/Annoucement/18_Dec_onwards.jpg
-      alt: Image alt text
-      url: https://go.gov.sg/nhhssec1posting
-      button: Click Here
-  - infopic:
       title: Vision
       description: Curious Learners | Cultured Scholars | Courageous Leaders<br>乐学善思 |
         文质彬彬 | 当仁不让
