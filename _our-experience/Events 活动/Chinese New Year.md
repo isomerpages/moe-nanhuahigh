@@ -5,27 +5,28 @@ description: ""
 third_nav_title: Events 活动
 variant: tiptap
 ---
-# “玉兔欢跃开泰运 南华喜迎紫气来”
-![CNY 2023_1](/images/NHHS%20CNY%202023-068.jpg)
-
-在周校长主持的鸣锣仪式，以锣声辞旧迎新，南华人满怀欣喜与期待，一同迎接兔年的到来！
-
-| ![2023 CNY CO](/images/NHHS%20CNY%202023_CO.jpg) | ![2023 CNY Guzheng](/images/NHHS%20CNY%202023_guzheng.jpg) |
-
-| ![2023 CNY crosstalk](/images/NHHS%20CNY%202023_crosstalk.jpg) | ![2023 CNY dance](/images/NHHS%20CNY%202023_dance.jpg) | 
-
-今年的新年庆祝会除了各大表演艺术团体的演出外，同学们也在班上探讨东西方文化中兔子意象的不同诠释，了解其中的文化差异。接着同学们进行剪纸活动，为庆典增添浓浓的节日气氛。
-
-![2023 CNY paper cutting](/images/NHHS%20CNY%202023-129.jpg)
-
-阔别三年，南华全体师生再次齐捞鱼生，为彼此送上最诚挚的新年祝福！
-
-![2023 CNY lohei](/images/2023%20CNY%20lohei.jpg)
-
-佳节送暖，学生代表在校长和副校长的带领下把一个个学生亲手包装的礼篮送给社区中的独居老人，为他们带来温暖与祝福。
-
-![2023 CNY hamper](/images/2023%20CNY%20hamper.jpg)
-
-Chen Zirong (Sec 2-01) reflected: "I fully enjoyed myself as we could lohei with our friends and teachers. I am appreciative of the performing arts CCAs who put in so much effort for the amazing performances. From this experience, I have learnt not to take things for granted, such as the chance to watch performances live. The engaging activities have also helped me immerse in and appreciate the Chinese culture better. I hereby wish everyone a Happy Chinese New Year!"
-
-| ![2023 CNY choir](/images/NHHS%20CNY%202023_choir.jpg) | ![2023 CNY finale](/images/NHHS%20CNY%202023_final.jpg) |
+<h1>南华庆新春 瑞气盈校园</h1>
+<h3>史潇宜/南华通讯员</h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>1月28日，南华中学的新年庆祝仪式在阵阵锣鼓声中正式拉开帷幕。一年一度的佳节活动，早已成为全校学生期待的盛事，为平日朴实的校园增添了一抹耀眼的红，让南华大家庭沉浸在浓浓的年味之中。</p>
+<p></p>
+<h3>舞狮贺岁，挥春送福</h3>
+<p>庆祝活动的开幕式亮点非舞狮表演莫属，这不仅是传统文化的象征，更是舞者们挥洒汗水的结晶。409班的黄佳欣作为狮头分享道：“经过无数次的训练，我才慢慢找到了表演的感觉。虽然过程很辛苦，但与团员们共同努力、不断进步的体验让我充满了成就感。”
+<br>
+</p>
+<p>紧随其后的，是由书法协会成员精心创作的巨型挥春。用挥春传递新年祝福是南华中学的特色之一，书法协会成员用他们的独特才艺向全校师生献上了节日的问候。随着对联缓缓展开，学生们纷纷上前“大拜年”，向班主任们道上提前准备好的祝福语，各班班长还向老师们送上柑橘，寓意新年的富贵与好运。</p>
+<h3><br>捞鱼生，增进情谊</h3>
+<p>随后，学生们移步到各自的指定区域进行捞鱼生活动。鱼生不仅是一道美味，更是加强同学之间凝聚力的绝佳机会。中一新生在这个环节初次感受特选学校的新年氛围，为他们的校园生活增添了珍贵的回忆。而对于中四学生而言，今年是他们在南华度过的最后一个春节，场面既喜庆又充满感慨。</p>
+<p></p>
+<h3>多姿多彩的演出</h3>
+<p>今年的新年庆典以“南华瑞气迎春到 栋梁鸿图展新篇”为主题，多个表演艺术团体带来了精心编排的节目，让全场掌声不断。南华华乐团率先登场，演奏了两首经典曲目，为庆祝活动营造了喜庆氛围。402班的阮雪颖说道：“这是我在华乐团的最后一次新年表演，因此特别努力，希望为自己的华乐表演生涯记上亮丽的一笔。”</p>
+<p></p>
+<p>接下来的节目包罗万象，精彩纷呈。华文戏剧社带来的幽默相声逗笑全场；古筝团以《大地回春》奏响新春的和谐之音；合唱团领唱的《贺新年》旋律悠扬，带动全体观众齐声欢唱。而压轴节目由舞蹈团献上的《欢天喜地迎新年》，以绚丽的舞姿为整场仪式画下完美句号。</p>
+<p></p>
+<h3>南华同心献温情</h3>
+<p>在辞旧迎新的时刻，南华人不忘感恩之心，向广惠肇留医院的长者们送去温暖。每个班级都在仪式前一周用心制作新春礼篮，礼篮内装满食品和祝福，传递学生们对社会的关爱。中四的学生也制作了富有佳节气息的和红包灯笼，增添佳节气氛。这不仅体现了南华中学注重培养感恩精神，也让人情味洒满校园和社区。</p>
+<p></p>
+<p>在新的一年里，南华中学全体师生将怀抱感恩与希望，以锐意进取的姿态迎接挑战，再创辉煌。祝愿全校师生在蛇年吉祥如意，学业与事业更上一层楼！</p>
