@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Events 活动
 variant: tiptap
 ---
-<h2><strong>南华庆新春 瑞气盈校园</strong><br>史潇宜/南华通讯员</h2>
+<h2><strong>南华庆新春 瑞气盈校园</strong></h2>
+<p>史潇宜/南华通讯员</p>
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
