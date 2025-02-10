@@ -7,14 +7,13 @@ variant: markdown
 ---
 <h2><strong>南华庆新春 瑞气盈校园</strong></h2>
 <p>史潇宜/南华通讯员</p>
-<p></p>
-<p></p>
+
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YjoUQe-H0dQ"></iframe>
 </div>
-<p></p>
+
 <p>1月28日，南华中学的新年庆祝仪式在阵阵锣鼓声中正式拉开帷幕。一年一度的佳节活动，早已成为全校学生期待的盛事，为平日朴实的校园增添了一抹耀眼的红，让南华大家庭沉浸在浓浓的年味之中。</p>
-<p></p>
+
 <h3>舞狮贺岁，挥春送福</h3>
 <p>庆祝活动的开幕式亮点非舞狮表演莫属，这不仅是传统文化的象征，更是舞者们挥洒汗水的结晶。409班的黄佳欣作为狮头分享道：“经过无数次的训练，我才慢慢找到了表演的感觉。虽然过程很辛苦，但与团员们共同努力、不断进步的体验让我充满了成就感。”
 <br>
