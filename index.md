@@ -23,14 +23,14 @@ sections:
       title: Vision
       description: Curious Learners | Cultured Scholars | Courageous Leaders<br>乐学善思 |
         文质彬彬 | 当仁不让
-      image: /images/Homepage/cny2023_2240x1260.jpg
+      image: /images/nhhs_vision.jpg
       alt: Image alt text
   - infopic:
       title: Mission
       description: Nurturing Bicultural Nanhuarians who are Confident, Compassionate
         and Culturally Versatile with a Passion for Life.
         <br>培育有信心、有仁爱精神、具备跨文化素养，并对生活充满热忱的南华双文化君子
-      image: /images/Homepage/studentleadersinvestiture_2240x1260.jpg
+      image: /images/nhhs_mission.jpg
       alt: Image alt text
   - infopic:
       title: Values
