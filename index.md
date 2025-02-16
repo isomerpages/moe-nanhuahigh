@@ -36,7 +36,7 @@ sections:
       title: Values
       description: 忠 Loyalty<br>孝 Filial Piety<br>仁 Humanity<br>爱 Love<br>礼
         Courtesy<br>义 Righteousness<br>廉 Integrity<br>耻 Sense of Shame
-      image: /images/Homepage/campvigour2023_2240x1260.jpg
+      image: /images/Values.jpg
       alt: Image alt text
       url: /about-us/vision-mission-values/
       button: our values
