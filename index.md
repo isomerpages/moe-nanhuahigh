@@ -18,7 +18,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
-      background: /images/Nan Hua High School at 41 Clementi Ave 1-2.jpg
+      background: /images/2MAR_FINAL_Banner_Done__COMPRESSED_.png
   - infopic:
       title: Vision
       description: Curious Learners | Cultured Scholars | Courageous Leaders<br>乐学善思 |
