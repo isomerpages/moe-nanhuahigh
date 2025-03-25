@@ -2,7 +2,7 @@
 title: Camp Achiever 2023
 permalink: /our-experience/events/camp-achiever/
 description: ""
-third_nav_title: Events 活动
+third_nav_title: Past Events
 ---
 # Camp Achiever
 ![2023 Camp Achiever Opening ](/images/camp%201.jpg)

@@ -2,7 +2,7 @@
 title: Chinese New Year
 permalink: /our-experience/events/chinese-new-year/
 description: ""
-third_nav_title: Events 活动
+third_nav_title: Past Events
 variant: tiptap
 ---
 <h2><strong>南华庆新春 瑞气盈校园</strong></h2>

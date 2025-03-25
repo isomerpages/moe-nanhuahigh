@@ -2,7 +2,7 @@
 title: Ipad Unboxing Day 2023
 permalink: /our-experience/events/ipad-unboxing-day/
 description: ""
-third_nav_title: Events 活动
+third_nav_title: Past Events
 ---
 # Sec 1 iPad Unboxing Day
 

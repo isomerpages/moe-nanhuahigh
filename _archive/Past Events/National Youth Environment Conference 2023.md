@@ -2,7 +2,7 @@
 title: National Youth Environment Conference 2023
 permalink: /our-experience/events/national-youth-environment-conference/
 description: ""
-third_nav_title: Events 活动
+third_nav_title: Past Events
 ---
 # Our Sustainable World
 

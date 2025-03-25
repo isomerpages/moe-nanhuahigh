@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Life at Nan Hua.md
       - Science 科学.md
       - Mother Tongue 母语.md
       - Mathematics 数学.md
@@ -14,6 +15,13 @@ collections:
       - Centre of Excellence Chinese Language and Culture 西区华文与中华文化卓越中心.md
       - Sustainable Environment Education 可持续环境教育.md
       - SAP Flagship 特选旗舰计划.md
+      - Past Events/Chinese New Year.md
+      - Past Events/National Youth Environment Conference 2023.md
+      - Past Events/Annual Road Run 2023.md
+      - Past Events/Ipad Unboxing Day 2023.md
+      - Past Events/Cultural Potpourri 2023.md
+      - Past Events/Camp Achiever 2023.md
+      - Past Events/Confucius Camp 2023.md
       - Past Events/National Day 2022.md
       - Past Events/Speech Day 2022.md
       - Past Events/Mid–Autumn Festival 2022.md

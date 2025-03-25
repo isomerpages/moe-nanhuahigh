@@ -2,7 +2,6 @@
 title: Life at Nan Hua
 permalink: /our-experience/events/
 description: ""
-third_nav_title: Events 活动
 ---
 # Life at Nan Hua
 
