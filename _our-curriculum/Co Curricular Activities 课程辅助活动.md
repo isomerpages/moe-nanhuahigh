@@ -2,6 +2,7 @@
 title: Co Curricular Activities 课程辅助活动
 permalink: /our-curriculum/co-curricular-activities/
 description: ""
+variant: markdown
 ---
 ![DSA Photo Collage 2.JPG](/images/DSA%20Photo%20Collage%202.jpg)  
 
@@ -15,23 +16,23 @@ Our 25 CCA Groups are organised in four CCA Clusters, namely the Aesthetics Clus
 ### CCA COMMITTEE
 
 
-Subject Head, CCA(Internal):&nbsp;Ms Ting Hui Xin
+Subject Head, CCA(Internal):&nbsp;Mr Yeo Swee Yeow
 
   
 
 #### Aesthetics Cluster
 
-Cluster IC: Mr Victor Gan&nbsp;
+Cluster IC: Ms Teo Hui Yi&nbsp;
 
-Cluster 2IC: Ms Teo Hui Yi
+Cluster 2IC: Mr Ng Jie Hua Andrew
 
   
 
 #### Clubs &amp; Societies Cluster
 
-Cluster IC: Ms Wang Shiyun Samantha&nbsp;
+Cluster IC: Ms Lim Yvonne&nbsp;
 
-Cluster 2IC: Ms Yvonne Lim
+Cluster 2IC: Mdm Ong Shan Shan
 
   
 
@@ -47,7 +48,7 @@ Cluster 2IC : Mr Han Chin Gene
 
 Cluster IC : Mr Jason Chow Yew Chung&nbsp;
 
-Cluster 2IC : Ms Gan Jiayi Karolyn&nbsp;
+Cluster 2IC : Mr Ervine Quek&nbsp;
 
   
 
