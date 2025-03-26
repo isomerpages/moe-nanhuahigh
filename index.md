@@ -18,7 +18,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
-      background: /images/v4_FINAL_Banner.png
+      background: /images/v5_FINAL_Banner.png
       variant: image
   - infopic:
       title: Vision
