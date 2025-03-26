@@ -18,7 +18,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
-      background: /images/2MAR_FINAL_Banner_v2.png
+      background: /images/2MAR_FINAL_Banner_Done_v3.png
   - infopic:
       title: Vision
       description: Curious Learners | Cultured Scholars | Courageous Leaders<br>乐学善思 |
