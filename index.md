@@ -18,7 +18,8 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
-      background: /images/2MAR_FINAL_Banner_Done__COMPRESSED_.png
+      background: /images/Speech_Day_Banner_Compressed___Resized.png
+      variant: center
   - infopic:
       title: Vision
       description: Curious Learners | Cultured Scholars | Courageous Leaders<br>乐学善思 |
