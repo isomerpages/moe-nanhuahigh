@@ -41,4 +41,11 @@ sections:
       alt: Image alt text
       url: /about-us/vision-mission-values/
       button: our values
+  - infopic:
+      title: 2024 Nan Hua Graduands
+      id: infopic
+      description: Collection of School Graduation Certificate & Testimonial 2024
+        Graduating Classes  From 11 Apr – 15 May 2025
+      button: Button Text
+      alt: Image alt text
 ---
