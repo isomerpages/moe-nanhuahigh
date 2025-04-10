@@ -28,7 +28,7 @@ sections:
       button: Details here
       alt: Image alt text
       image: /images/Annoucement/Ah_Guo_Mural_02.jpg
-      url: https://for.edu.sg/nhhsopenhouse2024
+      url: /announcements/
   - infopic:
       title: Vision
       description: Curious Learners | Cultured Scholars | Courageous Leaders<br>乐学善思 |
