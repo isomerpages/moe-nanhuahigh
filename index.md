@@ -25,8 +25,10 @@ sections:
       id: infopic
       description: Collection of School Graduation Certificate & Testimonial 2024
         Graduating Classes  From 11 Apr – 15 May 2025
-      button: Button Text
+      button: Details here
       alt: Image alt text
+      image: /images/Annoucement/Ah_Guo_Mural_02.jpg
+      url: https://for.edu.sg/nhhsopenhouse2024
   - infopic:
       title: Vision
       description: Curious Learners | Cultured Scholars | Courageous Leaders<br>乐学善思 |
