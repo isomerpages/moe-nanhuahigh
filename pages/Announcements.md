@@ -13,12 +13,10 @@ Students may collect their portfolio from the General Office from 11 Apr
 </li>
 <li>
 <p>Please book a date and time for collection at <a href="https://go.gov.sg/nhhs-2025-sgc-collection" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nhhs-2025-sgc-collection</a>.
-Alternatively, you may wish to scan the QR code below.
-<br>
-<br>
-<br>
-<br>
-</p>
+Alternatively, you may wish to scan the QR code below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Annoucement/qrcode2024grad.jpg">
+</div>
 </li>
 <li>
 <p>Please bring along your identity card/student concession card for verification
