@@ -23,8 +23,8 @@ sections:
   - infopic:
       title: 2024 Nan Hua Graduands
       id: infopic
-      description: Collection of School Graduation Certificate & Testimonial 2024 for
-        Graduating Classes   From 11 Apr – 15 May 2025
+      description: Collection of School Graduation Certificate & Testimonial For 2024
+        Graduating Classes From 11 Apr – 15 May 2025
       button: Details here
       alt: Image alt text
       image: /images/Annoucement/Ah_Guo_Mural_02.jpg
