@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<h2>Collection of School Graduation Certificate &amp; Testimonial 2024 Graduating Classes</h2>
+<h2>Collection of School Graduation Certificate &amp; Testimonial for 2024 Graduating Classes</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>The 2024 School Graduation Certificate and Testimonial are ready for collection.
