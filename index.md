@@ -21,6 +21,15 @@ sections:
       background: /images/Speech_Day_Banner_Compressed___Resized.png
       variant: center
   - infopic:
+      title: 2024 Nan Hua Graduands
+      id: infopic
+      description: Collection of School Graduation Certificate & Testimonial For 2024
+        Graduating Classes From 11 Apr – 15 May 2025
+      button: Details here
+      alt: Image alt text
+      image: /images/Annoucement/Ah_Guo_Mural_02.jpg
+      url: /announcements/
+  - infopic:
       title: Vision
       description: Curious Learners | Cultured Scholars | Courageous Leaders<br>乐学善思 |
         文质彬彬 | 当仁不让
