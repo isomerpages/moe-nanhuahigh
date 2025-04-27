@@ -16,7 +16,7 @@ Our 25 CCA Groups are organised in four CCA Clusters, namely the Aesthetics Clus
 ### CCA COMMITTEE
 
 
-Subject Head, CCA(Internal):&nbsp;Mr Yeo Swee Yeow
+Subject Head, CCA:&nbsp;Mr Yeo Swee Yeow
 
   
 
