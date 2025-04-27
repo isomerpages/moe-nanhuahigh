@@ -90,7 +90,7 @@ subject. Applicants must also be posted to secondary schools through Posting
 Group 3 (G3).</p>
 </li>
 <li>
-<p><strong>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</strong>
+<p><strong><u>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</u></strong>
 </p>
 </li>
 <li>
