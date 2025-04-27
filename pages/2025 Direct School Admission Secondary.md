@@ -16,73 +16,153 @@ for learning.</p>
 <p>In the 2025 Direct School Admission (DSA) Exercise, Nan Hua High School
 will be admitting students who possess special talents in one of the following:</p>
 <h3>Performing Arts</h3>
-<p>• Chinese Drama</p>
-<p>• Chinese Orchestra</p>
-<p>• Chinese and Modern Dance</p>
-<p>• Choir</p>
-<p>• Concert Band</p>
-<p>• English Drama</p>
-<p>• Guzheng Ensemble</p>
-<p>• Harp Ensemble</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese Drama</p>
+</li>
+<li>
+<p>Chinese Orchestra</p>
+</li>
+<li>
+<p>Chinese and Modern Dance</p>
+</li>
+<li>
+<p>Choir</p>
+</li>
+<li>
+<p>Concert Band</p>
+</li>
+<li>
+<p>English Drama</p>
+</li>
+<li>
+<p>Guzheng Ensemble</p>
+</li>
+<li>
+<p>Harp Ensemble</p>
+</li>
+</ul>
 <h3>Visual Arts, Design and Media</h3>
-<p>• Chinese Calligraphy</p>
-<p>Sports and Games</p>
-<p>• Badminton</p>
-<p>• Basketball (Boys only)</p>
-<p>• Netball (Girls only)</p>
-<p>• Softball (Girls only)</p>
-<p>• Table Tennis</p>
-<p>• Track &amp; Field</p>
-<p>Language and Humanities</p>
-<p>• Debating</p>
-<p>Leadership</p>
-<p>Selection Process</p>
-<p>1. Selection of students for the 2025 DSA exercise will take place from
-30 June – 4 September.</p>
-<p>2. In addition to meeting the criteria for DSA talent area, applicants
-must take Higher Chinese Language or Chinese Language as their Mother Tongue
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese Calligraphy</p>
+</li>
+</ul>
+<h3>Sports and Games</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Badminton</p>
+</li>
+<li>
+<p>Basketball (Boys only)</p>
+</li>
+<li>
+<p>Netball (Girls only)</p>
+</li>
+<li>
+<p>Softball (Girls only)</p>
+</li>
+<li>
+<p>Table Tennis</p>
+</li>
+<li>
+<p>Track &amp; Field</p>
+</li>
+</ul>
+<h3>Language and Humanities</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Debating</p>
+</li>
+</ul>
+<h3>Leadership</h3>
+<h2>Selection Process</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Selection of students for the 2025 DSA exercise will take place from 30
+June – 4 September.</p>
+</li>
+<li>
+<p>In addition to meeting the criteria for DSA talent area, applicants must
+take Higher Chinese Language or Chinese Language as their Mother Tongue
 subject. Applicants must also be posted to secondary schools through Posting
 Group 3 (G3).</p>
-<p>3. Please note that meeting all the criteria does not guarantee the student
+</li>
+<li>
+<p>Please note that meeting all the criteria does not guarantee the student
 will be shortlisted/given an offer. Due to different profiles of applicants,
 selection/shortlisting trends may differ year on year.</p>
-<p>4. Shortlisted applicants will be required to undergo selection trials,
-auditions and/or interviews.</p>
-<p>Selection Criteria</p>
-<p>Performing Arts</p>
-<p>Chinese Orchestra</p>
-<p>Applicants should</p>
-<p>• possess strong interest and passion for Chinese Orchestra</p>
-<p>• have represented school in Singapore Youth Festival (SYF) and/or external
+</li>
+<li>
+<p>Shortlisted applicants will be required to undergo selection trials, auditions
+and/or interviews.</p>
+</li>
+</ol>
+<h3>Selection Criteria for Performing Arts and Chinese Orchestra</h3>
+<p>Applicants should:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>possess strong interest and passion for Chinese Orchestra</p>
+</li>
+<li>
+<p>have represented school in Singapore Youth Festival (SYF) and/or external
 performances or competitions</p>
-<p>• be able to play a musical instrument from the following list well.</p>
-<p>Ø Plucked Strings Instruments - Liuqin, Zhongruan, Daruan, Pipa, Yangqin</p>
-<p>Ø Bow Instruments - Erhu, Zhonghu, Gaohu, Cello and Double Bass</p>
-<p>Ø Woodwinds Instruments - Dizi, Sheng and Suona</p>
-<p>Ø Any Percussion instrument</p>
-<p>Concert Band</p>
-<p>Applicants should</p>
-<p>• possess strong interest and passion for Concert Band</p>
-<p>• have represented school in Singapore Youth Festival (SYF) and/or external
+</li>
+<li>
+<p>be able to play a musical instrument from the following list well.
+<br>Ø Plucked Strings Instruments - Liuqin, Zhongruan, Daruan, Pipa, Yangqin
+<br>Ø Bow Instruments - Erhu, Zhonghu, Gaohu, Cello and Double Bass
+<br>Ø Woodwinds Instruments - Dizi, Sheng and Suona
+<br>Ø Any Percussion instrument</p>
+</li>
+</ul>
+<h3>Selection Criteria for Concert Band</h3>
+<p>Applicants should:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>possess strong interest and passion for Concert Band</p>
+</li>
+<li>
+<p>have represented school in Singapore Youth Festival (SYF) and/or external
 performances or competitions</p>
-<p>• be able to play a musical instrument from the following list well.</p>
-<p>Ø Brass Instruments - Cornet, Trumpet, Horn, Euphonium, Trombone, Tuba</p>
-<p>Ø Woodwinds Instruments - Oboe, Flute, Clarinets, Saxophones</p>
-<p>Ø Percussion Instruments - Tuned and Untuned</p>
-<p>All Other Performing Arts</p>
-<p>Applicants should</p>
-<p>• possess strong interest and passion for the relevant DSA talent area</p>
-<p>• have represented school in Singapore Youth Festival (SYF) and/or external
+</li>
+<li>
+<p>be able to play a musical instrument from the following list well.
+<br>Ø Brass Instruments - Cornet, Trumpet, Horn, Euphonium, Trombone, Tuba
+<br>Ø Woodwinds Instruments - Oboe, Flute, Clarinets, Saxophones
+<br>Ø Percussion Instruments - Tuned and Untuned</p>
+</li>
+</ul>
+<h3>Selection Criteria for All Other Performing Arts</h3>
+<p>Applicants should :</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>possess strong interest and passion for the relevant DSA talent area</p>
+</li>
+<li>
+<p>have represented school in Singapore Youth Festival (SYF) and/or external
 performances or competitions</p>
-<p>• have outstanding achievements in the relevant DSA talent area</p>
-<p>Visual Arts, Design and Media</p>
-<p>Chinese Calligraphy</p>
-<p>Applicants should</p>
-<p>• possess strong interest and passion for Chinese Calligraphy</p>
-<p>• have represented school in calligraphy competitions or</p>
-<p>• have outstanding individual achievements</p>
-<p>Sports and Games</p>
-<p>Applicants should</p>
+</li>
+<li>
+<p>have outstanding achievements in the relevant DSA talent area</p>
+</li>
+</ul>
+<h3>Selection Criteria for Visual Arts, Design and Media</h3>
+<h3><br>Selection Criteria for Chinese Calligraphy</h3>
+<p>Applicants should:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>possess strong interest and passion for Chinese Calligraphy</p>
+</li>
+<li>
+<p>have represented school in calligraphy competitions or</p>
+</li>
+<li>
+<p>have outstanding individual achievements</p>
+</li>
+</ul>
+<h3><br>Selection Criteria for Sports and Games</h3>
+<p>Applicants should:</p>
 <p>• be a key player of the school team and have represented school in zonal
 or national competitions or</p>
 <p>• have outstanding individual achievements</p>
