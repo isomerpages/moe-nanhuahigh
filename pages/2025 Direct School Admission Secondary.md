@@ -1,22 +1,20 @@
 ---
-title: Direct School Admission (DSA)
-permalink: /our-experience/programmes/direct-school-admission-dsa/
-description: ""
-third_nav_title: Programmes
+title: 2025 Direct School Admission Secondary
+permalink: /2025-direct-school-admission-secondary/
 variant: tiptap
+description: ""
 ---
-<h1><strong>2025 Direct School Admission – Secondary (DSA-SEC)</strong></h1>
-<h1><strong>[For admission to Secondary 1 in 2026]</strong></h1>
-<h3><strong>Introduction</strong></h3>
+<h3><strong>[For admission to Secondary 1 in 2026]</strong></h3>
+<h2>Introduction</h2>
 <p>Nan Hua High School is an Autonomous Special Assistance Plan (SAP) school.
 Our vision is to be a school of excellence that nurtures world-ready Bicultural
 Scholars who embrace tradition and are champions of society. Our mission
 is to nurture confident, creative and cultured students with a passion
 for learning.</p>
-<h3><strong>Overview</strong></h3>
+<h2>Overview</h2>
 <p>In the 2025 Direct School Admission (DSA) Exercise, Nan Hua High School
 will be admitting students who possess special talents in one of the following:</p>
-<h4><strong>Performing Arts</strong></h4>
+<h3>Performing Arts</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chinese Drama</p>
@@ -43,13 +41,13 @@ will be admitting students who possess special talents in one of the following:<
 <p>Harp Ensemble</p>
 </li>
 </ul>
-<h4><strong>Visual Arts, Design and Media</strong></h4>
+<h3>Visual Arts, Design and Media</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chinese Calligraphy</p>
 </li>
 </ul>
-<h4><strong>Sports and Games</strong></h4>
+<h3>Sports and Games</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Badminton</p>
@@ -70,14 +68,14 @@ will be admitting students who possess special talents in one of the following:<
 <p>Track &amp; Field</p>
 </li>
 </ul>
-<h4><strong>Language and Humanities</strong></h4>
+<h3>Language and Humanities</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Debating</p>
 </li>
 </ul>
-<h4><strong>Leadership</strong></h4>
-<h3><strong>Selection Process</strong></h3>
+<h3>Leadership</h3>
+<h2>Selection Process</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>Selection of students for the 2025 DSA exercise will take place from 30
@@ -90,17 +88,19 @@ subject. Applicants must also be posted to secondary schools through Posting
 Group 3 (G3).</p>
 </li>
 <li>
-<p><strong><u>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</u></strong>
-</p>
+<p>Please note that meeting all the criteria does not guarantee the student
+will be shortlisted/given an offer. Due to different profiles of applicants,
+selection/shortlisting trends may differ year on year.</p>
 </li>
 <li>
 <p>Shortlisted applicants will be required to undergo selection trials, auditions
 and/or interviews.</p>
 </li>
 </ol>
-<h3><strong>Selection Criteria</strong></h3>
-<h4><strong>Performing Arts</strong></h4>
-<h5><strong>Chinese Orchestra</strong></h5>
+<p></p>
+<h2>Selection Criteria</h2>
+<h3>Performing Arts</h3>
+<h4>Chinese Orchestra</h4>
 <p>Applicants should</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -112,16 +112,15 @@ performances or competitions</p>
 </li>
 <li>
 <p>be able to play a musical instrument from the following list well.
-<br>Ø&nbsp; Plucked Strings Instruments - Liuqin, Zhongruan, Daruan, Pipa,
-Yangqin
-<br>Ø&nbsp; Bow Instruments - Erhu, Zhonghu, Gaohu, Cello and Double Bass
-<br>Ø&nbsp; Woodwinds Instruments - Dizi, Sheng and Suona
-<br>Ø&nbsp; Any Percussion instrument</p>
+<br>Ø Plucked Strings Instruments - Liuqin, Zhongruan, Daruan, Pipa, Yangqin
+<br>Ø Bow Instruments - Erhu, Zhonghu, Gaohu, Cello and Double Bass
+<br>Ø Woodwinds Instruments - Dizi, Sheng and Suona
+<br>Ø Any Percussion instrument</p>
 </li>
 </ul>
-<h5><strong>Concert Band</strong></h5>
+<h4>Concert Band</h4>
 <p>Applicants should</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>possess strong interest and passion for Concert Band</p>
 </li>
@@ -131,15 +130,14 @@ performances or competitions</p>
 </li>
 <li>
 <p>be able to play a musical instrument from the following list well.
-<br>Ø&nbsp; Brass Instruments - Cornet, Trumpet, Horn, Euphonium, Trombone,
-Tuba
-<br>Ø&nbsp; Woodwinds Instruments - Oboe, Flute, Clarinets, Saxophones
-<br>Ø&nbsp; Percussion Instruments - Tuned and Untuned</p>
+<br>Ø Brass Instruments - Cornet, Trumpet, Horn, Euphonium, Trombone, Tuba
+<br>Ø Woodwinds Instruments - Oboe, Flute, Clarinets, Saxophones
+<br>Ø Percussion Instruments - Tuned and Untuned</p>
 </li>
 </ul>
-<h5><strong>All Other Performing Arts</strong></h5>
+<h4>Other Performing Arts</h4>
 <p>Applicants should</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>possess strong interest and passion for the relevant DSA talent area</p>
 </li>
@@ -151,10 +149,10 @@ performances or competitions</p>
 <p>have outstanding achievements in the relevant DSA talent area</p>
 </li>
 </ul>
-<h5><strong>Visual Arts, Design and Media</strong></h5>
-<h5><strong>Chinese Calligraphy</strong></h5>
+<h3>Visual Arts, Design and Media</h3>
+<h4>Chinese Calligraphy</h4>
 <p>Applicants should</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>possess strong interest and passion for Chinese Calligraphy</p>
 </li>
@@ -165,9 +163,9 @@ performances or competitions</p>
 <p>have outstanding individual achievements</p>
 </li>
 </ul>
-<h4><strong>Sports and Games</strong></h4>
+<h3><br>Sports and Games</h3>
 <p>Applicants should</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>be a key player of the school team and have represented school in zonal
 or national competitions or</p>
@@ -176,8 +174,8 @@ or national competitions or</p>
 <p>have outstanding individual achievements</p>
 </li>
 </ul>
-<h4><strong>Language and Humanities</strong></h4>
-<h5><strong>Debating</strong></h5>
+<h3><br>Language and Humanities</h3>
+<h4>Debating</h4>
 <p>Applicants should</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -199,7 +197,7 @@ or national competitions or</p>
 <p>have good current affairs knowledge</p>
 </li>
 </ul>
-<h4><strong>Leadership</strong></h4>
+<h3>Leadership</h3>
 <p>Applicants should</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -211,19 +209,19 @@ Council (e.g. Head or Deputy Head Prefect or its equivalent) and/or significant
 student organisations in primary school</p>
 </li>
 </ul>
-<h3><strong>Programmes for successful applicants</strong></h3>
+<h2>Programmes for successful applicants</h2>
 <p><strong>[Performing Arts] </strong>Successful applicants will join the
 CCA of their respective DSA talent area. They will have the opportunity
 to represent the school in Singapore Youth Festival Arts Presentations
 as well as other performances and/or competitions. They will also be given
 the opportunity to take part in Cultural Potpourri, our school’s annual
 concert by the Performing Arts CCA groups.</p>
-<p><strong>[Chinese Calligraphy] </strong>Successful applicants will join
+<p><strong>[Chinese Calligraphy]</strong> Successful applicants will join
 the Chinese Calligraphy Club. They will have the opportunity to further
 develop their skill in calligraphy and represent the school in various
 competitions. They will also learn more about the Chinese culture and experience
 how to do Chinese painting.</p>
-<p><strong>[Sports and Games]</strong> Successful applicants will join the
+<p><strong>[Sports and Games] </strong>Successful applicants will join the
 CCA of their respective sport. They will have the opportunity to represent
 the school in National School Games, as well as other related sports competitions.</p>
 <p><strong>[Debating]</strong> Successful applicants will join the English
@@ -233,8 +231,7 @@ the school in various debating competitions.</p>
 <p><strong>[Leadership] </strong>Successful applicants will have the opportunity
 to develop themselves and serve the school and the community through various
 leadership platforms.</p>
-<p></p>
-<h3><strong>Application Process</strong></h3>
+<h2>Application Process</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
