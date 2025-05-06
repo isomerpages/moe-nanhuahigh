@@ -237,15 +237,13 @@ leadership platforms.</p>
 <h3><strong>Application Process</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
+<p><strong> Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong> 
+</p>
+</li>
+<li>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025 to 3
 June 2025. For more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
-</li>
-<li>
-<p>Parents and students are encouraged to choose schools wisely based on
-the student’s aptitudes and strengths, bearing in mind the schools’ academic
-and non-academic requirements, and the programmes available to develop
-the area of talent.</p>
 </li>
 <li>
 <p>Students who are successfully admitted to the school via DSA are expected
