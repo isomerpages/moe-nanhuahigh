@@ -21,6 +21,15 @@ sections:
       background: /images/Speech_Day_Banner_Compressed___Resized.png
       variant: center
   - infopic:
+      title: 2025 Direct School Admission
+      id: infopic
+      description: Find out more about our Direct School Admission (DSA) Exercise for
+        admission to Secondary 1 in 2026
+      button: Details here
+      url: /our-experience/programmes/direct-school-admission-dsa/
+      alt: Image alt text
+      image: /images/nhhs_dsa_2025.jpg
+  - infopic:
       title: 2024 Nan Hua Graduands
       id: infopic
       description: Collection of School Graduation Certificate & Testimonial For 2024
