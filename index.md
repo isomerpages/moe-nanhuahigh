@@ -22,7 +22,6 @@ sections:
       variant: center
   - infopic:
       title: 2025 Direct School Admission
-      subtitle: Add an image and text
       id: infopic
       description: Find out more about our Direct School Admission (DSA) Exercise for
         admission to Secondary 1 in 2026
