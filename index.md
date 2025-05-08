@@ -28,6 +28,7 @@ sections:
       button: Details here
       url: /our-experience/programmes/direct-school-admission-dsa/
       alt: Image alt text
+      image: /images/nhhs_dsa_2025.jpg
   - infopic:
       title: 2024 Nan Hua Graduands
       id: infopic
