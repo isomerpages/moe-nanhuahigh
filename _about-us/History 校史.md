@@ -18,7 +18,7 @@ in 1916 due to insufficient funds.</p>
 to receive formal education, the Principal of Tao Nan School, Mr Xiong
 Shangfu, garnered support from overseas Chinese businessmen in Singapore
 to establish a public girls’ school, and their collective efforts led to
-the founding of Nan Hwa Girls’ School (NHGS) on 14 June 1917. Mr He Zhongying,
+the founding of Nam Hwa Girls’ School (NHGS) on 14 June 1917. Mr He Zhongying,
 one of the key businessmen involved, became the first Chairman of the School
 Board, while Mdm Wu Mulan was appointed as the school’s first principal.</p>
 <p>NHGS had a humble beginning in a makeshift school on Coleman Street with
