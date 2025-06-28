@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T Manohar</p>
+<p>Alex Quah Poh Hock</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alex Quah Poh Hock</p>
+<p>Anthony Ang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -70,6 +70,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lee Siok Kiang Pauline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Suriah Mohammed Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Executive</p>
@@ -105,14 +113,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Instructor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ban Hum Cheow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -197,7 +197,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muhammad Faruq Bin Noorfauzi</p>
+<p>Muhammad Amirul Bin Safiee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
