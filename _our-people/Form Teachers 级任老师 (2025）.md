@@ -42,7 +42,7 @@ variant: tiptap
 <p>Mdm Ding Juan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nornie&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ variant: tiptap
 <p>Mr Andrew Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teh Mun Yee</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -159,7 +159,7 @@ variant: tiptap
 <p>203</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Veronica Cain</p>
+<p>Mr Cheng Kian Hua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -268,10 +268,10 @@ variant: tiptap
 <p>303</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Say Han&nbsp;</p>
+<p>Ms Lim Yvonne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Yvonne&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -301,7 +301,7 @@ variant: tiptap
 <p>306</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yang Wei</p>
+<p>Ms Joanne Song</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -369,7 +369,7 @@ variant: tiptap
 <p>Mr Lee Junyi&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Ms Saw Eileen</p>
 </td>
 </tr>
 <tr>
