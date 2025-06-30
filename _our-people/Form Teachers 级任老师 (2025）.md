@@ -173,7 +173,7 @@ variant: tiptap
 <p>Ms Koh Jia Xin&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Cheng Kian Hua&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
