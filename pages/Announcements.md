@@ -4,29 +4,21 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-<h2>Collection of School Graduation Certificate &amp; Testimonial for 2024 Graduating Classes</h2>
-<ol data-tight="true" class="tight">
-<li>
-<p>The 2024 School Graduation Certificate and Testimonial are ready for collection.
-Students may collect their portfolio from the General Office from 11 Apr
-2025 to 15 May 2025 from 9.30am to 5.30pm (Mondays – Fridays).</p>
-</li>
-<li>
-<p>Please book a date and time for collection at <a href="https://go.gov.sg/nhhs-2025-sgc-collection" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nhhs-2025-sgc-collection</a>.
-Alternatively, you may wish to scan the QR code below.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Annoucement/qrcode2024grad.jpg">
-</div>
-</li>
-<li>
-<p>Please bring along your identity card/student concession card for verification
-during the collection. Proper and appropriate attire is required. Slippers,
-singlets, torn jeans and immodest attire are not allowed.</p>
-</li>
-<li>
-<p>Parents who are collecting on behalf of your child, please bring along
-your own identity card and your child’s identity card/student concession
-or passport.</p>
-</li>
-</ol>
-<p></p>
+<h2>Edusave Character Award for 2025</h2>
+The Edusave Character Award (ECHA) is introduced by Ministry of Education in 2012 to enable schools to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions. This is part of the larger goal to foster an inclusive and stronger Singapore in order to broaden the qualities and achievements to be encouraged and applauded. The award also supports schools’ continuing efforts in nurturing students of good values and character, who are active contributors and concerned citizens.
+
+**Objectives of ECHA:**
+
+To recognise outstanding students in each school who are exemplary in character, and who can be role models to inspire others.
+
+**Quota of Awards**
+
+The ECHA maximum quota will be capped at 2% of the total enrolment of Singaporean students in the school.
+
+The school has opened the nomination for ECHA to parents from 30 June to 18 July 2025. Click [here](https://go.gov.sg/nhhsecha2025) for Edusave Character Award Nomination Form (2025) or access the url: https://go.gov.sg/nhhsecha2025
+
+Your child must meet the below selection criteria:
+
+1.   Students must be Singaporeans studying in Nan Hua High School.
+  
+3.   Students must, on a consistent basis, exemplify the school value and positively influence their peers.
