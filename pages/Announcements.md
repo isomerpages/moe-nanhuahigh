@@ -15,7 +15,7 @@ To recognise outstanding students in each school who are exemplary in character,
 
 The ECHA maximum quota will be capped at 2% of the total enrolment of Singaporean students in the school.
 
-The school has opened the nomination for ECHA to parents from 30 June to 18 July 2025. Click [here](https://go.gov.sg/nhhsecha2025) for Edusave Character Award Nomination Form (2025) or access the url: https://go.gov.sg/nhhsecha2025
+Parents may submit the nomination form for your child through the General Office by 25 July 2025.  Click [here](https://go.gov.sg/nhhsecha2025) for Edusave Character Award Nomination Form (2025) or access the url: https://go.gov.sg/nhhsecha2025
 
 Your child must meet the below selection criteria:
 
