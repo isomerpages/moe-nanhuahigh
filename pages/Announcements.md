@@ -4,4 +4,4 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-<h2>There are no new announcements at the moment</h2>
+<h3>There are no announcements at the moment. Thank you.</h3>
