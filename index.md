@@ -50,4 +50,12 @@ sections:
       alt: Image alt text
       url: /about-us/vision-mission-values/
       button: our values
+  - infopic:
+      title: Meraki 翱翔
+      id: infopic
+      description: Find out more about our online bicultural literary magazine Meraki 翱翔.
+      button: Details Here
+      url: /our-experience/programmes/direct-school-admission-dsa/
+      image: /images/Meraki_Website_Image.jpg
+      alt: Image alt text
 ---
