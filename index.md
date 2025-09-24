@@ -55,7 +55,7 @@ sections:
       id: infopic
       description: Find out more about our online bicultural literary magazine Meraki 翱翔.
       button: Details Here
-      url: /our-experience/programmes/direct-school-admission-dsa/
+      url: /meraki-online-bicultural-literary-magazine/
       image: /images/Meraki_Website_Image.jpg
       alt: Image alt text
 ---
