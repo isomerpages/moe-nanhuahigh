@@ -4,8 +4,7 @@ permalink: /our-people/alumni/
 description: ""
 variant: markdown
 ---
-![Alumni 11th Exco](/images/NHHS%2011%20Alumni%20Association%20Exco.jpg)
-
+![Alumni 12th Exco](/images/Our%20People/NHHSAA_20250816_12th_EXCO_Group_Photo_2025_landscape.jpg)
 The Alumni Association believes in moving forward and so we started to serve our alma mater from the beginning of the year at events such as Secondary 1 Registration and the Secondary 4 Expedition for Excellence. We are delighted to learn that the career education talks received many positive responses. By sharing our work experiences, we hope to impact our juniors' career choices positively. Our key members also celebrated Chinese New Year and Mid-Autumn Festival together with the Nan Hua family.
 
 We reopened the Alumni Activity Room, which is fondly christened "聚谊阁", meaning a place for friendship and reconnection among graduated Nanhuarians. We are also proud to have participated in the Nagomi Art workshop in conjunction with the school's 105th anniversary celebrations. Our artwork forms part of the School Values Wall Mural.
