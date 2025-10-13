@@ -9,10 +9,13 @@ variant: tiptap
 <h1><strong>[For admission to Secondary 1 in 2026]</strong></h1>
 <h3><strong>Introduction</strong></h3>
 <p>Nan Hua High School is an Autonomous Special Assistance Plan (SAP) school.
-Our vision is to be a school of excellence that nurtures world-ready Bicultural
-Scholars who embrace tradition and are champions of society. Our mission
-is to nurture confident, creative and cultured students with a passion
-for learning.</p>
+Our vision is for us to grow as a community of Curious Learners, Cultured
+Scholars and Courageous Leaders who embrace tradition and embody the spirit
+of Junzi (君子) in pursuing learning for our inner cultivation, so that we
+may lead with courage, compassion, and humility in our outward contribution
+in championing a better society. As a school, we strive to achieve this
+vision through our mission, to nurture Bicultural Nanhuarians who are Confident,
+Compassionate and Culturally Versatile with a Passion for Life</p>
 <h3><strong>Overview</strong></h3>
 <p>In the 2025 Direct School Admission (DSA) Exercise, Nan Hua High School
 will be admitting students who possess special talents in one of the following:</p>
@@ -237,7 +240,7 @@ leadership platforms.</p>
 <h3><strong>Application Process</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong> Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong> 
+<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
 </p>
 </li>
 <li>
