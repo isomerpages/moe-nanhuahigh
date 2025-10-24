@@ -48,6 +48,11 @@ the language. Our English and Humanities week was not just about exploration
 and imagination; it also celebrated the success of our students as we acknowledged
 their victories in various level competitions in the English language and
 Literature classrooms.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_English_Drama_Club_enacting_their_skit.jpg">
+</div>
+<p><strong><em>The English Drama Club enacting their skit.</em></strong>
+</p>
 <p><strong><u>Level Competitions and Nanhua Orators</u></strong>
 </p>
 <p>The Level Competitions and Nanhua Orators provide avenues for students
