@@ -45,7 +45,7 @@ their creations are both relevant and beneficial.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_joining_parts_of_their_artefact_together.jpg">
 </div>
-<p><strong>Students joining parts of the artefact together.</strong>
+<p><strong><em>Students joining parts of the artefact together.</em></strong>
 </p>
 <p>Food &amp; Consumer Education lessons place much emphasis on authentic,
 practical learning experiences through exploration of nutrition and health;
@@ -78,7 +78,7 @@ receive high praise from audiences and visitors.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_stencil_on_a_tote_bag_during_Aesthetics_Fest.jpg">
 </div>
-<p><strong>Students stencil on a totebag during Aesthetic Festival</strong>
+<p><strong><em>Students stencil on a totebag during Aesthetic Festival</em></strong>
 </p>
 <p>At Nan Hua High School, our Aesthetics programme creates diverse opportunities
 for students to become open-minded leaders, encouraging them to promote
