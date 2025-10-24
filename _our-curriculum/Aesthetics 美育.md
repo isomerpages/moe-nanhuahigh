@@ -45,7 +45,7 @@ their creations are both relevant and beneficial.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_joining_parts_of_their_artefact_together.jpg">
 </div>
-<p><strong>Students joining parts of the artefact together. </strong>
+<p><strong>Students joining parts of the artefact together.</strong>
 </p>
 <p>Food &amp; Consumer Education lessons place much emphasis on authentic,
 practical learning experiences through exploration of nutrition and health;
