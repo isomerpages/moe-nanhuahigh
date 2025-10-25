@@ -8,7 +8,11 @@ description: ""
 <br>“早安南华”是南华特有的每两周一次的晨间节目，深受同学们的喜爱。这项活动不仅传承华族文化，还给同学们提供了一个展现自我、发掘才艺的平台，</p>
 <p>“早安南华”由学生自己组织策划、演绎编辑，内容丰富多彩、形式多样，其中包括报道我校新年庆典、中秋庆典、成语比赛等等，及特色栏目双文化说书人等。同学们在轻松的互动中学习到更多有关中华传统、历史文化以及时事知识。</p>
 <p>参与早安南华节目制作的同学们在这个平台认识了很多志同道合的新朋友。他们共同学习、一起进步，不仅更加自信，也提高了组织、协调能力。</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GMNH_Speech_Day_Theme.jpg">
+</div>
+<p><strong><em>校庆主题呈现</em></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="节气主题" src="/images/Our Curriculum/2024 Update/.jpg">
 </div>
