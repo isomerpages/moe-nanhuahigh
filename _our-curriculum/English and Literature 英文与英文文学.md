@@ -11,6 +11,11 @@ to promote the effective use and appreciation of English Language and Literature
 We believe that through the dedication of our teachers and our key programmes,
 we will be able to cultivate world-savvy, articulate, and engaging students
 who will thrive amidst the challenges of the 21<sup>st</sup> century.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_practicing_how_to_integrate_gestures_in_delivering_a_persuasive_speech_.jpg">
+</div>
+<p><strong><em>Students practising how to integrate gestures in delivering a persuasive speech.</em></strong>
+</p>
 <p><strong><u>Current Affairs and Structured Reading Programme</u></strong>
 </p>
 <p>One of the main programmes run by the ELL Department is the Current Affairs
