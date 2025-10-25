@@ -27,10 +27,23 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Delivering_hamper_to_Kwong_Wai_Shiu_Hospital.jpg">
 </div>
+<p><strong><em>广惠肇医院送礼蓝.</em></strong>
+</p>
 <p>六月，中三语特生参加了为期三天的全国语特营。同学们不仅在驻营作家的带领下阅读文学作品，分享创作心得，也参与各种有趣的活动。来自304班的王丹阳同学说：“这次语特营，让我获益良多。我要开启创作的灵感，仔细观察生活、热爱生活，把日常的情感注入我的笔下抒写出来。”</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6____.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg.jpg">
+</div>
+<p><strong><em>六月语特营大合照</em></strong>
+</p>
 <p>除了文化活动，语特生也代表学校参加各项全国比赛。例如《我来报新闻2024》、《灯谜比赛》、《狮城杯辩论赛》、《2024口译比赛》等。值得庆贺的是，同学们在不少比赛中都获得优秀的成绩。来自302班的阮雪颖同学说：“比赛不仅让我们取得荣誉为校争光，也收获了美好的友谊。这既是让我们展现才华的平台，也是发扬和传承文化的渠道。”</p>
-<p>
-<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lantern_Riddle_Competition.jpg">
+</div>
+<p><strong><em>猜灯谜比赛</em></strong>
 </p>
 <p><strong>驻校作家计划</strong> - 初探散文、短篇小说<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
@@ -42,9 +55,7 @@ description: ""
 <p><strong><em>同学专心聆听</em></strong>
 </p>
 <p>
-<br>
-</p>
-<p><strong>密室逃脱教学游戏设计工作坊和共备活动</strong>
+<br><strong>密室逃脱教学游戏设计工作坊和共备活动</strong>
 </p>
 <p>3月13日,我们邀请来自马来西亚的教学游戏推手陈彦丰老师为大家举办密室逃脱教学游戏设计工作坊和共备活动。</p>
 <p>来自各间学校的老师们兴致勃勃地前来向彦丰老师学习。陈老师先结合教学实践、图文并茂地介绍密室逃脱游戏的原理、作用、游戏道具与谜题设计原则，让老师们先从理论上认识教学游戏设计的原则，之后让老师们分组用密室逃脱游戏来设计教学课件。与会老师们学以致用，设计出一个个新颖的教学游戏辅助教学。接着，各组的老师亲自体验其他组的教学游戏，在齐心协力解开一道道谜题的过程中学习课文。枯燥的文字顿时变得生动有趣，老师们个个都显得兴趣盎然。老师们从实践中深深体会，游戏对于促进教学大有裨益。</p>
