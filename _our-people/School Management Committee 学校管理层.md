@@ -229,7 +229,7 @@ variant: tiptap
 <p>Ms Tamsyn Elizabeth Tong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Student Management (Internal)</p>
+<p>Subject Head Student Management</p>
 </td>
 </tr>
 <tr>

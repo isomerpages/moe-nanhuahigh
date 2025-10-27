@@ -65,42 +65,55 @@ and varied experiences, each team member contributed to the richness of
 their discussions. There were new opportunities for them to learn from
 one another, develop critical and reflective thinking, and appreciate the
 multiple perspectives and complexities of the issues in our society.</p>
-<p><strong>RICH Fest 2023</strong>
+<p><strong>RICH Fest</strong>
 </p>
-<p>Held on 27 October, the Humanities RICH Fest (Realising Innovation and
-Creativity in the Humanities) caters to the development of creative, cultured
-and confident students with a passion for the Humanities. This year’s theme
-is on ASEAN and students from the Secondary 2 came up with interesting
-and engaging presentations and activities for their peers to learn more
-about ASEAN. They also incorporated their historical and geographical knowledge
-and skills when doing their research on various aspects of ASEAN countries.
-Through this event, students gained a deeper understanding of how to apply
-what they learnt in the classroom to a real-life showcase to their friends
-and teachers.</p>
-<p></p>
+<p>On 18 July 2024, the Humanities Department organised our annual RICH FEST
+(Realising Humanities and Creativity in the Humanities) carnival with the
+objectives of cultivating love for Geography and History and enriching
+Secondary 2 students with out-of-textbook knowledge.&nbsp;</p>
+<p>The focus of this year’s theme was ASEAN countries. From skits on historical
+events to captivating infographics that capture facts about the natural
+geography found in a specific country, students gained deeper insights
+on each ASEAN country and their people’s way of life.</p>
+<p>This carnival has fostered leadership, teamwork and creativity among students.
+Friendships were forged during the interactions with peers from different
+classes.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Presenters engaging their peers on Vietnam" src="/images/Our Curriculum/2024 Update/Presenters_engaging_their_peers_on_Vietnam.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fun_facts_about_Brunei__RICH_Fest_.jpg">
 </div>
-<p><strong><em>Presenters engaging their peers on Vietnam</em></strong>
+<p><strong><em>Presenters engaging their peers with fun facts about Brunei. </em></strong>
 </p>
-<p><strong>NH ASEAN Forum 2023</strong>
-</p>
-<p>Held on 19 July, the Secondary 3 cohort participated in the inaugural
-NH ASEAN Forum. The brainchild of the Humanities teachers, the forum aims
-to provide opportunities for Nanhuarians to strengthen their understanding
-and exposure towards Asia, particularly the ASEAN region.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Learning about the civil-military relations in the ASEAN region" src="/images/Our Curriculum/2024 Update/Learning_about_the_civil_military_relations_in_the_ASEAN_region.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Creative_games_on_the_ASEAN_theme__RICH_Fest_.jpg">
 </div>
-<p><strong><em>Learning about the civil-military relations in the ASEAN region</em></strong>
+<p><strong><em>Creative games on the ASEAN theme.</em></strong>
 </p>
-<p>The theme was Blurring the Lines: Military and Governance in ASEAN, where
-students were tasked to conduct guided research on an ASEAN country of
-their choice and present their findings. A Fireside Chat featuring our
-Principal and Head of the Humanities Department was also held to discuss
-the relevance and significance of ASEAN to Singapore, while the delegates
-to the HCI Model ASEAN Summit shared their experiences and key takeaways.
-In an intellectually charged atmosphere with a lively exchange of ideas,
-it was a valuable learning experience for the cohort.</p>
+<p><strong>NH ASEAN Forum</strong>
+</p>
+<p>Themed ‘ASEAN and China: Collaboration or Contestation?’, the 2024 NH
+ASEAN Forum brought our Secondary 3 students through an inquiry process
+to uncover the collaborative and contested areas in ASEAN's relationship
+with China. This process involves context-setting to spark curiosity about
+ASEAN's relationship with China, guided research to gather and make sense
+of data, as well as interactive presentations to students from other secondary
+schools and junior colleges. As a result, students have not only shown
+a deeper appreciation of Singapore's place in the region and the world,
+but also developed deeper conceptual and contextual understandings of issues
+related to ASEAN.</p>
+<p><strong>Humanities Spotlight Series</strong>
+</p>
+<p>The Humanities Spotlight series is a termly publication featuring infographics
+that address the latest contemporary local and global issues. These infographics
+present information in bite-sized, easily digestible, and visually appealing
+formats. To enhance student learning and understanding of real-world topics,
+multimedia resources are embedded within the infographics. This approach
+creates an engaging and dynamic learning environment that fosters curiosity
+and encourages self-directed learning. Through this the department aims
+to provide a holistic education by extending beyond the standard curriculum
+to cultivate dispositions like empathy and perspective-taking. By focusing
+on current local and global issues, the series offers valuable historical
+context, geographical insights, and social awareness.</p>
+<p>
+<br>
+</p>
 <p></p>

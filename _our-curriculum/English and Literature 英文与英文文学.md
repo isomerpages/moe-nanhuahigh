@@ -4,71 +4,85 @@ permalink: /english-and-literature/
 variant: tiptap
 description: ""
 ---
-<p><strong>Current Affairs and Structured Reading Programme</strong>
+<p><strong>Introduction</strong>
+</p>
+<p>The English Language and Literature department is committed to our mission
+to promote the effective use and appreciation of English Language and Literature.
+We believe that through the dedication of our teachers and our key programmes,
+we will be able to cultivate world-savvy, articulate, and engaging students
+who will thrive amidst the challenges of the 21<sup>st</sup> century.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_practicing_how_to_integrate_gestures_in_delivering_a_persuasive_speech_.jpg">
+</div>
+<p><strong><em>Students practising how to integrate gestures in delivering a persuasive speech.</em></strong>
+</p>
+<p><strong><u>Current Affairs and Structured Reading Programme</u></strong>
 </p>
 <p>One of the main programmes run by the ELL Department is the Current Affairs
 and Structured Reading Programme. This year's Current Affairs Programme
-delved into the theme “Us versus Them: Our changing relationship with animals”.
-A thought-provoking hot seating session was held during the school's assembly
-programme, featuring a diverse range of animals, including the unassuming
-cockroach to the heartbreakingly extinct white rhinoceros. The impactful
-presentations aimed to heighten students' awareness of our evolving connections
-with creatures around us and the overwhelming response to the quiz reflected
-the students' deepened understanding and concern for the welfare of animals
-in our changing world. In addition, our Reading Ambassadors had introduced
-a new genre to the school each month. They created library displays featuring
-recommended texts and shared book reviews with their schoolmates. To encourage
-reading, the Reading Ambassadors also launched the Golden Ticket Event!
-An exciting hunt for golden tickets saw an increase in books being borrowed
-from the library, where the winner had scavenged a whopping fourteen tickets!</p>
-<p></p>
+delved into the various unique career choices, inviting students to remain
+open-minded to different career choices.</p>
+<p>The impactful videos and group discussions heightened students' awareness
+of evolving definitions of success, as well as the struggles and challenges
+pioneering youths have had to overcome in pursuing their dreams.</p>
+<p>In addition, the Reading Ambassadors introduced a new genre to the school
+each month. They decorated library displays and shared book reviews with
+their schoolmates. To encourage reading, the Reading Ambassadors also ran
+events such as A Blind Date with a Book, where students participated in
+a personality quiz and were recommended books based on the results. The
+ambassadors also encouraged the students to enthusiastically support National
+Library Board’s (NLB) Read for Books charity drive by organising reading
+sessions in the school library as well as a mass reading session. For every
+10 people who read for 15 minutes, one book or equivalent would be donated
+to selected beneficiaries identified by the NLB.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Launching the Golden Ticket Event at the school library" src="/images/Our Curriculum/2024 Update/Launching_the_Golden_Ticket_Event_at_the_school_library.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_participating_in_the_Read_for_Books_charity_drive.jpg">
 </div>
-<p><strong><em>Launching the Golden Ticket Event at the school library</em></strong>
+<p><strong><em>Students participating in the Read for Books charity drive</em></strong>
+</p>
+<p><strong><u>English and Humanities Week</u></strong>
+</p>
+<p>This year’s English and Humanities week, with the theme of “Games”, was
+a resounding success! The English Drama Club kicked off the week with an
+engaging skit depicting a fictional kingdom ruled by game characters. In
+class, students were introduced to the history of language-based games,
+and competed against their classmates in Quordle. At recess breaks, students
+were treated to a plethora of language-based games that further demonstrated
+the creative potential of the English Language, igniting their love for
+the language. Our English and Humanities week was not just about exploration
+and imagination; it also celebrated the success of our students as we acknowledged
+their victories in various level competitions in the English language and
+Literature classrooms.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_English_Drama_Club_enacting_their_skit.jpg">
+</div>
+<p><strong><em>The English Drama Club enacting their skit.</em></strong>
+</p>
+<p><strong><u>Level Competitions and Nanhua Orators</u></strong>
+</p>
+<p>The Level Competitions and Nanhua Orators provide avenues for students
+to further hone their mastery of the language.</p>
+<p>The secondary one level participated in an elevator pitch competition
+where contestants proposed ideas for how a space in school could be reimagined
+to enhance learning experiences. They presented their ideas confidently
+to the principal, Mr Chiew, and were adaptive and inventive when responding
+to his queries and counter-proposals.</p>
+<p>The secondary two level participated in interclass debates on contemporary
+issues. Adopting a discerning lens, they conducted thorough research and
+learnt to view an issue from multiple perspectives. During the debates,
+they presented their ideas with assertiveness, and responded nimbly to
+opposing views. The students also participated in a Book Trailer Competition,
+where they directed and performed a trailer on their literature text—The
+Merchant of Venice. They tapped on their rich understanding of the text
+in selecting key scenes of intrigue and expressed their creativity in their
+witty portrayal of those scenes.</p>
+<p>The secondary three students participated in an impromptu speech competition,
+demonstrating adaptive thinking, exceptional eloquence and excellent communication
+skills to deliver their ideas with finesse.</p>
+<p>Finally, Nanhua Orators gave aspiring orators a platform to hone their
+public speaking skills through fortnightly morning assemblies during Nan
+Hua Speaks. Some took the challenge further, participating in inter-school
+competitions such as the National Public Speaking Competition.&nbsp;</p>
+<p>
 <br>
-</p>
-<p><strong>English and Humanities Week</strong>
-</p>
-<p>English and Humanities week, with the theme of “Artificial Intelligence”,
-was a resounding success! The English Drama club’s performance on a futuristic
-world with AI set the tone for the week, captivating both teachers and
-students. Our mobile library delighted bookworms with award-winning AI-centric
-tales, sparking new dimensions of storytelling. Crossword puzzles and word
-searches added to the adrenaline rush as students explored the enigmatic
-AI realm. Celebrating language triumphs and nurturing creativity, the week
-inspired a love for words and ideas. Our English and Humanities week was
-not just about exploration and imagination; it was also about celebrating
-the success of our students as we commemorated their victories in the various
-school-led competitions in the English language and Literature classrooms,
-such as the inter-class Choral Competition, where students will read a
-poem through creative expressions, and the Book Trailer Competition, where
-students dramatise moments from our beloved plays.
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hearing from our schoolmates at EL-Humanities assembly" src="/images/Our Curriculum/2024 Update/Hearing_from_our_schoolmates_at_EL_Humanities_assembly.jpg">
-</div>
-<p><strong><em>Hearing from our schoolmates at EL-Humanities assembly</em></strong>
-</p>
-<p><strong>National Schools' Literature Festival</strong>
-</p>
-<p>Nan Hua has always been an active participant in the bi-annual National
-Schools' Literature Festival. This year, NSLF was held on 15 July over
-online platforms. Our students took part in an astounding 5 events, Lower
-Secondary Book Trailer, Lower Secondary Choral Reading, Upper Secondary
-Unseen Debate, Flash Fiction Competition and Poetry Pitching. Our students
-did us proud by attaining a variety of awards in the various events. Most
-notably, Chia Hao Yang Kyle from 401 attained the Silver Award in the Flash
-Fiction Competition. Poetry Pitching also saw two Secondary 4 students
-role playing to discuss a given poem, their outstanding performance led
-them to achieve two awards; “text expert award” and “engaging diplomat
-award”. It was truly a day where we come together to celebrate Literature,
-and reaffirm how intellectually stimulating and actively creative Literature
-can be.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Reading together as a school for the 'Read for Books' drive" src="/images/Our Curriculum/2024 Update/Reading_together_as_a_school_for_the__Read_for_Books__drive.jpg">
-</div>
-<p><strong><em>Reading together as a school for the 'Read for Books' drive</em></strong>
 </p>
