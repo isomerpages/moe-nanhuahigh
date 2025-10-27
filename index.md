@@ -21,11 +21,12 @@ sections:
       background: /images/Speech_Day_Banner_Compressed___Resized.png
       variant: center
   - infopic:
-      title: Nan Hua Open House 2025
+      title: Nan Hua High School Open House 2025
       id: infopic
       description: Don't let this date slip by - join us on 22 November for an
         unforgettable Open House experience!
       alt: Image alt text
+      image: /images/Homepage/Nan_Hua_High_School_Open_House_ecard.png
   - infopic:
       title: Meraki 翱翔
       id: infopic
