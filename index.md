@@ -21,6 +21,12 @@ sections:
       background: /images/Speech_Day_Banner_Compressed___Resized.png
       variant: center
   - infopic:
+      title: Nan Hua Open House 2025
+      id: infopic
+      description: Don't let this date slip by - join us on 22 November for an
+        unforgettable Open House experience!
+      alt: Image alt text
+  - infopic:
       title: Meraki 翱翔
       id: infopic
       description: Find out more about our online bicultural literary magazine Meraki 翱翔.
@@ -58,10 +64,4 @@ sections:
       alt: Image alt text
       url: /about-us/vision-mission-values/
       button: our values
-  - infopic:
-      title: Nan Hua Open House 2025
-      id: infopic
-      description: Don't let this date slip by - join us on 22 November for an
-        unforgettable Open House experience!
-      alt: Image alt text
 ---
