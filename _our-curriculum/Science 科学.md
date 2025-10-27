@@ -23,6 +23,9 @@ of STEM! We are proud to announce that Nan Hua High School has won 1<sup>st</sup
 </div>
 <p><strong><em>Curious learners at STEM Challenge</em></strong>
 </p>
+<p></p>
+<p><strong><em>STEM Challenge 2: Flying a paper helicopter</em></strong>
+</p>
 <p><strong>STEM Workshop led by Dr Tan Aik Ling (National Institute of Education)</strong>
 </p>
 <p>Since 2022, the Science Department has embarked on our journey to spearhead
@@ -80,3 +83,4 @@ competitions to stretch their abilities.&nbsp; Some highlights include;&nbsp;</p
 <p>
 <br>
 </p>
+<p></p>
