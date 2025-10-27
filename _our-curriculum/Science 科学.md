@@ -23,9 +23,8 @@ of STEM! We are proud to announce that Nan Hua High School has won 1<sup>st</sup
 </div>
 <p><strong><em>Curious learners at STEM Challenge</em></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_2.png">
 </div>
 <p><strong><em>STEM Challenge 2: Flying a paper helicopter</em></strong>
 </p>
