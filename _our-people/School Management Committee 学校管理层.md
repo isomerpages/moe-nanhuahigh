@@ -170,7 +170,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Xi Siu Catherine</p>
+<p>Ms Tan Si Xiu Catherine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head Chinese Language &amp; Literature</p>
