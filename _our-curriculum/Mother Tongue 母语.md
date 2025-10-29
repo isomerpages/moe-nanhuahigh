@@ -4,8 +4,9 @@ permalink: /mother-tongue/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_dept_philosophy.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/MT_Dept_Philosophy.jpg">
 </div>
 <p><strong>早安南华 Good Morning, Nan Hua!</strong>
 <br>&nbsp;“早安南华” 是每两周一次的晨间节目，深受同学们喜爱！这项活动不仅传承着华族文化，也让同学们展现才华和创意。</p>
