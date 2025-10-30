@@ -50,7 +50,7 @@ context, geographical insights, and social awareness.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Term_2_2025_Humanities_Spotlight.jpg">
 </div>
-<p> <strong><em>Humanities Spotlight on the General Election 2025</em></strong>
+<p><strong><em>Humanities Spotlight on the General Election 2025</em></strong>
 <br>
 <br><strong>Overseas Investigative Learning Journey to Vietnam</strong>
 </p>
