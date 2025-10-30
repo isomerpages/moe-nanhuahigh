@@ -4,70 +4,82 @@ permalink: /mother-tongue/
 variant: tiptap
 description: ""
 ---
-<p><strong>早安南华</strong>
-<br>“早安南华”是南华特有的每两周一次的晨间节目，深受同学们的喜爱。这项活动不仅传承华族文化，还给同学们提供了一个展现自我、发掘才艺的平台，</p>
-<p>“早安南华”由学生自己组织策划、演绎编辑，内容丰富多彩、形式多样，其中包括报道我校新年庆典、中秋庆典、成语比赛等等，及特色栏目双文化说书人等。同学们在轻松的互动中学习到更多有关中华传统、历史文化以及时事知识。</p>
-<p>参与早安南华节目制作的同学们在这个平台认识了很多志同道合的新朋友。他们共同学习、一起进步，不仅更加自信，也提高了组织、协调能力。</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GMNH_Speech_Day_Theme.jpg">
-</div>
-<p><strong><em>校庆主题呈现</em></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="节气主题" src="/images/Our Curriculum/2024 Update/.jpg">
-</div>
-<p><strong><em>节气主题</em></strong>
-</p>
-<p><strong>南华中学母语双周</strong>
-</p>
-<p>今年的母语双周在农历新年期间举行。我校很荣幸地邀请到新加坡唯一一支节令鼓团“惊鼓人”为同学们带来精彩的节令鼓表演。二十四节令鼓，是一种结合二十四节气和广东狮鼓的鼓艺表演，表演者为各个节令鼓创作出不同的鼓点节奏，搭配着呐喊、肢体动作和队形变化的大型鼓阵演出。</p>
-<p>“惊鼓人”的创办人王志浩先生向同学们详细解说节令鼓的发展历史，之后演员们为大家呈现节令鼓表演。表演饱含华族文化色彩，队形变化繁复，节奏快慢有致。表演者们挥动鼓槌，模仿者农民各种劳作的动作，动作孔武有力、整齐划一，鼓声铿锵震耳，令人热血沸腾。</p>
-<p>这次母语双周活动让同学们了解到传统文化的意涵，继而珍惜并热爱我们的华族文化。</p>
-<p></p>
-<p><strong>语文特选课程</strong>
-</p>
-<p>今年我校有不少同学修读中学华文语文特选课程。他们热爱华文文化，立志为传承华文文化努力学习，并积极参与各种文化活动，代表学校参加各项全国比赛，</p>
-<p>刚开学不久，为庆祝新春佳节，在周校长的带领下，中三语特生作为代表给广惠肇留医院的职员和病患送上新春礼篮，分享喜庆。接待我们的卓女士说：“非常感激同学们亲手制作的礼物，学生很有关爱精神，让全院感受到喜庆的节日气氛。”</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Delivering_hamper_to_Kwong_Wai_Shiu_Hospital.jpg">
-</div>
-<p><strong><em>广惠肇医院送礼蓝.</em></strong>
-</p>
-<p>六月，中三语特生参加了为期三天的全国语特营。同学们不仅在驻营作家的带领下阅读文学作品，分享创作心得，也参与各种有趣的活动。来自304班的王丹阳同学说：“这次语特营，让我获益良多。我要开启创作的灵感，仔细观察生活、热爱生活，把日常的情感注入我的笔下抒写出来。”</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6____.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/MT_Dept_Philosophy.jpg">
+</div>
+<p><strong>早安南华 Good Morning, Nan Hua!</strong>
+<br>&nbsp;“早安南华” 是每两周一次的晨间节目，深受同学们喜爱！这项活动不仅传承着华族文化，也让同学们展现才华和创意。</p>
+<p>“早安南华” 从策划到演出、从编辑到呈现，每一个环节都充满了同学们的智慧和汗水。今年的节目内容更加丰富多彩，形式也更加多样。同学们不仅对新年庆祝会和校庆进行宣传预热，还关注其他同学关心的社会热点、学生生活潮流，也带领大家重返老街，感受传统文化的魅力。同学们在轻松愉快的氛围中，学习到更多关于中华传统、历史文化和时事知识。每一期活动都充满了惊喜和收获！</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Pic2.jpg">
+</div>
+<p><strong><em>学生精心制作节目 向学校介绍文化之旅</em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.png">
+</div>
+<p><strong><em>学生的分享 既有趣又有学习意义</em></strong>
+</p>
+<p><strong>《百衲集》学生刊物与星期二晨读时光分享<br><em>Bai Nai Ji – Student Publication &amp; Morning Reading Time Sharing</em></strong>
+</p>
+<p>《百衲集》是学生的年度优秀作文集。今年的书名“华彩生辉”，寓意着南华学子在语言与文学的天地中熠熠生辉，用笔墨书写属于自己的精彩人生篇章。这里既有细腻的生活点滴、真切的成长感悟，也有对社会问题的探讨。字里行间闪耀着青春的灵动与思维的火花，展现出同学们蓬勃的文学热情与不凡的创造力。</p>
+<p>今年开始的“晨读时光”，每周二由各班选出的两名同学向全校分享《早报逗号》的热点话题。分享的同学认真准备，选取内容丰富多样、表现形式生动，锻炼了表达能力。听众们也借由他们的分享拓宽视野。短短5分钟的晨读分享，成为融合学习、反思与成长的校园新风景。</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bainaji.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/104.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/106.jpg">
 </div>
-<p><strong><em>六月语特营大合照</em></strong>
+<p><strong><em>学生代表与同侪分享时事新闻和观点</em></strong>
 </p>
-<p>除了文化活动，语特生也代表学校参加各项全国比赛。例如《我来报新闻2024》、《灯谜比赛》、《狮城杯辩论赛》、《2024口译比赛》等。值得庆贺的是，同学们在不少比赛中都获得优秀的成绩。来自302班的阮雪颖同学说：“比赛不仅让我们取得荣誉为校争光，也收获了美好的友谊。这既是让我们展现才华的平台，也是发扬和传承文化的渠道。”</p>
+<p></p>
+<p><strong>语文特选课程 Chinese Language Elective Programme</strong>
+</p>
+<p>今年，我校有不少同学踊跃报名参与语特课程。他们热爱华文与中华文化，积极投身各类文化活动，并代表学校参加全国性比赛，立志为传承华文文化而不断努力。</p>
+<p>新春佳节，在周校长的带领下，中三语特生代表全校将满载心意的礼篮送至广惠肇留医院，分享节日喜悦。六月，中三语特生也参与了为期三天的语特营，各种讲座和交流让同学们拓展文学视野，获益良多。</p>
+<p>此外，同学们积极参与各项比赛，例如“我来报新闻2025”、“编采比赛”、“全国学生华语辩论比赛”以及“2025口译比赛”等。凭着不懈的努力与默契合作，同学们屡创佳绩，为校争光。</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lantern_Riddle_Competition.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/pic8.jpg">
 </div>
-<p><strong><em>猜灯谜比赛</em></strong>
+<p><strong><em>语特学生参加语特营</em></strong>
 </p>
-<p><strong>驻校作家计划</strong> - 初探散文、短篇小说<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
-</p>
-<p>为激发同学们的华文创作热忱，发掘新一代有潜力的写作人才，我校多年来一直推展驻校作家系列活动。今年我们有幸邀请到新加坡资深作家、编剧艾禺女士来担任此次驻校作家的讲师。</p>
-<p>艾老师先带领同学们初探微型小说，体会微型小说的特点。之后，同学们在老师的指导下，展开想象的翅膀，发挥创意，进行创作，体会文学创作的精妙之处。艾老师悉心点评同学们的作品，充分肯定同学们的文学创作。这次的课程让大家收获良多。</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Pic9.jpg">
 </div>
-<p><strong><em>同学专心聆听</em></strong>
+<p><strong><em>语特学生传递爱心</em></strong>
 </p>
-<p>
-<br><strong>密室逃脱教学游戏设计工作坊和共备活动</strong>
+<p></p>
+<p><strong>驻校作家计划 Author-in-Residence</strong>
 </p>
-<p>3月13日,我们邀请来自马来西亚的教学游戏推手陈彦丰老师为大家举办密室逃脱教学游戏设计工作坊和共备活动。</p>
-<p>来自各间学校的老师们兴致勃勃地前来向彦丰老师学习。陈老师先结合教学实践、图文并茂地介绍密室逃脱游戏的原理、作用、游戏道具与谜题设计原则，让老师们先从理论上认识教学游戏设计的原则，之后让老师们分组用密室逃脱游戏来设计教学课件。与会老师们学以致用，设计出一个个新颖的教学游戏辅助教学。接着，各组的老师亲自体验其他组的教学游戏，在齐心协力解开一道道谜题的过程中学习课文。枯燥的文字顿时变得生动有趣，老师们个个都显得兴趣盎然。老师们从实践中深深体会，游戏对于促进教学大有裨益。</p>
-<p><strong>“AI 时代孩子的6C以及自主学习能力” 的讲座</strong>
+<p>为培育华文优秀人才，我校继续开展驻校作家计划，今年特邀著名作家邹璐女士担任讲师。</p>
+<p>在诗歌创作课程中，邹老师以专业而生动的教学，带领学生探索诗歌艺术。从格律基础到意象运用，课程设计循序渐进，充分激发学生的创作热情。在邹老师悉心指导下，学生们创作出各具特色的诗作，每篇作品都获得教师点评与专业指导。课程结束后，邹璐老师特别将优秀作品汇编成诗集。</p>
+<p>本次课程，不仅记录了学生们的创作成果，更让他们体验了文学创作的成就感，为校园文化注入新的活力。</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/sh_u_hu__m_n_m_n.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/.jpg">
+</div>
+<p><strong><em>邹璐女士指导学生如何创作优美诗篇</em></strong>
 </p>
-<p>6月23日中心很荣幸邀请到来自台湾的洪兰教授，为老师们进行线上讲座。洪教授是台湾多所大学的讲座教授，也是美国耶鲁大学哈斯金实验室资深研究员，多年来致力于推广和脑科学、自主学习、素养学习等方面相关的研究和科普工作。洪教授深入浅出地分享在AI狂潮中，脑科学如何影响学生6C素养和自主学习能力的培养，指导老师们从科学专业的高度有效地开展教学活动、提高教学效率。演讲令老师们耳目一新，纷纷提出问题，洪教授逐一耐心解答。这次讲座不仅传授科学的教育教学知识，也启发老师们从新的角度思考去思考AI
-时代华文教学中面临的挑战和机遇。</p>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Picture12.png">
+</div>
+<p><strong><em>南华中学热烈庆祝农历新年</em></strong>
+<br>
+</p>
 <p></p>

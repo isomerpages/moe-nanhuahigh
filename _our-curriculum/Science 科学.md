@@ -19,15 +19,14 @@ with their ideas to continually enhance them, which is the spirit and essence
 of STEM! We are proud to announce that Nan Hua High School has won 1<sup>st</sup> Prize
 (Secondary) in STEM Playground Challenge 1!&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Building_a_Carboard_Chair_that_can_Support_3_KG_for_STEM_Playground.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curious_Learners_in_STEM_Challenge.jpg">
 </div>
-<p><strong><em>Building a cardboard chair that can support 3 KG for STEM Playground Challenge</em></strong>
-<br>
+<p><strong><em>Curious learners at STEM Challenge</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_Journey_to_Anatomy_Museum.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_2.png">
 </div>
-<p><strong><em>Learning Journey to Anatomy Museum</em></strong>
+<p><strong><em>STEM Challenge 2: Flying a paper helicopter</em></strong>
 </p>
 <p><strong>STEM Workshop led by Dr Tan Aik Ling (National Institute of Education)</strong>
 </p>
@@ -86,3 +85,5 @@ competitions to stretch their abilities.&nbsp; Some highlights include;&nbsp;</p
 <p>
 <br>
 </p>
+<p></p>
+<p></p>
