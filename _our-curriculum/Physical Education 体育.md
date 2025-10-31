@@ -4,74 +4,116 @@ permalink: /physical-education/
 variant: tiptap
 description: ""
 ---
-<p>Physical Education plays a vital role in the overall development and well-being
-of students, promoting physical fitness, instilling discipline, and fostering
-teamwork. At Nan Hua High School, the PE department has consistently nurtured
-a culture of active living and sporting excellence among students and staff.</p>
+<p>Through sports, movement and wellness, the PE department aims to cultivate
+confident Nanhuarians who are motivated to find joy and fulfillment in
+pursuing a lifelong active and healthy lifestyle.</p>
+<p>PE goes beyond athletic skills - it builds physical literacy, resilience
+and character. Through diverse individual and team sports, fitness and
+outdoor activities, students gain discipline, confidence and a stronger
+sense of identity during their formative years.</p>
+<p>By leading warm-ups, managing team dynamics and reflecting on their performance,
+students become self-directed learners, embracing both success and failure
+as part of growth. This autonomy builds confidence that extends beyond
+sports.</p>
+<p>Our PE lessons are designed to be inclusive, encouraging every student,
+regardless of skill level, to participate with enthusiasm and integrity.
+Team sports like floorball, volleyball and softball, foster camaraderie
+and deepen the bonds among classmates, creating a safe and supportive space
+where students feel seen, heard and valued.</p>
+<p>Beyond lessons, school-wide sporting events such as the Annual Road Run,
+Healthy Habits Sports Carnival and <em>Game On!</em> are key highlights that
+ignite school spirit by reinforcing the value of teamwork and fostering
+a strong sense of community. The <em>Sweat It Out!</em> programme also had
+staff engaging in physical activities, making them role models of active
+living. Through collaboration and healthy competition, students and staff
+experience first-hand the joy of being part of a passionate and united
+community.</p>
+<p>As we embrace the theme “<em>Strength in Identity, Passion in Community</em>”,
+we celebrate every Nanhuarian’s journey - finding strength through movement
+and building lasting friendships through sport. In PE, we nurture both
+body and spirit, empowering our students to carry the school values and
+vision with pride - from the playing field to the world beyond.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Staff doing warm up before Kickboxing" src="/images/Our Curriculum/2024 Update/Staff_doing_warm_up_before_Kickboxing.jpg">
-</div>
-<p><strong><em>Staff doing warm up before Kickboxing</em></strong>
-</p>
-<p>The team embraced a holistic approach to physical fitness, recognising
-that it encompasses more than just physical prowess. A comprehensive curriculum
-that focuses not only on skill development but also on fostering mental
-resilience, emotional well-being, and social interaction helps students
-develop a well-rounded understanding of physical fitness as a lifelong
-pursuit.</p>
-<p>By offering a wide array of programmes including team sports, individual
-sports, and recreational activities, the team aims to ignite a passion
-for sports among students. From territorial-invasion games to net-barrier
-games, and striking and fielding games, we ensure that every student can
-find their niche and explore their talents.</p>
-<p>The PE department firmly believes in the importance of instilling values
-such as sportsmanship, fair play, and respect in students. Activities are
-deliberately crafted for students to learn valuable life lessons such as
-accepting defeat graciously, celebrating victories humbly, and supporting
-teammates through adversity.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Working together as a team" src="/images/Our Curriculum/2024 Update/Working_together_as_a_team.jpg">
-</div>
-<p><strong><em>Working together as a team</em></strong>
-</p>
-<p>Proactive steps were also taken by the team to engage staff in adopting
-a healthy lifestyle. Leveraging on the LeAPS sessions carved out for physical
-activity, a series of initiatives such as introducing different categories
-of sports through play, organising the School-based Sports for Life Fitness
-Assessment and carrying out mass physical workout were completed under
-the Sweat It Out! programme. These efforts fostered a culture of health,
-promoting not only physical well-being but also camaraderie among staff
-members.</p>
 <p><strong>Annual Road Run</strong>
 </p>
-<p>Marking the first mass sporting event at an external venue since recovering
-from the grip of Covid-19, Nanhuarians gathered at West Coast Park for
-the anticipated Annual Road Run. This event has become a cherished tradition
-that brings people together in a shared pursuit of health, challenge, and
-fun. The event is more than just a race, as runners of various skill levels
-lace up their running shoes to push their boundaries and achieve personal
-goals. Beyond the physical aspect, the event promotes a sense of togetherness
-among students and staff as they also engage in a healthy picnic and a
-fun sports challenge as a fringe activity.</p>
+<p>The Annual Road Run, held on 14 March 2025 at West Coast Park, brought
+together students and staff for a day of fun, fitness, and bonding. Under
+bright and sunny skies, all participants tackled the 3.2km route with determination,
+cheered on by one another. Having trained for the run throughout Term 1,
+this culminating event promoted resilience, perseverance, and a spirit
+of healthy competition.</p>
+<p>After the run, the Inter-Level Challenge added excitement through team-based
+telematch games. It was such a roaring success that one would not have
+been able to guess that it was the first time that students themselves
+planned, organised and executed this segment. The preparation work that
+went behind the scenes showcased the students’ creativity and determination
+to make it fun for everyone. During the friendly competition, students
+and staff displayed strong teamwork, sportsmanship, and encouragement for
+one another, reflecting the value of unity and mutual respect.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Annual Road Run at West Coast Park" src="/images/Our Curriculum/2024 Update/Annual_Road_Run_at_West_Coast_Park.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Working_arm_in_arm_to_complete_the_task.jpg">
 </div>
-<p><strong><em>Annual Road Run at West Coast Park</em></strong>
+<p><strong><em>Working arm-in-arm to complete the task</em></strong>
+</p>
+<p>Classes later gathered for a healthy picnic, where they relaxed, shared
+stories, and strengthened friendships beyond the classroom. The event concluded
+with a prize presentation to honour top performers, recognising their effort
+and achievement.</p>
+<p>The Road Run was more than just a physical challenge - it was a meaningful
+experience that celebrated fitness, friendship, and school spirit. It left
+everyone looking forward to the next one.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Our_Sec_2_Girls_going_at_a_steady_strong_pace.jpg">
+</div>
+<p><strong><em>Our Sec 2 Girls going at a steady strong pace</em></strong>
 </p>
 <p><strong>Healthy Habits Sports Carnival</strong>
 </p>
-<p>The Healthy Habit Sports Carnival is a vibrant spectacle that unites students
-in a celebration of athleticism and teamwork. Bursting with colour and
-energy, a variety of activities were offered with students showcasing their
-prowess and dedication. While the lower secondary cohorts engaged in Captain’s
-Ball and sprint relays, the upper secondary students were involved in a
-multi-disciplinary sport challenge organised by Sports CCA leaders and
-recreational games such as Kinball and inline skating. Supporters cheer
-for their peers with enthusiasm and offer words of encouragement, adding
-to the electric atmosphere. The camaraderie and healthy competition fostered
-during the carnival promote not only physical fitness but also a sense
-of community.</p>
+<p>The Healthy Habits Sports Carnival was a vibrant celebration of teamwork,
+resilience, and school spirit. Lower secondary students kicked off the
+day with exciting track activities and tele-matches, cheering each other
+on and building strong bonds within their classes. Meanwhile, upper secondary
+students showcased their skills and sportsmanship in interclass games of
+Football, Frisbee, and Kinball, competing fiercely yet respectfully.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Excitement_fills_the_air_as_lower_secondary_students_cheer_for_their_classmate_during_the_telematch_.jpg">
+</div>
+<p><strong><em>Excitement fills the air as lower secondary students cheer for their classmate during the telematch</em></strong>
+</p>
+<p>Through shared challenges and victories, participants learned the importance
+of resilience, perseverance, and striving for excellence - values that
+extend far beyond the sports field. The carnival provided a wonderful opportunity
+for students to form new friendships, support one another, and experience
+the joy of healthy living together.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/A_moment_of_triumph_Secondary_Three_students_celebrate_their_goal_during_the_interclass_football_match_.jpg">
+</div>
+<p><strong><em>A moment of triumph—Secondary Three students celebrate their goal during the interclass football match!</em></strong>
+</p>
+<p><strong>Sweat It Out!</strong>
+</p>
+<p>Throughout the year, staff took part in a vibrant and engaging sports
+programme designed to promote wellness, camaraderie, and a strong sense
+of school spirit. Staff were grouped into four teams, creating opportunities
+for friendly competition and teamwork across departments and levels of
+experience and expertise.</p>
 <p></p>
+<p>The programme featured a wide range of sports and activities, from classic
+games like Captain’s Ball and Badminton to new experiences such as Goalball,
+which challenged participants to step out of their comfort zones and build
+empathy through inclusive play. These shared experiences encouraged mutual
+support, resilience, and a healthy competitive spirit.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/A_new_and_fulfilling_experience_for_our_staff__Goalball.jpg">
+</div>
+<p><strong><em>A new and fulfilling experience for our staff: Goalball</em></strong>
+</p>
+<p>More than just physical activity, the programme fostered stronger bonds
+among staff, creating space for collaboration, laughter, and lasting memories.</p>
+<p>By coming together through sport, staff demonstrated strength in identity
+- proudly representing their teams - and passion in community, as they
+supported one another and contributed to a vibrant, united school culture.</p>
+<p>
+<br>
+</p>
