@@ -25,10 +25,18 @@ description: ""
 <p>&nbsp;&nbsp;&nbsp; 5月27、28日，我校举办了第十一届的儒学研习营，主题为“知行合一，乘风破浪”。 但值得一提的是今年的“传递微笑”活动，全体中一学生集体走出校园，在营会前一周前往不同的交通中心向往来行人收集感谢卡，感谢每日辛勤为新加坡人提供交通服务巴士车长。学生们都在这项活动中学习了感恩的意义。&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp; 到了活动当天，本地剧场工作者梁海彬老师，以及台湾鹅湖月刊社的黄爱智老师和刘宣妘老师为主讲嘉宾，他们热忱地为120位中一学生讲解儒家思想。这次的儒学营寓教于乐，同学们通过各种趣味活动了解儒家智慧。&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp; 此外，学生们也通过“周游列国”不同的趣味活动，玩得不亦乐乎，增加了营会的趣味。而梁海彬老师细心地讲解戏剧中的常用技巧和注意事项，之后学生便运用在戏剧演出中，展现精彩的表演&nbsp;。</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_04.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_05.jpg">
+</div>
 <p>&nbsp;</p>
-<p>&lt;image4&gt;</p>
-<p>&lt;image5&gt;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_06.jpg">
+</div>
 <p>&nbsp;</p>
 <h3><strong>“去有风的地方”—— 南华双文化周</strong>&nbsp;</h3>
 <p>&nbsp;</p>
@@ -36,23 +44,39 @@ description: ""
 <p>周会上学生随着明朝著名航海家郑和和比利时年轻冒险家丁丁一同展开了一场激动人心的冒险之旅，他们向同学们生动地讲述了他们在旅途中所见所闻，以及介绍了各国优秀的文学作品。此外，在“早安南华”晨会中，郑和与中国“第一背包客”徐霞客先生携手合作，向同学们分享了他们所游历的地方以及出题测试南华学生的冒险精神。&nbsp;</p>
 <p>双文化周另一精彩项目是线上密室逃脱游戏，由各班双文化大使带领同学们完成游戏任务。还有，本地著名的旅游文学作家叶孝忠到校举办《到有风的地方》旅游写作工作坊。学校食堂也有流动图书馆，展示了许多中英两语与历险记有关的书籍。&nbsp;</p>
 <p>通过参与冒险之旅、流动图书馆、旅游写作工作坊以及密室逃脱游戏等活动，学生们不仅拓展了视野，还增强了跨文化交流的能力。双文化周不仅丰富了学生的课余生活，也促进了校园文化的多样性与活力。&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;&lt;image6&gt;</p>
-<p>&lt;image7&gt;</p>
-<p>&lt;image8&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_07.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_08.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_09.jpg">
+</div>
 <h3><strong>2025第一届全国学生华语辩论比赛</strong>&nbsp;</h3>
 <p>&nbsp;&nbsp;&nbsp; 今年，我校中文辩论队参加了由推广华文学习委员会和新加坡国立大学华语辩论队联合举办的首届全国学生华语辩论比赛。他们分别是来自303班的沈佳豪、305班的章艺芸、张颖怡、柳清瀛、杨淳晰以及306班的黄语乐。&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; 在全国24支队伍中，南华辩论队一路走来不易，在复赛力克务德中学与务立中学打入半决赛，接着又在半决赛中击败了德明政府中学，晋级决赛。最后于8月16日举办的全国大决赛中再接再厉，力克强敌莱佛士女子中学，荣获中学组冠军！&nbsp;</p>
 <p>在决赛与莱佛士女子中学对垒时，虽然场上临时出现了一些突如其来的变故，但是我校的辩论选手临危不乱，依然有条不紊地沉着迎战。来自305班的杨淳晰同学表现出色，不仅获颁当场最佳辩论员，同时还荣获赛会系列最佳辩手！同学们在短短半年的时间，虚心学习并掌握了重要的辩论技巧，凭借着不懈的努力和决心，全体团结一致，最终成功登顶，荣获了冠军！让我们恭喜他们！&nbsp;</p>
 <p>&nbsp;</p>
-<p>&lt;image9&gt;
-<br>辩手们讨论着如何应对&nbsp;</p>
-<p>&nbsp;
-<br>&lt;image10&gt;
-<br>荣获冠军！&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_10.jpg">
+</div>
 <p>
-<br>&lt;image11&gt;
-<br>淳晰同学荣获赛会最佳辩手！&nbsp;</p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_11.jpg">
+</div>
+<p>荣获冠军！&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_12.jpg">
+</div>
+<p>淳晰同学荣获赛会最佳辩手！&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -63,22 +87,40 @@ description: ""
 <p>&nbsp;&nbsp;&nbsp; 此外，学生们参观了台中国家歌剧院，欣赏京剧《三个人儿两盏灯》，精彩的表演引发了热烈讨论。行程还涵盖诚品书店、西洋博物馆、太阳饼DIY及逢甲夜市等，全方位体验台湾的文化与美食。&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp; 此次旅程不仅拓宽了视野，更深化了学生对中华文化的理解，成为难忘的学习经历。&nbsp;</p>
 <p>&nbsp;
-<br>&lt;image12&gt;</p>
-<p>&lt;image13&gt;</p>
-<p>&lt;image14&gt;</p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_13.jpg">
+</div>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_14.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_15.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_16.jpg">
+</div>
+<p>&nbsp;&nbsp;</p>
 <h3><strong>南华书香阅读计划</strong>&nbsp;</h3>
 <p>为了鼓励同学们多阅读课外书，培养良好的阅读习惯，进而提高华文水平，本校配合教育部的“泛读计划”，在低年级全面推行阅读计划。同学们阅读推荐的书籍，完成了一系列丰富多彩的阅读活动。&nbsp;</p>
 <p>中一的学生阅读《小轩的折叠世界》，每个学生阅读后需要完成一篇书香阅读报告，记录下阅读心得。另外，他们以阅读小组的形式设计各种各样的阅读游戏，让其他同学通过有趣的游戏深入了解书中的内容。中二的学生则阅读《面包特工队》，除了完成阅读报告，同学们也要针对书中的主要人物设计人物卡。在小组活动方面，同学们可以选择以电子海报、手绘漫画或制作视频等方式，来呈现他们的阅读心得。&nbsp;</p>
 <p></p>
-<p>&lt;image15&gt;</p>
-<p>&lt;image16&gt;</p>
-<p>&lt;image17&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_17.jpg">
+</div>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_18.jpg">
+</div>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_19.jpg">
+</div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
