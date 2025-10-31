@@ -42,7 +42,7 @@ a sense of community through shared passion and teamwork.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Math Dept/Applying_math_concepts_through_the_fun_and_meaningful_interdisciplinary_project.jpg">
 </div>
-<p><strong><em>Applying math concepts through the fun and meaningful interdisciplinary project</em></strong>
+<p><strong><em>Applying Math concepts through the fun and meaningful interdisciplinary project</em></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Math Dept/This_is_how_we_can_use_the_clue_to_calculatr_the_quantity_needed_in_the_recipe___.jpg">
