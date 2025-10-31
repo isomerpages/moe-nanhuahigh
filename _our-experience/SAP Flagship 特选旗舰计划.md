@@ -9,10 +9,18 @@ description: ""
 <p>&nbsp;&nbsp;&nbsp; 2024年8月27日，南华中学举办了第二十期新加坡特选中学学术幼苗计划纪念特辑发布会。当天我们邀请了新加坡华文教研中心院长符传丰博士、新加坡国立大学中文系主任王昌伟教授、推广华文学习委员会秘书长林美君博士、以及特选中学的校长们出席活动。所有11所特选中学都派队参加了今年的幼苗计划。在新加坡国立大学中文系导师的指导下，幼苗们撰写了与中华文化和新加坡本土文化相关的小论文，并以精彩的方式呈献论文。当天，我们也启动了“润物细无声
 - 特选幼苗计划线上资料库”。资料库收集了过去20年来的幼苗论文集，让感兴趣的老师、同学和公众人士能随时上网浏览。线上资料库的设置将更好地体现特选中学对中华文化的传承以及对新加坡多元文化的贡献。网址：
 <a href="https://go.gov.sg/sapmentorship" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sapmentorship</a>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&lt;image1&gt;</p>
-<p>&nbsp;&lt;image2&gt;</p>
-<p>&nbsp;&lt;image3&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/SAPFlagship/SAP_Flagship_03.jpg">
+</div>
 <h3><strong>2024年第十一届儒学营</strong>&nbsp;</h3>
 <p>&nbsp;&nbsp;&nbsp; 5月27、28日，我校举办了第十一届的儒学研习营，主题为“知行合一，乘风破浪”。 但值得一提的是今年的“传递微笑”活动，全体中一学生集体走出校园，在营会前一周前往不同的交通中心向往来行人收集感谢卡，感谢每日辛勤为新加坡人提供交通服务巴士车长。学生们都在这项活动中学习了感恩的意义。&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp; 到了活动当天，本地剧场工作者梁海彬老师，以及台湾鹅湖月刊社的黄爱智老师和刘宣妘老师为主讲嘉宾，他们热忱地为120位中一学生讲解儒家思想。这次的儒学营寓教于乐，同学们通过各种趣味活动了解儒家智慧。&nbsp;</p>
