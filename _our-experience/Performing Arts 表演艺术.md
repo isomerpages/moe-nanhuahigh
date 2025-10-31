@@ -2,86 +2,61 @@
 title: Performing Arts 表演艺术
 permalink: /our-experience/performing-arts/
 description: ""
+variant: tiptap
 ---
-![Secondary 2 CnME Aesthetics - Students dancing to the beat of the drums.JPG](/images/sec2cnme.jpg)
-
-<p style="text-align: center"><strong>Students dancing to the beat of the drums </strong></p>
-
-  
-
-In our quest to provide a holistic education, the Nan Hua Aesthetics Development Programme allows students to express themselves creatively with aesthetic skills, communicate their ideas, perspectives and feelings to others, and enrich their cultural and aesthetic experience.&nbsp;  
-
-  
-  
-![A Fabric Flower.JPG](/images/afabricflower.jpg)  
-<p style="text-align: center"><strong>Student Making a Fabric Flower</strong></p>
-
-Our broad-based Aesthetics and Higher Art Curriculum provides a strong foundation in arts and activities such as the Annual Arts Appreciation, Artsfest, Aesthetics Assembly programme and CnME (Aesthetics) module enable students to develop an interest towards Arts and continue this life-long learning.  
-
-  
-![A student making her recycled paper basket.JPG](/images/paperbasket.jpg)  
-<p style="text-align: center"><strong>A student making her recycled paper basket</strong></p>
-
-  
-
-  
-
-This year, our lower secondary students are exposed to different forms of art making with recyclable materials during the Annual Arts Appreciation. In addition, ArtsFest also takes on a digital form and features student and teacher artists. The Aesthetic Assembly programme exposed students to the roles of the Arts in a volatile situation through a presentation of “A World without Art” which features the methods artists used to maintain their own practices and contribute to the world. Part of the school's effort in Aesthetics development in the CnME (Aesthetics) module, Secondary Two students are given the opportunity to choreograph and perform a mass dance as a cohort in major school events.&nbsp;  
-
-  
-
-To develop an integrated and comprehensive Aesthetics programme, Aesthetics CCAs, the eight Performing Arts and two Visual Arts CCA, provide learning platforms to build experiences, and develop the skills and character of their students. The Performing Arts training programmes also include helping students obtain accreditations in their specialised areas of Performing Arts such as ABRSM, NAFA practical examinations. Performing Arts CCAs are well recognized locally for its outstanding achievements and have been invited for many occasions to perform in large-scale public events. For example, the Dance Society was involved in the Chingay Parade and National Day Parade for several years. Similarly, Choir and Symphonic Band were also often invited to perform for the Limelight Concert series at Esplanade Concert Hall, and Chinese Orchestra to perform for the Family Concert at Botanic Garden. Our Visual Arts CCAs take part actively in both internal and external programmes such as the biannual SYF exhibition and our annual Artsfest.&nbsp;
-  
-  
-![Ellen_s work in the E-gallery.JPG](/images/egallery.jpg)
-
-<p style="text-align: center"><strong>Ellen's work in the E-Gallery</strong></p>
-
-
-As part of the school’s aesthetics development programme, our students from non-Aesthetics CCAs have aesthetics activities included in their training programme, for example, the Boys' Brigade learnt to play the bagpipe and drums; the Girl Guides formed a Ukulele interest group and the Sports CCA cluster participated in mass dance.&nbsp;
-
-
-This year, all CCAs adjusted to virtual platforms for showcasing their skilled performances in e-annual Speech &amp; Prize-Giving Day, virtual celebrations for National Day, Teachers’ Day and Mid-Autumn Festival. Visual arts CCAs continued to participate actively in multiple online art activities such as SYF-goes-online and obtained awards in national art competitions like Live On! Design Competition.
-
-  
-
-“The aim of art is not to represent the outward appearance of things, but their inward significance.” - Aristotle. The Aesthetics Development Programme aims to inculcate joy of learning in the Arts domain.&nbsp;
-
-## Reflections by students
-
-
-“I really enjoyed the Art Appreciation Modules this year. My class made fabric flowers with unwanted clothes, stationery holders with toilet rolls and an old garment bag made with an old T-shirt. In addition, we also played the Handchimes and Ukulele as a finale to our music curriculum. I enjoyed making the fabric flower the most as I managed to spend quality time with my classmates. Many of us faced problems while sewing the clothes together but we helped each other out in the end, we managed to make our very own fabric flower! This year’s Art Appreciation Module made me realise how much trash we generate and instead of throwing away them, we could reduce, reuse, recycle them!
-
-  
-
-\- Vivian Chen Yifan, 109.  
-
-
-  
-![A student with her basket made from recycled materials.JPG](/images/recycledbasket.jpg)  
-
-<p style="text-align: center"><strong>A student with her basket made from recycled materials</strong></p>
-
-  
-
-Through my CCA (Art and Design Club), I was able to learn and experience many things from the activities that we did such as our yearly pottery sessions and building our own animal sculpture. During the discussions and critique sessions with my friends and teachers during CCA, I was able to improve and develop more on my skills in painting and concept development.Taking Higher Art also helped me to see art in a whole new perspective. Because of this I was able to create more interesting works and I am happy to say that I was more passionate in the arts because of my cca and higher art. At the end, my work was featured in the SYF’s e-exhibition as well as our very own e-ArtsFest website.
-
-\- Ellen Indraputri, 308  
-
-
-![Secondary 2 CnME Aesthetics - Posing during our dance.JPG](/images/sec2cnme2.jpg)  
-
-
-<p style="text-align: center"><strong>Synchronising our movements</strong></p>
-
-  
-
-The whole experience doing the CnME (Dance) module was&nbsp; fun and meaningful. I benefitted immensely from this experience and learnt the importance of teamwork as I worked together with my class and cohort to put up a dance performance for the whole school. It was really enjoyable as dancing as a whole cohort brought us closer together. The addition of percussion to the performance was really interesting and added diversity to the performance. Even though we were unable to showcase the live performance to the school, I think that our hard work really paid off as I gained dancing experiences and forged closer bonds with my classmates.
-
-\- Lee Zhen Yee, 207  
-
-  
-
-The Aesthetics Cluster worked around the challenged and adapted to the various restrictions implemented. In our very own ways, each CCA strived through this tough time and emerged stronger.&nbsp;
-
-\- Goh Si Rui, 310
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Members_of_the_Chinese_Drama_Society_performing_at_Cultural_Potpourri_2025.jpg">
+</div>
+<p><strong><em>Chinese Drama Society performing at Cultural Potpourri 2025</em></strong>
+</p>
+<p>In our quest to provide holistic education, Nan Hua High School's Aesthetics
+Development Programme empowers students to express themselves creatively
+whilst developing essential aesthetic skills. The programme enables students
+to communicate their ideas, perspectives, and feelings effectively whilst
+enriching their cultural and aesthetic experiences.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Members_of_the_Dance_Society_leading_the_finale_for_Cultural_Potpourri.jpg">
+</div>
+<p><strong><em>Dance Society leading the finale for Cultural Potpourri 2025</em></strong>
+<br>
+</p>
+<p>Our comprehensive approach features a broad-based Aesthetics and Higher
+Art Curriculum that establishes strong foundational knowledge. Students
+engage through diverse activities including Annual Arts Appreciation, Aesthetics
+Fest, Aesthetics Assembly programmes, and the CnME (Aesthetics) module,
+all designed to cultivate lasting interest in the arts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Musicians_from_NADI_Singapura_sharing_about_traditional_percussion_instruments_during_an_Aesthetics_Assembly_Programme.jpg">
+</div>
+<p><strong><em>Musicians from NADI Singapura sharing about traditional percussion instruments during an Aesthetics Assembly Programme</em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Aesthetics_Fest_Cosplay_Presentation.jpg">
+</div>
+<p><strong><em>Aesthetics Fest Cosplay Presentation</em></strong>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Secondary_2_CnME_Dance.jpg">
+</div>
+<p><strong><em>Secondary 2 CnME Dance</em></strong>
+</p>
+<p>As part of the school’s aesthetics development programme, the Aesthetics
+CCAs, which include eight Performing Arts and two Visual Arts groups, provide
+platforms for deeper artistic exploration and culminating in performances
+such as our annual Cultural Potpourri concert with Art Exhibition. The
+programme's inclusive nature extends beyond traditional arts boundaries.
+Students from various CCAs participate in aesthetic activities: Boys' Brigade
+members learn bagpipes, drums, and hip hop dance, whilst Girl Guides engage
+through their Ukulele interest group.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Students_from_the_Art_and_Design_Club_shared_about_their_art_works_during_their_CPC_exhibition.jpg">
+</div>
+<p><strong><em>Students from the Art and Design Club shared about their art works during their Cultural Potpourri concert exhibition</em></strong>
+</p>
+<p>This holistic approach ensures all students develop creative expression
+and lifelong appreciation for the arts.</p>
+<p>
+<br>
+</p>
