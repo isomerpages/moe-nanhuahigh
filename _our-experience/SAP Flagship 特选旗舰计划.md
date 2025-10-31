@@ -4,6 +4,82 @@ permalink: /our-experience/sap-flagship/
 variant: tiptap
 description: ""
 ---
+<p>The SAP Flagship Programme is a key initiative of MOE to support each
+SAP school in developing a bi-cultural programme that enhances each school’s
+identity and exposes students to an enriched and holistic experience in
+the learning of both languages and cross-cultural appreciation. Nan Hua
+High School (NHHS)’s Flagship Programme — “SAP@Nan Hua: Chinese Culture
+and Bicultural Studies Programme”, focuses not only on values and culture
+education that is essential in the inculcation of SAP ethos, but also on
+the practical life skills that allow SAP students to have a comparative
+advantage and stand out amongst the rest as they step into a globally-connected
+world and contribute to a multi-faceted Singapore society with a global
+outlook. Thus, the theme of our flagship programme is “Relishing traditional
+culture, Embracing Modern Outlook”.</p>
+<p>The flagship programme comprises two elements and five key components.
+For the elements of classical thoughts and culture, it will be supported
+by “Appreciation of Chinese Culture (ACC)” and “Confucian Ethics (CE)”.
+For the element of contemporary life skills and spirit of modernisation.
+It will be supported by the “Translation and Interpretation (T&amp;I)”
+and “Contemporary China Studies (CCS)” and “Bicultural Studies Programme
+(BS)”. This provides a holistic curriculum encompassing both sound knowledge
+as well as practical life skills.</p>
+<p>Appreciation of Chinese Culture The Appreciation of Chinese Culture (ACC)
+is a two-year programme that spans over the lower secondary levels. Each
+level will have one period of ACC weekly (55 mins). The school uses its
+own school-based curriculum with various topics on Chinese cultural knowledge.
+Besides knowledge-based content, there are also specific hands-on skills
+for students to learn and pick up. For example, Sec One students learn
+Chinese calligraphy and Chinese painting, while Sec Two students pick up
+clay sculpture and seal engraving. There is also the learning journey component
+in which students are exposed to various cultural elements such as the
+appreciation of Chinese tea culture in tea-houses and the appreciation
+of Chinese contemporary drama.</p>
+<p>Confucian Ethics The teaching of Confucian Ethics (CE) was conducted for
+all Sec One students, undergoing 1 period of CE weekly (55 mins) for a
+term. The school designs its own school-based curriculum with particular
+emphasis on the school’s mission (3Cs) and eight school values. There is
+also conscious effort in infusing elements of Social Emotional Learning
+(SEL) as part of values education. It will also be leveraging on MOE’s
+CE resource package. The curriculum will not be focusing solely on values
+education, but also the application of Confucian philosophy in a contemporary
+context. Reference and comparative studies will also be made as far as
+possible with other schools of thoughts and universal values in both the
+Eastern and Western world.</p>
+<p>Translation and Interpretation The Translation and Interpretation (T&amp;I)
+module is implemented at Sec Two Level. Students will have one period of
+(T&amp;I) weekly (55 mins) for a term. School-based curriculum is adopted.
+Besides the introduction of basic translation and interpretation principles,
+the module will focus on practical lifeskills such as translation of bilingual
+speeches, interpretation skills, translation of local context and terms,
+and the translation of school materials such as school website and school
+publication. Students are also placed in simulated situations where they
+adopt the role of interpreters during a live speech. From such learning
+experiences, students would understand the practicality of translator and
+interpretation in various jobs.</p>
+<p>Contemporary China Studies The Contemporary China Studies (CCS) Programme
+is being introduced at Sec Three Level as a ten-week programme. Students
+will have one period of (CCS) weekly (55 mins) for a term. China’s ascendance
+in the world economy is one of the most prominent events in the late 20th
+and 21st centuries. This began with the introduction of reform and opening-up
+policies in the late 1970s, which resulted in massive restructuring of
+the society and economy. These prominent transformations would be the main
+discussion themes of the programme. Special emphasis is put on the societal
+changes and impacts. Besides classroom teaching, the programme would be
+enhanced with International Immersion Programme (IIP) that provides an
+opportunity for students to travel to various parts of China to augment
+their bi-cultural perspective. Learning points linked to Contemporary China
+would be incorporated and accentuated.</p>
+<p>Bicultural Studies Bicultural Studies is implemented for Sec 2 students
+as a ten-week programme. In alignment with the 21st Century competencies
+and student outcomes framework, there is a need for greater emphasis in
+global awareness and cross-cultural skills. The programme seeks to create
+an engaging environment for them to learn and compare various aspects of
+the Chinese and Western culture in the literary contexts of Language and
+Literature. We would be focusing on nuances and aesthetics features of
+both Chinese and English languages and literary works would be analysed
+and discussed during the lessons. Students would especially be comparing
+and contrasting Chinese and English aspects of Literature.</p>
 <h2><strong>润物细无声</strong>&nbsp;</h2>
 <h2><strong>特选中学学术幼苗计划第二十期纪念特辑</strong>&nbsp;</h2>
 <p>&nbsp;&nbsp;&nbsp; 2024年8月27日，南华中学举办了第二十期新加坡特选中学学术幼苗计划纪念特辑发布会。当天我们邀请了新加坡华文教研中心院长符传丰博士、新加坡国立大学中文系主任王昌伟教授、推广华文学习委员会秘书长林美君博士、以及特选中学的校长们出席活动。所有11所特选中学都派队参加了今年的幼苗计划。在新加坡国立大学中文系导师的指导下，幼苗们撰写了与中华文化和新加坡本土文化相关的小论文，并以精彩的方式呈献论文。当天，我们也启动了“润物细无声
