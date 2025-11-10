@@ -4,90 +4,118 @@ permalink: /mathematics/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>Enhancing Learning through Mathematical Exploration</u></strong>
+<p><strong>Problem Solving and Computational Thinking</strong>
 </p>
-<p>The Mathematics Department is committed to providing opportunities for
-our students to engage in real-world problem-solving through mathematics.
-These experiences seek to help students develop 21<sup>st</sup> Century
-Competencies as they learn mathematical concepts in a meaningful way.</p>
-<p>The following are some examples of what the students experienced. In June,
-the Secondary One students embarked on a mini project to investigate the
-rate of mould growth on bread. The project not only enabled students to
-apply mathematical concepts such as percentage, rate and graphs, but also
-helped them to appreciate the interdisciplinary nature of knowledge which
-requires them to draw on multiple disciplines to solve complex problems.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Samples_of_Secondary_One_students__infographic_for_the_Bread_Mould_project.png">
-</div>
-<p><strong><em>Samples of Secondary One students' infographic for bread mould project.</em></strong>
+<p>Problem solving lies at the heart of mathematics education. The department
+integrates Polya’s problem-solving approach and computational thinking
+to help students make sense of complexity and approach challenges with
+confidence. Through decomposition, pattern recognition, and abstraction,
+students learn to break problems into smaller parts, identify useful patterns,
+focus on key ideas, and plan logical steps toward a solution. As they design
+algorithms and represent them through flowcharts, they develop metacognitive
+awareness and a stronger sense of identity as mathematical thinkers<strong>.</strong>
 </p>
-<p>Adopting a constructivist learning approach, the teachers gave Secondary
-Two students a set of numbers and challenged them to decide on a number
-that best represents each class, leading them to discover for themselves
-the meaning of mean, mode and median’.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary_Two_students_discovering_the_meaning_of_mean__mode_and_median_during_a_class_activity.jpg">
-</div>
-<p><strong><em>Secondary Two students discovering mean, mode and median during a class activity. </em></strong>
-</p>
-<p>On a lighter note, the Secondary Three students had fun re-enacting a
-scene from the familiar story of ‘Rapunzel and the Prince’ while learning
-the concept of angle of depression in trigonometry.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Having_fun_learning_about_trigonometry_while_enacting_a_scene_from__Rapunzel_and_the_Prince_.jpg">
-</div>
-<p><strong><em>Secondary Three students having fun learning about trigonometry while enacting a scene from 'Rapunzel and the Prince'.</em></strong>
-</p>
-<p><strong><u>Embracing Challenges in Mathematical Exploration</u></strong>
-</p>
-<p>This year, our students continued to challenge themselves by participating
-in national competitions which required them to apply their knowledge in
-creative and practical ways.</p>
 <p></p>
-<p><strong>International Mathematical Modelling Challenge (IMMC)</strong>
+<p><strong>Generative AI as a Thinking Partner</strong>
 </p>
-<p>A team of four Secondary Four students — Pang Chen Zhe Ashten, Wang Ziqing,
-Yu Huajun, and Long Yu Yang — participated in the International Mathematical
-Modeling Challenge (IMMC). Using mathematical models, they explored the
-suitability of households for pet ownership, taking into account factors
-such as living conditions, financial considerations, and lifestyle. This
-valuable experience provided students with the opportunity to tackle real-world
-issues through the lens of mathematics. The team’s efforts earned them
-a Merit Award.</p>
-<p><strong>Singapore International Mathematical and Computational Challenge (SIMCC)</strong>
+<p>Secondary 3 students explored the responsible use of generative AI through
+a hands-on session on prompt engineering. They practiced using AI to guide
+their thinking and support their reasoning in trigonometric proofs, learning
+how to turn technology into a helpful thinking partner. The experience
+encouraged them to take ownership of their problem-solving while developing
+skills that are relevant for today’s digital world.</p>
+<p><strong><u>Applying mathematics through real-world experiences</u></strong>
 </p>
-<p>Our Secondary 3 students — Johan Lim, Guo Chengxi, and Victor Lim — took
-part in the inaugural Singapore International Mathematical and Computational
-Challenge (SIMCC 2.0), which provided a platform to utilise artificial
-intelligence to address community issues. The team worked on measuring
-the mental well-being of secondary school students and presented a thoughtful
-solution to strengthen students’ mental health. The team also gained invaluable
-insights into how technology and mathematics can come together to create
-positive change. For their informative, clear and confident presentation,
-the team received the Best Presentation Award.</p>
+<p>Beyond thinking tools like AI, students also apply mathematics in hands-on,
+real-world contexts that make learning tangible and meaningful.</p>
+<p><strong>Sec 1 Interdisciplinary Project 2025<br></strong>This year, the
+Mathematics Department collaborated with the Food and Consumer Education
+(FCE) teachers to help students experience the relevance of mathematics
+in everyday life. In groups, students used mathematical reasoning to complete
+a recipe by calculating missing values, determining suitable serving sizes,
+and suggesting healthier alternatives before preparing the dishes themselves.
+The fun and meaningful project has enabled students to apply concepts such
+as ratio, proportion, percentage, and unit conversion, while discovering
+the interconnectedness of knowledge. Through this collaboration, students
+strengthened their identity as confident, adaptable learners and built
+a sense of community through shared passion and teamwork.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sharing_our_project_at_the_Singapore_International_Mathematical_and_Computational_Challenge__SIMCC_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Math Dept/Applying_math_concepts_through_the_fun_and_meaningful_interdisciplinary_project.jpg">
 </div>
-<p><strong><em>Student presenting at SIMCC 2.0 </em></strong>
+<p><strong><em>Applying Math concepts through the fun and meaningful interdisciplinary project</em></strong>
 </p>
-<p><strong>Singapore Mathematical Olympiad (SMO) 2024</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Math Dept/This_is_how_we_can_use_the_clue_to_calculatr_the_quantity_needed_in_the_recipe___.jpg">
+</div>
+<p><strong><em>Using the clues to calculate the quantity needed in the recipe</em></strong>
+<br>
+</p>
+<p><strong><u>Stretching minds beyond the curriculum</u></strong>
+</p>
+<p>Our stretch programmes give students the chance to understand their unique
+strengths and pursue their passions beyond the curriculum.&nbsp;</p>
+<p>Through experiences like the Math Modelling CnME Elective module and the
+International Mathematical Modelling Challenge (IMMC), students solve real-world
+problems, make decisions based on their ideas, collaborate with peers,
+and grow as confident, self-aware learners—truly reflecting strength in
+identity and passion in community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Math Dept/CnME_module_participants_making_use_of_mathematical_modelling_to_solve_a_problem.jpg">
+</div>
+<p><strong><em>CnME module participants making use of Mathematical modelling to solve a problem</em></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Math Dept/Figuring_out_what_is_the_best_way_to_obtain_the_required_angle.jpg">
+</div>
+<p><strong><em>Students figuring out the best way to obtain the required angle</em></strong>
+</p>
+<p><strong>IMMC 2025</strong>
+</p>
+<p>The 2025 International Mathematical Modeling Challenge (IMMC) centered
+on designing a fair and efficient game schedule for a Global Sports League
+(GSL) with 20 teams. Teams were tasked with designing a fair schedule that
+balanced travel and competition, while allowing for new teams to join the
+league. Our team comprising four Sec 4 students clinched a Distinction
+for their submission.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Math Dept/Our_IMMCteam_engaging_in_active_discussion_and_problem_solving.jpg">
+</div>
+<p><strong><em>Our IMMC team engaging in active discussion and problem-solving</em></strong>
+<br>
+</p>
+<p><strong>Singapore Mathematical Olympiad 2025</strong>
 </p>
 <ul>
 <li>
 <p>School Awards (Category 1): Bronze Award</p>
 </li>
 <li>
-<p>Junior Section: 5 Silver and 3 Bronze</p>
+<p>Junior Section: 1 Gold, 1 Silver, 8 Bronze</p>
 </li>
 <li>
-<p>Senior Section: 1 Gold, 3 Silver and 3 Bronze</p>
-<p></p>
+<p>Senior Section: 1 Gold, 2 Silver, 1 Bronze</p>
 </li>
 </ul>
-<p>Through these opportunities, our students are not only challenged but
-also inspired to think critically and apply their learning in meaningful
-ways. We are proud of their growth and hope that they will continue to
-ride the waves of learning as they pursue their dreams.</p>
+<p><strong>Australian Mathematics Competition 2025</strong>
+</p>
+<ul>
+<li>
+<p>Year 7: 2 High Distinction, 12 Distinction</p>
+</li>
+<li>
+<p>Year 8: 4 High Distinction, 8 Distinction</p>
+</li>
+<li>
+<p>Year 9: 1 High Distinction, 5 Distinction</p>
+</li>
+</ul>
+<p><strong>International Mathematical Modelling Challenge 2025 - Distinction</strong>
+</p>
+<p>Nguyen Bao Lam (401)</p>
+<p>Ong Jian Xun Kendric (401)</p>
+<p>Yang Yuxuan (402)</p>
+<p>Hlwan Moe Aung (402)</p>
 <p>
 <br>
 </p>

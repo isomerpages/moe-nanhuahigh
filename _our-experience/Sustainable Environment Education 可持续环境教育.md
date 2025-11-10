@@ -2,44 +2,61 @@
 title: Sustainable Environment Education 可持续环境教育
 permalink: /our-experience/sustainable-environment-education/
 description: ""
+variant: tiptap
 ---
-#### Eco-Serve Week
-During Eco-Serve Week, students were engaged in Eco-Games, which advocated the importance of sustainability in transport, energy and water conservation. The Parent Support Group (PSG) also demonstrated the use of coffee powder to make eco-friendly body scrubs. At the West Coast Earth Hour 2023, students from 308, Girl Guides and Service Learning Club (SLC) also set up booths to share sustainability tips with the public.
-
-![](/images/Our%20Experience/Sustainable%20Environment/eco-serveweek_2240x1260.jpg)
-
-#### National Youth Environment Conference (NYEC)
-
-SLC, together with students from the sKy Programme, organised the 2023 National Youth Environment Conference (NYEC). NYEC provides a platform for students to talk about how policies can shape a sustainable future through a Model United Nations Conference simulation. Students went on learning journeys to Kok Fah Farm, Marina Barrage, Singapore Discovery Centre and Lee Kong Chian Natural History Museum to learn more about sustainable efforts locally and around the world. We were also honoured to have Dr Toh Tai Chong, as our Guest-of-Honour.
-
-![](/images/Our%20Experience/Sustainable%20Environment/nyec2_2240x1260.jpg)
-
-Mikhail Sergeyevich Parinov of Class 3-07 reflected: “NYEC provided participants an enriching experience through their discussions on environmental issues and through learning journeys. I also deepened my knowledge on sustainable issues and built up my skill in the area of public speaking and planning of 
-events.”
-
-![](/images/Our%20Experience/Sustainable%20Environment/nyeclj_2240x1260.jpg)
-
-#### Sec 1 CnME module
-Sec 1 students learn more about green living through sustainable habits of consumption and the benefits of recycling and upcycling. They also used recycled materials to make eco-lanterns for the celebration of Mid-Autumn in school. Bamboo Girl was also invited to give a talk to the students on sustainable lifestyle. 
-
-![](/images/Our%20Experience/Sustainable%20Environment/sec%201%20cnme_2000x1260.jpg) 
-
-
-
-
-#### Sec 3 CnME – Our Planet, Our Home
-
-Through the CnME module, students learn about 
-
-1.  Sustainable living and conservation and understand its importance
-2.  Wildlife discovery and appreciation through a visit to Singapore River Safari
-3.  Innovative ways to promote green living in daily life
-
-#### Sustainable Living
-
-Using our school’s hydroponics system, students learned to grow vegetables from seeds and harvest them for all to enjoy, reducing carbon-footprint and enhancing sustainable living efforts. 
-
-![](/images/Our%20Experience/Sustainable%20Environment/hydroponics_2240x1260.jpg)
-  
-
-Nan Hua is also the proud recipient of the International Green Flag Award presented by the Worldwide Fund for Nature (WWF) which was awarded in 2022 to 2023 for its contributions to environment conservation.
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sustainable Environment/Students_worked_together_to_build_Lego_Green_Cities_during_Delegates_in_Action_segment_during_NYEC.jpg">
+</div>
+<p><strong><em>Students worked together to build Lego Green Cities during Delegates in Action segment during NYEC</em></strong>
+</p>
+<p>During Eco-Serve Week, our Environment Champions stepped up to lead their
+classmates in engaging, hands-on lessons about conservation and sustainability.
+Through games such as <em>Mytopia</em>, where students designed eco-friendly
+cities, <em>Recycle Right</em>, which taught proper recycling habits, and <em>Getting to Zero</em>,
+where sustainable practices earned high points, students discovered fun
+and meaningful ways to protect the planet.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sustainable Environment/Students_are_building_Green_Cities_during_Mytopia.jpg">
+</div>
+<p><strong><em>Students are building Green Cities during Mytopia</em></strong>
+</p>
+<p>At Assembly, an invited speaker from Terra shared insights on renewable
+energy sources and their applications in Singapore and abroad. Upper secondary
+students also explored fascinating Black Soldier Fly booth displays, showcasing
+how the insects help recycle organic waste. Teachers even had the chance
+to test drive Tesla EVs, while students and staff alike were excited to
+see the rare Cybertruck on display.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sustainable Environment/Holding_Black_Soldier_Fly_Larvae.jpg">
+</div>
+<p><strong><em>Holding Black Soldier Fly Larvae</em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sustainable Environment/Tesla_Talk_on_EV_for_Upper_Secondary_Students.jpg">
+</div>
+<p><strong><em>Tesla Talk on EV for Upper Secondary Students</em></strong>
+</p>
+<p>In addition, the 2025 National Youth Environment Conference (NYEC) was
+jointly organised by the Service Learning Club (SLC) and students from
+the sKy Programme. This platform gave students the opportunity to discuss
+how policies can shape a sustainable future through a Model United Nations-style
+simulation. To broaden perspectives, participants also embarked on learning
+journeys to World Vision, Ngee Ann Polytechnic, the Maritime Port Authority
+of Singapore, Marina Barrage, and Gardens by the Bay.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sustainable Environment/Learning_Journey_to_Gardens_By_The_Bay.jpg">
+</div>
+<p><strong><em>Learning Journey to Gardens By The Bay</em></strong>
+</p>
+<p>Students from SLC together with Secondary Three Environment Champions&nbsp;
+and Girl Guides extended their environmental efforts beyond school in the
+West Coast Earth Hour 2025 by engaging the public on sustainable habits
+through games and performances.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sustainable Environment/2025_West_Coast_Earth_Hour_outreach_to_the_community.jpg">
+</div>
+<p><strong><em>2025 West Coast Earth Hour outreach to the community</em></strong>
+<br>
+</p>
