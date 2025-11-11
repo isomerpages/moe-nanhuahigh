@@ -90,3 +90,15 @@ description: ""
 <p>值得一提的是，中二与中三年级的学生精心策划的义卖活动充分展现了创意与善心。所有义卖利润将全数捐赠予“Make-A-Wish Singapore”与“SHINE
 Children and Youth Services”，助力有需要的儿童与青年实现梦想。南华家长支援组与校友会也动员了众多成员，共同为晚会增添光彩。众多校友专程返校，与师长同窗欢聚一堂，重温美好时光。</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/maf1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/maf2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/maf3.jpg">
+</div>
+<p></p>
