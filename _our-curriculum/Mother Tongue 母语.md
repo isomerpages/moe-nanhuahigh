@@ -82,6 +82,8 @@ description: ""
 <p><strong><em>南华中学热烈庆祝农历新年</em></strong>
 <br>
 </p>
+<h4><strong>南华中学齐庆中秋</strong></h4>
+<p></p>
 <p>南华中学于9月26日傍晚喜迎中秋佳节，全校师生与宾客齐聚一堂，共同欢庆以“花好人团圆，同心聚南华”为主题的晚会。大会主宾为我学校咨询委员会主席梁善源先生，他的莅临为晚会增添光彩。</p>
 <p>今年的中秋庆典中，最受瞩目的环节之一，莫过于The Arts Loft 《游艺阁》的开幕仪式。这个全新的多功能艺术空间坐落于图书馆内，名字取自《论语》中的名句：”志于道，据于德，依于仁，游于艺。”
 学生在仁德涵养的基础上，徜徉于艺术天地，正是“游于艺”的真义所在。这个理念赋予学生自由发挥的空间，让他们展示艺术作品与学习成果，使《游艺阁》不仅是展览平台，更是交流思想、激荡创意的园地。</p>
@@ -93,12 +95,17 @@ Children and Youth Services”，助力有需要的儿童与青年实现梦想�
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/maf1.jpg">
 </div>
-<p></p>
+<p><strong>南华校友返校与师长同窗齐庆中秋</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/maf2.jpg">
 </div>
+<p><strong>南华表演团体的精彩表演</strong>
+</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/maf3.jpg">
 </div>
-<p></p>
+<p><strong>The Arts Loft 《游艺阁》开幕仪式与“108个南华故事，一心传承”的主题展览</strong>
+</p>
