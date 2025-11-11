@@ -95,17 +95,17 @@ Children and Youth Services”，助力有需要的儿童与青年实现梦想�
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/maf1.jpg">
 </div>
-<p><strong>南华校友返校与师长同窗齐庆中秋</strong>
-</p>
-<div class="isomer-image-wrapper">
+<strong>南华校友返校与师长同窗齐庆中秋</strong>
+
+<p>
+</p><div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/maf2.jpg">
 </div>
-<p><strong>南华表演团体的精彩表演</strong>
-</p>
+<strong>南华表演团体的精彩表演</strong>
+
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/maf3.jpg">
 </div>
-<p><strong>The Arts Loft 《游艺阁》开幕仪式与“108个南华故事，一心传承”的主题展览</strong>
-</p>
+<strong>The Arts Loft 《游艺阁》开幕仪式与“108个南华故事，一心传承”的主题展览</strong>
