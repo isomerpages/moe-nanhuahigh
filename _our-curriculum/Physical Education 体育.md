@@ -95,10 +95,8 @@ a sense of community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/PE/Inter_level_football_competition.jpg">
 </div>
-<p>
-<br><strong><em>Inter-level football competition</em></strong>
+<p><strong><em>Inter-level football competition</em></strong>
 </p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/PE/Passing_the_baton.jpg">
