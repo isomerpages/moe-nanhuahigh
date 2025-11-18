@@ -27,6 +27,8 @@ sections:
         unforgettable Open House experience!
       alt: Image alt text
       image: /images/Homepage/Nan_Hua_High_School_Open_House_ecard.png
+      button: Details here
+      url: https://go.gov.sg/nhhsopen2025
   - infopic:
       title: Meraki 翱翔
       id: infopic
