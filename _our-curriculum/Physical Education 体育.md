@@ -53,8 +53,7 @@ members.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/PE/Staff_engaging__captain_s_ball.jpg">
 </div>
-<p>
-<br><strong><em>Staff engaging in a game of captain’s ball</em></strong>
+<p><strong><em>Staff engaging in a game of captain’s ball</em></strong>
 </p>
 <p>
 <br>
