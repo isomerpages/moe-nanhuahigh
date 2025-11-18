@@ -17,7 +17,10 @@ develop a well-rounded understanding of physical fitness as a lifelong
 pursuit.
 <br>
 </p>
-<p>Image1</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/PE/Working_together_as_a_team.jpg">
+</div>
 <p><strong><em>Working together as a team</em></strong>
 <br>
 </p>
@@ -31,7 +34,10 @@ such as sportsmanship, fair play, and respect in students. Activities are
 deliberately crafted for students to learn valuable life lessons such as
 accepting defeat graciously, celebrating victories humbly, and supporting
 teammates through adversity.</p>
-<p>Image2</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/PE/Students_cheering_on_their_teammates.jpg">
+</div>
 <p><strong><em>Students cheering on their teammates</em></strong>
 </p>
 <p>Proactive steps were also taken by the team to engage staff in adopting
@@ -43,7 +49,11 @@ the Sweat It Out! programme. These efforts fostered a culture of health,
 promoting not only physical well-being but also camaraderie among staff
 members.</p>
 <p></p>
-<p>Image3
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/PE/Staff_engaging__captain_s_ball.jpg">
+</div>
+<p>
 <br><strong><em>Staff engaging in a game of captain’s ball</em></strong>
 </p>
 <p>
@@ -59,7 +69,11 @@ personal goals. Beyond the physical aspect, the event promotes a sense
 of togetherness among students and staff as they also engage in a healthy
 picnic and a fun sports challenge as a fringe activity.</p>
 <p>
-<br>Image4</p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/PE/Ready_Get_Set_Go.jpg">
+</div>
 <p><strong><em>Ready, Get Set, Go!</em></strong>
 </p>
 <p>
@@ -78,11 +92,18 @@ adding to the electric atmosphere. The camaraderie and healthy competition
 fostered during the carnival promote not only physical fitness but also
 a sense of community.</p>
 <p></p>
-<p>Image5
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/PE/Inter_level_football_competition.jpg">
+</div>
+<p>
 <br><strong><em>Inter-level football competition</em></strong>
 </p>
 <p></p>
-<p>Image6</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/PE/Passing_the_baton.jpg">
+</div>
 <p><strong><em>Passing the baton</em></strong>
 </p>
 <p>
