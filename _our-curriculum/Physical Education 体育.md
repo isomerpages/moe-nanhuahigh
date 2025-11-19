@@ -55,11 +55,8 @@ members.</p>
 </div>
 <p><strong><em>Staff engaging in a game of captain’s ball</em></strong>
 </p>
-<p>
-<br>
-</p>
-<p><strong>Annual Road Run</strong>
-</p>
+<p></p>
+<h4><strong>Annual Road Run</strong></h4>
 <p>This event has become a cherished tradition that brings people together
 in a shared pursuit of health, challenge, and fun. Commonly held at West
 Coast Park, the event is more than just a race, as runners of various skill
@@ -67,19 +64,14 @@ levels lace up their running shoes to push their boundaries and achieve
 personal goals. Beyond the physical aspect, the event promotes a sense
 of togetherness among students and staff as they also engage in a healthy
 picnic and a fun sports challenge as a fringe activity.</p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/PE/Ready_Get_Set_Go.jpg">
 </div>
 <p><strong><em>Ready, Get Set, Go!</em></strong>
 </p>
-<p>
-<br>
-</p>
-<p><strong>Healthy Habits Sports Carnival</strong>
-</p>
+<p></p>
+<h4><strong>Healthy Habits Sports Carnival</strong></h4>
 <p>Held at the end of semester 1, the sports carnival is a vibrant spectacle
 that unites students in a celebration of athleticism and teamwork. Bursting
 with colour and energy, a variety of activities were offered with students
