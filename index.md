@@ -70,6 +70,6 @@ sections:
   - infopic:
       title: 2026 Secondary 1 Posting
       id: infopic
-      description: Coming Soon !
+      description: Details coming soon !
       alt: Image alt text
 ---
