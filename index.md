@@ -67,4 +67,9 @@ sections:
       alt: Image alt text
       url: /about-us/vision-mission-values/
       button: our values
+  - infopic:
+      title: 2026 Secondary 1 Posting
+      id: infopic
+      description: Coming Soon !
+      alt: Image alt text
 ---
