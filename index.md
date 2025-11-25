@@ -21,6 +21,12 @@ sections:
       background: /images/Speech_Day_Banner_Compressed___Resized.png
       variant: center
   - infopic:
+      title: 2026 Secondary 1 Posting
+      id: infopic
+      description: Details coming soon !
+      alt: Image alt text
+      image: /images/new__Announcement_for_Sec_1_Registration__Dec_2025_.jpg
+  - infopic:
       title: Nan Hua High School Open House 2025
       id: infopic
       description: Don't let this date slip by - join us on 22 November for an
