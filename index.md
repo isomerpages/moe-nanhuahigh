@@ -73,4 +73,10 @@ sections:
       alt: Image alt text
       url: /about-us/vision-mission-values/
       button: our values
+  - infopic:
+      title: School Operating Hours Notice
+      id: infopic
+      description: Dear Visitors,  please note that the school will be operating until
+        1.00 pm on Wednesday, 10 December 2025. Thank you.
+      alt: Image alt text
 ---
