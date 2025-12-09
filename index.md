@@ -79,4 +79,5 @@ sections:
       description: Dear Visitors,  please note that the school will be operating until
         1.00 pm on Wednesday, 10 December 2025. Thank you.
       alt: Image alt text
+      image: /images/10Dec_Op_hours.jpg
 ---
