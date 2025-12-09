@@ -21,6 +21,13 @@ sections:
       background: /images/Speech_Day_Banner_Compressed___Resized.png
       variant: center
   - infopic:
+      title: School Operating Hours Notice
+      id: infopic
+      description: Dear Visitors,  please note that the school will be operating until
+        1.00 pm on Wednesday, 10 December 2025. Thank you.
+      alt: Image alt text
+      image: /images/10Dec_Op_hours.jpg
+  - infopic:
       title: 2026 Secondary 1 Posting
       id: infopic
       description: Details coming soon !
@@ -73,11 +80,4 @@ sections:
       alt: Image alt text
       url: /about-us/vision-mission-values/
       button: our values
-  - infopic:
-      title: School Operating Hours Notice
-      id: infopic
-      description: Dear Visitors,  please note that the school will be operating until
-        1.00 pm on Wednesday, 10 December 2025. Thank you.
-      alt: Image alt text
-      image: /images/10Dec_Op_hours.jpg
 ---
