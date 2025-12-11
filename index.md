@@ -27,13 +27,6 @@ sections:
       alt: Image alt text
       image: /images/new__Announcement_for_Sec_1_Registration__Dec_2025_.jpg
   - infopic:
-      title: Temporary Phone Line Disruption
-      id: infopic
-      description: We apologise for any inconvenience caused. For urgent matters
-        during this period, please contact us via email at nhhs@moe.edu.sg
-      image: /images/Phone_line_disruption.jpg
-      alt: Image alt text
-  - infopic:
       title: Nan Hua High School Open House 2025
       id: infopic
       description: Don't let this date slip by - join us on 22 November for an
