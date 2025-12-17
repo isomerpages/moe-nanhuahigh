@@ -20,10 +20,10 @@ the Singapore Student Learning Space (“SLS”) – as well as other educationa
 technology to personalise and enhance students’ learning. This will also
 enable students to acquire digital skills and apply these skills as they
 navigate an increasingly digitalised world.</p>
-<p>Students who wish to use their existing iPads must ensure that it meets
-the compatibility list found here:</p>
-<p><a href="/files/NH_Compatible_iPad_List___2025_docx.pdf" rel="noopener nofollow" target="_blank">Compatible iPad List 2025</a>
-</p>
+<p>Students who wish to use their existing iPad must bring their device to
+the school to be assess its compatibility and be installed with DMA before
+it could be used as their PLD.</p>
+<p></p>
 <h2>Information for Students</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -158,7 +158,7 @@ the compatibility list found here:</p>
 <p>PDLP Briefing Slides</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pldparentbriefing" rel="noopener nofollow" target="_blank">2025 PLD Briefing Slides</a>
+<p><a href="https://go.gov.sg/pldparentbriefing" rel="noopener nofollow" target="_blank">2026 PLD Briefing Slides</a>
 </p>
 </td>
 </tr>
@@ -176,8 +176,7 @@ the compatibility list found here:</p>
 <p>Parent Handbooks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PDLP/Parent_Handbook__I__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent </a>
-<a href="/files/Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Handbook I (2025)</a>
+<p><a href="/files/Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook I 2026</a>
 </p>
 </td>
 </tr>
@@ -186,8 +185,7 @@ the compatibility list found here:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook II (2025</a>
-<a href="/files/PDLP/Parent_Handbook__II__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">)</a>
+<p><a href="/files/Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook II 2026</a>
 </p>
 </td>
 </tr>
