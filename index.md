@@ -23,9 +23,13 @@ sections:
   - infopic:
       title: 2026 Secondary 1 Posting
       id: infopic
-      description: Details coming soon !
+      description: We warmly welcome our new Secondary 1 students and parents. You can
+        find useful information in the link pertaining to the posting to Nan Hua
+        High School.
       alt: Image alt text
-      image: /images/new__Announcement_for_Sec_1_Registration__Dec_2025_.jpg
+      image: /images/Announcement_for_Sec_1_Registration_Live.jpg
+      url: https://go.gov.sg/nhhssec1posting
+      button: Details Here
   - infopic:
       title: Nan Hua High School Open House 2025
       id: infopic
