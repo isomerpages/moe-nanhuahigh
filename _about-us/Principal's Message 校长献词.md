@@ -55,10 +55,13 @@ learning for our inner cultivation, so that we may lead with courage, compassion
 and humility towards a better society in our outward contribution.</p>
 <p>As a school, we strive to achieve this vision through our mission, to
 nurture:</p>
-<p><strong><em>Bicultural Nanhuarians who are <br>Confident, Compassionate, and Culturally Versatile, <br>with a Passion for Life.</em></strong>
-</p>
+<p>
+	</p><center>
+	<strong><em>Bicultural Nanhuarians who are <br>Confident, Compassionate, and Culturally Versatile, <br>with a Passion for Life.</em></strong>
+<p></p>
 <p><strong>有信心、有仁爱精神、具备跨文化素养，<br>并对生活充满热忱的南华双文化君子</strong>
-</p>
+</p></center>
+
 <p>We believe that each Nanhuarian must develop a passion not just for learning
 but for life, and be able to:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Embrace the cultural strengths of
