@@ -97,8 +97,7 @@ affection of our Nanhuarians for the Nan Hua that they love, even after
 stepping out of our&nbsp;礼义之门&nbsp;in graduation, is a powerful testament
 to the impact of Nan Hua in their lives. As Nanhuarians, our passion must
 enrich lives beyond our own, and our impact must likewise reach beyond
-our school. With our passion as a community, let us illuminate the path
-for. When we shine our light, we live out our passion and purpose – our
+our school. When we shine our light, we live out our passion and purpose – our
 light can be an encouragement to unite our society in collective action,
 just as it can also bring new hope into the lives of those in our society
 who need it the most.</p>
