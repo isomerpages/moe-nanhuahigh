@@ -77,7 +77,7 @@ with purpose, make connections for growth&nbsp;<em>and</em>&nbsp;innovation,
 and strive for excellence with a healthy sense of balance and buoyancy
 in life.</p>
 <p><strong>Our School Theme for 2026</strong>
-<br>Last year, our school theme of <strong>Strength in Identity, Passion in Community </strong>–<strong> 南华同心，众彩生辉 </strong>encouraged
+<br>Last year, our school theme of <strong>Strength in Identity, Passion in Community </strong> – <strong> 南华同心，众彩生辉 </strong>encouraged
 all Nanhuarians to draw strength from our bicultural Nan Hua identity,
 to grow in confidence, compassion, and cultural versatility, and harness
 our collective passion as a Nan Hua community to give back to our society.</p>
