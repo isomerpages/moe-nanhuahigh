@@ -9,12 +9,8 @@ variant: markdown
 </div>
 <p><strong>Mr Chiew Jing Wen, Principal</strong>
 </p>
-<p>A very warm greeting to all students and parents in our Nan Hua Family.
-As the 25th Principal of Nan Hua High School, I am extremely proud of our
-vibrant Nan Hua community, which characterises our love for learning, our
-compassion for all, and our zest for life as Nanhuarians. I am confident
-that our new Sec 1 students will also find in Nan Hua High School a nest
-where you can learn and grow.</p>
+<p>A very warm greeting to all students and parents in our Nan Hua Family. As the 25th Principal of Nan Hua High School, I am extremely proud of our vibrant Nan Hua community, which characterises our love for learning, our compassion for all, and our zest for life as Nanhuarians. I am confident that our new Sec 1 students will also find in Nan Hua High School a nest where you can learn and grow.</p>
+
 <p><strong>An Institution of Bicultural Learning</strong>
 <br>As a centenary institution founded in 1917 through a philanthropic spirit
 to champion a better society for all, Nan Hua has grown from strength to
@@ -48,8 +44,8 @@ School reflects the voices, hopes, and aspirations of our staff, our students,
 and our key stakeholders – to honour our Nan Hua identity, to encourage
 every Nanhuarian heartbeat, and to connect us as one Nan Hua community
 of:</p>
-<p><strong>Curious Learners . Cultured Scholars . Courageous Leaders<br>乐学善思 | 文质彬彬 | 当仁不让</strong>
-</p>
+<p></p><center><strong>Curious Learners . Cultured Scholars . Courageous Leaders<br>乐学善思 | 文质彬彬 | 当仁不让</strong></center>
+<p></p>
 <p>who embrace tradition and embody the spirit of <em>Junzi</em> (君子) in pursuing
 learning for our inner cultivation, so that we may lead with courage, compassion,
 and humility towards a better society in our outward contribution.</p>
