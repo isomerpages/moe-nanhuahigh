@@ -31,22 +31,6 @@ sections:
       url: https://go.gov.sg/nhhssec1posting
       button: Details Here
   - infopic:
-      title: Temporary Phone Line Disruption
-      id: infopic
-      description: For urgent matters on 26 and 29 December, kindly call 9005-3883.
-        Thank you.
-      image: /images/Phone_line_disruption.jpg
-      alt: Image alt text
-  - infopic:
-      title: Nan Hua High School Open House 2025
-      id: infopic
-      description: Don't let this date slip by - join us on 22 November for an
-        unforgettable Open House experience!
-      alt: Image alt text
-      image: /images/Homepage/Nan_Hua_High_School_Open_House_ecard.png
-      button: Details here
-      url: https://go.gov.sg/nhhsopen2025
-  - infopic:
       title: Meraki 翱翔
       id: infopic
       description: Find out more about our online bicultural literary magazine Meraki 翱翔.
