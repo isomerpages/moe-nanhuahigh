@@ -4,6 +4,56 @@ permalink: /our-people/school-management-committee/
 description: ""
 variant: tiptap
 ---
+<h2>School Leaders</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chiew Jing Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Jia Ming Jasmine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loo Jiaming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Kok Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal (Admin)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h2>School Management Committee Members</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -18,42 +68,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Mr Chiew Jing Wen</strong>
-</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Principal</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Ms Tay Jia Ming Jasmine</strong>
-</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Vice Principal 1</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Mr Loo Jiaming</strong>
-</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Vice Principal 2</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Mr Ng Kok Heng</strong>
-</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Vice Principal (Admin)</p>
 </td>
 </tr>
 <tr>
