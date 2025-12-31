@@ -275,7 +275,7 @@ variant: tiptap
 <p>Mr Lim Chee Koon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Character and Citizenship Education (Internal)</p>
+<p>Subject Head Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>
