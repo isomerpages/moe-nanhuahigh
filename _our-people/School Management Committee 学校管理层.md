@@ -226,14 +226,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Daren Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Ong Shan Shan</p>
 </td>
 <td rowspan="1" colspan="1">
