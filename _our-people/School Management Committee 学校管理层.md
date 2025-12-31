@@ -4,10 +4,6 @@ permalink: /our-people/school-management-committee/
 description: ""
 variant: tiptap
 ---
-<h2>Our School Leaders</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/OrganisationChart_SLs_2025_V4.png">
-</div>
 <h2>School Management Committee Members</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -26,7 +22,8 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Mr Chiew Jing Wen</p>
+<p><strong>Mr Chiew Jing Wen</strong>
+</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -34,7 +31,8 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Ms Tay Jia Ming Jasmine</p>
+<p><strong>Ms Tay Jia Ming Jasmine</strong>
+</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Vice Principal 1</p>
@@ -42,7 +40,8 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Mr Loo Jiaming</p>
+<p><strong>Mr Loo Jiaming</strong>
+</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Vice Principal 2</p>
@@ -50,7 +49,8 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Mr Ng Kok Heng</p>
+<p><strong>Mr Ng Kok Heng</strong>
+</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Vice Principal (Admin)</p>
