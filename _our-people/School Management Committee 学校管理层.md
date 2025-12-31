@@ -25,6 +25,38 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Mr Chiew Jing Wen</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Ms Tay Jia Ming Jasmine</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Vice Principal 1</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mr Loo Jiaming</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Vice Principal 2</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mr Ng Kok Heng</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Vice Principal (Admin)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Seow Joo Chuan</p>
 </td>
