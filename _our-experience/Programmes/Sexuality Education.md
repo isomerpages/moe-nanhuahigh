@@ -88,12 +88,11 @@ which are of prime concern at this age.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec1_3.jpg">
 </div>
 <p>Secondary 2 Lessons (Respectful Relationships &amp; Safety)</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_role_for_everyone.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_online_safe.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_do_i_dont.jpg">
