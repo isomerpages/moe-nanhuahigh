@@ -197,14 +197,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muhammad Amirul Bin Safiee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Koh Lian Choo Aileen</p>
 </td>
 <td rowspan="1" colspan="1">
