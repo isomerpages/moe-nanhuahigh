@@ -88,24 +88,26 @@ which are of prime concern at this age.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec1_3.jpg">
 </div>
 <p>Secondary 2 Lessons (Respectful Relationships &amp; Safety)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_role_for_everyone.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_do_i_dont.jpg">
 </div>
 <p>Secondary 3 Lessons (Respectful Relationships &amp; Safety)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec3_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec3_love_yourself_others.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec3_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec3_broken_heart.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec3_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec3_repect_centre.jpg">
 </div>
 <p>Secondary 4 Lessons (Respectful Relationships &amp; Safety)</p>
 <div class="isomer-image-wrapper">
