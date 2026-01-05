@@ -40,7 +40,7 @@ best protection against STIs/HIV and unintended pregnancies. Casual sex
 can harm and hurt you and your loved ones.</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<h2>Overview of Nan Hua High School's Sexuality Education Programme for 2025</h2>
+<h2>Overview of Nan Hua High School's Sexuality Education Programme for 2026</h2>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum.&nbsp;The content for
 Sexuality Education is grouped into five main themes: Human Development,
