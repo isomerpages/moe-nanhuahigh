@@ -74,7 +74,7 @@ self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <h2>Lesson Overview</h2>
-<p><strong>At Nan Hua High School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Nan Hua High School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <p></p>
 <p>Secondary 1 Lessons (Respectful Relationships &amp; Safety)</p>
@@ -202,13 +202,11 @@ lessons,&nbsp;<em>eTeens</em>&nbsp;and/or supplementary sexuality education
 programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp; Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also accessible <a href="/files/Sexuality Education/Annex_A___Opt_out_Form_for_Sexuality_Education_Programme_2025.pdf" rel="noopener nofollow" target="_blank">he</a>
-<a href="/files/Sexuality Education/2026_Annex_A___Opt_out_Form_for_Sexuality_Education_Programme.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Sexuality Education/Annex_A___Opt_out_Form_for_Sexuality_Education_Programme_2025.pdf" rel="noopener nofollow" target="_blank">re</a>.
+at the start of the year and is also accessible <a href="/files/Sexuality Education/2026_Annex_A___Opt_out_Form_for_Sexuality_Education_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 27/02/2026.</p>
 <p>12.&nbsp;&nbsp; Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also accessible <a href="/files/Sexuality Education/Annex_B___Opt_out_Form_for_eTeens_for_Secondary_Schools_2025.pdf" rel="noopener nofollow" target="_blank">h</a>
-<a href="/files/Sexuality Education/2026_Annex_B___Opt_out_Form_for_eTeens_for_Secondary_Schools.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Sexuality Education/Annex_B___Opt_out_Form_for_eTeens_for_Secondary_Schools_2025.pdf" rel="noopener nofollow" target="_blank">ere</a>.
+at the start of the year and is also accessible <a href="/files/Sexuality Education/2026_Annex_B___Opt_out_Form_for_eTeens_for_Secondary_Schools.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 27/02/2026.</p>
 <p>13.&nbsp;&nbsp; Parents can contact the school at 67788303 or&nbsp;
 <a href="mailto:nhhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nhhs@moe.edu.sg</a>&nbsp;for discussion or to seek clarification about
