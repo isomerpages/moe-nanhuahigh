@@ -4,10 +4,56 @@ permalink: /our-people/school-management-committee/
 description: ""
 variant: tiptap
 ---
-<h2>Our School Leaders</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/OrganisationChart_SLs_2025_V4.png">
-</div>
+<h2>School Leaders</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chiew Jing Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Jia Ming Jasmine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loo Jiaming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Kok Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal (Admin)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h2>School Management Committee Members</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -54,6 +100,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department English Language &amp; Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Nasser Jaafar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department Humanities</p>
 </td>
 </tr>
 <tr>
@@ -194,18 +248,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Daren Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Ong Shan Shan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head EdTech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ervine Quek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Geography</p>
 </td>
 </tr>
 <tr>
@@ -237,7 +291,7 @@ variant: tiptap
 <p>Mr Lim Chee Koon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Character and Citizenship Education (Internal)</p>
+<p>Subject Head Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>

@@ -40,7 +40,7 @@ best protection against STIs/HIV and unintended pregnancies. Casual sex
 can harm and hurt you and your loved ones.</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<h2>Overview of Nan Hua High School's Sexuality Education Programme for 2025</h2>
+<h2>Overview of Nan Hua High School's Sexuality Education Programme for 2026</h2>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum.&nbsp;The content for
 Sexuality Education is grouped into five main themes: Human Development,
@@ -74,7 +74,7 @@ self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <h2>Lesson Overview</h2>
-<p><strong>At Nan Hua High School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Nan Hua High School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <p></p>
 <p>Secondary 1 Lessons (Respectful Relationships &amp; Safety)</p>
@@ -89,23 +89,24 @@ which are of prime concern at this age.</p>
 </div>
 <p>Secondary 2 Lessons (Respectful Relationships &amp; Safety)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_role_for_everyone.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_online_safe.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec2_do_i_dont.jpg">
 </div>
 <p>Secondary 3 Lessons (Respectful Relationships &amp; Safety)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec3_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec3_love_yourself_others.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec3_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec3_broken_heart.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec3_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec3_repect_centre.jpg">
 </div>
 <p>Secondary 4 Lessons (Respectful Relationships &amp; Safety)</p>
 <div class="isomer-image-wrapper">
@@ -121,20 +122,23 @@ which are of prime concern at this age.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec4_4.jpg">
 </div>
 <h2>eTeens Programme</h2>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;eTeens is a programme developed
-by Health Promotion Board, in collaboration with the Ministry of Education,
-to provide Secondary 3 students with accurate information on STIs, HIV
-and protection from a health perspective. eTeens is conducted in two segments
-– a mass talk segment and a classroom-based programme. The desired outcome
-of the eTeens programme is that students are empowered to make wise, informed
-and sensible decisions.</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;eTeens is a programme that
+was developed by Health Promotion Board, in collaboration with the Ministry
+of Education, to provide Secondary 3 students with accurate information
+on STIs, HIV and protection from a health perspective. With the formation
+of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme
+would now be managed by CDA’s Training and Education Division instead of
+HPB. eTeens is conducted in two segments – a mass talk segment and a classroom-based
+programme. The desired outcome of the eTeens programme is that students
+are empowered to make wise, informed and sensible decisions to protect
+themselves from sexually transmitted infectious diseases.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
 as decision-making, assertiveness and negotiation to say “no” to sex and
 negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
-<p><strong>At Nan Hua High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
+<p><strong>At Nan Hua High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -163,13 +167,18 @@ are the key messages.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raise awareness and provide knowledge on:</p>
-<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
-to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact&nbsp;</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)&nbsp;</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6&nbsp;&nbsp;&nbsp;</p>
+<p>Term 3 Week 8&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +190,7 @@ and consistent condom use).</p>
 of assertiveness and responsible decision-making&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Term 3 Week 9&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -192,12 +201,12 @@ lessons,&nbsp;<em>eTeens</em>&nbsp;and/or supplementary sexuality education
 programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp; Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also accessible <a href="/files/Sexuality Education/Annex_A___Opt_out_Form_for_Sexuality_Education_Programme_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 07/02/2025.</p>
+at the start of the year and is also accessible <a href="/files/Sexuality Education/2026_Annex_A___Opt_out_Form_for_Sexuality_Education_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 27/02/2026.</p>
 <p>12.&nbsp;&nbsp; Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also accessible <a href="/files/Sexuality Education/Annex_B___Opt_out_Form_for_eTeens_for_Secondary_Schools_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 07/02/2025.</p>
+at the start of the year and is also accessible <a href="/files/Sexuality Education/2026_Annex_B___Opt_out_Form_for_eTeens_for_Secondary_Schools.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 27/02/2026.</p>
 <p>13.&nbsp;&nbsp; Parents can contact the school at 67788303 or&nbsp;
 <a href="mailto:nhhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nhhs@moe.edu.sg</a>&nbsp;for discussion or to seek clarification about
 the school’s Sexuality Education programme.</p>
