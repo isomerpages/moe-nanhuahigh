@@ -121,20 +121,23 @@ which are of prime concern at this age.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Experience/Sexuality Education/Sec4_4.jpg">
 </div>
 <h2>eTeens Programme</h2>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;eTeens is a programme developed
-by Health Promotion Board, in collaboration with the Ministry of Education,
-to provide Secondary 3 students with accurate information on STIs, HIV
-and protection from a health perspective. eTeens is conducted in two segments
-– a mass talk segment and a classroom-based programme. The desired outcome
-of the eTeens programme is that students are empowered to make wise, informed
-and sensible decisions.</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;eTeens is a programme that
+was developed by Health Promotion Board, in collaboration with the Ministry
+of Education, to provide Secondary 3 students with accurate information
+on STIs, HIV and protection from a health perspective. With the formation
+of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme
+would now be managed by CDA’s Training and Education Division instead of
+HPB. eTeens is conducted in two segments – a mass talk segment and a classroom-based
+programme. The desired outcome of the eTeens programme is that students
+are empowered to make wise, informed and sensible decisions to protect
+themselves from sexually transmitted infectious diseases.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
 as decision-making, assertiveness and negotiation to say “no” to sex and
 negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
-<p><strong>At Nan Hua High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
+<p><strong>At Nan Hua High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -163,10 +166,15 @@ are the key messages.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raise awareness and provide knowledge on:</p>
-<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
-to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact&nbsp;</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)&nbsp;</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 6&nbsp;&nbsp;&nbsp;</p>
