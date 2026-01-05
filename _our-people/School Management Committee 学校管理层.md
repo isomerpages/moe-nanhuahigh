@@ -104,6 +104,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Nasser Jaafar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department Humanities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Tan Hwee Theng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -244,6 +252,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head EdTech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ervine Quek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Geography</p>
 </td>
 </tr>
 <tr>
