@@ -58,7 +58,7 @@ it could be used as their PLD.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Student_Device_Information_Kit_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit 2025</a>
+<p><a href="/files/Student_Device_Information_Kit_2026.pdf" rel="noopener nofollow" target="_blank">Student Device Information Kit 2026</a>
 </p>
 </td>
 </tr>
