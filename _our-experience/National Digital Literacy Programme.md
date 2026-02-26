@@ -56,9 +56,23 @@ it could be used as their PLD.</p>
 <p>Information on school ICT support</p>
 </li>
 </ul>
+<p></p>
+<p>Acceptable Use Policy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Student_Device_Information_Kit_2026.pdf" rel="noopener nofollow" target="_blank">Student Device Information Kit 2026</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="/files/AUP_handbook_2026_docx.pdf" rel="noopener nofollow" target="_blank">Acceptable Use Policy for Students</a>
 </p>
 </td>
 </tr>
