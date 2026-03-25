@@ -18,7 +18,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
-      background: /images/Speech_Day_Banner_Compressed___Resized.png
+      background: /images/2026_Banner_4_march_Final_4000x1500.jpg
       variant: center
   - infopic:
       title: 2026 Secondary 1 Posting
