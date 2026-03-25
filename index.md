@@ -21,16 +21,6 @@ sections:
       background: /images/2026_Banner_1500x4000_v2.jpg
       variant: center
   - infopic:
-      title: 2026 Secondary 1 Posting
-      id: infopic
-      description: We warmly welcome our new Secondary 1 students and parents. You can
-        find useful information in the link pertaining to the posting to Nan Hua
-        High School.
-      alt: Image alt text
-      image: /images/Announcement_for_Sec_1_Registration_Live.jpg
-      url: https://go.gov.sg/nhhssec1posting
-      button: Details Here
-  - infopic:
       title: Meraki 翱翔
       id: infopic
       description: Find out more about our online bicultural literary magazine Meraki 翱翔.
@@ -38,15 +28,6 @@ sections:
       url: /meraki-online-bicultural-literary-magazine/
       image: /images/Meraki_Website_Image.jpg
       alt: Image alt text
-  - infopic:
-      title: 2025 Direct School Admission
-      id: infopic
-      description: Find out more about our Direct School Admission (DSA) Exercise for
-        admission to Secondary 1 in 2026
-      button: Details here
-      url: /our-experience/programmes/direct-school-admission-dsa/
-      alt: Image alt text
-      image: /images/nhhs_dsa_2025.jpg
   - infopic:
       title: Vision
       description: Curious Learners | Cultured Scholars | Courageous Leaders<br>乐学善思 |
