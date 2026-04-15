@@ -70,7 +70,7 @@ will be admitting students who possess special talents in one of the following:<
 <p>Table Tennis</p>
 </li>
 <li>
-<p>Track &amp; Field</p>
+<p>Cross Country</p>
 </li>
 </ul>
 <h4><strong>Language and Humanities</strong></h4>
