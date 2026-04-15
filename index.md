@@ -21,10 +21,11 @@ sections:
       background: /images/2026_Banner_1500x4000_v2.jpg
       variant: center
   - infopic:
-      title: 2026 Direct School Admission
+      title: 2026 Direct School Admission for Secondary Schools (DSA-Sec)
       subtitle: Add an image and text
       id: infopic
-      description: Find out more about our 2026 Direct School Admission (DSA)
+      description: Selection of students for the 2026 DSA exercise will take place
+        from 29 June – 14 August
       button: Details Here
       url: /our-experience/programmes/direct-school-admission-dsa/
       image: /images/nhhs_dsa_2025.jpg
