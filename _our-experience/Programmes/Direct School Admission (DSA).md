@@ -5,19 +5,19 @@ description: ""
 third_nav_title: Programmes
 variant: tiptap
 ---
-<h1><strong>2025 Direct School Admission – Secondary (DSA-SEC)</strong></h1>
-<h1><strong>[For admission to Secondary 1 in 2026]</strong></h1>
+<h1><strong>2026 Direct School Admission – Secondary (DSA-SEC)</strong></h1>
+<h1><strong>[For admission to Secondary 1 in 2027]</strong></h1>
 <h3><strong>Introduction</strong></h3>
 <p>Nan Hua High School is an Autonomous Special Assistance Plan (SAP) school.
-Our vision is for us to grow as a community of Curious Learners, Cultured
-Scholars and Courageous Leaders who embrace tradition and embody the spirit
-of Junzi (君子) in pursuing learning for our inner cultivation, so that we
-may lead with courage, compassion, and humility in our outward contribution
-in championing a better society. As a school, we strive to achieve this
-vision through our mission, to nurture Bicultural Nanhuarians who are Confident,
-Compassionate and Culturally Versatile with a Passion for Life</p>
+Our vision is for us to grow as a community of <em>Curious Learners</em><strong>, </strong><em>Cultured Scholars</em> and <em>Courageous Leaders</em> who
+embrace tradition and embody the spirit of Junzi (君子) in pursuing learning
+for our inner cultivation, so that we may lead with courage, compassion,
+and humility in our outward contribution in championing a better society.
+As a school, we strive to achieve this vision through our mission, to nurture
+Bicultural Nanhuarians who are&nbsp;<em>Confident</em>,&nbsp;<em>Compassionate</em>&nbsp;and&nbsp;<em>Culturally Versatile</em>&nbsp;with
+a Passion for Life.</p>
 <h3><strong>Overview</strong></h3>
-<p>In the 2025 Direct School Admission (DSA) Exercise, Nan Hua High School
+<p>In the 2026 Direct School Admission (DSA) Exercise, Nan Hua High School
 will be admitting students who possess special talents in one of the following:</p>
 <h4><strong>Performing Arts</strong></h4>
 <ul data-tight="true" class="tight">
@@ -70,7 +70,7 @@ will be admitting students who possess special talents in one of the following:<
 <p>Table Tennis</p>
 </li>
 <li>
-<p>Track &amp; Field</p>
+<p>Cross Country</p>
 </li>
 </ul>
 <h4><strong>Language and Humanities</strong></h4>
@@ -83,8 +83,8 @@ will be admitting students who possess special talents in one of the following:<
 <h3><strong>Selection Process</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Selection of students for the 2025 DSA exercise will take place from 30
-June – 4 September.</p>
+<p>Selection of students for the 2026 DSA exercise will take place from 29
+June – 14 August.</p>
 </li>
 <li>
 <p>In addition to meeting the criteria for DSA talent area, applicants must
@@ -93,8 +93,11 @@ subject. Applicants must also be posted to secondary schools through Posting
 Group 3 (G3).</p>
 </li>
 <li>
-<p><strong><u>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</u></strong>
-</p>
+<p>Applicants will receive notification from the school via email by end-July
+2026, if they are shortlisted for the DSA selection process.&nbsp; Please
+note that meeting all the criteria does not guarantee the student will
+be shortlisted/given an offer. Due to different profiles of applicants,
+selection/shortlisting trends may differ year on year.</p>
 </li>
 <li>
 <p>Shortlisted applicants will be required to undergo selection trials, auditions
@@ -245,8 +248,9 @@ leadership platforms.</p>
 </li>
 <li>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2025 to 3
-June 2025. For more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+The application is free-of-charge and will be open from 6 May 2026, 11
+am to 2 June 2026, 4.30pm. For more details, please refer to MOE website
+– <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 </li>
 <li>
 <p>Students who are successfully admitted to the school via DSA are expected

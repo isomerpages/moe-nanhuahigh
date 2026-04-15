@@ -21,6 +21,15 @@ sections:
       background: /images/2026_Banner_1500x4000_v2.jpg
       variant: center
   - infopic:
+      title: 2026 Direct School Admission for Secondary Schools (DSA-Sec)
+      id: infopic
+      description: Selection of students for the 2026 DSA exercise will take place
+        from 29 June – 14 August
+      button: Details Here
+      url: /our-experience/programmes/direct-school-admission-dsa/
+      image: /images/nhhs_dsa_2025.jpg
+      alt: Image alt text
+  - infopic:
       title: Meraki 翱翔
       id: infopic
       description: Find out more about our online bicultural literary magazine Meraki 翱翔.
