@@ -79,7 +79,12 @@ will be admitting students who possess special talents in one of the following:<
 <p>Debating</p>
 </li>
 </ul>
-<h4><strong>Leadership</strong></h4>
+<h4><strong>Leadership and Uniformed Groups</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Leadership</p>
+</li>
+</ul>
 <h3><strong>Selection Process</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
@@ -140,7 +145,8 @@ performances or competitions</p>
 <br>Ø&nbsp; Brass Instruments - Cornet, Trumpet, Horn, Euphonium, Trombone,
 Tuba
 <br>Ø&nbsp; Woodwinds Instruments - Oboe, Flute, Clarinets, Saxophones
-<br>Ø&nbsp; Percussion Instruments - Tuned and Untuned</p>
+<br>Ø&nbsp; Percussion Instruments - Tuned and Untuned
+<br>Ø&nbsp; String Instruments- Double Bass</p>
 </li>
 </ul>
 <h5><strong>All Other Performing Arts</strong></h5>
