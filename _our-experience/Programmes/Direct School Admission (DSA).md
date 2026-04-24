@@ -145,7 +145,8 @@ performances or competitions</p>
 <br>Ø&nbsp; Brass Instruments - Cornet, Trumpet, Horn, Euphonium, Trombone,
 Tuba
 <br>Ø&nbsp; Woodwinds Instruments - Oboe, Flute, Clarinets, Saxophones
-<br>Ø&nbsp; Percussion Instruments - Tuned and Untuned</p>
+<br>Ø&nbsp; Percussion Instruments - Tuned and Untuned
+<br>Ø&nbsp; String Instruments- Double Bass</p>
 </li>
 </ul>
 <h5><strong>All Other Performing Arts</strong></h5>
