@@ -79,7 +79,12 @@ will be admitting students who possess special talents in one of the following:<
 <p>Debating</p>
 </li>
 </ul>
-<h4><strong>Leadership</strong></h4>
+<h4><strong>Leadership and Uniformed Groups</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Leadership</p>
+</li>
+</ul>
 <h3><strong>Selection Process</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
