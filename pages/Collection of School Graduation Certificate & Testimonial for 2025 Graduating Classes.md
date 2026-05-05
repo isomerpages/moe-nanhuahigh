@@ -18,6 +18,9 @@ Students may collect their portfolio from the General Office from <strong>11 May
 Alternatively, you may wish to scan the QR code below.
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Collection_2026b.jpg">
+</div>
 </li>
 <li>
 <p>Please bring along your identity card/student concession card for verification
