@@ -28,6 +28,7 @@ sections:
       button: Details Here
       url: /announcements/collection-2025-graduating-classes/
       alt: Image alt text
+      image: /images/Collection_2026.png
   - infopic:
       title: 2026 Direct School Admission for Secondary Schools (DSA-Sec)
       id: infopic
