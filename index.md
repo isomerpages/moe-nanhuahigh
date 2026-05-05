@@ -24,7 +24,7 @@ sections:
       title: 2025 Graduating Classes Graduation Certificate & Testimonial
       id: infopic
       description: Collection from 11 May 2026 to 12 June 2026 from 9.30am to 5.30pm
-        (Mondays – Fridays).
+        (Mondays – Fridays). Booking of time slot is required.
       button: Details Here
       url: /announcements/collection-2025-graduating-classes/
       alt: Image alt text
