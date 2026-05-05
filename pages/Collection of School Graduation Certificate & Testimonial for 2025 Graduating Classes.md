@@ -18,24 +18,19 @@ Students may collect their portfolio from the General Office from <strong>11 May
 Alternatively, you may wish to scan the QR code below.
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/qrcode_collection.png">
-</div>
 </li>
-</ol>
-<p></p>
-<ol>
 <li>
 <p>Please bring along your identity card/student concession card for verification
 during the collection. Proper and appropriate attire is required. Slippers,
-singlets, torn jeans and immodest attire are not allowed.
-<br>
-</p>
+singlets, torn jeans and immodest attire are not allowed.</p>
 </li>
 <li>
 <p>Parents who are collecting on behalf of your child, please bring along
 your own identity card and your child’s identity card/student concession
 or passport.</p>
+<p>
+<br>
+</p>
 </li>
 </ol>
 <p></p>
