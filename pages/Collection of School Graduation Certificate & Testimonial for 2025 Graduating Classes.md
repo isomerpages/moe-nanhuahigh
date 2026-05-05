@@ -19,7 +19,7 @@ Alternatively, you may wish to scan the QR code below.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Collection_2026b.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Collection_2026b.jpg">
 </div>
 </li>
 <li>
