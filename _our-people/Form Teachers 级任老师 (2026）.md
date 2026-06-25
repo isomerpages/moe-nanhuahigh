@@ -64,7 +64,7 @@ variant: tiptap
 <p>Mr Raymond Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Teo Xin Yi&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ variant: tiptap
 <p>Mrs Tong Hwai Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Kang Leng&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ variant: tiptap
 <p>Ms Foong Wei Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Mdm Claudia Foo&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ variant: tiptap
 <p>Ms Genevieve Thong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Chee Koon</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ variant: tiptap
 <p>Ms Teo Qi Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Mr Anam&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -170,10 +170,10 @@ variant: tiptap
 <p>204</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Cheng Kian Hua</p>
+<p>Ms Chen Shuhui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Shuhui</p>
+<p>Mr Lim Chee Koon</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +184,7 @@ variant: tiptap
 <p>Mr Andrew Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maimoon&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -257,10 +257,10 @@ variant: tiptap
 <p>302</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Han Hui Yi&nbsp;</p>
+<p>Mr Lee Junyi&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Junyi&nbsp;</p>
+<p>Mdm Ong Shanshan</p>
 </td>
 </tr>
 <tr>
@@ -293,7 +293,7 @@ variant: tiptap
 <p>Mr Kevin Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Isabel Lee&nbsp;</p>
 </td>
 </tr>
 <tr>
