@@ -25,7 +25,7 @@ sections:
       id: infopic
       description: Nomination is now open till 24 July 2026.
       button: Details Here
-      url: /announcements/collection-2025-graduating-classes/
+      url: /announcements/moe-edusave-character-award-echa/
       alt: Image alt text
       image: /images/ECHA_2026.jpg
   - infopic:
