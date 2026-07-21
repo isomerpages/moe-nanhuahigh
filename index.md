@@ -21,14 +21,13 @@ sections:
       background: /images/2026_Banner_1500x4000_v2.jpg
       variant: center
   - infopic:
-      title: 2025 Graduating Classes Graduation Certificate & Testimonial
+      title: MOE Edusave Character Award
       id: infopic
-      description: Collection from 11 May 2026 to 12 June 2026 from 9.30am to 5.30pm
-        (Mondays – Fridays). Booking of collection time slot is required.
+      description: Nomination is now open till 24 July 2026.
       button: Details Here
       url: /announcements/collection-2025-graduating-classes/
       alt: Image alt text
-      image: /images/Collection_2026.png
+      image: /images/ECHA_2026.jpg
   - infopic:
       title: 2026 Direct School Admission for Secondary Schools (DSA-Sec)
       id: infopic
