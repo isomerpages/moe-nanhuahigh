@@ -4,9 +4,8 @@ permalink: /our-parents/parent-support-group/
 description: ""
 variant: markdown
 ---
-
 ![](/images/2026_Committee_29_Jul.jpg)
-![](/images/2026_Committee_29_Jul_2.jpg)
+![](/images/2026_Committee_29_Jul2.jpg)
 <br>
 Parent Support Group (PSG), an integral part of the school, actively organises workshops to equip our members with parenting skills and family bonding sessions to strengthen family ties. We build connections with members and serve the school actively at various platforms.
 
