@@ -2,7 +2,6 @@
 title: Sexuality Education
 permalink: /our-experience/programmes/sexuality-education/
 description: ""
-third_nav_title: Programmes
 variant: tiptap
 ---
 <h2>MOE Sexuality Education in Schools</h2>
