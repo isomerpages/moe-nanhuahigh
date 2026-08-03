@@ -2,10 +2,26 @@
 title: Parent Networking and Learning Day
 permalink: /our-parents/parent-networking-and-learning-day/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# PSG Welcome Reception and Strength-Based Parenting Workshop 2026
-
-![](/images/2023%20parent%20networking%20learning%201.jpg)
-
-![](/images/2023%20parent%20networking%20learning%202.jpg)
+<h1>PSG Welcome Reception and Strength-Based Parenting Workshop 2026</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_Photo_Networking_Session.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Presentation.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent_Sharing.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_Discussion.jpg">
+</div>
+<p></p>
